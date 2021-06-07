@@ -24,3 +24,9 @@ MATCH (a:Dutch) -[:TRANSLATES]->(b:Hungarian) RETURN a,b
 
 //get synonyms
 MATCH (a:Dutch) -[:SYMOMYM]->(b:Dutch) RETURN a,b
+
+
+//Add word
+MERGE (d:Dutch {word:'radeloosheid'})
+MERGE (h:Hungarian {word:'tanácstalanság'})
+CREATE (d)-[:TRANSLATES]->(h)
