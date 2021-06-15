@@ -2,23 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3894ae56-7f3b-4474-a370-4572d663df3f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/monogab.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neo4js/contract" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neo4js/de diner" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neo4js/kattenoog" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neo4js/mix" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neo4js/na de aardbeveging" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neo4js/pogingen iets van het leven te maken" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neo4js/storia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neo4js/taalrecht" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neo4js/ziktes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/frame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/wiktonary-frekcency-dutch" beforeDir="false" afterPath="$PROJECT_DIR$/books/wiktonary-frekcency-dutch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/wiktonary-frekvency" beforeDir="false" afterPath="$PROJECT_DIR$/books/wiktonary-frekvency" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/create" beforeDir="false" afterPath="$PROJECT_DIR$/neo4js/create" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/words" beforeDir="false" afterPath="$PROJECT_DIR$/neo4js/words" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neo4js/buitenstander" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neo4js/de heks van Portobello" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neo4js/dialect" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neo4js/mix2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neo4js/mix3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neo4js/norvegian wood" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo4js/contract" beforeDir="false" afterPath="$PROJECT_DIR$/neo4js/contract" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo4js/de diner" beforeDir="false" afterPath="$PROJECT_DIR$/neo4js/het diner" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo4js/mix" beforeDir="false" afterPath="$PROJECT_DIR$/neo4js/mix" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo4js/na de aardbeveging" beforeDir="false" afterPath="$PROJECT_DIR$/neo4js/na de aardbeveging" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo4js/pogingen iets van het leven te maken" beforeDir="false" afterPath="$PROJECT_DIR$/neo4js/pogingen iets van het leven te maken" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo4js/storia" beforeDir="false" afterPath="$PROJECT_DIR$/neo4js/storia" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo4js/taalrecht" beforeDir="false" afterPath="$PROJECT_DIR$/neo4js/taalrecht" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/neo4js/ziktes" beforeDir="false" afterPath="$PROJECT_DIR$/neo4js/ziktes" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,79 +27,70 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="buitenstander" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neo4js/buitenstander">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="taalrecht" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/neo4js/taalrecht">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="626">
+              <caret line="138" column="11" selection-start-line="138" selection-end-line="138" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kattenoog" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/neo4js/kattenoog">
+      <file leaf-file-name="contract" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neo4js/contract">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="84" selection-start-line="84" selection-end-line="84" />
+            <state relative-caret-position="581">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="de diner" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/neo4js/de diner">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="114" column="19" selection-start-line="114" selection-start-column="19" selection-end-line="114" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="na de aardbeveging" pinned="false" current-in-tab="false">
+      <file leaf-file-name="na de aardbeveging" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/neo4js/na de aardbeveging">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="536">
-              <caret line="103" column="8" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="8" />
+            <state relative-caret-position="401">
+              <caret line="99" column="25" lean-forward="true" selection-start-line="99" selection-start-column="25" selection-end-line="99" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ziktes" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/neo4js/ziktes">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="de heks van Portobello" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neo4js/de heks van Portobello">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1740">
+              <caret line="116" selection-start-line="116" selection-end-line="116" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="pogingen iets van het leven te maken" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/neo4js/pogingen iets van het leven te maken">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="626">
+              <caret line="104" selection-start-line="104" selection-end-line="104" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/generate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
+      <file leaf-file-name="mix2" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neo4js/mix2">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="mix3" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neo4js/mix3">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="frame.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/frame.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -109,8 +98,17 @@
       <file leaf-file-name="storia" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/neo4js/storia">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            <state relative-caret-position="195">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dialect" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/neo4js/dialect">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -119,9 +117,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>geslac</find>
-      <find>knarse</find>
-      <find>loodzware</find>
+      <find>voortan</find>
+      <find>ontsporing</find>
+      <find>benijden</find>
+      <find>onbevreesd</find>
+      <find>balk</find>
+      <find>aanweiken</find>
+      <find>coltrui</find>
+      <find>aanwe</find>
+      <find>wieg</find>
+      <find>ontdekking</find>
+      <find>habe</find>
+      <find>dienen</find>
+      <find>gedeeltelijk</find>
+      <find>uitvo</find>
+      <find>land</find>
+      <find>verrukkelijk</find>
+      <find>reet</find>
+      <find>opwee</find>
+      <find>opdoen</find>
+      <find>munten</find>
+      <find>ontgaan</find>
+      <find>althans</find>
+      <find />
+      <find>hebberig</find>
+      <find>hebber</find>
+      <find>roemen</find>
+      <find>verslaan</find>
+      <find>deugd</find>
+      <find>miezerik</find>
+      <find>smachten</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,19 +162,27 @@
         <option value="$PROJECT_DIR$/src/generate.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/neo4js/words" />
-        <option value="$PROJECT_DIR$/neo4js/contract" />
-        <option value="$PROJECT_DIR$/neo4js/mix" />
-        <option value="$PROJECT_DIR$/neo4js/storia" />
         <option value="$PROJECT_DIR$/neo4js/kattenoog" />
-        <option value="$PROJECT_DIR$/neo4js/pogingen iets van het leven te maken" />
-        <option value="$PROJECT_DIR$/neo4js/taalrecht" />
         <option value="$PROJECT_DIR$/neo4js/de diner" />
+        <option value="$PROJECT_DIR$/neo4js/ziktes" />
+        <option value="$PROJECT_DIR$/neo4js/het diner" />
+        <option value="$PROJECT_DIR$/neo4js/norvegian wood" />
+        <option value="$PROJECT_DIR$/neo4js/mix" />
+        <option value="$PROJECT_DIR$/neo4js/de heks van Portobello" />
+        <option value="$PROJECT_DIR$/neo4js/storia" />
+        <option value="$PROJECT_DIR$/neo4js/dialect" />
+        <option value="$PROJECT_DIR$/neo4js/buitenstander" />
+        <option value="$PROJECT_DIR$/neo4js/taalrecht" />
+        <option value="$PROJECT_DIR$/neo4js/contract" />
+        <option value="$PROJECT_DIR$/neo4js/pogingen iets van het leven te maken" />
+        <option value="$PROJECT_DIR$/neo4js/mix2" />
+        <option value="$PROJECT_DIR$/neo4js/mix3" />
         <option value="$PROJECT_DIR$/neo4js/na de aardbeveging" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
+    <option name="x" value="46" />
     <option name="y" value="25" />
     <option name="width" value="1295" />
     <option name="height" value="824" />
@@ -162,7 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,17 +215,23 @@
             <path>
               <item name="kindledict" type="b2602c69:ProjectViewProjectNode" />
               <item name="kindledict" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kindledict" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kindledict" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -246,27 +284,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="25" width="1295" height="824" extended-state="0" />
+    <frame x="46" y="25" width="1295" height="824" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32871014" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32871014" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.055478502" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22745411" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23064645" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
@@ -285,6 +323,76 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/neo4js/mix">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books/wiktonary-frekcency-dutch">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89970">
+          <caret line="5998" selection-start-line="5998" selection-end-line="5998" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/contract">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/na de aardbeveging">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3225">
+          <caret line="215" column="53" selection-start-line="215" selection-start-column="53" selection-end-line="215" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/de heks van Portobello">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/pogingen iets van het leven te maken">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="71" column="10" selection-start-line="71" selection-end-line="71" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/storia">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/dialect">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/norvegian wood">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/buitenstander">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/neo4js/create">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -404,38 +512,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/books/wiktonary-frekcency-dutch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="142" column="4" selection-start-line="142" selection-start-column="4" selection-end-line="142" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/neo4js/create">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="70" selection-start-line="19" selection-end-line="19" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neo4js/contract">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neo4js/words">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neo4js/mix">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -460,13 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/neo4js/storia">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/neo4js/kattenoog">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
@@ -474,36 +547,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/neo4js/pogingen iets van het leven te maken">
+    <entry file="file://$PROJECT_DIR$/neo4js/ziktes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/words">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/het diner">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="200" column="59" selection-start-line="200" selection-start-column="59" selection-end-line="200" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/norvegian wood">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/neo4js/taalrecht">
+    <entry file="file://$PROJECT_DIR$/neo4js/mix">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="1200">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/neo4js/de diner">
+    <entry file="file://$PROJECT_DIR$/books/wiktonary-frekcency-dutch">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="114" column="19" selection-start-line="114" selection-start-column="19" selection-end-line="114" selection-end-column="19" />
+        <state relative-caret-position="89970">
+          <caret line="5998" selection-start-line="5998" selection-end-line="5998" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/de heks van Portobello">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/storia">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/dialect">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/buitenstander">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/taalrecht">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="138" column="11" selection-start-line="138" selection-end-line="138" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/contract">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/pogingen iets van het leven te maken">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/mix2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4js/mix3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/neo4js/na de aardbeveging">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="103" column="8" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="8" />
+        <state relative-caret-position="401">
+          <caret line="99" column="25" lean-forward="true" selection-start-line="99" selection-start-column="25" selection-end-line="99" selection-end-column="25" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/neo4js/ziktes">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
