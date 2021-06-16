@@ -1,19 +1,23 @@
 
+import jinja2
+from jinja2 import Environment
 
-from jinja2 import Environment, PackageLoader, select_autoescape
-env = Environment(
-    loader=PackageLoader("words"),
-    autoescape=select_autoescape()
-)
-template = env.get_template("frame.html")
+
+
+# template = env.get_template("frame.html")
+
 
 def create_file():
-
-
+    #load template file
+    templateLoader = jinja2.FileSystemLoader(searchpath="./")
+    env = Environment(loader=templateLoader)
+    t = env.get_template("frame.html")
 
     f = open("content_gen.html", "w")
 
-    f.write(template.render([{"nl":"appel", "hu":"alma"}]))
+    s = t.render(words=[{"nl":"appel", "hu":"alma"},{"nl":"moeder", "hu":"anyu"}])
+    f.write(s)
+
     f.close()
 
 
