@@ -2,46 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3894ae56-7f3b-4474-a370-4572d663df3f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/parse_dict_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parse_dict_folder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/Knack 1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/bepaalde dag in het leven van idereen" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/de pauw - werk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/de pauw - werk 2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/de standaard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/de wereld van Sophie (Jostein Gaarder)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/formal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/kattenoog 2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/liantis" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/mix2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/mondeling" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/prachtige wereld waar ben je [Sally Rooney]" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/summoner" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words/test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/books/wiktonary-frekcency-dutch" beforeDir="false" afterPath="$PROJECT_DIR$/books/wiktonary-frekcency-dutch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/content.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dict.mobi" beforeDir="false" afterPath="$PROJECT_DIR$/dict.mobi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/buitenstander" beforeDir="false" afterPath="$PROJECT_DIR$/words/buitenstander" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/contract" beforeDir="false" afterPath="$PROJECT_DIR$/words/contract" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/create" beforeDir="false" afterPath="$PROJECT_DIR$/neo4j/create" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/de heks van Portobello" beforeDir="false" afterPath="$PROJECT_DIR$/words/de heks van Portobello" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/dialect" beforeDir="false" afterPath="$PROJECT_DIR$/words/dialect" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/het diner" beforeDir="false" afterPath="$PROJECT_DIR$/words/het diner" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/kattenoog" beforeDir="false" afterPath="$PROJECT_DIR$/words/kattenoog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/mix" beforeDir="false" afterPath="$PROJECT_DIR$/words/mix" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/mix2" beforeDir="false" afterPath="$PROJECT_DIR$/english/contracts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/mix3" beforeDir="false" afterPath="$PROJECT_DIR$/words/mix3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/na de aardbeveging" beforeDir="false" afterPath="$PROJECT_DIR$/words/na de aardbeveging" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/norvegian wood" beforeDir="false" afterPath="$PROJECT_DIR$/words/norvegian wood" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/pogingen iets van het leven te maken" beforeDir="false" afterPath="$PROJECT_DIR$/words/pogingen iets van het leven te maken" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/storia" beforeDir="false" afterPath="$PROJECT_DIR$/words/storia" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/taalrecht" beforeDir="false" afterPath="$PROJECT_DIR$/words/taalrecht" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/words" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/neo4js/ziktes" beforeDir="false" afterPath="$PROJECT_DIR$/words/ziktes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content_gen.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/content_gen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/generate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/Knack 1" beforeDir="false" afterPath="$PROJECT_DIR$/words/Knack+NVA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words/bepaalde dag in het leven van idereen" beforeDir="false" afterPath="$PROJECT_DIR$/words/bepaalde dag in het leven van idereen" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
