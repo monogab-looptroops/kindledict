@@ -1,0 +1,242 @@
+- word: de federale overheid en de Gewesten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: federációs kormány és a régiók(szövetségi államok)
+  source: Knack+NVA
+  expression_of: federale
+- word: fakkel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fáklya
+  source: mix3
+- word: fatsoen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: illem
+  source: de heks van Portobello
+- word: feit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tény
+  source: storia
+- word: ferment
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: élesztő
+  source: na de bevrijding
+- word: fiedelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: játszani, birizgálni vminvel, pl hangszerrel
+  source: de pauw - werk
+- word: fik
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tűz, láng
+  source: het diner
+- word: fik, vuur, brand
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tűz
+  source: kattenoog 2
+  expression_of: fik,
+- word: flapteksten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bórító ajánlszöveg
+  source: mix
+- word: flard
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: cafat
+  source: na de bevrijding
+- word: flauwvallen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elájul
+    examples:
+    - nl: zij valt flauw
+      hu: elájul
+  source: kattenoog
+- word: fleurig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: virágzó, színes
+  source: bepaalde dag in het leven van idereen
+- word: flexibiliteit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rugalmasság
+  source: contract
+- word: flikflooien
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hízeleg
+  source: buitenstander
+- word: flikken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sikeresen szállít
+    examples:
+    - nl: kunst is iets wat je ongestraft kunt flikken
+      hu: a művészet olyan dolog, amelyet büntetlenül űzhetsz
+    - nl: dat heeft hij neetjes geflikt
+      hu: remekül sikerült neki
+  source: kattenoog
+- word: flits
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vaku
+  source: kattenoog
+- word: fluiten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sípolni
+  source: bepaalde dag in het leven van idereen
+- word: foedraal
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tokk, táska
+  source: de pauw - werk
+- word: foeteren over iets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: morogni vmin, elégedetlenkedni
+    examples:
+    - nl: dat interessert me allemaal geen zier
+      hu: egyáltalán nem érdekel az engem
+  source: na de aardbeveging
+  expression_of: foeteren
+- word: fondsenwerver
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tőkebefektetés kereső
+    english: fundraiser
+  source: buitenstander
+- word: fonkeling
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szikra
+  source: bepaalde dag in het leven van idereen
+- word: fooi
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: borravaló
+  source: het diner
+- word: forfaitaire
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: általány
+  source: contract
+- word: fornuis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tűzhely
+  source: de pauw - werk
+- word: foutieve werkwoordtijd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hibás igeidő
+  source: Knack 2
+  expression_of: foutieve
+- word: fraai
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyönyörű
+  source: prachtige wereld waar ben je [Sally Rooney]
+- word: frons
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ránc
+  source: de pauw - werk
+- word: fungeren als
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vmikép funkcionál
+    examples:
+    - nl: zij fungeert voorlopig als voorzitter
+      hu: jelenleg elnökként dolgozik
+  source: de heks van Portobello
+  expression_of: fungeren
+- word: fut
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: energia, elevenség
+  source: het diner
+- word: futloss
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elmosódott
+  source: pogingen iets van het leven te maken
+- word: geen fut hebben on iets te doen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nincs erőm vlmit csinálni
+  source: het diner
+  expression_of: fut
+- word: in de fik staan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lángban áll
+  source: het diner
+  expression_of: fik
+- word: in de fik staken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tűzben borít
+  source: het diner
+  expression_of: fik
+- word: in de fleur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: virágzásban (átvit. ért. is)
+  source: na de bevrijding
+  expression_of: fleur
+- word: in een flits
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: villámgyorsan
+  source: kattenoog
+  expression_of: flits
+- word: zich futloos voelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szarul érezni magát
+  source: pogingen iets van het leven te maken
+  expression_of: futloos

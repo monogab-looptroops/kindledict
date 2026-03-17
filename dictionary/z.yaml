@@ -1,0 +1,361 @@
+- word: er zit geen fut in hem
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nincs benne élet
+  source: het diner
+  expression_of: zit
+- word: het op een zuipen zetten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a pohár fenekére néz
+  source: na de aardbeveging
+  expression_of: zuipen
+- word: het zwart schaap
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fekete bárány
+  source: mondeling 3
+  expression_of: zwart
+- word: hij zet in op iets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elkötelezett vmivel kapcsolatban
+  source: Knack+NVA
+  expression_of: zet
+- word: hij zou veeleer armoe lijden dan iemands gunst te vragen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: inkább él szegénységben, mint hogy szívességet kérjen
+  source: na de bevrijding
+  expression_of: zou
+- word: jij zult morgen niet meer halen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nem húzod ki holnapig
+  source: na de bevrijding
+  expression_of: zult
+- word: om nog maar te zwijgen van iets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: arról nem nem is beszélve (szószerint "csak már hallgatva arról")
+  source: mix2
+  expression_of: zwijgen
+- word: zaadlozing
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megömlés
+  source: mix
+- word: zachtaardig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jó természetű, kedves
+  source: na de aardbeveging
+- word: zagen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyavalyog, panaszkodik
+  source: mix3
+- word: zagerij
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fűrésztelep
+  source: de pauw - werk
+- word: zaken door iets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: átszakítani valamit, átzuhanni valamin
+  source: kattenoog
+  expression_of: zaken
+- word: zalfje
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: balzsam, krém
+  source: taalrecht
+- word: zeehond
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fóka
+  source: summoner
+- word: zeemeermin
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sellő
+  source: bepaalde dag in het leven van idereen
+- word: zelfdoding
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: öngyilkosság
+  source: Knack+NVA
+- word: zelfgenoegzaam
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: önelégedettség
+  source: het diner
+- word: zelfverachting
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: önmegvetés
+  source: na de bevrijding
+- word: zenuwgas
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ideggáz
+  source: het diner
+- word: zetelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ülésezik,lakik
+    examples:
+    - nl: waar de verstand zetelt
+      hu: ahol az értelem lakik
+  source: de wereld van Sophie (Jostein Gaarder)
+- word: zichttermijn
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: próba idő
+  source: mix
+- word: zick opstellen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: magát felmutatni/definiállni
+  source: Knack+NVA
+  expression_of: zick
+- word: ziedaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lásd ott
+  source: de heks van Portobello
+- word: ziekenboeg
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kórházi várószoba, betegfelvétel
+  source: na de bevrijding
+- word: zielig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: számalmas
+  source: kattenoog
+- word: ziener(es)
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: látnok (nő)
+  source: bepaalde dag in het leven van idereen
+- word: zijdepapier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: papír zsebkendő
+  source: kattenoog
+- word: zingtuiglijke wereld
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: érzéki világ
+  source: de wereld van Sophie (Jostein Gaarder)
+  expression_of: zingtuiglijke
+- word: zinnelijke begeerte
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: testi vágyódás
+  source: de wereld van Sophie (Jostein Gaarder)
+  expression_of: zinnelijke
+- word: zoekraken in iets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elveszni, eltünni vhol
+  source: kattenoog 2
+  expression_of: zoekraken
+- word: zoetjesaan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: apránként
+  source: norvegian wood
+- word: zondvloed
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Vízözön
+  source: pogingen iets van het leven te maken
+- word: zooi
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szarság, szemét
+    examples:
+    - nl: om die zooi te ondertekenen
+      hu: hogy azt a szart aláírjam
+  source: prachtige wereld waar ben je [Sally Rooney]
+- word: zoorgdier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: emlős
+  source: mondeling
+- word: zorgdier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: emlős
+  source: storia
+- word: zuigeling
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csecsszopó
+  source: de pauw - werk
+- word: zuigen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szopni, szívni
+  source: na de aardbeveging
+- word: zuil, pillar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: oszlop
+  source: kattenoog 2
+  expression_of: zuil,
+- word: zuinigjes
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: takarékos(an)
+  source: prachtige wereld waar ben je [Sally Rooney]
+- word: zuipen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bepiál
+    english: booze
+  source: na de aardbeveging
+- word: zuippartij
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: részegeskedés, italozás
+  source: bepaalde dag in het leven van idereen
+- word: zuiverheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tisztaság
+  source: kattenoog 2
+- word: zupn, alcohol nuttigen, zuipen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: beszipókázik
+  source: dialect
+  expression_of: zupn,
+- word: zus, zuster
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: leánytestvér
+  source: pogingen iets van het leven te maken
+  expression_of: zus,
+- word: zwaailicht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sziréna fény
+  source: het diner
+- word: zwaktebod
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyengeség
+  source: het diner
+- word: zwalken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dobálozni vki körül
+    english: toss around
+  source: kattenoog
+- word: zwan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hattyú
+  source: de pauw - werk
+- word: zwavel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kén
+    english: sulfur
+  source: summoner
+- word: zweep
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ostor
+  source: de pauw - werk
+- word: zweepslag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ostorütés
+  source: bepaalde dag in het leven van idereen
+- word: zweer
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fekély
+    english: ulcer
+  source: na de bevrijding
+- word: zwerver
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vándor
+  source: storia
+- word: zweven
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lebeg (vízben, levegőben)
+  source: kattenoog
+- word: zwichten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megadja magát
+  source: kattenoog 2
+- word: zwijgzaam
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csendes
+  source: kattenoog 2

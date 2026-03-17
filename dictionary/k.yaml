@@ -1,0 +1,726 @@
+- word: 10 km afleggen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: 10 kilométert megtenni
+  source: mondeling
+  expression_of: km
+- word: aan de andere kant
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a másik oldalon
+  source: mix
+  expression_of: kant
+- word: dat kan toch niet
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: az megsem lehet
+  source: taalrecht
+  expression_of: kan
+- word: de kippen vrij in de tuin rondscharrelden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a tyúkok körbe szaladgáltak a kertben (keresgélve, céltalanul)
+  source: de wereld van Sophie (Jostein Gaarder)
+  expression_of: kippen
+- word: dit kan well zijn
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ez lehet
+  source: taalrecht
+  expression_of: kan
+- word: er keurig uitzien
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rendesen nézni ki
+  source: pogingen iets van het leven te maken
+  expression_of: keurig
+- word: ik kan geen twee dingen tegelijk doen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nem tudok két dolgot egyszerre csinálni
+  source: na de bevrijding
+  expression_of: kan
+- word: ik kan niet op twee plaatsen tegelijk zijn
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nem tudok két helyen egyszerre lenni
+  source: na de bevrijding
+  expression_of: kan
+- word: in de kiem smoren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: magjában fojtja el
+  source: na de bevrijding
+  expression_of: kiem
+- word: in het kader van iets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vminek a keretében
+  source: de heks van Portobello
+  expression_of: kader
+- word: in katzwijm vallen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elájul
+  source: de pauw - werk 2
+  expression_of: katzwijm
+- word: in kunstzinnige kringen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: művészi körökben
+  source: de pauw - werk
+  expression_of: kunstzinnige
+- word: je kan dominant over iets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tudsz valamiben dominálni (ha akarsz)
+  source: mondeling 3
+  expression_of: kan
+- word: je komt dominant over
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dominánsnak érzékellek téged
+  source: mondeling
+  expression_of: komt
+- word: kafferen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: feldarabol
+  source: buitenstander
+- word: kaft
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: borító
+  source: mix
+- word: kakkerlak
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csótány
+    english: cockroach
+  source: kattenoog
+- word: kalebas
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ivótök
+    english: gourd
+  source: na de aardbeveging
+- word: kalksteen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mészkő
+  source: storia
+- word: kamer van koophandel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kereskedelmi kamara
+  source: taalrecht
+  expression_of: kamer
+- word: Kamperfoelie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lonc (cserje), egyes fajtájukat mézbogyó
+  source: mix
+- word: kan me niet schelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ''
+    english: I dont care
+  source: dialect
+  expression_of: kan
+- word: kapoen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rosszcsont [slang]
+  source: mondeling 2
+- word: kapotgaan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tönkremegy
+  source: de wereld van Sophie (Jostein Gaarder)
+- word: karkas
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tetem
+    english: carcass
+  source: na de bevrijding
+- word: kasjmier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kasmír, kegykeszőrből készített anyag
+    english: cashmere
+  source: kattenoog
+- word: kennelijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tudott(an), evidens(en)
+  source: summoner
+- word: kermis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: becsületes
+  source: kattenoog 2
+- word: Kerstmis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Karácsony
+  source: het diner
+- word: keurig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gondos, rendes
+  source: pogingen iets van het leven te maken
+- word: kever
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bogár
+  source: mondeling
+- word: kiekje
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pillanatkép ≤snapshot≥
+  source: kattenoog 2
+- word: kiem
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csíra
+    english: germ>, rügy <bud
+  source: na de bevrijding
+- word: kier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rés
+  source: summoner
+- word: kiesdrempel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: választási küszöb
+  source: pogingen iets van het leven te maken
+- word: kinderen ten laste
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eltartott gyermekek
+  source: formal
+  expression_of: kinderen
+- word: kinderen verzinnen altijd nieuwe spelletjes
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a gyerekek mindig új játékokat találnak ki
+  source: summoner
+  expression_of: kinderen
+- word: kippenstront
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csirkeszar
+  source: de pauw - werk
+- word: klaaglijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: panaszos
+  source: kattenoog 2
+- word: klam (met klamme handen)
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyirkos (pl. kéz)
+  source: bepaalde dag in het leven van idereen
+  expression_of: klam
+- word: klaproos
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mákféle (növény)
+  source: kattenoog 2
+- word: kleermakerszit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: törökülés
+    examples:
+    - nl: in kleermakerszit
+      hu: törökülés
+  source: de pauw - werk
+- word: kleingeestig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szűklátókörű
+  source: na de aardbeveging
+- word: klem zitten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kínosan elakad, beég
+  source: de wereld van Sophie (Jostein Gaarder)
+  expression_of: klem
+- word: klimop
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: borostyán
+    english: ivy
+  source: kattenoog
+- word: klodder
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: paca, folt
+  source: de pauw - werk
+- word: klomp
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: klumpa
+  source: na de aardbeveging
+- word: kloof
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rés
+    english: gap
+  source: Knack 2
+- word: klooster
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: monostor
+  source: de heks van Portobello
+- word: klucht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: komédia, börleszk (szinházban)
+  source: kattenoog 2
+- word: kluiven
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lerágni (pl kukoricát csutkáról)
+  source: het diner
+- word: kluizenaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: remete
+  source: mix
+- word: KMO, Kleine of Middelgrote onderneming
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kis és középvállalkozások
+  source: taalrecht
+  expression_of: kmo,
+- word: knappen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: recseg, elpattan
+    examples:
+    - nl: ik horde het glass knappen
+      hu: halottam a poharat elpattani
+  source: na de aardbeveging
+- word: knarsen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyikorog
+  source: na de aardbeveging
+- word: knauw
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: harapás
+  source: de heks van Portobello
+- word: knecht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szolgáló
+  source: kattenoog 2
+- word: knikkebollen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bóllint
+  source: het diner
+- word: knip
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: 1. nyisszantás 2. csattanás
+  source: summoner
+- word: knipogen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rákacsint
+  source: het diner
+- word: knoeien, morsen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rendetlenséget csinál
+  source: het diner
+  expression_of: knoeien,
+- word: knokkel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csülök
+  source: het diner
+- word: knuffelbeest
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: játék plüss állatka
+  source: de heks van Portobello
+- word: knullig, onhandig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ügyetlen
+  source: na de aardbeveging
+  expression_of: knullig,
+- word: knuppel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ütő, buzogány
+  source: summoner
+- word: koe bij de horens vatten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bikát a szarvánál ragadni meg
+  source: Knack+NVA
+  expression_of: koe
+- word: koektrommel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sütisdoboz(fém)
+  source: de wereld van Sophie (Jostein Gaarder)
+- word: koelbloedig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hidegvérrel
+  source: mondeling 2
+- word: koelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lehül
+  source: taalrecht
+- word: koente
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: segg, fenék
+  source: dialect
+- word: koers
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: verseny, irány
+  source: kattenoog 2
+- word: koertje
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hátsó kisudvar
+  source: de pauw - werk
+- word: koesteren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ápol
+  source: Knack+NVA
+- word: kolf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: puskatus, csikk
+  source: buitenstander
+- word: komaf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eredet
+  source: het diner
+- word: kommeren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: aggodalom
+  source: kattenoog
+- word: Komura ontweek die vraag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Komura elkerülte a kérdést
+  source: na de aardbeveging
+  expression_of: komura
+- word: koortsachtig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lázasan (átv. értelemben is)
+  source: mix
+- word: koortswerend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lázcsillapító
+  source: taalrecht
+- word: kopen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fejel
+    examples:
+    - nl: hij kopt eerste doelpunt
+      hu: az első golt fejeli be
+  source: mix3
+- word: kopig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: makacs
+  source: mondeling 3
+- word: korps
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hadtest, haderő
+  source: summoner
+- word: korset
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fűző
+    english: corset
+  source: kattenoog
+- word: kortzichtig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: 'rövidlátó, átv. ért.: korlátolt'
+  source: mondeling 2
+- word: kosten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: költségek
+  source: taalrecht
+- word: kraagje
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gallér (női blúzon)
+  source: kattenoog
+- word: krachtterm
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: káromkodás
+  source: kattenoog
+- word: krakkemikkig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rozoga
+    english: rickety, wobbly
+  source: kattenoog
+- word: krant
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: újság
+  source: mix
+- word: kretenzer
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: krétai
+  source: de pauw - werk
+- word: krijger
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: harcos
+  source: storia
+- word: krijgsgevang
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hadifogoly
+  source: na de bevrijding
+- word: krijtwit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: krétafehér
+  source: de pauw - werk
+- word: krom
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: görbe
+    examples:
+    - nl: haar rug was krom
+      hu: a háta görbe volt
+  source: na de aardbeveging
+- word: kruik olijfolie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kancsó olivaolaj
+  source: de wereld van Sophie (Jostein Gaarder)
+  expression_of: kruik
+- word: kruiperig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szolgalelkű
+  source: het diner
+- word: kruisvager
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kereszteslovagok
+  source: kattenoog
+- word: kuiltjes
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gödröcskék
+  source: kattenoog
+- word: kundige leiding
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: képzett vezetés
+  source: de pauw - werk
+  expression_of: kundige
+- word: kunstjeswereldjes
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: művész  világocska
+    examples:
+    - nl: ik mis de houding
+      hu: hiányzik a hozzáállás
+  source: de pauw - werk
+- word: kus mij kont
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csókold meg a seggem
+  source: mix
+  expression_of: kus
+- word: kut
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: picsa
+  source: het diner
+- word: kwaadheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: méreg, dűh
+  source: kattenoog
+- word: kwetsend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sértő, bántó
+  source: kattenoog 2
+- word: kwijlen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyáladzik
+  source: kattenoog 2
+- word: kwijtraken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megszabadul vmitől
+    english: get rid of
+  source: de pauw - werk
+- word: ten koste van anderen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mások árán
+  source: mondeling
+  expression_of: koste
+- word: ten koste van de concurrentiekracht van onze industrie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: az iparunk versenyképessége árán
+  source: Knack+NVA
+  expression_of: koste
+- word: uit te kast komen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: előáll valamivel (pl ötlet, törvényjavaslat)
+  source: Knack 2
+  expression_of: kast
+- word: wie kan het waat schelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ''
+    english: who cares
+  source: dialect
+  expression_of: kan
+- word: ze zijn in kritieke toestand
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kritikus az állapotuk
+  source: mondeling 2
+  expression_of: kritieke

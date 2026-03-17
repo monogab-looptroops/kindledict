@@ -1,0 +1,557 @@
+- word: dan het woord laat vermoeden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mint amennyire a szó feltételezné
+  source: de pauw - werk
+  expression_of: woord
+- word: dat was aanvankelijk om te lachen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elsőre űgy látszott, hogy nevetni való
+  source: de pauw - werk
+  expression_of: was
+- word: de wieg van de mensheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: az emberiség bölcsője
+  source: storia
+  expression_of: wieg
+- word: de wielen wentelen om hun as
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a kerekek megfordulnak a tengelyük körül
+  source: bepaalde dag in het leven van idereen
+  expression_of: wielen
+- word: er was volop te eten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gazdagon volt étel
+  source: summoner
+  expression_of: was
+- word: er werden beperkingen opgelegd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: korlátozásokat vezettek be
+  source: mondeling 2
+  expression_of: werden
+- word: geen wrok koesteren/hebben tegen iemand
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nem neheztel vkire
+  source: summoner
+  expression_of: wrok
+- word: in de woorden van iemand
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vki szavaival élve
+  source: Knack+NVA
+  expression_of: woorden
+- word: in iets werkzaam zijn
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: valamiyen szektorban/helyen aktívan dolgozni
+  source: het diner
+  expression_of: werkzaam
+- word: je wentkrauwen oomgoog trekken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a szemöldökét felhúzza
+  source: taalrecht
+  expression_of: wentkrauwen
+- word: met weining omhanden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kevés tennivalóval
+  source: summoner 2
+  expression_of: weining
+- word: op wankele benen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ingatag lábakon
+  source: de wereld van Sophie (Jostein Gaarder)
+  expression_of: wankele
+- word: waaghalzerig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vakmerő
+    english: daredevil
+  source: mix
+- word: waakzaam
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: éber
+  source: kattenoog
+- word: waanvoorstelling
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: képzelődés, képzelgés
+    english: delusion
+  source: de wereld van Sophie (Jostein Gaarder)
+- word: waanzinnig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: őrült
+  source: kattenoog 2
+- word: waanzinnige
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: őrült (pl ötlet)
+  source: de heks van Portobello
+- word: waarborging van dierenwelzijn
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: állatok jólétének biztosítása
+  source: Knack+NVA
+  expression_of: waarborging
+- word: waarneembaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megfigyelhető
+  source: het diner
+- word: waarnemen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megfigyel
+    english: observe
+  source: de wereld van Sophie (Jostein Gaarder)
+- word: walging
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: undor
+  source: kattenoog
+- word: walrus
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rozmár
+  source: summoner
+- word: wanhopig makend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kétségbeejtő
+  source: Knack 2
+  expression_of: wanhopig
+- word: wankel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ingatag
+  source: bepaalde dag in het leven van idereen
+- word: wankele stem
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: remegő hangon
+  source: bepaalde dag in het leven van idereen
+  expression_of: wankele
+- word: wanprestatie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: alapértelmezett
+    english: default
+  source: contract
+- word: wantrouwen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bizolmatlankodik
+  source: de pauw - werk
+- word: wantrouwen wekt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bizalmatlanságot ébreszt
+  source: de pauw - werk
+  expression_of: wantrouwen
+- word: wat een wijf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: micsoda picsa
+  source: het diner
+  expression_of: wijf
+- word: watje
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bunkó
+    english: 'jerk '
+  source: prachtige wereld waar ben je [Sally Rooney]
+- word: wazig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ködös, elmosódó
+    english: dim, blurred
+  source: het diner
+- word: wedden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fogadni
+  source: het diner
+- word: week
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyenge, puha
+  source: na de bevrijding
+- word: week ijzer
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: puha vas
+  source: na de bevrijding
+  expression_of: week
+- word: week worden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ellágyul
+  source: na de bevrijding
+  expression_of: week
+- word: weerloze
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: védtelen
+  source: het diner
+- word: weerzinwekkend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: taszító
+  source: kattenoog 2
+- word: weetewel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: '"you know"'
+  source: mix
+- word: wegdek
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: útfelszín
+  source: de pauw - werk 2
+- word: wegdragen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elvisz
+  source: kattenoog 2
+- word: wegebben
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elenyészik
+  source: kattenoog 2
+- word: wegkijken terwijl ze antwoordt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: félrenéz miközben válaszol
+  source: taalrecht
+  expression_of: wegkijken
+- word: wegzakken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elsülyed, elhal
+  source: na de aardbeveging
+- word: weidse visie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: széleskörű vizió
+  source: na de aardbeveging
+  expression_of: weidse
+- word: weigerachtig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vonakodó
+    english: reluctant, unwilling
+  source: pogingen iets van het leven te maken
+- word: weiland
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rét
+  source: de pauw - werk 2
+- word: welbeschouwd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mindent egybevetve
+  source: kattenoog 2
+- word: welbespraakt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ékesszóló
+    english: eloquent
+  source: kattenoog
+- word: welbespraakt gereht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ékesszóló étel/tál
+  source: kattenoog
+  expression_of: welbespraakt
+- word: welvaart
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jólét
+  source: Knack 2
+- word: welving
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: görbület
+  source: de pauw - werk
+- word: wenken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jelezni pl pincérnek, taxinak
+    examples:
+    - nl: kan je een taxi wenkel
+      hu: le tudod inteni a taxit?
+  source: bepaalde dag in het leven van idereen
+- word: wentelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: forog
+  source: bepaalde dag in het leven van idereen
+- word: wereldbol
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: földgolyó
+  source: de pauw - werk
+- word: werkwijzen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: módszer
+  source: contract
+- word: werkzaamheidsgraad
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: munkahatékonyság
+  source: Knack 2
+- word: wetgeving
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jogszabály
+  source: Knack+NVA
+- word: wettelijke verankering van de verdeling van het aantal RIZIV-nummers
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a RIZIV számok eloszlásának törvényes lehorgonyzása
+  source: Knack+NVA
+  expression_of: wettelijke
+- word: wezen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: előlény, létezés
+    english: being
+    examples:
+    - nl: kan wezen
+      hu: lehetséges
+    - nl: ik mag hier niet wezen
+      hu: nem lehetek itt, nem történhet meg hogy itt legyek
+  source: na de aardbeveging
+- word: wijf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: feleség negatív értelemben
+  source: het diner
+- word: wijlen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: néhai (elhunyt személy)
+  source: buitenstander
+- word: wijziging
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: változás
+  source: liantis
+- word: wikkelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: felteker
+  source: kattenoog 2
+- word: willoos
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: akarat nélküli
+  source: kattenoog 2
+- word: wilsbekwame
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tudatánál levő személy
+  source: Knack+NVA
+- word: wilskracht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: akaraterő
+  source: bepaalde dag in het leven van idereen
+- word: wippen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rászkódik, visszapattan
+  source: na de aardbeveging
+- word: wirwar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kuszaság, gubanc
+  source: Knack+NVA
+- word: wispelturig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ingatag
+  source: mondeling
+- word: wissen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kitöröl, kimos
+    english: wipe
+    examples:
+    - nl: je moet die filmpjes wissen
+      hu: ki kell törölnöd azokat a filmeket
+  source: het diner
+- word: witgoed
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: háztastási készülékek(hütő, mosogép)
+  source: de pauw - werk
+- word: woekeren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szaporodik
+  source: de standaard
+- word: woelig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fészkelödő, kavargó
+  source: de pauw - werk
+- word: woest gebied
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elhagyatott/vad terület
+  source: de pauw - werk 2
+  expression_of: woest
+- word: wolkenkrabber
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: felhőkarcoló
+  source: na de aardbeveging
+- word: wraak
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bosszú
+  source: bepaalde dag in het leven van idereen
+- word: wrak
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: roncs
+  source: na de aardbeveging
+- word: wreed
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kegyetlen
+  source: kattenoog
+- word: wreedaardig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kegyetlen
+  source: na de bevrijding
+- word: wreedheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kegyetlenség
+  source: kattenoog
+- word: wrijving
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vakaródzás
+  source: het diner
+- word: wrok
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: neheztelés
+    english: resentment
+  source: summoner
+- word: wroomheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: áhítatósság
+  source: kattenoog
+- word: wurgen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megfojtani
+  source: kattenoog
+- word: ze worden verdacht van iets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vmivel meggyanúsították őket
+  source: mondeling
+  expression_of: worden

@@ -1,0 +1,900 @@
+- word: de garde, klopper
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: habverő
+  source: taalrecht
+  expression_of: garde,
+- word: de gorilla slingerde aan zijn armen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a gorilla a karján hintázott
+  source: het diner
+  expression_of: gorilla
+- word: Dit gaat niet louter over centen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ez nem csak pusztán a centekről szól
+  source: Knack+NVA
+  expression_of: gaat
+- word: een gunstige antwoord
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pozitív válasz
+  source: de heks van Portobello
+  expression_of: gunstige
+- word: gaandeweg
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lassanként
+  source: bepaalde dag in het leven van idereen
+- word: gamel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kondér, üst, fözőedény
+  source: de pauw - werk
+- word: gangbaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elfogadott, szokásos
+  source: summoner
+- word: gangbaar munt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elfogadott pénzérme
+  source: summoner
+  expression_of: gangbaar
+- word: gastritis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyomorhurut
+  source: taalrecht
+- word: gat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: segg, fenék
+  source: dialect
+- word: gazet
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: közlöny
+  source: mix
+- word: gazonsproeier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fűlocsoló, spiccelő
+  source: het diner
+- word: geboefte
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szélhámos
+  source: na de bevrijding 2
+- word: geborgenheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: biztonság
+    examples:
+    - nl: het gevoel van geborgenheid
+      hu: bizonságérzet
+  source: de pauw - werk
+- word: gebrek aan plichtsbesef
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kötelességtudat hiánya
+  source: Knack+NVA
+  expression_of: gebrek
+- word: gedag zeggen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: köszönni, jónapotozni
+  source: prachtige wereld waar ben je [Sally Rooney]
+  expression_of: gedag
+- word: gedeeltelijke betaling
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: részleges fizetés
+  source: contract
+  expression_of: gedeeltelijke
+- word: gedraaf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sietség
+  source: het diner
+- word: gedrevenheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szenvedély
+  source: mondeling 3
+- word: gedrongen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: zömök
+  source: storia
+- word: gedwee
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jámbor
+    english: meek
+  source: pogingen iets van het leven te maken
+- word: geestelijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szellemi
+  source: de pauw - werk
+- word: geestelijk gestord
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szellemi sérült
+  source: de pauw - werk
+  expression_of: geestelijk
+- word: geestelijke begeerte
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lelki, spirituális vágyódás
+  source: de wereld van Sophie (Jostein Gaarder)
+  expression_of: geestelijke
+- word: geestig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szellemes <witty>s
+  source: prachtige wereld waar ben je [Sally Rooney]
+- word: geftig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: heves
+    english: mert beleéli magát
+  source: mondeling 3
+- word: gehaakte sprei
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: horgolt ágytakaró
+  source: kattenoog
+  expression_of: gehaakte
+- word: geheelonthouders
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mindentől tartozkodó, abszcines
+  source: kattenoog 2
+- word: geheim onthullen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: titkot elárulni
+  source: summoner
+  expression_of: geheim
+- word: geheimen prijsgeven
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: felfed egy titkot
+  source: na de bevrijding
+  expression_of: geheimen
+- word: geintje
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vicc
+    examples:
+    - nl: geen geintjes
+      hu: semmi trükk
+    - nl: het was maar een geintje
+      hu: csak vicceltem
+  source: het diner
+- word: geklungel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: matatás
+    english: fiddling
+  source: het diner
+- word: gekrakel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: civakodás
+  source: na de aardbeveging
+- word: gekunsteld
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mesterkélt
+  source: kattenoog
+- word: geldwisselaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pénzváltó
+  source: storia
+- word: gelegenheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: 1. lehetőség <opportunity> 2. fekvés pl épületé
+  source: het diner
+- word: geleidelijke
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fokozatosan
+  source: bepaalde dag in het leven van idereen
+- word: gelig, groenig, blauwig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sárgás, zöldes, kékes
+  source: na de bevrijding
+  expression_of: gelig,
+- word: gelijkenis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hasonlat, példázat
+    examples:
+    - nl: De gelijkenis van de grot van Plato
+      hu: Plató berlang hasonlata
+    - nl: De gelijkenis van de Verloren Zoon
+      hu: az elveszett fiú példázata
+    - nl: maar zo is het nu eenmaal
+      hu: csak most az egyszer
+  source: de wereld van Sophie (Jostein Gaarder)
+- word: gelijkenis, overeenkomst
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hasonlóság
+    english: resemblance, similarity
+  source: de wereld van Sophie (Jostein Gaarder)
+  expression_of: gelijkenis,
+- word: gelijkmatig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egyenletes
+    examples:
+    - nl: gelijkmatig druk
+      hu: egyenletes nyomás
+  source: kattenoog
+- word: gelijktijdig plaatsvinden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egyszerre történik
+  source: het diner
+  expression_of: gelijktijdig
+- word: geloof
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hit
+  source: na de aardbeveging
+- word: geluksvogel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szerencsemadár, kópé
+  source: na de aardbeveging
+- word: gemakshalve
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egyszerűség kedvért
+  source: mix
+- word: gemakzucht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kényelmeskedő, lusta
+  source: mondeling 3
+- word: gemeenschap
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: közösülés, közösség
+  source: na de aardbeveging
+- word: genadeslag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kegyelemdöfés
+  source: het diner
+- word: gennot
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: társ
+  source: mix3
+- word: genocidair
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: népirtó
+  source: de standaard
+- word: genot
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: élvezet
+  source: de pauw - werk 2
+- word: gepresteerde dagen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ledolgozott napokat
+  source: contract
+  expression_of: gepresteerde
+- word: geregeld
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rendszeresen
+  source: mix
+- word: gerommel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dörömbölés
+  source: buitenstander
+- word: gerust
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyugalom
+  source: het diner
+- word: geruststellen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vigasztal
+    english: to comfort
+  source: na de aardbeveging
+- word: geruststellend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megnyugtató
+  source: summoner
+- word: geschapen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: teremtett
+  source: de pauw - werk
+- word: gescheurd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elszakakad
+    examples:
+    - nl: het leder is gescheurd
+      hu: a bőr elszakadt
+  source: taalrecht
+- word: geschikt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: alkalmas
+    examples:
+    - nl: zij is ongesteld
+      hu: mentruál
+  source: kattenoog 2
+- word: geschil
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jogvita, disputa
+  source: na de aardbeveging
+- word: gesjoemel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csalás
+  source: mix
+- word: geslacht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: család
+  source: na de aardbeveging
+- word: geslachtsgemeeschap
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szexuális közösülés
+  source: na de aardbeveging
+- word: gesneden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kivágva
+    examples:
+    - nl: de bloesje is zo gesneden om ...
+      hu: a blúz úgy van kivágva, hogy...
+  source: de pauw - werk
+- word: gesp
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csatt
+    english: buckle
+  source: kattenoog
+- word: gestoort
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: zavarodott (személy)
+  source: bepaalde dag in het leven van idereen
+- word: getuigen voor/tegen iemand
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tanuskodni vki mellett/ellen
+  source: summoner
+  expression_of: getuigen
+- word: geur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szag
+  source: de pauw - werk
+- word: geurhinder
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bűdösség
+  source: mondeling 2
+- word: gevaarvol, gevaarlijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: veszélyes
+    english: perilous
+  source: de wereld van Sophie (Jostein Gaarder)
+  expression_of: gevaarvol,
+- word: geveinsd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tettetett
+  source: kattenoog 2
+- word: gevernist
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lakkozva
+  source: kattenoog 2
+- word: gevestigde
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: alapított
+  source: kattenoog 2
+- word: gevoelens van onbehangen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kényelmetlen/diszkomfort érzések
+  source: het diner
+  expression_of: gevoelens
+- word: gewaad
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: palást
+    english: garment
+  source: bepaalde dag in het leven van idereen
+- word: gewassen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: termény (növények formálisan)
+  source: Knack+NVA
+- word: geweld
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: erőszak
+  source: summoner
+- word: geweldige
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hatalommal rendelkező
+  source: summoner
+- word: Gewestelijke Belasting
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Regionális adó
+  source: formal
+  expression_of: gewestelijke
+- word: geweten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lelkiismeret
+  source: na de bevrijding
+- word: gewetensbezwaren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lelkiismereti kifogás
+  source: na de bevrijding
+- word: gewoel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hánykolódás, mocorgás
+  source: de pauw - werk
+- word: gewone volk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nem-nemesek, köznép
+  source: storia
+  expression_of: gewone
+- word: gewoner
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szokásosabban
+  source: de pauw - werk
+- word: gewoontedier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szokásokhoz rögeszmésen ragaszkodó személy
+  source: mondeling 2
+- word: gewricht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ízüleg
+  source: pogingen iets van het leven te maken
+- word: gezeik[nl], gezever[be]
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: baromság
+  source: norvegian wood
+  expression_of: gezeik[nl],
+- word: gezeur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyafogás
+  source: de pauw - werk 2
+- word: gezondheidszorg
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egészségügyi ellátást
+  source: Knack+NVA
+- word: gijzelaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: túsz
+  source: summoner
+- word: gijzelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: de gijzelnemer (= de misdadiger), de gijzelaar (= de gegijzelde persoon)
+  source: mondeling 2
+- word: gijzelen, de gijzelnemer, de misdadiger
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: túszt ejt, túszejtő. túszejtő
+  source: mondeling 2
+  expression_of: gijzelen,
+- word: ginder beneden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: amott lent
+  source: de pauw - werk
+  expression_of: ginder
+- word: glans
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ragyogás
+  source: kattenoog
+- word: glazen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: üveges
+    examples:
+    - nl: glazen deur
+      hu: üvegajtó
+  source: kattenoog
+- word: glibberig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csúszos
+  source: kattenoog
+- word: glippen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csúszik
+  source: na de aardbeveging
+- word: glippen, slipper
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csúszik
+  source: na de aardbeveging
+  expression_of: glippen,
+- word: goed met elkaar overweg kunnen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jól kijönnek egymással
+  source: na de aardbeveging
+  expression_of: goed
+- word: goesting krijgen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kedve van vmihez
+  source: mondeling
+  expression_of: goesting
+- word: graaien
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megragad
+    english: grab
+  source: na de aardbeveging
+- word: grafiek van de week
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a hét grafikonja
+  source: Knack 2
+  expression_of: grafiek
+- word: grafisch vormgever
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: grafikai tervező
+  source: de standaard
+  expression_of: grafisch
+- word: grafische vormgeving
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: grafikai tervezés
+  source: het diner
+  expression_of: grafische
+- word: grafstem
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sivitó hang
+  source: pogingen iets van het leven te maken
+- word: grassspriet
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fűszál
+    english: blade of grass
+  source: bepaalde dag in het leven van idereen
+- word: grensoverschrijdend gedrag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: határvonalat átlépő viselkedés
+  source: mondeling 2
+  expression_of: grensoverschrijdend
+- word: griep
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: influenza
+  source: pogingen iets van het leven te maken
+- word: griet
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csajszi
+  source: bepaalde dag in het leven van idereen
+- word: griezelig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hátborzongató
+  source: de heks van Portobello
+- word: grijpen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megragad
+  source: de wereld van Sophie (Jostein Gaarder)
+- word: grijsaard
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: őszhajú (személy)
+  source: bepaalde dag in het leven van idereen
+- word: groepsgeest
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csoportszellem
+  source: de pauw - werk
+- word: grof
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: durva (pl, szemcse), darabos
+  source: het diner
+- word: grof, ruw
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: durva
+  source: kattenoog
+  expression_of: grof,
+- word: grond pachten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: földet bérel
+  source: de pauw - werk
+  expression_of: grond
+- word: grot
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: barlang
+  source: buitenstander
+- word: grove nalatigheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: súlyos gondatlanság
+  source: contract
+  expression_of: grove
+- word: grover
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: durvább
+  source: het diner
+- word: gul
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nagylelkű
+  source: mondeling 3
+- word: gunst
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szívesség
+  source: Knack+NVA
+- word: gunstig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kedvelt
+  source: de heks van Portobello
+- word: guur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sivár idő
+    examples:
+    - nl: guur weer
+      hu: sivár idő
+  source: de pauw - werk
+- word: iemand geloof schenken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hitet add vkinek
+  source: de wereld van Sophie (Jostein Gaarder)
+  expression_of: geloof
+- word: ik geloof veeleer dat ...
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: inkább hiszem, hogy...
+  source: na de bevrijding
+  expression_of: geloof
+- word: ik geneer me eigenlijk een beetje
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egy kicsit szégyelem magam igazából
+  source: na de aardbeveging
+  expression_of: geneer
+- word: je gezin draaiende houden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a családot működtetni, ¨forgatni¨
+  source: mondeling
+  expression_of: gezin
+- word: met grote vaart
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nagy sebességgel
+  source: na de aardbeveging
+  expression_of: grote
+- word: niet goed voor mij gewricht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nem jó az ízületeim
+  source: pogingen iets van het leven te maken
+  expression_of: goed
+- word: op gespannen voet
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: feszült (ugrásra kész) lábakon
+  source: Knack+NVA
+  expression_of: gespannen
+- word: op iets (ge)zinspelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: valamire utalni
+    english: allude to smt
+  source: prachtige wereld waar ben je [Sally Rooney]
+  expression_of: (ge)zinspelen
+- word: over genoeg tijd beschikken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elég idővel rendelkezni
+  source: summoner
+  expression_of: genoeg
+- word: van goede komaf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jó származási, középosztálybeli
+  source: het diner
+  expression_of: goede
+- word: zijn grootste deugd was zijn eerlijkheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: legnagyobb érdeme az őszintesége volt
+  source: norvegian wood
+  expression_of: grootste

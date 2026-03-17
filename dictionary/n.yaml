@@ -1,0 +1,230 @@
+- word: de Nederlands letterkunde
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a holland irodalom
+  source: na de aardbeveging
+  expression_of: nederlands
+- word: het netwerk even wegviel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a telefonhálozat picit megszakadt
+  source: het diner
+  expression_of: netwerk
+- word: naa de mis gaan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: misére jár
+  source: het diner
+  expression_of: naa
+- word: naadloos
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: zökkenőmentes
+  source: mix3
+- word: nabijheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: közelség
+  source: na de aardbeveging
+- word: nader
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: közelebb
+  source: bepaalde dag in het leven van idereen
+- word: nadrukkelijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyomatékosan
+  source: de heks van Portobello
+- word: nagelnieuw
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vadiúj
+  source: mix
+- word: nasmaak
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: utóíz
+  source: summoner
+- word: nauwelijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: alig
+  source: na de aardbeveging
+- word: navelstaarder
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: magába gubozó, köldögnéző (személy)
+  source: bepaalde dag in het leven van idereen
+- word: navelstreng
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: köldökzsinór
+  source: kattenoog
+- word: navertellen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: utánamond, elismétli
+  source: het diner
+- word: nederig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: alázat
+  source: prachtige wereld waar ben je [Sally Rooney]
+- word: nederigheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: alázatosság
+  source: prachtige wereld waar ben je [Sally Rooney]
+- word: nederlaag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: legyőzés
+  source: het diner
+- word: nederlands taalbad te trekken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: holland nyelvmedencébe húzni
+  source: Knack+NVA
+  expression_of: nederlands
+- word: neerbuigen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: leereszkedő pl viselkedés
+  source: prachtige wereld waar ben je [Sally Rooney]
+- word: neergesabeld
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lekaszabolt
+  source: kattenoog 2
+- word: neerploffen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lepuffan (pl székre)
+  source: de pauw - werk
+- word: neerslachtigheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: levertség
+  source: na de bevrijding
+- word: neerstorten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: leomlik, összedől
+    examples:
+    - nl: hij is finaal ingestort
+      hu: anyagilag becsődölt
+  source: kattenoog
+- word: nefast
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hátrányos, előnytelen
+  source: taalrecht
+- word: negorij
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: porfészek
+  source: na de aardbeveging
+- word: nergens
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sehol
+    english: nowhere
+  source: na de bevrijding
+- word: neuriën
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hümmög
+  source: na de aardbeveging
+- word: nevel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: köd
+  source: de wereld van Sophie (Jostein Gaarder)
+- word: nevelig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ködös
+    english: misty
+  source: kattenoog
+- word: nieuwigheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: újdonság
+  source: kattenoog
+- word: nijd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: irigység
+  source: de pauw - werk
+- word: nijdig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dühösen
+  source: summoner
+- word: nijlpaard
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: viziló
+    english: hippopotamus
+  source: de wereld van Sophie (Jostein Gaarder)
+- word: nis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fülke
+  source: de pauw - werk
+- word: nochtans
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: viszont
+    examples:
+    - nl: ik wan nochtans vrij die dag
+      hu: én viszont aznap szabad voltam
+  source: de pauw - werk
+- word: nuchterheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: józanság
+  source: mondeling 3
+- word: op je nagels bijten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: körmeit rágni
+  source: taalrecht
+  expression_of: nagels

@@ -1,0 +1,148 @@
+- word: u kunt over mij beschikken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rendelkezzék az időmmel
+  source: summoner
+  expression_of: u
+- word: uitbater
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: menedzser
+  source: Knack 2
+- word: uitbating
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kiaknázás
+  source: contract
+- word: uitbrengen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kiad (pl szoftver)
+  source: mondeling
+- word: uitbundig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dús
+  source: mix
+- word: uitgestrektheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kiterjesztés
+  source: na de aardbeveging
+- word: uitrit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kijárat, pl parkolóból
+  source: het diner
+- word: uitslapen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kialussza magát
+  source: mix3
+- word: uitsluitend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: exkluzív, kizárólag
+  source: het diner
+- word: uitsluitend volwassenen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csak felnőtteknek
+  source: het diner
+  expression_of: uitsluitend
+- word: uitstaan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kiáll valakit, elvisel
+    examples:
+    - nl: moeder kon niet meer vader uitstaan
+      hu: a anya nem birta a apát elviselni többé
+  source: de pauw - werk
+- word: uitsteeksel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kiemelkedés, nyúlvány
+  source: bepaalde dag in het leven van idereen
+- word: uitstel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: késés, késlekedés
+  source: het diner
+- word: uitstoot van broeikasgassen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: üvegházhatású gázok kibocsátása
+  source: Knack+NVA
+  expression_of: uitstoot
+- word: uittreding
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kilépés
+  source: mix2
+- word: uitvindig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: találmány
+  source: contract
+- word: uitvoerig onderzoek
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mélyremenő kutatás
+  source: de heks van Portobello
+  expression_of: uitvoerig
+- word: uitvoering, prestatie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: teljesítmény
+  source: mix3
+  expression_of: uitvoering,
+- word: uitwerking
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hatás
+  source: Knack 2
+- word: uitwerpselen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: széklet
+  source: na de bevrijding
+- word: uitzending
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tv/rádió sugárzás
+  source: het diner
+- word: ultiem
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: végső
+    english: ultimate
+  source: mix
+- word: waar ik van uitga
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: amit feltételezek
+  source: Knack 2
+  expression_of: uitga

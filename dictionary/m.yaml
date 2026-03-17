@@ -1,0 +1,457 @@
+- word: de man werd dood aangetroffen in zijn woning
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a férfit holtan találták otthonában
+  source: mondeling 2
+  expression_of: man
+- word: de mensenhandel, de mensensmokkel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: embercsempészés
+  source: mondeling 2
+  expression_of: mensenhandel,
+- word: de mensenhandelaar, de mensensmokkelaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: embercsempész
+  source: mondeling 2
+  expression_of: mensenhandelaar,
+- word: de mishandeling, de mishandellar, mishandelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: zaklatás, zakaltó, zaklatni
+  source: mondeling 2
+  expression_of: mishandeling,
+- word: de moord, de moordenaar, de moord plegen of iemand vermoorden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyilkosság, gyilkos, meggyilkolni
+  source: mondeling 2
+  expression_of: moord,
+- word: iets moet behouden blijven
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: valamit karban kell tartani
+  source: mondeling 2
+  expression_of: moet
+- word: iets tot moes slaan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: péppé verni valamit
+  source: summoner 2
+  expression_of: moes
+- word: ik mat iets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: valamit megmértem
+  source: na de bevrijding
+  expression_of: mat
+- word: maagonsteking
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyomorfertőzés
+  source: taalrecht
+- word: Maak dat de kat wijs.
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: '"Meséld ezt a cicának" (én egy szót se hiszek)'
+  source: mondeling
+  expression_of: maak
+- word: maandverband
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egészségügyi betét
+    english: sanitary towel
+  source: norvegian wood
+- word: maatschappelijke relevantie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: társadalmi vonatkozás
+  source: mondeling 3
+  expression_of: maatschappelijke
+- word: macaber
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kisérteties
+  source: de heks van Portobello
+- word: macaber humor
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fekete humor
+  source: de heks van Portobello
+  expression_of: macaber
+- word: machtsevenwicht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hatalmi egyensúly
+  source: de wereld van Sophie (Jostein Gaarder)
+- word: maf, gek, dwaas
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: őrült
+  source: mix3
+  expression_of: maf,
+- word: magazin
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: magazin, képes újság
+  source: mix
+- word: maiskolf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kukorica csutka
+  source: mix3
+- word: malaise [máléjze]
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rossz közérzet, fásultság
+  source: na de bevrijding
+  expression_of: malaise
+- word: mamoet
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mamut
+  source: storia
+- word: map
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vicc
+  source: het diner
+- word: mast
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: árboc
+  source: de pauw - werk
+- word: matten van rijststro
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rízsszárból készült szőnyeg
+  source: de pauw - werk
+  expression_of: matten
+- word: mazelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kanyaró, vörös himlő
+  source: ziktes
+- word: mededeling
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyilatkozat
+  source: summoner 2
+- word: medeplichtig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: cinkos
+    english: accessory
+    examples:
+    - nl: c
+      hu: accessory to the murder
+  source: bepaalde dag in het leven van idereen
+- word: medestander
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: támogató
+  source: pogingen iets van het leven te maken
+- word: meedogenloos
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: könyörtelen
+  source: kattenoog 2
+- word: meelevend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: együttérző
+  source: mondeling 3
+- word: meerling
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: iker (bárhány)
+  source: mix
+- word: melden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: említeni
+  source: na de aardbeveging
+- word: melding
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: értesítés
+  source: mondeling
+- word: mening
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vélemény
+  source: storia
+- word: meningokokken type C, hersenvliesontekening
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: agyvelőgyulladás
+  source: ziktes
+  expression_of: meningokokken
+- word: mens is een redelijk wezen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: az ember egy racionális lény
+  source: summoner
+  expression_of: mens
+- word: mensachtig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pénzváltó
+  source: storia
+- word: mensachtige hominid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: emberszabásúak
+  source: storia
+  expression_of: mensachtige
+- word: merel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: feketerigó
+  source: pogingen iets van het leven te maken
+- word: merrie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kanca
+  source: de pauw - werk
+- word: mest
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: trágya
+  source: Knack 2
+- word: metselaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kőműves
+  source: de pauw - werk 2
+- word: middeleeuwen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: középkoriak
+  source: mondeling
+- word: middelmatigheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: középszerűség
+  source: prachtige wereld waar ben je [Sally Rooney]
+- word: mietje
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: meleg, queer
+  source: kattenoog 2
+- word: miezerig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jelentéktelen (személy)
+  source: na de aardbeveging
+- word: mijlpaal
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mérföldkő
+  source: na de aardbeveging
+- word: mijn opa zaliger
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elhunyt/emlékezetes opa
+  source: mondeling 2
+  expression_of: mijn
+- word: millenium
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: évezred
+  source: storia
+- word: minstens
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: legalábbis
+    english: at least
+  source: norvegian wood
+- word: minzaam
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kedves(en)
+  source: kattenoog 2
+- word: mis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mise
+  source: het diner
+- word: misdaden verplegen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bűntetett követ el
+  source: mondeling 2
+  expression_of: misdaden
+- word: misdrijf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bűntett
+    english: felony
+  source: summoner
+- word: misnoegd zijn over iets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elégedetlennek lenni vmivel
+    english: dislikes
+  source: mondeling 3
+  expression_of: misnoegd
+- word: misvormd door een breuk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: törés következtében deformálódott
+  source: mondeling 2
+  expression_of: misvormd
+- word: modieus
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: divatos
+  source: het diner
+- word: moeizaam vooruitkomen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nehezen haladni
+    english: difficult to progress
+  source: summoner
+  expression_of: moeizaam
+- word: moker
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kalapács (nagyobb fajta)
+    english: sledgehammer
+  source: bepaalde dag in het leven van idereen
+- word: mol
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tégla (beépített ember)
+  source: na de bevrijding
+- word: molensteen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: malomkő
+    english: millstone
+    examples:
+    - nl: dat hangt me als een molensteen om de nek
+      hu: mint malomkő lóg a nyakamon
+  source: kattenoog
+- word: moordzuchtige
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyilkos (személy)
+  source: kattenoog
+- word: muiterij
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: zendülés
+  source: de pauw - werk
+- word: munteenheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pénznem
+    examples:
+    - nl: de munteenheid in België is de euro
+      hu: Belgiumban eurót használnak
+  source: taalrecht
+- word: musea
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: múzeumok
+  source: storia
+- word: muurbloempje
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: '{akit senki sem kér fel táncra}'
+  source: mix3
+- word: naar mijn opvatting
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: véleményem szerint
+  source: de heks van Portobello
+  expression_of: mijn
+- word: over de muur klauteren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: átmászik a falon
+  source: bepaalde dag in het leven van idereen
+  expression_of: muur
+- word: over een meerderheid beschikken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: többségel rendelkezni
+  source: summoner
+  expression_of: meerderheid
+- word: tot mijn verbazing ...
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: meglepetésemre ...
+  source: mondeling 2
+  expression_of: mijn

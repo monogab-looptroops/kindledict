@@ -1,0 +1,518 @@
+- word: als parlamentslid voor de partij zitting hebben
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a párt parlamentáris képviselőjeként ülésezik
+  source: Knack+NVA
+  expression_of: parlamentslid
+- word: bij een pragmatische, doordachte aanpak
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pragmatikus, átgondolt megközelítés
+  source: Knack+NVA
+  expression_of: pragmatische,
+- word: de patient is wat benauwd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a beteg légzésproblémával küzd
+  source: de heks van Portobello
+  expression_of: patient
+- word: het proces, verhaal
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jelentés, feljelentés
+  source: taalrecht
+  expression_of: proces,
+- word: iemand pamperen, iemand veel te veel verzorgen, betuttelen, verwennen (negatief)
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: anyásodni valakivel,
+  source: mondeling
+  expression_of: pamperen,
+- word: in de poep trappen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szarba lépni
+  source: pogingen iets van het leven te maken
+  expression_of: poep
+- word: paarden en ezels zijn verwante diersoorten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lovak és a szamár hasonló állatfajták
+  source: prachtige wereld waar ben je [Sally Rooney]
+  expression_of: paarden
+- word: pachten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lízingel, bérel
+  source: de pauw - werk
+- word: pakweg
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: durván, kábéra
+    english: approx
+  source: pogingen iets van het leven te maken
+- word: pantoffel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: papucs
+    examples:
+    - nl: op pantoffel
+      hu: papucsban
+  source: kattenoog
+- word: paren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: párosodik (szekszuálisan is)
+  source: kattenoog
+- word: parmantig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csintalan, élénk
+    english: jaunty, perky
+  source: bepaalde dag in het leven van idereen
+- word: pastis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ''
+    english: aperitif, anizs izű, francia szeszes ital
+  source: bepaalde dag in het leven van idereen
+- word: patatn, aardappel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: krumpli
+  source: dialect
+  expression_of: patatn,
+- word: patent
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szabadalom
+  source: contract
+- word: patroon
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: patrónus
+  source: na de aardbeveging
+- word: paus
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pápa
+  source: pogingen iets van het leven te maken
+- word: peddelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pedálozni, biciklizni
+  source: summoner
+- word: peiling
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: közvéleménykutatás
+  source: het diner
+- word: persoonlijkheidsstoornis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: személyiségzavar
+  source: mondeling 2
+- word: pertussis, kinkhoest
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szamárköhögés
+  source: ziktes
+  expression_of: pertussis,
+- word: pestgedrag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: zaklatás
+  source: mondeling 3
+- word: pestkop
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kellemetlen figura, zaklató
+  source: na de aardbeveging
+- word: pestwet
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bürokratikus törvény (zaklató törvény)
+  source: Knack+NVA
+- word: pietluttig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: aggodalmaskodó, nyűgös
+  source: mondeling 3
+- word: pietluttige regels
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: '{aprolékos, de lényegtelen szabályok}'
+  source: norvegian wood
+  expression_of: pietluttige
+- word: pijler
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pillér
+  source: na de aardbeveging
+- word: pijnigen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megkínoz, fájdalmat okoz
+  source: bepaalde dag in het leven van idereen
+- word: pijnstillend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fájdalomcsillapító (hatású)
+  source: taalrecht
+- word: pijnstiller
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fájdalomcsillapító (gyógyszer)
+  source: taalrecht
+- word: pikken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elcsen, lop
+  source: kattenoog 2
+- word: pissig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dühös
+    examples:
+    - nl: Nou ben ik pissig
+      hu: na most kiakadtam
+  source: prachtige wereld waar ben je [Sally Rooney]
+- word: plaatsvinden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megtörténik
+    english: take place
+  source: het diner
+- word: plagen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kötekszik, ugrat
+  source: het diner
+- word: plaid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kockás takaró
+  source: kattenoog
+- word: plaperig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: provokáló
+  source: mix
+- word: platenspeler
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lemezjátszó
+  source: de pauw - werk
+- word: platenzaak
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lemezbolt
+  source: norvegian wood
+- word: plattegrond
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: térkép
+  source: buitenstander
+- word: platvoeten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fel, alá járkál
+  source: na de aardbeveging
+- word: plausibel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hihető, elfogadható
+  source: bepaalde dag in het leven van idereen
+- word: pleiten voor iets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: könyörögni valamiért
+  source: Knack+NVA
+  expression_of: pleiten
+- word: ploegen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szánt, ekéz
+  source: de pauw - werk
+- word: plons
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csobbanás vízben
+  source: het diner
+- word: plooien
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hajlít, hajlik
+  source: na de bevrijding
+- word: plotsklaps
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hirtelen
+  source: de pauw - werk
+- word: pluim
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: toll
+  source: na de aardbeveging
+- word: pluis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pihe
+    english: fluff
+  source: kattenoog 2
+- word: plukken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: leszed pl gyümölcsöt
+  source: de pauw - werk
+- word: Pneumococcus, pneumokok
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tüdőgyulladást, agyhártyagyulladást, középfültő-gyulladást okozó betegség
+  source: ziktes
+  expression_of: pneumococcus,
+- word: poedelnaakt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pucér
+  source: na de aardbeveging
+- word: poel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: (mesterséges)tó
+  source: Knack+NVA
+- word: poepenolleke
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: popsi
+  source: dialect
+- word: pogen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megkisérel
+  source: de pauw - werk
+- word: poliomyelitis, kinderverlaming
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyermekbénulás
+  source: ziktes
+  expression_of: poliomyelitis,
+- word: polis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: biztosítási kötvény
+  source: mix
+- word: pond
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kb fél kilós súlymérték
+  source: summoner
+- word: poolwoestijn
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sarkvidéki jég
+  source: storia
+- word: positief ingesteld
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pozitív hozzáállás
+  source: mondeling 3
+  expression_of: positief
+- word: potsierlijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nevetséges, röhejes
+  source: bepaalde dag in het leven van idereen
+- word: povere woordenschat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szegényes szókincs
+  source: Knack 2
+  expression_of: povere
+- word: praatje
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csevegés
+    english: small talk
+  source: norvegian wood
+- word: prent
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyomat
+    english: print
+  source: kattenoog 2
+- word: prenten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vésni
+    examples:
+    - nl: prent dat goed in je hoofd
+      hu: vésd jól a fejedbe
+  source: storia
+- word: prestaties
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: teljesítmény
+  source: contract
+- word: preutsheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: prüdéria, álszemérem
+  source: kattenoog 2
+- word: prevelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: motyog
+  source: de pauw - werk
+- word: priem
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ár
+    english: szúrós eszköz lyuk vájására
+  source: na de bevrijding
+- word: priemende blik
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szúrós tekintet
+  source: de pauw - werk
+  expression_of: priemende
+- word: priesteres
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: papnő
+  source: de heks van Portobello
+- word: prijsgeven
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kiadni pl informaciót
+  source: na de bevrijding
+- word: prijzenswaardig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kitüntetésre méltó
+  source: buitenstander
+- word: prikkels
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ösztönző
+  source: Knack+NVA
+- word: probersel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: próba
+  source: mix
+- word: profileren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megmutatja magát
+  source: mondeling
+- word: prutsen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tehetetlenné válik
+  source: na de aardbeveging
+- word: pré
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: előny
+    english: preference
+  source: pogingen iets van het leven te maken
+- word: pukkel, puistje
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pattanás
+  source: kattenoog
+  expression_of: pukkel,
+- word: pukkel, schoudertas
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: válltáska
+    english: shoulder bag
+  source: kattenoog
+  expression_of: pukkel,
+- word: zijn politieke opvatting
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: politikai nézete
+  source: de heks van Portobello
+  expression_of: politieke

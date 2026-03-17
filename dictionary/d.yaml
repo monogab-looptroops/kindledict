@@ -1,0 +1,680 @@
+- word: (met) doodsverachting
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: halálmegvetés(sel)
+  source: de pauw - werk
+  expression_of: doodsverachting
+- word: alle donders
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jóságos mennydörgés
+  source: na de bevrijding
+  expression_of: donders
+- word: daadkracht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tetterő
+  source: mondeling 3
+- word: dagvaardig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: beidézés
+    english: summons
+  source: de heks van Portobello
+- word: dakraam
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tetőablak
+  source: bepaalde dag in het leven van idereen
+- word: damboord
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sakktábla [vagy egyéb táblajáték is lehet]
+  source: na de bevrijding
+- word: danige schijter
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: méretes beszari
+  source: de pauw - werk
+  expression_of: danige
+- word: darm
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bél
+  source: bepaalde dag in het leven van idereen
+- word: de bepalingen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rendelkezések
+  source: contract
+- word: de dader
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tettes
+  source: mondeling 2
+- word: de deur knarst in haar scharnieren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ''
+    english: de door creaks on its hinges
+  source: na de aardbeveging
+  expression_of: deur
+- word: de deur op een kier zetten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: az ajtót egy résmyire nyitva hagyni
+  source: summoner
+  expression_of: deur
+- word: de diefstal, de dief, stelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lopás, tolvaj, lopni
+  source: mondeling 2
+  expression_of: diefstal,
+- word: de dood trotseren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a halállal dacolni
+  source: de heks van Portobello
+  expression_of: dood
+- word: de draak steken met iemand
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csúfot űz, csúfolódik
+  source: mondeling 3
+  expression_of: draak
+- word: de expertise
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szaktudás
+    examples:
+    - nl: Je veel expertise in lesgeven hebt
+      hu: jól tudsz tanítani
+  source: mondeling
+- word: de gevangene
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rab, börtöntöltelék
+  source: mondeling 2
+- word: de gijzeling
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a túsz
+  source: mondeling 2
+- word: de hoofdpunten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fő pontok
+  source: mondeling
+- word: de hulpverlening
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a segítségnyújtás
+  source: mondeling 2
+- word: de instuif
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lakásavató
+  source: mondeling
+- word: de keizersnede
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: császármetszés
+  source: mondeling 2
+- word: de lat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a léc
+  source: mondeling
+- word: de muizenval
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egérfogó
+  source: mondeling 3
+- word: de oever
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: part
+  source: mondeling 2
+- word: de omkoping
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kenőpénz
+  source: mondeling 2
+- word: de ontkenning
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tagadás
+  source: mondeling 2
+- word: de prehistoria
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: őskor
+  source: storia
+- word: de rasp
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: reszelő
+  source: taalrecht
+- word: de schaaf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sajtvágó
+  source: taalrecht
+- word: de schadevergoeding
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kártérítés
+  source: mondeling 2
+- word: de sensatiepers
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bulvár sajtó
+  source: mondeling 2
+- word: de tijdrekening
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: időszámítás
+  source: storia
+- word: de uitvoerder
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elkövető
+  source: mondeling 2
+- word: de vandaal
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: het vandalisme
+  source: mondeling 2
+- word: de vereiste
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: előirás, feltétel
+    examples:
+    - nl: Dat is een vereiste
+      hu: ez egy betartandó szabály
+    - nl: De enige vereiste voor die job is dat je kan koken
+      hu: A munka egyetlen feltétele, hogy tudj főzni
+  source: mondeling
+- word: de vergiftiging
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mérgezés
+  source: mondeling 2
+- word: de veroordeling
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: meggyőződés
+  source: mondeling 2
+- word: de vertrouwensstemming
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bizalmi szavazás
+  source: mondeling
+- word: decadent
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dekandens
+  source: prachtige wereld waar ben je [Sally Rooney]
+- word: decennium
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: évtized
+  source: storia
+- word: deeg
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyers tészta
+  source: pogingen iets van het leven te maken
+- word: deels
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: részben
+    english: partly
+  source: de pauw - werk
+- word: degelijk, betrouwbaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megbizható
+  source: de wereld van Sophie (Jostein Gaarder)
+  expression_of: degelijk,
+- word: degelijkse beslommering
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: napi aggodalom/feszültség/stressz
+  source: na de bevrijding
+  expression_of: degelijkse
+- word: deigddoend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: erényesen, megfelelően
+  source: na de aardbeveging
+- word: deksel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lábasfedő
+  source: na de aardbeveging
+- word: denderen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dübörög
+  source: kattenoog
+- word: denkvermogen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gondolkodás képessége
+    examples:
+    - nl: het denkvermogen zetelt in de hersenen
+      hu: a gondolkodás képessége az agyban lakik
+  source: de wereld van Sophie (Jostein Gaarder)
+- word: derhalve
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ebből kifolyólag
+  source: contract
+- word: deugd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: erény
+    english: virtue
+  source: na de aardbeveging
+- word: deugdzaam
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: erényes
+  source: kattenoog 2
+- word: deuk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: horpadás pl autón
+    english: dent
+  source: mix
+- word: dichter
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: költő
+  source: de pauw - werk 2
+- word: dienstbode
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: közalkalmazott
+  source: taalrecht
+- word: differie, kroep
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: krupp, légúti megbetegedés, gége duzzanat, az „ugató” köhögés, a stridor (sípoló légzés), és a rekedtség
+  source: ziktes
+  expression_of: differie,
+- word: dinosaurus
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dinoszaurusz
+  source: storia
+- word: dirigeren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vezényel, elirányít
+  source: prachtige wereld waar ben je [Sally Rooney]
+- word: doel nastreven
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: célt üldöz, követ
+  source: de pauw - werk
+  expression_of: doel
+- word: doeleinde
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: cél
+  source: het diner
+- word: doezelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szundikál
+  source: summoner
+- word: dol
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: örűlt
+    examples:
+    - nl: ze is niet dol op huishoudelijk werk
+      hu: nincs oda a házimunkáért
+  source: kattenoog
+- word: dominee
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lelkész
+  source: Knack 2
+- word: dommelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szunyókál
+  source: na de aardbeveging
+- word: domoor
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: idióta
+  source: na de aardbeveging
+- word: donder op!
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tűnés!
+  source: na de bevrijding
+  expression_of: donder
+- word: donderbus
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: muskéta
+  source: summoner 2
+- word: donderden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mennydörög
+  source: na de bevrijding
+- word: dondersteentje
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rosszcsont
+  source: summoner 2
+- word: donker, donkerte
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sötét, sötétség
+    english: dark, darkness
+  source: na de bevrijding
+  expression_of: donker,
+- word: doodgemoedereerd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: halálnyugodt
+  source: bepaalde dag in het leven van idereen
+- word: dooien
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megolvad
+    english: sy:smelten
+  source: na de aardbeveging
+- word: doordringen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: áthatol, átv. ráeszmél
+  source: prachtige wereld waar ben je [Sally Rooney]
+- word: doorgroeimogeleijkheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: növekedési lehetőség (munkában)
+  source: mondeling 3
+- word: doorhaken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kettévágni
+  source: bepaalde dag in het leven van idereen
+- word: Doornroosje
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Csipkerózsika
+  source: de wereld van Sophie (Jostein Gaarder)
+- word: doorsnee Vlaming
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: átlagos flamand
+  source: mix
+  expression_of: doorsnee
+- word: doorzakkende
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megereszkedett
+  source: kattenoog 2
+- word: doorzetter
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: aki a céljáig eljut
+  source: mondeling
+- word: doven
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kiolt pl tűzet
+  source: bepaalde dag in het leven van idereen
+- word: draad
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szál, madzag
+  source: na de aardbeveging
+- word: draak
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sárkány
+  source: kattenoog
+- word: draper
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: drapéria, szövet
+  source: de pauw - werk
+- word: draperen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szövettel letakar
+  source: de pauw - werk
+- word: dreef
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: út
+    english: drive
+  source: de pauw - werk
+- word: drenkeling
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fuldokló
+  source: na de aardbeveging
+- word: dreun
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: puff, ütés
+  source: na de aardbeveging
+- word: driedubbel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hármas, háromszoros
+  source: pogingen iets van het leven te maken
+- word: drievuldigheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szentháromság
+  source: de pauw - werk
+- word: drijfveer
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: indíték
+  source: mondeling 2
+- word: drijfven
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lebeg, úszik
+  source: kattenoog
+- word: droefheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szomorúság
+  source: summoner
+- word: druid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: druida
+  source: storia
+- word: druiventros
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szöllőfürt
+  source: het diner
+- word: drukverschil
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyomáskülönbség
+  source: taalrecht
+- word: duimpje
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hüvelyujjacska
+  source: prachtige wereld waar ben je [Sally Rooney]
+- word: duivelin
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ördögi nő
+  source: summoner
+- word: dunk, mening
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vélemény, nézet
+  source: kattenoog
+  expression_of: dunk,
+- word: dwangsom
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kötbér
+  source: mix2
+- word: dystrofie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: izomsorvadás
+  source: na de bevrijding
+- word: hij doet rechten in London
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jogot tanul Londonban
+  source: taalrecht
+  expression_of: doet
+- word: iets in de doofpot steken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elnémítani valamit
+  source: mondeling 3
+  expression_of: doofpot
+- word: onder dwang
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kényszer alatt
+  source: Knack+NVA
+  expression_of: dwang
+- word: op dreef komen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: belejönni valamibe
+  source: de pauw - werk
+  expression_of: dreef
+- word: op dreef raken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nekilendül
+  source: de pauw - werk
+  expression_of: dreef
+- word: zijn doel verwezenlijken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: céljait megvalósítja
+  source: het diner
+  expression_of: doel
