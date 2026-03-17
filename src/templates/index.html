@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dutch-Hungarian Dictionary</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f5; color: #222; }
+
+    .header {
+      background: #fff;
+      border-bottom: 2px solid #222;
+      padding: 16px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .header h1 { font-size: 1.3rem; font-weight: 600; }
+    .header .stats { display: flex; gap: 20px; align-items: center; font-size: 0.95rem; color: #555; }
+    .header .stats span { font-weight: 600; color: #222; }
+    .header .download-btn {
+      background: #222;
+      color: #fff;
+      border: none;
+      padding: 8px 16px;
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+    .header .download-btn:hover { background: #444; }
+
+    .container { max-width: 900px; margin: 0 auto; padding: 24px; }
+
+    /* Search */
+    .search-section { margin-bottom: 24px; }
+    .search-box {
+      display: flex;
+      gap: 8px;
+    }
+    .search-box input {
+      flex: 1;
+      padding: 10px 14px;
+      font-size: 1rem;
+      border: 2px solid #222;
+      outline: none;
+    }
+    .search-box input:focus { border-color: #555; }
+    .search-box button {
+      padding: 10px 20px;
+      font-size: 1rem;
+      background: #222;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+    }
+    .search-box button:hover { background: #444; }
+
+    /* Results */
+    .results {
+      background: #fff;
+      border: 2px solid #222;
+      min-height: 200px;
+      max-height: 500px;
+      overflow-y: auto;
+      padding: 16px;
+      margin-bottom: 24px;
+    }
+    .results.empty { display: flex; align-items: center; justify-content: center; color: #999; }
+    .result-entry { padding: 10px 0; border-bottom: 1px solid #eee; }
+    .result-entry:last-child { border-bottom: none; }
+    .result-word {
+      font-weight: 700;
+      font-size: 1.1rem;
+    }
+    .result-expression-of {
+      font-size: 0.8rem;
+      color: #888;
+      margin-left: 8px;
+    }
+    .result-pos {
+      font-size: 0.8rem;
+      color: #888;
+      font-style: italic;
+      margin-left: 6px;
+    }
+    .result-ipa {
+      font-size: 0.85rem;
+      color: #666;
+      margin-left: 8px;
+    }
+    .result-meaning { margin: 4px 0 4px 16px; }
+    .result-definition { color: #333; }
+    .result-english { color: #888; font-size: 0.85rem; margin-left: 6px; }
+    .result-example {
+      margin: 2px 0 2px 32px;
+      font-size: 0.9rem;
+      color: #666;
+      font-style: italic;
+    }
+    .result-source {
+      font-size: 0.75rem;
+      color: #aaa;
+      margin-top: 4px;
+      margin-left: 16px;
+    }
+
+    /* Add words */
+    .add-section h2 {
+      font-size: 1.1rem;
+      margin-bottom: 12px;
+      font-weight: 600;
+    }
+    .add-source {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      margin-bottom: 8px;
+      font-size: 0.9rem;
+    }
+    .add-source input {
+      padding: 6px 10px;
+      border: 2px solid #222;
+      font-size: 0.9rem;
+      width: 250px;
+    }
+    .add-textarea {
+      width: 100%;
+      min-height: 250px;
+      padding: 12px;
+      font-family: 'SF Mono', 'Fira Code', monospace;
+      font-size: 0.9rem;
+      border: 2px solid #222;
+      resize: vertical;
+      outline: none;
+    }
+    .add-textarea:focus { border-color: #555; }
+    .add-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 8px;
+    }
+    .add-footer button {
+      padding: 10px 24px;
+      font-size: 1rem;
+      background: #222;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+    }
+    .add-footer button:hover { background: #444; }
+    .add-footer .message {
+      font-size: 0.9rem;
+      color: #555;
+    }
+    .add-footer .message.success { color: #2a7d2a; }
+    .add-footer .message.error { color: #c33; }
+  </style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Dutch-Hungarian dictionary</h1>
+  <div class="stats">
+    <div>words: <span id="stat-words">-</span></div>
+    <div>expressions: <span id="stat-expressions">-</span></div>
+    <button class="download-btn" onclick="downloadDict()">Download .mobi</button>
+  </div>
+</div>
+
+<div class="container">
+  <div class="search-section">
+    <div class="search-box">
+      <input type="text" id="search-input" placeholder="Search a word or expression..." autofocus>
+      <button onclick="doSearch()">Search</button>
+    </div>
+  </div>
+
+  <div class="results empty" id="results">
+    Type a word to search
+  </div>
+
+  <div class="add-section">
+    <h2>Add new words</h2>
+    <div class="add-source">
+      <label for="source-input">Source:</label>
+      <input type="text" id="source-input" placeholder="e.g. book title, chapter...">
+    </div>
+    <textarea class="add-textarea" id="add-textarea" placeholder="Paste words here, one per line:
+
+fiets - bicikli
+het ventiel - szelep
+kruiperig - szolgalelkű <servile>
+bekommeren - aggódni
+[ik bekommerd me niet - nem aggódom]"></textarea>
+    <div class="add-footer">
+      <span class="message" id="add-message"></span>
+      <button onclick="importWords()">Import</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  const searchInput = document.getElementById('search-input');
+  const resultsDiv = document.getElementById('results');
+  const addTextarea = document.getElementById('add-textarea');
+  const sourceInput = document.getElementById('source-input');
+  const addMessage = document.getElementById('add-message');
+
+  // Load stats on page load
+  fetchStats();
+
+  // Search on Enter key
+  searchInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') doSearch();
+  });
+
+  // Debounced search as you type
+  let debounceTimer;
+  searchInput.addEventListener('input', () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(doSearch, 300);
+  });
+
+  async function fetchStats() {
+    const res = await fetch('/api/stats');
+    const data = await res.json();
+    document.getElementById('stat-words').textContent = data.words.toLocaleString();
+    document.getElementById('stat-expressions').textContent = data.expressions.toLocaleString();
+  }
+
+  async function doSearch() {
+    const query = searchInput.value.trim();
+    if (!query) {
+      resultsDiv.className = 'results empty';
+      resultsDiv.innerHTML = 'Type a word to search';
+      return;
+    }
+
+    const res = await fetch(`/api/search?q=${encodeURIComponent(query)}`);
+    const entries = await res.json();
+
+    if (entries.length === 0) {
+      resultsDiv.className = 'results empty';
+      resultsDiv.innerHTML = 'No results found';
+      return;
+    }
+
+    resultsDiv.className = 'results';
+    resultsDiv.innerHTML = entries.map(renderEntry).join('');
+  }
+
+  function renderEntry(entry) {
+    let html = '<div class="result-entry">';
+
+    // Word + IPA + POS
+    html += `<span class="result-word">${esc(entry.word)}</span>`;
+    if (entry.ipa) html += `<span class="result-ipa">${esc(entry.ipa)}</span>`;
+    if (entry.pos) html += `<span class="result-pos">${esc(entry.pos)}</span>`;
+    if (entry.expression_of) html += `<span class="result-expression-of">→ ${esc(entry.expression_of)}</span>`;
+
+    // Meanings
+    for (const m of entry.meanings) {
+      html += '<div class="result-meaning">';
+      html += `<span class="result-definition">${esc(m.definition)}</span>`;
+      if (m.english) html += `<span class="result-english">(${esc(m.english)})</span>`;
+      if (m.examples) {
+        for (const ex of m.examples) {
+          html += `<div class="result-example">"${esc(ex.nl)}" — ${esc(ex.hu)}</div>`;
+        }
+      }
+      html += '</div>';
+    }
+
+    // Source
+    if (entry.source) {
+      html += `<div class="result-source">source: ${esc(entry.source)}</div>`;
+    }
+
+    html += '</div>';
+    return html;
+  }
+
+  function esc(str) {
+    if (!str) return '';
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+  }
+
+  async function importWords() {
+    const text = addTextarea.value.trim();
+    if (!text) {
+      showMessage('Please paste some words first.', 'error');
+      return;
+    }
+
+    const source = sourceInput.value.trim() || 'web-import';
+
+    const res = await fetch('/api/import', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ text, source }),
+    });
+    const data = await res.json();
+
+    if (data.error) {
+      showMessage(data.error, 'error');
+    } else {
+      showMessage(data.message, 'success');
+      if (data.added > 0) {
+        addTextarea.value = '';
+        fetchStats();
+      }
+    }
+  }
+
+  function showMessage(msg, type) {
+    addMessage.textContent = msg;
+    addMessage.className = `message ${type}`;
+    setTimeout(() => { addMessage.textContent = ''; }, 5000);
+  }
+
+  function downloadDict() {
+    window.location.href = '/api/download';
+  }
+</script>
+
+</body>
+</html>
