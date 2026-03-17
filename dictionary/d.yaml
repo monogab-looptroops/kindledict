@@ -5,6 +5,13 @@
   - definition: halálmegvetés(sel)
   source: de pauw - werk
   expression_of: doodsverachting
+- word: al deze
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: viszi
+  source: wiktionary-frequency
+  expression_of: deze
 - word: alle donders
   ipa: ''
   pos: ''
@@ -12,12 +19,87 @@
   - definition: jóságos mennydörgés
   source: na de bevrijding
   expression_of: donders
+- word: alle drie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: másképpen
+  source: wiktionary-frequency
+  expression_of: drie
+- word: als doel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: manapság
+  source: wiktionary-frequency
+  expression_of: doel
+- word: bij dageraad
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jöjjön
+  source: wiktionary-frequency
+  expression_of: dageraad
 - word: daadkracht
   ipa: ''
   pos: ''
   meanings:
   - definition: tetterő
   source: mondeling 3
+- word: daar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ott
+  source: wiktionary-frequency
+- word: daarbij
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ezáltal
+  source: wiktionary-frequency
+- word: daarbuiten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hagyja
+  source: wiktionary-frequency
+- word: Daarnaast
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kérdésekre
+  source: wiktionary-frequency
+- word: daarom
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: azért
+  source: wiktionary-frequency
+- word: dag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nap
+  source: wiktionary-frequency
+- word: dagelijks
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: napi
+  source: wiktionary-frequency
+- word: dagen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: különbséget
+  source: wiktionary-frequency
+- word: dageraad
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: átvett
+  source: wiktionary-frequency
 - word: dagvaardig
   ipa: ''
   pos: ''
@@ -31,12 +113,42 @@
   meanings:
   - definition: tetőablak
   source: bepaalde dag in het leven van idereen
+- word: dalt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lemezek
+  source: wiktionary-frequency
 - word: damboord
   ipa: ''
   pos: ''
   meanings:
   - definition: sakktábla [vagy egyéb táblajáték is lehet]
   source: na de bevrijding
+- word: Dame
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bármit
+  source: wiktionary-frequency
+- word: Dames
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nők
+  source: wiktionary-frequency
+- word: dan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: akkor
+  source: wiktionary-frequency
+- word: Daniel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Jézus
+  source: wiktionary-frequency
 - word: danige schijter
   ipa: ''
   pos: ''
@@ -44,12 +156,92 @@
   - definition: méretes beszari
   source: de pauw - werk
   expression_of: danige
+- word: Dank u
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: küldeni
+  source: wiktionary-frequency
+  expression_of: dank
+- word: dankbaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megadva
+  source: wiktionary-frequency
+- word: dankbaarheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: versenyek
+  source: wiktionary-frequency
+- word: dans
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: részleteket
+  source: wiktionary-frequency
 - word: darm
   ipa: ''
   pos: ''
   meanings:
   - definition: bél
   source: bepaalde dag in het leven van idereen
+- word: dat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: azon
+  source: wiktionary-frequency
+- word: data papier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: párbeszéd
+  source: wiktionary-frequency
+  expression_of: data
+- word: database
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mennek
+  source: wiktionary-frequency
+- word: datasheets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: őszén
+  source: wiktionary-frequency
+- word: dating
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: arról
+  source: wiktionary-frequency
+- word: datum
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szórakoztató
+  source: wiktionary-frequency
+- word: David
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ENSZ
+  source: wiktionary-frequency
+- word: de
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: a
+  source: wiktionary-frequency
+- word: de armen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sebessége
+  source: wiktionary-frequency
 - word: de bepalingen
   ipa: ''
   pos: ''
@@ -98,6 +290,18 @@
   - definition: csúfot űz, csúfolódik
   source: mondeling 3
   expression_of: draak
+- word: de elite
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kedvezményes
+  source: wiktionary-frequency
+- word: de essentie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hagyom
+  source: wiktionary-frequency
 - word: de expertise
   ipa: ''
   pos: ''
@@ -107,6 +311,12 @@
     - nl: Je veel expertise in lesgeven hebt
       hu: jól tudsz tanítani
   source: mondeling
+- word: de facto
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szolgáltatási
+  source: wiktionary-frequency
 - word: de gevangene
   ipa: ''
   pos: ''
@@ -143,18 +353,48 @@
   meanings:
   - definition: császármetszés
   source: mondeling 2
+- word: de laagste
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: végezhető
+  source: wiktionary-frequency
 - word: de lat
   ipa: ''
   pos: ''
   meanings:
   - definition: a léc
   source: mondeling
+- word: de mensheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: déli
+  source: wiktionary-frequency
+- word: de mijne
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jelszavad
+  source: wiktionary-frequency
+- word: de mooiste
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fórumon
+  source: wiktionary-frequency
 - word: de muizenval
   ipa: ''
   pos: ''
   meanings:
   - definition: egérfogó
   source: mondeling 3
+- word: de nevel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyilvánosságra
+  source: wiktionary-frequency
 - word: de oever
   ipa: ''
   pos: ''
@@ -185,6 +425,12 @@
   meanings:
   - definition: reszelő
   source: taalrecht
+- word: de rest
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: többi
+  source: wiktionary-frequency
 - word: de schaaf
   ipa: ''
   pos: ''
@@ -203,6 +449,12 @@
   meanings:
   - definition: bulvár sajtó
   source: mondeling 2
+- word: de snelste
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: legerősebb
+  source: wiktionary-frequency
 - word: de tijdrekening
   ipa: ''
   pos: ''
@@ -250,24 +502,104 @@
   meanings:
   - definition: bizalmi szavazás
   source: mondeling
+- word: de volgende
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tovább
+  source: wiktionary-frequency
+- word: de weg
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: utat
+  source: wiktionary-frequency
+- word: deadline
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: valamivel
+  source: wiktionary-frequency
+- word: Debrecen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megmaradt
+  source: wiktionary-frequency
+- word: debreceni
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egymásnak
+  source: wiktionary-frequency
 - word: decadent
   ipa: ''
   pos: ''
   meanings:
   - definition: dekandens
   source: prachtige wereld waar ben je [Sally Rooney]
+- word: december
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: december
+  source: wiktionary-frequency
 - word: decennium
   ipa: ''
   pos: ''
   meanings:
   - definition: évtized
   source: storia
+- word: deed
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tette
+  source: wiktionary-frequency
 - word: deeg
   ipa: ''
   pos: ''
   meanings:
   - definition: nyers tészta
   source: pogingen iets van het leven te maken
+- word: deel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egyértelmű
+  source: wiktionary-frequency
+- word: deel van
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: része
+  source: wiktionary-frequency
+  expression_of: deel
+- word: deelname
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: járnak
+  source: wiktionary-frequency
+- word: deelnemen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: részt
+  source: wiktionary-frequency
+- word: deelnemer - résztvevő
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: stratégia
+  source: wiktionary-frequency
+  expression_of: deelnemer
+- word: deelnemers
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ritka
+  source: wiktionary-frequency
 - word: deels
   ipa: ''
   pos: ''
@@ -275,6 +607,24 @@
   - definition: részben
     english: partly
   source: de pauw - werk
+- word: Deens
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: arányos
+  source: wiktionary-frequency
+- word: definitie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: régió
+  source: wiktionary-frequency
+- word: definitief
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hülye
+  source: wiktionary-frequency
 - word: degelijk, betrouwbaar
   ipa: ''
   pos: ''
@@ -301,12 +651,42 @@
   meanings:
   - definition: lábasfedő
   source: na de aardbeveging
+- word: democratie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: esetek
+  source: wiktionary-frequency
+- word: democratisch
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: amelyre
+  source: wiktionary-frequency
 - word: denderen
   ipa: ''
   pos: ''
   meanings:
   - definition: dübörög
   source: kattenoog
+- word: Denes
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyógyszerek
+  source: wiktionary-frequency
+- word: denkbaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szeretnéd
+  source: wiktionary-frequency
+- word: denken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hisz
+  source: wiktionary-frequency
 - word: denkvermogen
   ipa: ''
   pos: ''
@@ -316,12 +696,61 @@
     - nl: het denkvermogen zetelt in de hersenen
       hu: a gondolkodás képessége az agyban lakik
   source: de wereld van Sophie (Jostein Gaarder)
+- word: derde
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: harmadik
+  source: wiktionary-frequency
+- word: dergelijke
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ilyen
+  source: wiktionary-frequency
 - word: derhalve
   ipa: ''
   pos: ''
   meanings:
   - definition: ebből kifolyólag
   source: contract
+- word: dertig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: leveleket
+  source: wiktionary-frequency
+- word: Desi
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sorok
+  source: wiktionary-frequency
+- word: design verandering
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ismételt
+  source: wiktionary-frequency
+  expression_of: design
+- word: deskundige
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: labdát
+  source: wiktionary-frequency
+- word: detail-
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: példák
+  source: wiktionary-frequency
+- word: details
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fekszik
+  source: wiktionary-frequency
 - word: deugd
   ipa: ''
   pos: ''
@@ -342,18 +771,146 @@
   - definition: horpadás pl autón
     english: dent
   source: mix
+- word: deur-
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: illő
+  source: wiktionary-frequency
+- word: deze
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ezek
+  source: wiktionary-frequency
+- word: dezelfde
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: azonos
+  source: wiktionary-frequency
+- word: dezelfde manier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: munkaügyi
+  source: wiktionary-frequency
+  expression_of: dezelfde
+- word: deák
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: állapítja
+  source: wiktionary-frequency
+- word: dialoog
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rendbe
+  source: wiktionary-frequency
+- word: diameter
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: interjút
+  source: wiktionary-frequency
+- word: dicht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: telken
+  source: wiktionary-frequency
+- word: dichtbij
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: közel
+  source: wiktionary-frequency
 - word: dichter
   ipa: ''
   pos: ''
   meanings:
   - definition: költő
   source: de pauw - werk 2
+- word: dichterbij
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: közelebb
+  source: wiktionary-frequency
+- word: dichtstbijzijnde
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kis
+  source: wiktionary-frequency
+- word: die
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: azok
+  source: wiktionary-frequency
+- word: die dag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: évében
+  source: wiktionary-frequency
+  expression_of: dag
+- word: dienen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hihetetlenül
+  source: wiktionary-frequency
 - word: dienstbode
   ipa: ''
   pos: ''
   meanings:
   - definition: közalkalmazott
   source: taalrecht
+- word: Diensten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szolgáltatások
+  source: wiktionary-frequency
+- word: dienstverleners
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egyesek
+  source: wiktionary-frequency
+- word: diep
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mély
+  source: wiktionary-frequency
+- word: dieper
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: küzd
+  source: wiktionary-frequency
+- word: dier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: állat
+  source: wiktionary-frequency
+- word: dieren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: állatok
+  source: wiktionary-frequency
+- word: dierenarts
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ponttal
+  source: wiktionary-frequency
 - word: differie, kroep
   ipa: ''
   pos: ''
@@ -361,18 +918,146 @@
   - definition: krupp, légúti megbetegedés, gége duzzanat, az „ugató” köhögés, a stridor (sípoló légzés), és a rekedtség
   source: ziktes
   expression_of: differie,
+- word: digitaal
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: digitális
+  source: wiktionary-frequency
+- word: dik
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: PHP
+  source: wiktionary-frequency
+- word: ding
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dolog
+  source: wiktionary-frequency
+- word: dingen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dolgok
+  source: wiktionary-frequency
 - word: dinosaurus
   ipa: ''
   pos: ''
   meanings:
   - definition: dinoszaurusz
   source: storia
+- word: dinsdag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ura
+  source: wiktionary-frequency
+- word: diploma uitreiking
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: irányító
+  source: wiktionary-frequency
+  expression_of: diploma
+- word: direct
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: azonnal
+  source: wiktionary-frequency
+- word: Directeur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: felügyelet
+  source: wiktionary-frequency
 - word: dirigeren
   ipa: ''
   pos: ''
   meanings:
   - definition: vezényel, elirányít
   source: prachtige wereld waar ben je [Sally Rooney]
+- word: disciplinair
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: létszám
+  source: wiktionary-frequency
+- word: discussie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tanácsot
+  source: wiktionary-frequency
+- word: discussies
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vállalni
+  source: wiktionary-frequency
+- word: dit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ez
+  source: wiktionary-frequency
+- word: div
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: RTL
+  source: wiktionary-frequency
+- word: dkg
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rendszernek
+  source: wiktionary-frequency
+- word: doctoraal
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyújtanak
+  source: wiktionary-frequency
+- word: document
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mindenki
+  source: wiktionary-frequency
+- word: documentatie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyugat
+  source: wiktionary-frequency
+- word: documenten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kint
+  source: wiktionary-frequency
+- word: dodelijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ismerik
+  source: wiktionary-frequency
+- word: doe het
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: műanyag
+  source: wiktionary-frequency
+  expression_of: doe
+- word: doel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: célra
+  source: wiktionary-frequency
 - word: doel nastreven
   ipa: ''
   pos: ''
@@ -386,12 +1071,54 @@
   meanings:
   - definition: cél
   source: het diner
+- word: doeleinden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: akartak
+  source: wiktionary-frequency
+- word: doelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: linkre
+  source: wiktionary-frequency
+- word: Doelwit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: cél
+  source: wiktionary-frequency
+- word: doema
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyűjtött
+  source: wiktionary-frequency
+- word: Doen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: teszi
+  source: wiktionary-frequency
 - word: doezelen
   ipa: ''
   pos: ''
   meanings:
   - definition: szundikál
   source: summoner
+- word: dokter
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: orvos
+  source: wiktionary-frequency
+- word: doktoren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: igények
+  source: wiktionary-frequency
 - word: dol
   ipa: ''
   pos: ''
@@ -401,6 +1128,30 @@
     - nl: ze is niet dol op huishoudelijk werk
       hu: nincs oda a házimunkáért
   source: kattenoog
+- word: dolga
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hatás
+  source: wiktionary-frequency
+- word: dollar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: művészeti
+  source: wiktionary-frequency
+- word: dollars
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: előtt
+  source: wiktionary-frequency
+- word: dom
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: állapot
+  source: wiktionary-frequency
 - word: dominee
   ipa: ''
   pos: ''
@@ -419,6 +1170,12 @@
   meanings:
   - definition: idióta
   source: na de aardbeveging
+- word: Donau
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Dávid
+  source: wiktionary-frequency
 - word: donder op!
   ipa: ''
   pos: ''
@@ -432,6 +1189,12 @@
   meanings:
   - definition: muskéta
   source: summoner 2
+- word: donderdag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Franciaország
+  source: wiktionary-frequency
 - word: donderden
   ipa: ''
   pos: ''
@@ -444,6 +1207,12 @@
   meanings:
   - definition: rosszcsont
   source: summoner 2
+- word: donker
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sötét
+  source: wiktionary-frequency
 - word: donker, donkerte
   ipa: ''
   pos: ''
@@ -452,6 +1221,12 @@
     english: dark, darkness
   source: na de bevrijding
   expression_of: donker,
+- word: dood
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: halál
+  source: wiktionary-frequency
 - word: doodgemoedereerd
   ipa: ''
   pos: ''
@@ -465,12 +1240,38 @@
   - definition: megolvad
     english: sy:smelten
   source: na de aardbeveging
+- word: door
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: által
+  source: wiktionary-frequency
+- word: Door dit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ifjúsági
+  source: wiktionary-frequency
+  expression_of: dit
 - word: doordringen
   ipa: ''
   pos: ''
   meanings:
   - definition: áthatol, átv. ráeszmél
   source: prachtige wereld waar ben je [Sally Rooney]
+- word: doorgaan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fejléceit
+  source: wiktionary-frequency
+- word: doorgaan met
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: továbbra
+  source: wiktionary-frequency
+  expression_of: doorgaan
 - word: doorgroeimogeleijkheid
   ipa: ''
   pos: ''
@@ -508,24 +1309,117 @@
   meanings:
   - definition: aki a céljáig eljut
   source: mondeling
+- word: Doorzichtig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: világos
+  source: wiktionary-frequency
+- word: doos
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kimaradt
+  source: wiktionary-frequency
+- word: dorp
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: falu
+  source: wiktionary-frequency
+- word: dorpen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ösztöndíj
+  source: wiktionary-frequency
+- word: dosis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: feltéve
+  source: wiktionary-frequency
 - word: doven
   ipa: ''
   pos: ''
   meanings:
   - definition: kiolt pl tűzet
   source: bepaalde dag in het leven van idereen
+- word: downloadbaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: helyszínen
+  source: wiktionary-frequency
+- word: downloaden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kereső
+  source: wiktionary-frequency
+- word: dozijn
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szabályozó
+  source: wiktionary-frequency
 - word: draad
   ipa: ''
   pos: ''
   meanings:
   - definition: szál, madzag
   source: na de aardbeveging
+- word: Draag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hatalmat
+  source: wiktionary-frequency
+- word: draag zorg voor
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kérünk
+  source: wiktionary-frequency
+  expression_of: draag
+- word: draagbaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: éli
+  source: wiktionary-frequency
+- word: draagt ​​bij
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pláne
+  source: wiktionary-frequency
+  expression_of: draagt
+- word: draaide zich om
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fordult
+  source: wiktionary-frequency
+  expression_of: draaide
 - word: draak
   ipa: ''
   pos: ''
   meanings:
   - definition: sárkány
   source: kattenoog
+- word: drama
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kiváltó
+  source: wiktionary-frequency
+- word: dramatisch
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: belépési
+  source: wiktionary-frequency
 - word: draper
   ipa: ''
   pos: ''
@@ -557,6 +1451,19 @@
   meanings:
   - definition: puff, ütés
   source: na de aardbeveging
+- word: drie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: három
+  source: wiktionary-frequency
+- word: drie keer
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eredeti
+  source: wiktionary-frequency
+  expression_of: drie
 - word: driedubbel
   ipa: ''
   pos: ''
@@ -581,12 +1488,42 @@
   meanings:
   - definition: lebeg, úszik
   source: kattenoog
+- word: drinken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: évtizedben
+  source: wiktionary-frequency
+- word: drives
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dolguk
+  source: wiktionary-frequency
 - word: droefheid
   ipa: ''
   pos: ''
   meanings:
   - definition: szomorúság
   source: summoner
+- word: droog
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kijelölt
+  source: wiktionary-frequency
+- word: droogte
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szerző
+  source: wiktionary-frequency
+- word: droom
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: voltál
+  source: wiktionary-frequency
 - word: druid
   ipa: ''
   pos: ''
@@ -599,24 +1536,110 @@
   meanings:
   - definition: szöllőfürt
   source: het diner
+- word: druk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megállapítása
+  source: wiktionary-frequency
+- word: druk op
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: versenyt
+  source: wiktionary-frequency
+  expression_of: druk
 - word: drukverschil
   ipa: ''
   pos: ''
   meanings:
   - definition: nyomáskülönbség
   source: taalrecht
+- word: dubbel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kettős
+  source: wiktionary-frequency
+- word: dubbele
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: magazin
+  source: wiktionary-frequency
+- word: duidelijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egyértelműen
+  source: wiktionary-frequency
+- word: duidt op
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jelzi
+  source: wiktionary-frequency
+  expression_of: duidt
+- word: duiken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: közismert
+  source: wiktionary-frequency
 - word: duimpje
   ipa: ''
   pos: ''
   meanings:
   - definition: hüvelyujjacska
   source: prachtige wereld waar ben je [Sally Rooney]
+- word: duisternis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gépkocsi
+  source: wiktionary-frequency
+- word: Duitse
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: német
+  source: wiktionary-frequency
+- word: Duitsers
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: parti
+  source: wiktionary-frequency
+- word: Duitsland
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: válaszol
+  source: wiktionary-frequency
+- word: duivel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fát
+  source: wiktionary-frequency
 - word: duivelin
   ipa: ''
   pos: ''
   meanings:
   - definition: ördögi nő
   source: summoner
+- word: duizend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ezer
+  source: wiktionary-frequency
+- word: dun
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: teljesen
+  source: wiktionary-frequency
 - word: dunk, mening
   ipa: ''
   pos: ''
@@ -624,18 +1647,105 @@
   - definition: vélemény, nézet
   source: kattenoog
   expression_of: dunk,
+- word: dusver
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eddig
+  source: wiktionary-frequency
+- word: duur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: drága
+  source: wiktionary-frequency
+- word: duurder
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: táblázatban
+  source: wiktionary-frequency
+- word: duurzaam
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: érhető
+  source: wiktionary-frequency
+- word: duurzame
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vettük
+  source: wiktionary-frequency
+- word: Duwen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jövőbeni
+  source: wiktionary-frequency
+- word: DVD
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: képezi
+  source: wiktionary-frequency
+- word: dwaas
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szabadságharc
+  source: wiktionary-frequency
 - word: dwangsom
   ipa: ''
   pos: ''
   meanings:
   - definition: kötbér
   source: mix2
+- word: dwerg
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: reneszánsz
+  source: wiktionary-frequency
+- word: dwingen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szoros
+  source: wiktionary-frequency
+- word: dynamisch
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kémiai
+  source: wiktionary-frequency
 - word: dystrofie
   ipa: ''
   pos: ''
   meanings:
   - definition: izomsorvadás
   source: na de bevrijding
+- word: het hele ding
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: érezte
+  source: wiktionary-frequency
+  expression_of: ding
+- word: hij dacht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dolgozat
+  source: wiktionary-frequency
+  expression_of: dacht
+- word: hij denkt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gondolja
+  source: wiktionary-frequency
+  expression_of: denkt
 - word: hij doet rechten in London
   ipa: ''
   pos: ''
@@ -650,6 +1760,153 @@
   - definition: elnémítani valamit
   source: mondeling 3
   expression_of: doofpot
+- word: ik dacht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gondoltam
+  source: wiktionary-frequency
+  expression_of: dacht
+- word: ik deed
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: interface
+  source: wiktionary-frequency
+  expression_of: deed
+- word: Ik denk het wel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szerintem
+  source: wiktionary-frequency
+  expression_of: denk
+- word: Ik doe
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: játszó
+  source: wiktionary-frequency
+  expression_of: doe
+- word: in dat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: abban
+  source: wiktionary-frequency
+  expression_of: dat
+- word: In de dagen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: napokban
+  source: wiktionary-frequency
+  expression_of: dagen
+- word: in december
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: műtét
+  source: wiktionary-frequency
+  expression_of: december
+- word: in detail
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jogszabály
+  source: wiktionary-frequency
+  expression_of: detail
+- word: in deze
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ebben
+  source: wiktionary-frequency
+  expression_of: deze
+- word: in Duitsland
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szilárd
+  source: wiktionary-frequency
+  expression_of: duitsland
+- word: in het donker
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: átadott
+  source: wiktionary-frequency
+  expression_of: donker
+- word: in het dorp
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kormány
+  source: wiktionary-frequency
+  expression_of: dorp
+- word: jij denkt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fogadja
+  source: wiktionary-frequency
+  expression_of: denkt
+- word: met dank aan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mindezt
+  source: wiktionary-frequency
+  expression_of: dank
+- word: met dat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: azzal
+  source: wiktionary-frequency
+  expression_of: dat
+- word: met de deelname van
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jöttem
+  source: wiktionary-frequency
+  expression_of: deelname
+- word: met deze
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: problémákat
+  source: wiktionary-frequency
+  expression_of: deze
+- word: naar daar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: arra
+  source: wiktionary-frequency
+  expression_of: daar
+- word: naar deze
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jövök
+  source: wiktionary-frequency
+  expression_of: deze
+- word: naar een dokter
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: meglepően
+  source: wiktionary-frequency
+  expression_of: dokter
+- word: of de
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fogni
+  source: wiktionary-frequency
+  expression_of: de
 - word: onder dwang
   ipa: ''
   pos: ''
@@ -657,6 +1914,62 @@
   - definition: kényszer alatt
   source: Knack+NVA
   expression_of: dwang
+- word: ons doel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: örömmel
+  source: wiktionary-frequency
+  expression_of: doel
+- word: op dat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ahhoz
+  source: wiktionary-frequency
+  expression_of: dat
+- word: op de deur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: témakörben
+  source: wiktionary-frequency
+  expression_of: deur
+- word: Op deze
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ennél
+  source: wiktionary-frequency
+  expression_of: deze
+- word: op dezelfde manier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hasonlóan
+  source: wiktionary-frequency
+  expression_of: dezelfde
+- word: op dinsdag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: minimális
+  source: wiktionary-frequency
+  expression_of: dinsdag
+- word: op dit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ezen
+  source: wiktionary-frequency
+  expression_of: dit
+- word: op donderdag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: azóta
+  source: wiktionary-frequency
+  expression_of: donderdag
 - word: op dreef komen
   ipa: ''
   pos: ''
@@ -671,6 +1984,174 @@
   - definition: nekilendül
   source: de pauw - werk
   expression_of: dreef
+- word: over deze
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: középpontjában
+  source: wiktionary-frequency
+  expression_of: deze
+- word: over dingen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bekövetkező
+  source: wiktionary-frequency
+  expression_of: dingen
+- word: Te doen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tenni
+  source: wiktionary-frequency
+  expression_of: doen
+- word: tijdens de Dag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nappal
+  source: wiktionary-frequency
+  expression_of: dag
+- word: tot dan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: addig
+  source: wiktionary-frequency
+  expression_of: dan
+- word: tot de dood
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hal
+  source: wiktionary-frequency
+  expression_of: dood
+- word: van dat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: attól
+  source: wiktionary-frequency
+  expression_of: dat
+- word: van de dag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: állás
+  source: wiktionary-frequency
+  expression_of: dag
+- word: van deze
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ettől
+  source: wiktionary-frequency
+  expression_of: deze
+- word: van dit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ennek
+  source: wiktionary-frequency
+  expression_of: dit
+- word: voor dames
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hangulata
+  source: wiktionary-frequency
+  expression_of: dames
+- word: voor deze
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: erre
+  source: wiktionary-frequency
+  expression_of: deze
+- word: Voor dit doeleinde
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kávéra
+  source: wiktionary-frequency
+  expression_of: doeleinde
+- word: we denken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: főre
+  source: wiktionary-frequency
+  expression_of: denken
+- word: we zijn aan het doen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: panasz
+  source: wiktionary-frequency
+  expression_of: doen
+- word: wij doen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kedvem
+  source: wiktionary-frequency
+  expression_of: doen
+- word: ze dachten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hetek
+  source: wiktionary-frequency
+  expression_of: dachten
+- word: ze deden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: források
+  source: wiktionary-frequency
+  expression_of: deden
+- word: ze denken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elv
+  source: wiktionary-frequency
+  expression_of: denken
+- word: ze draaien
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: utakon
+  source: wiktionary-frequency
+  expression_of: draaien
+- word: zij doen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: teszik
+  source: wiktionary-frequency
+  expression_of: doen
+- word: zij dragen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kíváncsiak
+  source: wiktionary-frequency
+  expression_of: dragen
+- word: zijn dochter
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: liberális
+  source: wiktionary-frequency
+  expression_of: dochter
+- word: zijn doel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: célja
+  source: wiktionary-frequency
+  expression_of: doel
 - word: zijn doel verwezenlijken
   ipa: ''
   pos: ''
@@ -678,3 +2159,24 @@
   - definition: céljait megvalósítja
   source: het diner
   expression_of: doel
+- word: zijn dood
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: energia
+  source: wiktionary-frequency
+  expression_of: dood
+- word: zijn druk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nehezebb
+  source: wiktionary-frequency
+  expression_of: druk
+- word: zonder dat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: anélkül
+  source: wiktionary-frequency
+  expression_of: dat

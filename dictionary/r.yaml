@@ -1,3 +1,10 @@
+- word: als resultaat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: következtében
+  source: wiktionary-frequency
+  expression_of: resultaat
 - word: door en door rot
   ipa: ''
   pos: ''
@@ -27,6 +34,55 @@
   - definition: vkit meggyőz
   source: het diner
   expression_of: rede
+- word: ik raad aan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ajánlom
+  source: wiktionary-frequency
+  expression_of: raad
+- word: in de richting van
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: angolul
+  source: wiktionary-frequency
+  expression_of: richting
+- word: in de ruimte
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nevére
+  source: wiktionary-frequency
+  expression_of: ruimte
+- word: in een rij
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sorban
+  source: wiktionary-frequency
+  expression_of: rij
+- word: In rekening brengen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tegyük
+  source: wiktionary-frequency
+  expression_of: rekening
+- word: in ruil
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sebeztél
+  source: wiktionary-frequency
+  expression_of: ruil
+- word: met resultaten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: idézett
+  source: wiktionary-frequency
+  expression_of: resultaten
 - word: na rijp beraad
   ipa: ''
   pos: ''
@@ -34,6 +90,27 @@
   - definition: alapos megfontolás után
   source: na de bevrijding
   expression_of: rijp
+- word: op zijn rug
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ipari
+  source: wiktionary-frequency
+  expression_of: rug
+- word: Raad van bestuur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szorongás
+  source: wiktionary-frequency
+  expression_of: raad
+- word: Raad van Toezicht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nevével
+  source: wiktionary-frequency
+  expression_of: raad
 - word: raadplegen, consulteren
   ipa: ''
   pos: ''
@@ -56,18 +133,48 @@
   meanings:
   - definition: hablatyol, össze-vissza beszél
   source: buitenstander
+- word: races
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szeptemberben
+  source: wiktionary-frequency
 - word: radeloosheid
   ipa: ''
   pos: ''
   meanings:
   - definition: tanácstalanság
   source: na de aardbeveging
+- word: raden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ismerünk
+  source: wiktionary-frequency
+- word: radicaal
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: döntését
+  source: wiktionary-frequency
+- word: radio-
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: virtuális
+  source: wiktionary-frequency
 - word: rafelig
   ipa: ''
   pos: ''
   meanings:
   - definition: kopott, feslett
   source: de wereld van Sophie (Jostein Gaarder)
+- word: raken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: meghívott
+  source: wiktionary-frequency
 - word: ramen
   ipa: ''
   pos: ''
@@ -93,6 +200,12 @@
   meanings:
   - definition: nyomulós
   source: mondeling
+- word: ramp
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eladott
+  source: wiktionary-frequency
 - word: rancune
   ipa: ''
   pos: ''
@@ -100,6 +213,24 @@
   - definition: gyűlölködés
     english: rancour
   source: buitenstander
+- word: rand
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elé
+  source: wiktionary-frequency
+- word: rang
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: számodra
+  source: wiktionary-frequency
+- word: rangot
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: beszélgettünk
+  source: wiktionary-frequency
 - word: ranselen
   ipa: ''
   pos: ''
@@ -119,6 +250,18 @@
   - definition: avas
     english: rancid
   source: prachtige wereld waar ben je [Sally Rooney]
+- word: rapporten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: konfliktus
+  source: wiktionary-frequency
+- word: ras
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: verseny
+  source: wiktionary-frequency
 - word: rasecht
   ipa: ''
   pos: ''
@@ -132,6 +275,18 @@
   - definition: csörgőkigyó
     english: rattlesnake
   source: buitenstander
+- word: rationeel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: védelmére
+  source: wiktionary-frequency
+- word: rauw
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: részleges
+  source: wiktionary-frequency
 - word: ravijn
   ipa: ''
   pos: ''
@@ -144,18 +299,98 @@
   meanings:
   - definition: örjöngés
   source: de heks van Portobello
+- word: reageert
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: írni
+  source: wiktionary-frequency
+- word: Realiseerde ik me
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: felügyelő
+  source: wiktionary-frequency
+  expression_of: realiseerde
+- word: realiseren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tájékoztató
+  source: wiktionary-frequency
+- word: realistisch
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elmondani
+  source: wiktionary-frequency
+- word: realiteit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: számon
+  source: wiktionary-frequency
 - word: rechercheur
   ipa: ''
   pos: ''
   meanings:
   - definition: detektív
   source: buitenstander
+- word: recht hebben
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jogosult
+  source: wiktionary-frequency
+  expression_of: recht
+- word: rechtbank
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bíróság
+  source: wiktionary-frequency
+- word: Rechtdoor
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jelölt
+  source: wiktionary-frequency
+- word: rechten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jogok
+  source: wiktionary-frequency
+- word: rechter
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jelentett
+  source: wiktionary-frequency
+- word: rechthebbende
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: régóta
+  source: wiktionary-frequency
+- word: rechtmatig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lemezt
+  source: wiktionary-frequency
 - word: rechtreeks
   ipa: ''
   pos: ''
   meanings:
   - definition: közvetlenül
   source: contract
+- word: Rechtsaf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jobb
+  source: wiktionary-frequency
 - word: rechtspraak
   ipa: ''
   pos: ''
@@ -168,12 +403,54 @@
   meanings:
   - definition: jogállam
   source: Knack+NVA
+- word: rechtszijdig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyártott
+  source: wiktionary-frequency
+- word: rechtvaardigen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megszületett
+  source: wiktionary-frequency
 - word: rechtvaardiging
   ipa: ''
   pos: ''
   meanings:
   - definition: indoklás
   source: na de bevrijding
+- word: rechtvaardigt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hegyi
+  source: wiktionary-frequency
+- word: reclame
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: iraki
+  source: wiktionary-frequency
+- word: records
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyakorlat
+  source: wiktionary-frequency
+- word: redactie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: középkori
+  source: wiktionary-frequency
+- word: redden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: publikus
+  source: wiktionary-frequency
 - word: redding
   ipa: ''
   pos: ''
@@ -187,6 +464,18 @@
   - definition: elég nagy
   source: summoner
   expression_of: redelijk
+- word: reden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: oka
+  source: wiktionary-frequency
+- word: redenen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: alapos
+  source: wiktionary-frequency
 - word: redeneren
   ipa: ''
   pos: ''
@@ -204,6 +493,18 @@
     - nl: zijn reet redden
       hu: megmenti  <save his ass>
   source: buitenstander
+- word: reflecteren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kerület
+  source: wiktionary-frequency
+- word: regel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lakott
+  source: wiktionary-frequency
 - word: regelgevend kader
   ipa: ''
   pos: ''
@@ -211,12 +512,134 @@
   - definition: szabályozási keret
   source: Knack+NVA
   expression_of: regelgevend
+- word: regelgevende
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vezetékes
+  source: wiktionary-frequency
+- word: regelgeving
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hálózaton
+  source: wiktionary-frequency
 - word: regelmaat
   ipa: ''
   pos: ''
   meanings:
   - definition: rendszeresség
   source: de pauw - werk
+- word: regelmatig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rendszeresen
+  source: wiktionary-frequency
+- word: regelt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: okozza
+  source: wiktionary-frequency
+- word: regen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eső
+  source: wiktionary-frequency
+- word: regerend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mérsékelt
+  source: wiktionary-frequency
+- word: regering
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kormány
+  source: wiktionary-frequency
+- word: regeringshoofd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: regisztráció
+  source: wiktionary-frequency
+- word: regime verandering
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bocs
+  source: wiktionary-frequency
+  expression_of: regime
+- word: regio
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kiadás
+  source: wiktionary-frequency
+- word: Regio's
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: állítás
+  source: wiktionary-frequency
+- word: regionaal
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: regionális
+  source: wiktionary-frequency
+- word: regionale Ontwikkeling
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kimagasló
+  source: wiktionary-frequency
+  expression_of: regionale
+- word: regisseert
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: állati
+  source: wiktionary-frequency
+- word: regisseur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: igazgatója
+  source: wiktionary-frequency
+- word: registratie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: regisztráció
+  source: wiktionary-frequency
+- word: registreren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hármas
+  source: wiktionary-frequency
+- word: reglement
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szabályok
+  source: wiktionary-frequency
+- word: regulatie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rendelet
+  source: wiktionary-frequency
+- word: regulerend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mezőgazdasági
+  source: wiktionary-frequency
 - word: reiken
   ipa: ''
   pos: ''
@@ -230,12 +653,67 @@
   - definition: aggódva (várni)
   source: na de aardbeveging
   expression_of: reikhalzend
+- word: reikwijdte
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: körű
+  source: wiktionary-frequency
+- word: reizen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: látják
+  source: wiktionary-frequency
+- word: reiziger
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyomtató
+  source: wiktionary-frequency
+- word: rejlik
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jövedelem
+  source: wiktionary-frequency
+- word: rekening houdend met de
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: életbe
+  source: wiktionary-frequency
+  expression_of: rekening
 - word: relaas
   ipa: ''
   pos: ''
   meanings:
   - definition: mese
   source: het diner
+- word: relatie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kapcsolatot
+  source: wiktionary-frequency
+- word: relevant
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vonatkozó
+  source: wiktionary-frequency
+- word: religie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szobás
+  source: wiktionary-frequency
+- word: religieus
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mindegyik
+  source: wiktionary-frequency
 - word: religieuze overwegingen
   ipa: ''
   pos: ''
@@ -243,6 +721,12 @@
   - definition: vallási megfontolások
   source: Knack 2
   expression_of: religieuze
+- word: Renaissance
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rendje
+  source: wiktionary-frequency
 - word: rendabel
   ipa: ''
   pos: ''
@@ -268,6 +752,18 @@
   meanings:
   - definition: rénszarvas
   source: storia
+- word: rendre
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyilvántartásba
+  source: wiktionary-frequency
+- word: rennen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: módszerek
+  source: wiktionary-frequency
 - word: rente, interes
   ipa: ''
   pos: ''
@@ -275,6 +771,12 @@
   - definition: kamat
   source: taalrecht
   expression_of: rente,
+- word: reparatie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: informatika
+  source: wiktionary-frequency
 - word: repeteren
   ipa: ''
   pos: ''
@@ -287,6 +789,54 @@
   meanings:
   - definition: hüllő
   source: mondeling
+- word: Republiek
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: működik
+  source: wiktionary-frequency
+- word: republikeins
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sátán
+  source: wiktionary-frequency
+- word: residu
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: több
+  source: wiktionary-frequency
+- word: resolutie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hirtelen
+  source: wiktionary-frequency
+- word: respect
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tekintetében
+  source: wiktionary-frequency
+- word: respectabel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megszüntetése
+  source: wiktionary-frequency
+- word: respecteert
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: illeti
+  source: wiktionary-frequency
+- word: respectievelijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: illetőleg
+  source: wiktionary-frequency
 - word: responsabiliseren
   ipa: ''
   pos: ''
@@ -299,6 +849,114 @@
   meanings:
   - definition: maradék
   source: kattenoog 2
+- word: restaurant
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ellenség
+  source: wiktionary-frequency
+- word: resultaat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eredmény
+  source: wiktionary-frequency
+- word: resultaten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eredmények
+  source: wiktionary-frequency
+- word: resulterend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: láthatjuk
+  source: wiktionary-frequency
+- word: retentie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hangsúlyozni
+  source: wiktionary-frequency
+- word: retrospectief
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: üzemeltető
+  source: wiktionary-frequency
+- word: reusachtig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: óriási
+  source: wiktionary-frequency
+- word: revolutie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: számban
+  source: wiktionary-frequency
+- word: revolutionair
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: doktor
+  source: wiktionary-frequency
+- word: richting
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nézett
+  source: wiktionary-frequency
+- word: richtprijs
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: támadással
+  source: wiktionary-frequency
+- word: rij
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sor
+  source: wiktionary-frequency
+- word: rijder
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: válság
+  source: wiktionary-frequency
+- word: rijen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: stúdió
+  source: wiktionary-frequency
+- word: rijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gazdag
+  source: wiktionary-frequency
+- word: rijkdom
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szempont
+  source: wiktionary-frequency
+- word: rijp
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jelentkezési
+  source: wiktionary-frequency
+- word: rijpen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ismertetése
+  source: wiktionary-frequency
 - word: rijststro
   ipa: ''
   pos: ''
@@ -318,6 +976,18 @@
   meanings:
   - definition: csillingel
   source: na de aardbeveging
+- word: rit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: küldése
+  source: wiktionary-frequency
+- word: rivier-
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: folyó
+  source: wiktionary-frequency
 - word: RIZIV nummer
   ipa: ''
   pos: ''
@@ -325,6 +995,12 @@
   - definition: orvosi igazolószám
   source: Knack+NVA
   expression_of: riziv
+- word: Robert
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megjelölt
+  source: wiktionary-frequency
 - word: roddelblad
   ipa: ''
   pos: ''
@@ -349,18 +1025,72 @@
   meanings:
   - definition: vakmerő
   source: bepaalde dag in het leven van idereen
+- word: Roemeense
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: román
+  source: wiktionary-frequency
 - word: roemen
   ipa: ''
   pos: ''
   meanings:
   - definition: dicsőít, magasztol
   source: na de aardbeveging
+- word: Roemenië
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elektronikai
+  source: wiktionary-frequency
+- word: rol
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szerepet
+  source: wiktionary-frequency
+- word: rom
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: félek
+  source: wiktionary-frequency
+- word: Roma
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: indít
+  source: wiktionary-frequency
+- word: Roman
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: római
+  source: wiktionary-frequency
+- word: romantisch
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tisza
+  source: wiktionary-frequency
+- word: Rome
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyakorlatban
+  source: wiktionary-frequency
 - word: rommelig
   ipa: ''
   pos: ''
   meanings:
   - definition: rendetlen (nincs rend)
   source: mondeling 2
+- word: ronde
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: körben
+  source: wiktionary-frequency
 - word: rondtrekken
   ipa: ''
   pos: ''
@@ -373,6 +1103,12 @@
   meanings:
   - definition: körutazás
   source: de pauw - werk 2
+- word: rood
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: piros
+  source: wiktionary-frequency
 - word: roodboorst
   ipa: ''
   pos: ''
@@ -382,12 +1118,24 @@
     - nl: te guur naar mijn zin
       hu: túl zord az én érzékemnek
   source: de pauw - werk
+- word: roos
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: látjuk
+  source: wiktionary-frequency
 - word: rotavirus
   ipa: ''
   pos: ''
   meanings:
   - definition: rotavirus
   source: ziktes
+- word: roterend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bölcs
+  source: wiktionary-frequency
 - word: rotsspleet
   ipa: ''
   pos: ''
@@ -406,12 +1154,42 @@
   meanings:
   - definition: ócska, szar
   source: kattenoog
+- word: rovat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: legtöbben
+  source: wiktionary-frequency
+- word: RTL
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: útját
+  source: wiktionary-frequency
 - word: ruggengraat
   ipa: ''
   pos: ''
   meanings:
   - definition: gerinc
   source: kattenoog
+- word: ruim
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: használtak
+  source: wiktionary-frequency
+- word: ruimte
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: irányár
+  source: wiktionary-frequency
+- word: ruimtelijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: alkotmánybíróság
+  source: wiktionary-frequency
 - word: ruis
   ipa: ''
   pos: ''
@@ -419,6 +1197,42 @@
   - definition: zaj
     english: noise
   source: bepaalde dag in het leven van idereen
+- word: Rusland
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Lengyelország
+  source: wiktionary-frequency
+- word: Russen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: uniós
+  source: wiktionary-frequency
+- word: Russisch
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: orosz
+  source: wiktionary-frequency
+- word: rust
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megtartani
+  source: wiktionary-frequency
+- word: rustig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyugodtan
+  source: wiktionary-frequency
+- word: ruw
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megrendezésre
+  source: wiktionary-frequency
 - word: ruziën. ruzie maken
   ipa: ''
   pos: ''
@@ -426,6 +1240,24 @@
   - definition: veszekedni
   source: mondeling 3
   expression_of: ruziën.
+- word: ruïneren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: erőforrások
+  source: wiktionary-frequency
+- word: Rákóczi
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mutatkozik
+  source: wiktionary-frequency
+- word: Réka
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Eszter
+  source: wiktionary-frequency
 - word: uit het raam klauteren
   ipa: ''
   pos: ''
@@ -433,6 +1265,20 @@
   - definition: kimászik az ablakon
   source: bepaalde dag in het leven van idereen
   expression_of: raam
+- word: voor een reden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eredményes
+  source: wiktionary-frequency
+  expression_of: reden
+- word: we reserveren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: előadó
+  source: wiktionary-frequency
+  expression_of: reserveren
 - word: zijn relaas doen
   ipa: ''
   pos: ''
@@ -440,3 +1286,10 @@
   - definition: sztorizik, mesél
   source: het diner
   expression_of: relaas
+- word: zijn rol
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szerepe
+  source: wiktionary-frequency
+  expression_of: rol

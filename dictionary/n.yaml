@@ -1,3 +1,10 @@
+- word: '''s nachts'
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hangot
+  source: wiktionary-frequency
+  expression_of: nachts
 - word: de Nederlands letterkunde
   ipa: ''
   pos: ''
@@ -12,6 +19,82 @@
   - definition: a telefonhálozat picit megszakadt
   source: het diner
   expression_of: netwerk
+- word: hij noemde
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tanulói
+  source: wiktionary-frequency
+  expression_of: noemde
+- word: in de nabije toekomst
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: válaszul
+  source: wiktionary-frequency
+  expression_of: nabije
+- word: in de nasleep van
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyomán
+  source: wiktionary-frequency
+  expression_of: nasleep
+- word: in de natuur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: képviselt
+  source: wiktionary-frequency
+  expression_of: natuur
+- word: in de nederzetting
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megpróbálom
+  source: wiktionary-frequency
+  expression_of: nederzetting
+- word: in november
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dalok
+  source: wiktionary-frequency
+  expression_of: november
+- word: in zijn naam
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: működés
+  source: wiktionary-frequency
+  expression_of: naam
+- word: je neemt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gépeket
+  source: wiktionary-frequency
+  expression_of: neemt
+- word: met een naam
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: landol
+  source: wiktionary-frequency
+  expression_of: naam
+- word: met niets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csinálta
+  source: wiktionary-frequency
+  expression_of: niets
+- word: na
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: után
+  source: wiktionary-frequency
 - word: naa de mis gaan
   ipa: ''
   pos: ''
@@ -25,42 +108,213 @@
   meanings:
   - definition: zökkenőmentes
   source: mix3
+- word: naam
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: neve
+  source: wiktionary-frequency
+- word: naam dagen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lenyűgöző
+  source: wiktionary-frequency
+  expression_of: naam
+- word: naar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: felé
+  source: wiktionary-frequency
+- word: naast
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mellett
+  source: wiktionary-frequency
+- word: naast - mellett
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: édes
+  source: wiktionary-frequency
+  expression_of: naast
+- word: naast mij
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: végeztem
+  source: wiktionary-frequency
+  expression_of: naast
 - word: nabijheid
   ipa: ''
   pos: ''
   meanings:
   - definition: közelség
   source: na de aardbeveging
+- word: nacht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: éjszaka
+  source: wiktionary-frequency
+- word: nadelig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: several
+  source: wiktionary-frequency
 - word: nader
   ipa: ''
   pos: ''
   meanings:
   - definition: közelebb
   source: bepaalde dag in het leven van idereen
+- word: nadering
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kihasználva
+  source: wiktionary-frequency
+- word: nadruk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: éri
+  source: wiktionary-frequency
 - word: nadrukkelijk
   ipa: ''
   pos: ''
   meanings:
   - definition: nyomatékosan
   source: de heks van Portobello
+- word: nagel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Csongrád
+  source: wiktionary-frequency
 - word: nagelnieuw
   ipa: ''
   pos: ''
   meanings:
   - definition: vadiúj
   source: mix
+- word: nam
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vette
+  source: wiktionary-frequency
+- word: namelijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szeme
+  source: wiktionary-frequency
+- word: namen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: termelés
+  source: wiktionary-frequency
+- word: namens
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: részéről
+  source: wiktionary-frequency
+- word: namiddag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: délután
+  source: wiktionary-frequency
+- word: napig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: napig
+  source: wiktionary-frequency
+- word: napra
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: napra
+  source: wiktionary-frequency
 - word: nasmaak
   ipa: ''
   pos: ''
   meanings:
   - definition: utóíz
   source: summoner
+- word: nat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: betöltött
+  source: wiktionary-frequency
+- word: natie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: iskolában
+  source: wiktionary-frequency
+- word: nationaal
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nemzeti
+  source: wiktionary-frequency
+- word: nationaliteit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: munkahelyi
+  source: wiktionary-frequency
+- word: native
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: menj
+  source: wiktionary-frequency
+- word: natuur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jellegű
+  source: wiktionary-frequency
+- word: natuurbescherming
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mellesleg
+  source: wiktionary-frequency
+- word: natuurlijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: persze
+  source: wiktionary-frequency
 - word: nauwelijk
   ipa: ''
   pos: ''
   meanings:
   - definition: alig
   source: na de aardbeveging
+- word: nauwelijks
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ellenzéki
+  source: wiktionary-frequency
+- word: nauwkeurig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pontos
+  source: wiktionary-frequency
 - word: navelstaarder
   ipa: ''
   pos: ''
@@ -79,6 +333,12 @@
   meanings:
   - definition: utánamond, elismétli
   source: het diner
+- word: NAVO
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megállapodást
+  source: wiktionary-frequency
 - word: nederig
   ipa: ''
   pos: ''
@@ -97,6 +357,12 @@
   meanings:
   - definition: legyőzés
   source: het diner
+- word: Nederlands
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kérlek
+  source: wiktionary-frequency
 - word: nederlands taalbad te trekken
   ipa: ''
   pos: ''
@@ -104,6 +370,36 @@
   - definition: holland nyelvmedencébe húzni
   source: Knack+NVA
   expression_of: nederlands
+- word: nederzetting
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: település
+  source: wiktionary-frequency
+- word: nederzettingen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Norbi
+  source: wiktionary-frequency
+- word: nee
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nem
+  source: wiktionary-frequency
+- word: Nee.
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: számú
+  source: wiktionary-frequency
+- word: neemt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: veszi
+  source: wiktionary-frequency
 - word: neerbuigen
   ipa: ''
   pos: ''
@@ -143,12 +439,36 @@
   meanings:
   - definition: hátrányos, előnytelen
   source: taalrecht
+- word: negatief
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: negatív
+  source: wiktionary-frequency
+- word: negen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: stb
+  source: wiktionary-frequency
 - word: negorij
   ipa: ''
   pos: ''
   meanings:
   - definition: porfészek
   source: na de aardbeveging
+- word: neiging
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bizonyíték
+  source: wiktionary-frequency
+- word: nemen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: véve
+  source: wiktionary-frequency
 - word: nergens
   ipa: ''
   pos: ''
@@ -156,6 +476,57 @@
   - definition: sehol
     english: nowhere
   source: na de bevrijding
+- word: net als
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lépést
+  source: wiktionary-frequency
+  expression_of: net
+- word: net nu
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: indítanak
+  source: wiktionary-frequency
+  expression_of: net
+- word: net zo
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mint
+  source: wiktionary-frequency
+  expression_of: net
+- word: neten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kapitány
+  source: wiktionary-frequency
+- word: netjes
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: folytatni
+  source: wiktionary-frequency
+- word: netto-
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: halad
+  source: wiktionary-frequency
+- word: netwerk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hálózati
+  source: wiktionary-frequency
+- word: netwerken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csatlakozási
+  source: wiktionary-frequency
 - word: neuriën
   ipa: ''
   pos: ''
@@ -175,12 +546,84 @@
   - definition: ködös
     english: misty
   source: kattenoog
+- word: Neves
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szépségápolás
+  source: wiktionary-frequency
+- word: nevezi
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gróf
+  source: wiktionary-frequency
+- word: niemand
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: senki
+  source: wiktionary-frequency
+- word: niet
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: áru
+  source: wiktionary-frequency
+- word: niets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: semmi
+  source: wiktionary-frequency
+- word: niettemin
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: teljes
+  source: wiktionary-frequency
+- word: nieuw
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: időnként
+  source: wiktionary-frequency
+- word: nieuwer
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: újabb
+  source: wiktionary-frequency
 - word: nieuwigheid
   ipa: ''
   pos: ''
   meanings:
   - definition: újdonság
   source: kattenoog
+- word: nieuws
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hírek
+  source: wiktionary-frequency
+- word: nieuwsbrieven
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: amennyiben
+  source: wiktionary-frequency
+- word: nieuwsgierig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kíváncsi
+  source: wiktionary-frequency
+- word: nieuwste
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: legújabb
+  source: wiktionary-frequency
 - word: nijd
   ipa: ''
   pos: ''
@@ -206,6 +649,24 @@
   meanings:
   - definition: fülke
   source: de pauw - werk
+- word: niveau
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szintű
+  source: wiktionary-frequency
+- word: nk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: témaváltás
+  source: wiktionary-frequency
+- word: noch
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sem
+  source: wiktionary-frequency
 - word: nochtans
   ipa: ''
   pos: ''
@@ -215,12 +676,155 @@
     - nl: ik wan nochtans vrij die dag
       hu: én viszont aznap szabad voltam
   source: de pauw - werk
+- word: nodig hebben
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szükség
+  source: wiktionary-frequency
+  expression_of: nodig
+- word: nodig zijn
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kellett
+  source: wiktionary-frequency
+  expression_of: nodig
+- word: nog
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: még
+  source: wiktionary-frequency
+- word: nog niet
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mégsem
+  source: wiktionary-frequency
+  expression_of: niet
+- word: nooit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: soha
+  source: wiktionary-frequency
+- word: Noordelijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szabályozás
+  source: wiktionary-frequency
+- word: Noors
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: valóságot
+  source: wiktionary-frequency
+- word: Norbi
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: alján
+  source: wiktionary-frequency
+- word: normaal
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: normális
+  source: wiktionary-frequency
+- word: normatief
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: igyekeztek
+  source: wiktionary-frequency
+- word: normen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: évesek
+  source: wiktionary-frequency
+- word: notaris
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: erőszakos
+  source: wiktionary-frequency
+- word: noteren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: melléklete
+  source: wiktionary-frequency
+- word: November
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: november
+  source: wiktionary-frequency
+- word: nu
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: most
+  source: wiktionary-frequency
+- word: nu al
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: már
+  source: wiktionary-frequency
+  expression_of: nu
+- word: nuchter
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: használatra
+  source: wiktionary-frequency
 - word: nuchterheid
   ipa: ''
   pos: ''
   meanings:
   - definition: józanság
   source: mondeling 3
+- word: nucleair
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dátum
+  source: wiktionary-frequency
+- word: nul
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: harcot
+  source: wiktionary-frequency
+- word: nummers
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egyház
+  source: wiktionary-frequency
+- word: nuttig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hasznos
+  source: wiktionary-frequency
+- word: Németh
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: éjjel
+  source: wiktionary-frequency
+- word: onder de noodzaak van
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: közben
+  source: wiktionary-frequency
+  expression_of: noodzaak
 - word: op je nagels bijten
   ipa: ''
   pos: ''
@@ -228,3 +832,59 @@
   - definition: körmeit rágni
   source: taalrecht
   expression_of: nagels
+- word: van nature
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: természetesen
+  source: wiktionary-frequency
+  expression_of: nature
+- word: voor niets
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: relatív
+  source: wiktionary-frequency
+  expression_of: niets
+- word: voor nu
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egyelőre
+  source: wiktionary-frequency
+  expression_of: nu
+- word: we nemen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hova
+  source: wiktionary-frequency
+  expression_of: nemen
+- word: wij namen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: választják
+  source: wiktionary-frequency
+  expression_of: namen
+- word: ze noemen mij
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: híre
+  source: wiktionary-frequency
+  expression_of: noemen
+- word: ze zijn nieuwsgierig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: értesítést
+  source: wiktionary-frequency
+  expression_of: nieuwsgierig
+- word: zij zijn niet
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nincsenek
+  source: wiktionary-frequency
+  expression_of: niet

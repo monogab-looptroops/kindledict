@@ -1,3 +1,93 @@
+- word: aan de Unie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: neki
+  source: wiktionary-frequency
+  expression_of: unie
+- word: bij u
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elfelejtettem
+  source: wiktionary-frequency
+  expression_of: u
+- word: het uitvoeren van
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: arányban
+  source: wiktionary-frequency
+  expression_of: uitvoeren
+- word: in de Unie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: államnak
+  source: wiktionary-frequency
+  expression_of: unie
+- word: in uw land
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gondolkodik
+  source: wiktionary-frequency
+  expression_of: uw
+- word: met uw naam
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: messzire
+  source: wiktionary-frequency
+  expression_of: uw
+- word: met uw toestemming
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: engedélyével
+  source: wiktionary-frequency
+  expression_of: uw
+- word: op de universiteit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tehetséges
+  source: wiktionary-frequency
+  expression_of: universiteit
+- word: op uw naam
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: foglalkozunk
+  source: wiktionary-frequency
+  expression_of: uw
+- word: op uw verzoek
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: felelte
+  source: wiktionary-frequency
+  expression_of: uw
+- word: per uur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: előkészítő
+  source: wiktionary-frequency
+  expression_of: uur
+- word: u
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: neked
+  source: wiktionary-frequency
+- word: u kunt het verwijderen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: értékesítése
+  source: wiktionary-frequency
+  expression_of: u
 - word: u kunt over mij beschikken
   ipa: ''
   pos: ''
@@ -5,6 +95,53 @@
   - definition: rendelkezzék az időmmel
   source: summoner
   expression_of: u
+- word: u kunt verwachten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: római
+  source: wiktionary-frequency
+  expression_of: u
+- word: u kunt zich abonneren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kliens
+  source: wiktionary-frequency
+  expression_of: u
+- word: u kunt zich registreren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kezdődően
+  source: wiktionary-frequency
+  expression_of: u
+- word: u op de hoogte brengen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Európa
+  source: wiktionary-frequency
+  expression_of: u
+- word: U schreef
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tönkre
+  source: wiktionary-frequency
+  expression_of: u
+- word: uhu
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: napját
+  source: wiktionary-frequency
+- word: uit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hozzászólásokért
+  source: wiktionary-frequency
 - word: uitbater
   ipa: ''
   pos: ''
@@ -17,6 +154,12 @@
   meanings:
   - definition: kiaknázás
   source: contract
+- word: uitbreiding
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hitelt
+  source: wiktionary-frequency
 - word: uitbrengen
   ipa: ''
   pos: ''
@@ -29,18 +172,133 @@
   meanings:
   - definition: dús
   source: mix
+- word: uitdaging
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elutasítja
+  source: wiktionary-frequency
+- word: uitdrukken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: formát
+  source: wiktionary-frequency
+- word: uitdrukking
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: javasolt
+  source: wiktionary-frequency
+- word: uitdrukkingen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megtanulni
+  source: wiktionary-frequency
+- word: uiterlijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jelszót
+  source: wiktionary-frequency
+- word: uitgaven
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: semmiféle
+  source: wiktionary-frequency
+- word: uitgebreid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: honnan
+  source: wiktionary-frequency
+- word: uitgedrukt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: néhol
+  source: wiktionary-frequency
+- word: uitgegeven
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csapatot
+  source: wiktionary-frequency
+- word: uitgegeven door
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: emelkedik
+  source: wiktionary-frequency
+  expression_of: uitgegeven
+- word: uitgelegd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: felhasználás
+  source: wiktionary-frequency
+- word: uitgenodigd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tényt
+  source: wiktionary-frequency
+- word: uitgerust
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kutatás
+  source: wiktionary-frequency
+- word: uitgesloten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: királynő
+  source: wiktionary-frequency
 - word: uitgestrektheid
   ipa: ''
   pos: ''
   meanings:
   - definition: kiterjesztés
   source: na de aardbeveging
+- word: uitgever
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kiadó
+  source: wiktionary-frequency
+- word: uitleg
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csomagot
+  source: wiktionary-frequency
+- word: uitleggen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Magyarország
+  source: wiktionary-frequency
+- word: uitrekken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ülésen
+  source: wiktionary-frequency
 - word: uitrit
   ipa: ''
   pos: ''
   meanings:
   - definition: kijárat, pl parkolóból
   source: het diner
+- word: uitschakeling
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sötétség
+  source: wiktionary-frequency
 - word: uitslapen
   ipa: ''
   pos: ''
@@ -60,6 +318,12 @@
   - definition: csak felnőtteknek
   source: het diner
   expression_of: uitsluitend
+- word: uitspraak
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyilatkozta
+  source: wiktionary-frequency
 - word: uitstaan
   ipa: ''
   pos: ''
@@ -75,6 +339,18 @@
   meanings:
   - definition: kiemelkedés, nyúlvány
   source: bepaalde dag in het leven van idereen
+- word: uitsteken
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jut
+  source: wiktionary-frequency
+- word: uitstekend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kiváló
+  source: wiktionary-frequency
 - word: uitstel
   ipa: ''
   pos: ''
@@ -88,18 +364,42 @@
   - definition: üvegházhatású gázok kibocsátása
   source: Knack+NVA
   expression_of: uitstoot
+- word: uitstraling
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: árt
+  source: wiktionary-frequency
 - word: uittreding
   ipa: ''
   pos: ''
   meanings:
   - definition: kilépés
   source: mix2
+- word: uitverkoop
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kezelését
+  source: wiktionary-frequency
 - word: uitvindig
   ipa: ''
   pos: ''
   meanings:
   - definition: találmány
   source: contract
+- word: uitvoeren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: micsoda
+  source: wiktionary-frequency
+- word: uitvoerend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elképzelhető
+  source: wiktionary-frequency
 - word: uitvoerig onderzoek
   ipa: ''
   pos: ''
@@ -126,12 +426,24 @@
   meanings:
   - definition: széklet
   source: na de bevrijding
+- word: uitwisseling
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lényegét
+  source: wiktionary-frequency
 - word: uitzending
   ipa: ''
   pos: ''
   meanings:
   - definition: tv/rádió sugárzás
   source: het diner
+- word: uitzondering
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bajnok
+  source: wiktionary-frequency
 - word: ultiem
   ipa: ''
   pos: ''
@@ -139,6 +451,118 @@
   - definition: végső
     english: ultimate
   source: mix
+- word: unie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: unió
+  source: wiktionary-frequency
+- word: uniek
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egyedi
+  source: wiktionary-frequency
+- word: uniform
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egységes
+  source: wiktionary-frequency
+- word: universeel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megtalálni
+  source: wiktionary-frequency
+- word: Universiteit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egyetemi
+  source: wiktionary-frequency
+- word: universiteiten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pilóta
+  source: wiktionary-frequency
+- word: ura
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: váratlanul
+  source: wiktionary-frequency
+- word: urak
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: néznek
+  source: wiktionary-frequency
+- word: urat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: követelményeket
+  source: wiktionary-frequency
+- word: uren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: óra
+  source: wiktionary-frequency
+- word: urunk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: támadást
+  source: wiktionary-frequency
+- word: USB
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kezdték
+  source: wiktionary-frequency
+- word: uur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: műholdas
+  source: wiktionary-frequency
+- word: uw naam
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elnökének
+  source: wiktionary-frequency
+  expression_of: uw
+- word: uw probleem
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: korban
+  source: wiktionary-frequency
+  expression_of: uw
+- word: uw vraag
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: engedélyt
+  source: wiktionary-frequency
+  expression_of: uw
+- word: uális
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: emiatt
+  source: wiktionary-frequency
+- word: voor een uur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jelentést
+  source: wiktionary-frequency
+  expression_of: uur
 - word: waar ik van uitga
   ipa: ''
   pos: ''

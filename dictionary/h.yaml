@@ -1,3 +1,10 @@
+- word: aan de hand
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hagyományosan
+  source: wiktionary-frequency
+  expression_of: hand
 - word: de handen/vinger opsteken
   ipa: ''
   pos: ''
@@ -12,12 +19,99 @@
   - definition: méretre szabott segítség(nyújtás)
   source: mondeling 2
   expression_of: hulp
+- word: door elkaar haspelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mennyivel
+  source: wiktionary-frequency
+  expression_of: haspelen
+- word: door hem
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: általa
+  source: wiktionary-frequency
+  expression_of: hem
+- word: door hemzelf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egyidejűleg
+  source: wiktionary-frequency
+  expression_of: hemzelf
+- word: door hen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nyugodt
+  source: wiktionary-frequency
+  expression_of: hen
+- word: door hoeveel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hetekben
+  source: wiktionary-frequency
+  expression_of: hoeveel
+- word: een hekel hebben aan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: utal
+  source: wiktionary-frequency
+  expression_of: hekel
+- word: een van hen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: valamelyik
+  source: wiktionary-frequency
+  expression_of: hen
+- word: en een half
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: másfél
+  source: wiktionary-frequency
+  expression_of: half
+- word: haar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szél
+  source: wiktionary-frequency
+- word: haar-
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mondjak
+  source: wiktionary-frequency
 - word: haarlok
   ipa: ''
   pos: ''
   meanings:
   - definition: hajfürt
   source: prachtige wereld waar ben je [Sally Rooney]
+- word: had
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: helyszíni
+  source: wiktionary-frequency
+- word: had kunnen komen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: valahogy
+  source: wiktionary-frequency
+  expression_of: had
+- word: hadd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hirdetés
+  source: wiktionary-frequency
 - word: haemophilis influenzae B, hersenvliesonsteking
   ipa: ''
   pos: ''
@@ -25,6 +119,43 @@
   - definition: agyvelőgyulladás
   source: ziktes
   expression_of: haemophilis
+- word: haja
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: akkor
+  source: wiktionary-frequency
+- word: hal
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ugyanilyen
+  source: wiktionary-frequency
+- word: halad
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: azokra
+  source: wiktionary-frequency
+- word: half jaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eszközzel
+  source: wiktionary-frequency
+  expression_of: half
+- word: Halkan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: telepítése
+  source: wiktionary-frequency
+- word: Hallo
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: akinek
+  source: wiktionary-frequency
 - word: halt toeroepen
   ipa: ''
   pos: ''
@@ -38,18 +169,60 @@
   meanings:
   - definition: kulcskérdés
   source: Knack 2
+- word: hand-
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: összesen
+  source: wiktionary-frequency
 - word: handboei
   ipa: ''
   pos: ''
   meanings:
   - definition: bilincs
   source: buitenstander
+- word: handel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kereskedelmi
+  source: wiktionary-frequency
 - word: handelaar
   ipa: ''
   pos: ''
   meanings:
   - definition: kereskedő
   source: storia
+- word: handelaren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: apostol
+  source: wiktionary-frequency
+- word: handelingen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jár
+  source: wiktionary-frequency
+- word: handelsmerk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dizájnváltás
+  source: wiktionary-frequency
+- word: handen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tulajdonosa
+  source: wiktionary-frequency
+- word: handhaaft
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tágas
+  source: wiktionary-frequency
 - word: handhaven
   ipa: ''
   pos: ''
@@ -57,6 +230,37 @@
   - definition: fenntart
     english: maintain
   source: de heks van Portobello
+- word: handtekening
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Jenő
+  source: wiktionary-frequency
+- word: handvatten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dupla
+  source: wiktionary-frequency
+- word: hangt er van af
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: függ
+  source: wiktionary-frequency
+  expression_of: hangt
+- word: hangulata
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elhanyagolt
+  source: wiktionary-frequency
+- word: hardware
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jegyző
+  source: wiktionary-frequency
 - word: harmonicagaas
   ipa: ''
   pos: ''
@@ -69,6 +273,12 @@
   meanings:
   - definition: páncél(ruha)
   source: summoner 2
+- word: hart-
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: költségeit
+  source: wiktionary-frequency
 - word: hartaandoening
   ipa: ''
   pos: ''
@@ -87,6 +297,24 @@
   meanings:
   - definition: szenvedély
   source: na de aardbeveging
+- word: haven
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: igényes
+  source: wiktionary-frequency
+- word: headers
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: halálát
+  source: wiktionary-frequency
+- word: hebben
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rendelkező
+  source: wiktionary-frequency
 - word: hebberig
   ipa: ''
   pos: ''
@@ -113,6 +341,18 @@
     - nl: de menselijke hebzucht kent geen grenzen
       hu: az emberik kapzsiság nem ismer határokat
   source: kattenoog
+- word: hedendaags
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hangzott
+  source: wiktionary-frequency
+- word: heeft
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: has
+  source: wiktionary-frequency
 - word: heeft het Nederlands als goed onder de knie
   ipa: ''
   pos: ''
@@ -120,6 +360,37 @@
   - definition: elsajátította a hollandot
   source: mondeling 3
   expression_of: heeft
+- word: heeft plaatsgevonden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: iratkozz
+  source: wiktionary-frequency
+  expression_of: heeft
+- word: heel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nagyon
+  source: wiktionary-frequency
+- word: heerst
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tudjanak
+  source: wiktionary-frequency
+- word: heet
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hivatal
+  source: wiktionary-frequency
+- word: heette
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: színpadra
+  source: wiktionary-frequency
 - word: hefboom
   ipa: ''
   pos: ''
@@ -144,18 +415,69 @@
   meanings:
   - definition: áldott, szent
   source: na de aardbeveging
+- word: heilige Geest
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: inkább
+  source: wiktionary-frequency
+  expression_of: heilige
 - word: heiligen
   ipa: ''
   pos: ''
   meanings:
   - definition: szentesít
   source: kattenoog 2
+- word: hel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vezetőjének
+  source: wiktionary-frequency
+- word: helaas
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sajnos
+  source: wiktionary-frequency
+- word: held
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hős
+  source: wiktionary-frequency
+- word: helder
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: viszony
+  source: wiktionary-frequency
 - word: heleboel
   ipa: ''
   pos: ''
   meanings:
   - definition: nagyadagnyi
   source: kattenoog
+- word: helemaal
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: teljesen
+  source: wiktionary-frequency
+- word: helemaal - teljesen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eszközökkel
+  source: wiktionary-frequency
+  expression_of: helemaal
+- word: helemaal niet
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sincs
+  source: wiktionary-frequency
+  expression_of: helemaal
 - word: helling, glooiing
   ipa: ''
   pos: ''
@@ -164,18 +486,103 @@
     english: slope
   source: de pauw - werk
   expression_of: helling,
+- word: helpen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: segítséget
+  source: wiktionary-frequency
+- word: helper
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: programokat
+  source: wiktionary-frequency
+- word: helpt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: segíti
+  source: wiktionary-frequency
+- word: hem
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: neki
+  source: wiktionary-frequency
+- word: hemels
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tucat
+  source: wiktionary-frequency
+- word: hen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: őket
+  source: wiktionary-frequency
+- word: herder
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: finanszírozási
+  source: wiktionary-frequency
 - word: heremiet
   ipa: ''
   pos: ''
   meanings:
   - definition: remete
   source: mix
+- word: Heren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: férfiak
+  source: wiktionary-frequency
+- word: herfst
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tök
+  source: wiktionary-frequency
+- word: herhaald
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: képét
+  source: wiktionary-frequency
 - word: herhaaldelijk
   ipa: ''
   pos: ''
   meanings:
   - definition: ismétlődpen
   source: na de aardbeveging
+- word: herinnering
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Gyula
+  source: wiktionary-frequency
+- word: herinneringen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tanévben
+  source: wiktionary-frequency
+- word: herinnert eraan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hetedik
+  source: wiktionary-frequency
+  expression_of: herinnert
+- word: herkenning
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: érvényesül
+  source: wiktionary-frequency
 - word: herkomst
   ipa: ''
   pos: ''
@@ -201,6 +608,12 @@
   meanings:
   - definition: újraírni valmit
   source: na de aardbeveging
+- word: hersenen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hírközlési
+  source: wiktionary-frequency
 - word: herseninhoud
   ipa: ''
   pos: ''
@@ -219,6 +632,18 @@
   meanings:
   - definition: helyreállítási intézkedések
   source: Knack+NVA
+- word: Hervormd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hat
+  source: wiktionary-frequency
+- word: het
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: példányban
+  source: wiktionary-frequency
 - word: het aanbod
   ipa: ''
   pos: ''
@@ -228,18 +653,90 @@
     - nl: Het aanbod van die winkel is beperkt.
       hu: a bolt kinálat limitált
   source: mondeling
+- word: het begin
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: néni
+  source: wiktionary-frequency
+- word: het belangrijkste
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: legfontosabb
+  source: wiktionary-frequency
 - word: het beleid
   ipa: ''
   pos: ''
   meanings:
   - definition: irányelv, politika
   source: mondeling
+- word: het beste
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: legjobb
+  source: wiktionary-frequency
+- word: het bleek
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kiderült
+  source: wiktionary-frequency
+- word: het blijkt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kiderül
+  source: wiktionary-frequency
+- word: het crasht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: terveket
+  source: wiktionary-frequency
+- word: het daglicht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: levelező
+  source: wiktionary-frequency
+- word: het doen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egyházak
+  source: wiktionary-frequency
+- word: het dossier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: véli
+  source: wiktionary-frequency
 - word: het drugsbezit
   ipa: ''
   pos: ''
   meanings:
   - definition: drogbirtoklás
   source: mondeling 2
+- word: het ergste
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vesztesz
+  source: wiktionary-frequency
+- word: het formulier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: formában
+  source: wiktionary-frequency
+- word: het gemakkelijkst
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tervezik
+  source: wiktionary-frequency
 - word: het gevecht
   ipa: ''
   pos: ''
@@ -253,6 +750,18 @@
   - definition: gyáván elszalad, "Felkötötte a nyulak bocskorát"
   source: na de aardbeveging
   expression_of: hazenpad
+- word: het laatste
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: akarata
+  source: wiktionary-frequency
+- word: het leek
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tűnt
+  source: wiktionary-frequency
 - word: het lek
   ipa: ''
   pos: ''
@@ -265,6 +774,18 @@
   meanings:
   - definition: tetem (halott test)
   source: mondeling 2
+- word: het lijkt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tűnik
+  source: wiktionary-frequency
+- word: het meest
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: anno
+  source: wiktionary-frequency
 - word: het mis
   ipa: ''
   pos: ''
@@ -284,24 +805,48 @@
   meanings:
   - definition: visszaélés
   source: mondeling 2
+- word: het moeilijkste
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: állatot
+  source: wiktionary-frequency
 - word: het onrecht
   ipa: ''
   pos: ''
   meanings:
   - definition: igazségtalanság
   source: mondeling 3
+- word: het ontbrak
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kórház
+  source: wiktionary-frequency
 - word: het remgeld
   ipa: ''
   pos: ''
   meanings:
   - definition: saját rész (pl orvosi ellátásban)
   source: taalrecht
+- word: het rijden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: turisták
+  source: wiktionary-frequency
 - word: het schuifraam
   ipa: ''
   pos: ''
   meanings:
   - definition: elhúzható ablak
   source: mondeling 2
+- word: het tegenovergestelde
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lelkes
+  source: wiktionary-frequency
 - word: het ventiel
   ipa: ''
   pos: ''
@@ -315,18 +860,66 @@
   meanings:
   - definition: szűrő
   source: taalrecht
+- word: het volgende
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tudomásul
+  source: wiktionary-frequency
 - word: het wapenbezit
   ipa: ''
   pos: ''
   meanings:
   - definition: fegyvertartás
   source: mondeling
+- word: hetzelfde
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: oldalról
+  source: wiktionary-frequency
 - word: hiaat
   ipa: ''
   pos: ''
   meanings:
   - definition: rés (pl tudásban)
   source: mix
+- word: hidd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: értékének
+  source: wiktionary-frequency
+- word: hier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: itt
+  source: wiktionary-frequency
+- word: hieraan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ebbe
+  source: wiktionary-frequency
+- word: hiermee
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ezzel
+  source: wiktionary-frequency
+- word: hieronder
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: alábbi
+  source: wiktionary-frequency
+- word: hierover
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: erről
+  source: wiktionary-frequency
 - word: hij heeft onze firma naar het bankroet gevoerd
   ipa: ''
   pos: ''
@@ -334,6 +927,34 @@
   - definition: a cégünket a csődbe vezette
   source: summoner
   expression_of: heeft
+- word: hij herinnert zich
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kérnek
+  source: wiktionary-frequency
+  expression_of: herinnert
+- word: hij hield
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szóval
+  source: wiktionary-frequency
+  expression_of: hield
+- word: hij hield ervan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vehet
+  source: wiktionary-frequency
+  expression_of: hield
+- word: hij houdt van
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: próbálja
+  source: wiktionary-frequency
+  expression_of: houdt
 - word: hikken
   ipa: ''
   pos: ''
@@ -365,6 +986,58 @@
   meanings:
   - definition: történész
   source: Knack 2
+- word: historisch
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: történelmi
+  source: wiktionary-frequency
+- word: hits
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tisztelt
+  source: wiktionary-frequency
+- word: hoe
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hogyan
+  source: wiktionary-frequency
+- word: hoe dan ook
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: függetlenül
+  source: wiktionary-frequency
+  expression_of: hoe
+- word: hoe groot
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: könnyedén
+  source: wiktionary-frequency
+  expression_of: hoe
+- word: Hoe vaak
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: államilag
+  source: wiktionary-frequency
+  expression_of: hoe
+- word: Hoe veel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mennyi
+  source: wiktionary-frequency
+  expression_of: hoe
+- word: hoed
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hat
+  source: wiktionary-frequency
 - word: hoede
   ipa: ''
   pos: ''
@@ -384,12 +1057,67 @@
       hu: az égvilágon semmit se tudsz rólam
   source: prachtige wereld waar ben je [Sally Rooney]
   expression_of: hoegenaamd
+- word: hoekig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gárda
+  source: wiktionary-frequency
+- word: Hoeveel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hány
+  source: wiktionary-frequency
+- word: hoewel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: állást
+  source: wiktionary-frequency
+- word: hoezen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: záró
+  source: wiktionary-frequency
 - word: hoezo
   ipa: ''
   pos: ''
   meanings:
   - definition: hogyhogy
   source: prachtige wereld waar ben je [Sally Rooney]
+- word: hoger
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: magasabb
+  source: wiktionary-frequency
+- word: hoger onderwijs
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szint
+  source: wiktionary-frequency
+  expression_of: hoger
+- word: Hoi
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: üdv
+  source: wiktionary-frequency
+- word: hol
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: den
+  source: wiktionary-frequency
+- word: Hollywood
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mester
+  source: wiktionary-frequency
 - word: holte
   ipa: ''
   pos: ''
@@ -417,6 +1145,91 @@
   - definition: értelmes ember 0.23-0.03M éve
   source: storia
   expression_of: homo
+- word: homo's
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hajtott
+  source: wiktionary-frequency
+- word: homoseksueel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nagyobb
+  source: wiktionary-frequency
+- word: hond
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kutya
+  source: wiktionary-frequency
+- word: honden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kert
+  source: wiktionary-frequency
+- word: honderd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: száz
+  source: wiktionary-frequency
+- word: honderdduizend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tűnnek
+  source: wiktionary-frequency
+- word: Hongaars
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: magyar
+  source: wiktionary-frequency
+- word: Hongaarsheid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: van
+  source: wiktionary-frequency
+- word: Hongaren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: magyarok
+  source: wiktionary-frequency
+- word: Hongarije
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: módosító
+  source: wiktionary-frequency
+- word: hongerig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szerinte
+  source: wiktionary-frequency
+- word: hoofd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fejét
+  source: wiktionary-frequency
+- word: hoofd - fej
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kht.
+  source: wiktionary-frequency
+  expression_of: hoofd
+- word: hoofdkwartier
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dolognak
+  source: wiktionary-frequency
 - word: hoofdlijnen van de project
   ipa: ''
   pos: ''
@@ -436,6 +1249,30 @@
   meanings:
   - definition: tőkeösszeg
   source: formal
+- word: hoofdstad
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fővárosi
+  source: wiktionary-frequency
+- word: Hoofdstuk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: igencsak
+  source: wiktionary-frequency
+- word: hoofdzakelijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: főként
+  source: wiktionary-frequency
+- word: hoog
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: magas
+  source: wiktionary-frequency
 - word: hoog gehalte
   ipa: ''
   pos: ''
@@ -443,6 +1280,25 @@
   - definition: magas minőség
   source: na de aardbeveging
   expression_of: hoog
+- word: hoog Gerechtshof
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: idejére
+  source: wiktionary-frequency
+  expression_of: hoog
+- word: hoogste
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: legmagasabb
+  source: wiktionary-frequency
+- word: hoogstens
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: legfeljebb
+  source: wiktionary-frequency
 - word: hoogteverschil
   ipa: ''
   pos: ''
@@ -468,6 +1324,18 @@
   - definition: gúnymosoly
     english: jeering laughter
   source: na de aardbeveging
+- word: hoop
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: percet
+  source: wiktionary-frequency
+- word: hoorbaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: linket
+  source: wiktionary-frequency
 - word: hoorspel
   ipa: ''
   pos: ''
@@ -475,6 +1343,31 @@
   - definition: radiójáték
     english: radio play
   source: kattenoog
+- word: hoort bij
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tartozik
+  source: wiktionary-frequency
+  expression_of: hoort
+- word: hopelijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: közölni
+  source: wiktionary-frequency
+- word: Horen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gondolod
+  source: wiktionary-frequency
+- word: horizontaal
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: struktúra
+  source: wiktionary-frequency
 - word: horlepiepen
   ipa: ''
   pos: ''
@@ -482,18 +1375,74 @@
   - definition: duda
     english: hornpipe
   source: bepaalde dag in het leven van idereen
+- word: Horváth
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tanácsadás
+  source: wiktionary-frequency
 - word: horzel
   ipa: ''
   pos: ''
   meanings:
   - definition: lódarázs
   source: de wereld van Sophie (Jostein Gaarder)
+- word: hotel
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: optikai
+  source: wiktionary-frequency
+- word: hou op
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elképzelni
+  source: wiktionary-frequency
+  expression_of: hou
+- word: houden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tartani
+  source: wiktionary-frequency
+- word: houden van
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: teljesítményű
+  source: wiktionary-frequency
+  expression_of: houden
+- word: houder
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tartó
+  source: wiktionary-frequency
 - word: houdgreep
   ipa: ''
   pos: ''
   meanings:
   - definition: lefogás (birkozásban)
   source: de pauw - werk
+- word: houding
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ellenben
+  source: wiktionary-frequency
+- word: houdt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tartja
+  source: wiktionary-frequency
+- word: hout
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elmarad
+  source: wiktionary-frequency
 - word: hout te sprokkelen
   ipa: ''
   pos: ''
@@ -501,6 +1450,18 @@
   - definition: fát gyűjteni
   source: de pauw - werk
   expression_of: hout
+- word: HUF
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: logikai
+  source: wiktionary-frequency
+- word: Huid
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hagyott
+  source: wiktionary-frequency
 - word: huidige mens
   ipa: ''
   pos: ''
@@ -508,6 +1469,50 @@
   - definition: jelenkori ember
   source: storia
   expression_of: huidige
+- word: huilen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: lehettek
+  source: wiktionary-frequency
+- word: huis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ház
+  source: wiktionary-frequency
+- word: huis bouwen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: készítenek
+  source: wiktionary-frequency
+  expression_of: huis
+- word: huiselijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hazai
+  source: wiktionary-frequency
+- word: huishoudelijke apparaten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: napjainkban
+  source: wiktionary-frequency
+  expression_of: huishoudelijke
+- word: huishouden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kör
+  source: wiktionary-frequency
+- word: huizen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: mögötte
+  source: wiktionary-frequency
 - word: huizenhoog cliché
   ipa: ''
   pos: ''
@@ -524,6 +1529,12 @@
     - nl: hij was in een deken gehuld
       hu: takaróva csavartam magamat
   source: kattenoog 2
+- word: hulpmiddelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eszközök
+  source: wiktionary-frequency
 - word: humaan papillomavirus, HPV
   ipa: ''
   pos: ''
@@ -531,6 +1542,12 @@
   - definition: HPV
   source: ziktes
   expression_of: humaan
+- word: humeur
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: látogatói
+  source: wiktionary-frequency
 - word: hunkeren naar iets
   ipa: ''
   pos: ''
@@ -538,6 +1555,12 @@
   - definition: sóvárog vmi után
   source: na de bevrijding
   expression_of: hunkeren
+- word: huwelijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: állított
+  source: wiktionary-frequency
 - word: huwelijk voltrekken
   ipa: ''
   pos: ''
@@ -552,6 +1575,34 @@
   - definition: valakit ténylegesség közben elkapni
   source: summoner
   expression_of: heterdaad
+- word: ik heb
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megvan
+  source: wiktionary-frequency
+  expression_of: heb
+- word: ik heb geschreven
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: írtam
+  source: wiktionary-frequency
+  expression_of: heb
+- word: ik heb gezegd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: célzó
+  source: wiktionary-frequency
+  expression_of: heb
+- word: ik heb nodig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elsőre
+  source: wiktionary-frequency
+  expression_of: heb
 - word: ik heb ongelijk
   ipa: ''
   pos: ''
@@ -566,6 +1617,69 @@
   - definition: mindenhol viszeketek
   source: summoner
   expression_of: heb
+- word: ik herinner me
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: emlékszem
+  source: wiktionary-frequency
+  expression_of: herinner
+- word: ik hield vast
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tetejére
+  source: wiktionary-frequency
+  expression_of: hield
+- word: ik hoop het
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: remélem
+  source: wiktionary-frequency
+  expression_of: hoop
+- word: ik hoor
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: családot
+  source: wiktionary-frequency
+  expression_of: hoor
+- word: ik hou van
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szeretem
+  source: wiktionary-frequency
+  expression_of: hou
+- word: Ik hou vast
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gergely
+  source: wiktionary-frequency
+  expression_of: hou
+- word: ik houd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tartom
+  source: wiktionary-frequency
+  expression_of: houd
+- word: in de hand
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eszerint
+  source: wiktionary-frequency
+  expression_of: hand
+- word: In de herfst
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egyebek
+  source: wiktionary-frequency
+  expression_of: herfst
 - word: in de holst van de nacht
   ipa: ''
   pos: ''
@@ -573,12 +1687,68 @@
   - definition: az éjszaka közepén
   source: kattenoog 2
   expression_of: holst
+- word: in de hoofdstad
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: feladatait
+  source: wiktionary-frequency
+  expression_of: hoofdstad
+- word: in hen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: teszt
+  source: wiktionary-frequency
+  expression_of: hen
+- word: in het
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: benne
+  source: wiktionary-frequency
+  expression_of: het
+- word: in het Hongaars
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: ezeknek
+  source: wiktionary-frequency
+  expression_of: hongaars
+- word: in het huis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szerencsére
+  source: wiktionary-frequency
+  expression_of: huis
+- word: in hetzelfde
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sárkány
+  source: wiktionary-frequency
+  expression_of: hetzelfde
+- word: in hoeveelheden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jártak
+  source: wiktionary-frequency
+  expression_of: hoeveelheden
 - word: in je handen wrijven
   ipa: ''
   pos: ''
   meanings:
   - definition: kezedet dörzsölni
   source: taalrecht
+  expression_of: handen
+- word: in zijn handen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: félig
+  source: wiktionary-frequency
   expression_of: handen
 - word: je handen op je heupen plaatsen
   ipa: ''
@@ -594,6 +1764,55 @@
   - definition: kinyújtani a kezedet
   source: taalrecht
   expression_of: handen
+- word: je hebt gelijk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elfogadta
+  source: wiktionary-frequency
+  expression_of: hebt
+- word: je hebt gewond
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: állapotú
+  source: wiktionary-frequency
+  expression_of: hebt
+- word: jij hebt
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: névre
+  source: wiktionary-frequency
+  expression_of: hebt
+- word: met de hand
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fontosnak
+  source: wiktionary-frequency
+  expression_of: hand
+- word: met hart
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: erőszak
+  source: wiktionary-frequency
+  expression_of: hart
+- word: met hem
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vele
+  source: wiktionary-frequency
+  expression_of: hem
+- word: met hen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: velük
+  source: wiktionary-frequency
+  expression_of: hen
 - word: met hoogachtig
   ipa: ''
   pos: ''
@@ -601,6 +1820,104 @@
   - definition: tisztelettel
   source: taalrecht
   expression_of: hoogachtig
+- word: naar hen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: azoknak
+  source: wiktionary-frequency
+  expression_of: hen
+- word: naar het hoofd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kiváncsi
+  source: wiktionary-frequency
+  expression_of: hoofd
+- word: naar Hongarije
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: moderátor
+  source: wiktionary-frequency
+  expression_of: hongarije
+- word: onder hen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: köztük
+  source: wiktionary-frequency
+  expression_of: hen
+- word: op hen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hete
+  source: wiktionary-frequency
+  expression_of: hen
+- word: op hetzelfde
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: hangulat
+  source: wiktionary-frequency
+  expression_of: hetzelfde
+- word: op zijn hoofd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kastély
+  source: wiktionary-frequency
+  expression_of: hoofd
+- word: over hem
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: róla
+  source: wiktionary-frequency
+  expression_of: hem
+- word: over hen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elemzése
+  source: wiktionary-frequency
+  expression_of: hen
+- word: over het
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: arról
+  source: wiktionary-frequency
+  expression_of: het
+- word: per hoofd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: telepített
+  source: wiktionary-frequency
+  expression_of: hoofd
+- word: rond hem
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: túlnyomó
+  source: wiktionary-frequency
+  expression_of: hem
+- word: tussen haakjes
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: november
+  source: wiktionary-frequency
+  expression_of: haakjes
+- word: tussen hen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kommunista
+  source: wiktionary-frequency
+  expression_of: hen
 - word: uit het hoofd leren
   ipa: ''
   pos: ''
@@ -608,6 +1925,90 @@
   - definition: kívülről megtanul
   source: taalrecht
   expression_of: hoofd
+- word: van hem
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tőle
+  source: wiktionary-frequency
+  expression_of: hem
+- word: van hen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jel
+  source: wiktionary-frequency
+  expression_of: hen
+- word: van hoge kwaliteit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: barátok
+  source: wiktionary-frequency
+  expression_of: hoge
+- word: voor de hand liggend
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: picit
+  source: wiktionary-frequency
+  expression_of: hand
+- word: voor de helft
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fél
+  source: wiktionary-frequency
+  expression_of: helft
+- word: voor hem
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: érte
+  source: wiktionary-frequency
+  expression_of: hem
+- word: voor hen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: rend
+  source: wiktionary-frequency
+  expression_of: hen
+- word: voor HUF
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: családja
+  source: wiktionary-frequency
+  expression_of: huf
+- word: we hebben elkaar ontmoet
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: nevelő
+  source: wiktionary-frequency
+  expression_of: hebben
+- word: we hebben gepraat
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szál
+  source: wiktionary-frequency
+  expression_of: hebben
+- word: we hebben gevonden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: valamennyien
+  source: wiktionary-frequency
+  expression_of: hebben
+- word: we hebben opgeslagen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kár
+  source: wiktionary-frequency
+  expression_of: hebben
 - word: we hebben volop genoten
   ipa: ''
   pos: ''
@@ -622,6 +2023,90 @@
   - definition: mindazt a szövetségi államokra ruházzuk át
   source: Knack+NVA
   expression_of: hevelen
+- word: we hopen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jellemzői
+  source: wiktionary-frequency
+  expression_of: hopen
+- word: we horen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: úgy
+  source: wiktionary-frequency
+  expression_of: horen
+- word: we houden ervan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: számítógéppel
+  source: wiktionary-frequency
+  expression_of: houden
+- word: wij hebben
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: alapított
+  source: wiktionary-frequency
+  expression_of: hebben
+- word: wij hebben nodig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eltérés
+  source: wiktionary-frequency
+  expression_of: hebben
+- word: wij hebben te maken met
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: felszínre
+  source: wiktionary-frequency
+  expression_of: hebben
+- word: wij helpen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: léptek
+  source: wiktionary-frequency
+  expression_of: helpen
+- word: wij houden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: történetét
+  source: wiktionary-frequency
+  expression_of: houden
+- word: wij houden vast
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: zene
+  source: wiktionary-frequency
+  expression_of: houden
+- word: ze hebben geprobeerd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: elemző
+  source: wiktionary-frequency
+  expression_of: hebben
+- word: ze hebben gewacht
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szövegeket
+  source: wiktionary-frequency
+  expression_of: hebben
+- word: ze helpen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: építészeti
+  source: wiktionary-frequency
+  expression_of: helpen
 - word: zich herpakken
   ipa: ''
   pos: ''
@@ -629,3 +2114,38 @@
   - definition: összeszedi magát (nehéz helyzetben)
   source: mondeling 2
   expression_of: herpakken
+- word: zij handelen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: színházi
+  source: wiktionary-frequency
+  expression_of: handelen
+- word: zij hebben
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kaptak
+  source: wiktionary-frequency
+  expression_of: hebben
+- word: zij hebben gewonnen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: védő
+  source: wiktionary-frequency
+  expression_of: hebben
+- word: Zij hebben nodig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: szabályzat
+  source: wiktionary-frequency
+  expression_of: hebben
+- word: zij houden van
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tükrözik
+  source: wiktionary-frequency
+  expression_of: houden

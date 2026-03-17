@@ -1,3 +1,82 @@
+- word: aan jou
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: önkormányzat
+  source: wiktionary-frequency
+  expression_of: jou
+- word: dit jaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: idén
+  source: wiktionary-frequency
+  expression_of: jaar
+- word: door jou
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tán
+  source: wiktionary-frequency
+  expression_of: jou
+- word: in januari
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: alkotni
+  source: wiktionary-frequency
+  expression_of: januari
+- word: in jou
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyűjteménye
+  source: wiktionary-frequency
+  expression_of: jou
+- word: in jouw huis
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sík
+  source: wiktionary-frequency
+  expression_of: jouw
+- word: ja
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: igen
+  source: wiktionary-frequency
+- word: jaar
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: évi
+  source: wiktionary-frequency
+- word: jaar oud
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: pert
+  source: wiktionary-frequency
+  expression_of: jaar
+- word: jaarlijks
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: éves
+  source: wiktionary-frequency
+- word: jaj
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: váró
+  source: wiktionary-frequency
+- word: Jakab
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: bizottságának
+  source: wiktionary-frequency
 - word: jaloezie, jaloersheid
   ipa: ''
   pos: ''
@@ -12,6 +91,51 @@
   - definition: csürhe
     english: riffraff
   source: summoner 2
+- word: januari-
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: január
+  source: wiktionary-frequency
+- word: Japan
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: japán
+  source: wiktionary-frequency
+- word: jaren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: éve
+  source: wiktionary-frequency
+- word: jaren negentig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tábla
+  source: wiktionary-frequency
+  expression_of: jaren
+- word: jaren tachtig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: belőlük
+  source: wiktionary-frequency
+  expression_of: jaren
+- word: jaren zeventig
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: látnak
+  source: wiktionary-frequency
+  expression_of: jaren
+- word: Java
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: reggeli
+  source: wiktionary-frequency
 - word: jegens
   ipa: ''
   pos: ''
@@ -21,21 +145,285 @@
     - nl: vriendelijk jegens mensen zijn
       hu: kedves az emberek felé
   source: buitenstander
+- word: jele
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megakadályozza
+  source: wiktionary-frequency
+- word: jeles
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: gyár
+  source: wiktionary-frequency
+- word: Jenő
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: földrajzi
+  source: wiktionary-frequency
 - word: jerrycan
   ipa: ''
   pos: ''
   meanings:
   - definition: benzines kanna
   source: het diner
+- word: jeugd
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: értékben
+  source: wiktionary-frequency
 - word: jeuk
   ipa: ''
   pos: ''
   meanings:
   - definition: viszketés
   source: summoner
+- word: jezelf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: magad
+  source: wiktionary-frequency
+- word: Jezus
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Jézus
+  source: wiktionary-frequency
+- word: Joden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: csak
+  source: wiktionary-frequency
+- word: jok
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: felhasználónév
+  source: wiktionary-frequency
+- word: jong
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fiatal
+  source: wiktionary-frequency
+- word: jonge man
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vissza
+  source: wiktionary-frequency
+  expression_of: jonge
+- word: jonge mensen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megkezdett
+  source: wiktionary-frequency
+  expression_of: jonge
+- word: jongen
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fiú
+  source: wiktionary-frequency
+- word: jongens
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jelentősége
+  source: wiktionary-frequency
+- word: jonger
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: sérült
+  source: wiktionary-frequency
+- word: jongeren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: fiatalok
+  source: wiktionary-frequency
+- word: Joods
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: zsidó
+  source: wiktionary-frequency
+- word: Joseph
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Géza
+  source: wiktionary-frequency
+- word: journalist
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: használta
+  source: wiktionary-frequency
+- word: journalisten
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tapasztalatokat
+  source: wiktionary-frequency
+- word: jouw adres
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: címed
+  source: wiktionary-frequency
+  expression_of: jouw
+- word: jouw held
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: könyvtár
+  source: wiktionary-frequency
+  expression_of: jouw
+- word: jouw mening
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: véleményed
+  source: wiktionary-frequency
+  expression_of: jouw
+- word: Judit
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: végző
+  source: wiktionary-frequency
+- word: Juiste zelfstandige naamwoorden
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: Zsolt
+  source: wiktionary-frequency
+  expression_of: juiste
+- word: juli-
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: július
+  source: wiktionary-frequency
+- word: juni-
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: június
+  source: wiktionary-frequency
+- word: juridische relatie
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: eléréséhez
+  source: wiktionary-frequency
+  expression_of: juridische
+- word: jurk
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: akármilyen
+  source: wiktionary-frequency
+- word: jury
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: tesztet
+  source: wiktionary-frequency
+- word: jusson
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: megjelenítéséhez
+  source: wiktionary-frequency
 - word: juweel
   ipa: ''
   pos: ''
   meanings:
   - definition: ékszer
   source: kattenoog
+- word: met jou
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: magával
+  source: wiktionary-frequency
+  expression_of: jou
+- word: naar jezelf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: magának
+  source: wiktionary-frequency
+  expression_of: jezelf
+- word: naar jou toe
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: jegyzőkönyv
+  source: wiktionary-frequency
+  expression_of: jou
+- word: naar jouw kant
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: egyidőben
+  source: wiktionary-frequency
+  expression_of: jouw
+- word: op jou
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: világába
+  source: wiktionary-frequency
+  expression_of: jou
+- word: over jezelf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: próbáljuk
+  source: wiktionary-frequency
+  expression_of: jezelf
+- word: van jou
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: túlmenően
+  source: wiktionary-frequency
+  expression_of: jou
+- word: voor jaren
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: kutyát
+  source: wiktionary-frequency
+  expression_of: jaren
+- word: voor je
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: vezetést
+  source: wiktionary-frequency
+  expression_of: je
+- word: voor jezelf
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: használd
+  source: wiktionary-frequency
+  expression_of: jezelf
+- word: voor jou
+  ipa: ''
+  pos: ''
+  meanings:
+  - definition: dollár
+  source: wiktionary-frequency
+  expression_of: jou
