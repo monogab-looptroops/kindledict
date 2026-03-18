@@ -6,6 +6,8 @@
 2. Run `venv/bin/python3 src/migrate.py` to import them
 3. Delete the file from `words/` (the words are now in `dictionary/`)
 
+You can also add words via the web UI at http://localhost:5333 (run `cd src && ../venv/bin/python server.py`).
+
 ## Word file format
 
 Each line is a Dutch word or expression followed by its Hungarian translation, separated by ` - `:
@@ -27,13 +29,6 @@ bekommeren - aggódni
 
 gelijkmatig - egyenletes
 <gelijkmatig druk - egyenletes nyomás>
-```
-
-You can also use `(e.g. ...)`:
-
-```
-gelijkmatig - egyenletes
-(e.g. gelijkmatig druk - egyenletes nyomás)
 ```
 
 ### English hints
@@ -78,32 +73,67 @@ The script will:
 
 ## Dictionary structure
 
-After import, words live in `dictionary/a.yaml` through `dictionary/z.yaml`, sorted alphabetically.
-
-Each entry looks like this:
+Words live in `dictionary/a.yaml` through `dictionary/z.yaml`, sorted alphabetically.
+Each entry uses the **multilingual format**:
 
 ```yaml
 - word: bekommeren
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: aggódni
-    examples:
-    - nl: ik ben te moe om me daar om te bekommeren
-      hu: fáradt vagyok, hogy azon aggódjak
+  ipa: /bəˈkɔmərə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: aggódni
+        quality: 3
+        english_hint: worry, bother about smt
+      examples:
+      - nl: ik ben te moe om me daar om te bekommeren
+        tr: fáradt vagyok, hogy azon aggódjak
+    en:
+      definitions:
+      - text: to worry, to concern
+        quality: 5
   source: kattenoog
 ```
 
+### Translation quality
+
+Each definition has a `quality` score (1-5):
+
+| Quality | Meaning | Source |
+|---------|---------|--------|
+| 1 | Machine translated | LibreTranslate, etc. |
+| 2 | Possibly misaligned | Frequency list imports |
+| 3 | Human translated | Your word files |
+| 4 | Verified by user | Manual review |
+| 5 | Authoritative | Wiktionary, etc. |
+
+### Supported languages
+
+| Code | Language |
+|------|----------|
+| hu | Hungarian |
+| en | English |
+| es | Spanish |
+| nl | Dutch (native definitions) |
+| de | German |
+| fr | French |
+
+Languages are shown in priority order. If Hungarian is missing, English serves as fallback, then other languages.
+
 ### Expressions
 
-Multi-word entries (e.g. "aan de andere kant") are stored under the letter of their key word, not their first word. They have an `expression_of` field:
+Multi-word entries (e.g. "aan de andere kant") are stored under the letter of their key word. They have an `expression_of` field:
 
 ```yaml
 - word: aan de andere kant
   ipa: ''
   pos: ''
-  meanings:
-  - definition: a másik oldalon
+  translations:
+    hu:
+      definitions:
+      - text: a másik oldalon
+        quality: 3
   source: mix
   expression_of: kant          # filed under k.yaml, not a.yaml
 ```
@@ -113,10 +143,19 @@ Articles + noun (e.g. "het ventiel") are treated as regular words, not expressio
 ## Editing the dictionary
 
 The YAML files in `dictionary/` are the master copy. You can freely edit them to:
+- Add or fix translations in any language
 - Add IPA pronunciation (`ipa` field)
 - Set part of speech (`pos` field)
-- Add alternative meanings (append to `meanings` list)
-- Add or edit examples
-- Fix definitions
+- Add examples
+- Increase quality scores after verification
 
 Your edits are preserved when importing new words — the script only appends, never overwrites.
+
+## Generating the Kindle dictionary
+
+```
+cd src && ../venv/bin/python generate.py
+```
+
+This produces `content_gen.html` which can be compiled with KindleGen to create `dict.mobi`.
+The Kindle dictionary shows all available translations with quality indicators (filled/empty dots).

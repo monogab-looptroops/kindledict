@@ -70,13 +70,14 @@ def parse_file(filename, source_name):
         hu_text = ws[1]
 
         if is_example:
-            # Attach example to the last entry
+            # Attach example to the last entry's Hungarian translation
             if entries:
-                if 'examples' not in entries[-1]['meanings'][0]:
-                    entries[-1]['meanings'][0]['examples'] = []
-                entries[-1]['meanings'][0]['examples'].append({
+                hu_trans = entries[-1]['translations'].get('hu', {})
+                if 'examples' not in hu_trans:
+                    hu_trans['examples'] = []
+                hu_trans['examples'].append({
                     'nl': nl_text,
-                    'hu': hu_text,
+                    'tr': hu_text,
                 })
             continue
 
@@ -86,26 +87,27 @@ def parse_file(filename, source_name):
         if english_match:
             english_hint = english_match.group(1)
             hu_text = hu_text[:english_match.start()].strip()
-            # Remove trailing comma if any
             hu_text = hu_text.rstrip(',').strip()
+
+        # Build multilingual entry
+        hu_def = {'text': hu_text, 'quality': 3}
+        if english_hint:
+            hu_def['english_hint'] = english_hint
 
         entry = {
             'word': nl_text,
             'ipa': '',
             'pos': '',
-            'meanings': [
-                {
-                    'definition': hu_text,
-                }
-            ],
+            'translations': {
+                'hu': {
+                    'definitions': [hu_def],
+                },
+            },
             'source': source_name,
         }
 
         if is_expression(nl_text):
             entry['expression_of'] = find_key_word(nl_text)
-
-        if english_hint:
-            entry['meanings'][0]['english'] = english_hint
 
         entries.append(entry)
 

@@ -20,7 +20,34 @@
       dd {
           margin: 0;
           padding: 0 0 0.5em 0;
-          display: block
+          display: block;
+      }
+      .ipa {
+          color: #666;
+          font-size: 0.9em;
+      }
+      .pos {
+          color: #888;
+          font-style: italic;
+          font-size: 0.85em;
+      }
+      .lang {
+          font-weight: bold;
+          color: #555;
+          font-size: 0.85em;
+      }
+      .quality {
+          color: #999;
+          font-size: 0.7em;
+      }
+      .def {
+          margin-left: 0.5em;
+      }
+      .example {
+          margin-left: 1em;
+          font-style: italic;
+          color: #666;
+          font-size: 0.9em;
       }
     </style>
   </head>
@@ -29,8 +56,23 @@
       {% for n in words %}
         <li></li>
         <idx:entry name="default" scriptable="yes" spell="yes">
-            <h5><dt><idx:orth>{{n.nl}}</idx:orth></dt></h5>
-            <dd>{{n.hu}}</dd>
+            <h5><dt><idx:orth>{{n.word}}</idx:orth></dt></h5>
+            {% if n.ipa %}<span class="ipa">{{n.ipa}}</span> {% endif %}
+            {% if n.pos %}<span class="pos">{{n.pos}}</span>{% endif %}
+            {% for lang in n.langs %}
+            <dd>
+              <span class="lang">{{lang.label}}</span>
+              {% for d in lang.definitions %}
+                <span class="def">{{d.text}}</span>
+                <span class="quality">{{"●" * d.quality}}{{"○" * (5 - d.quality)}}</span>
+                {% if d.english_hint %}<span class="def" style="color:#999">({{d.english_hint}})</span>{% endif %}
+                {% if not loop.last %}; {% endif %}
+              {% endfor %}
+              {% for ex in lang.examples %}
+                <div class="example">"{{ex.nl}}" — {{ex.tr}}</div>
+              {% endfor %}
+            </dd>
+            {% endfor %}
         </idx:entry>
       <hr/>
       {% endfor %}

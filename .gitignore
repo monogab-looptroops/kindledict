@@ -127,3 +127,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Build artifacts (generated from dictionary/*.yaml)
+content_gen.html
+content.html
+content2.html
+dict.mobi
+dict-conversionLog.csv
+
+# Wiktionary data downloads
+data/
+
+# OS
+.DS_Store
+
+# Old venv
+src/venv/
