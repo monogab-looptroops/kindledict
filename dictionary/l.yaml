@@ -1,1581 +1,3235 @@
 - word: aan het leren
   ipa: ''
   pos: ''
-  meanings:
-  - definition: szenvedett
+  translations:
+    hu:
+      definitions:
+      - text: szenvedett
+        quality: 2
   source: wiktionary-frequency
   expression_of: leren
 - word: aan het liegen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: közzé
+  translations:
+    hu:
+      definitions:
+      - text: közzé
+        quality: 2
   source: wiktionary-frequency
   expression_of: liegen
 - word: als lid
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tulajdon
+  translations:
+    hu:
+      definitions:
+      - text: tulajdon
+        quality: 2
   source: wiktionary-frequency
   expression_of: lid
 - word: de lat hoger liggen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: a mércét magasabra tenni
+  translations:
+    hu:
+      definitions:
+      - text: a mércét magasabra tenni
+        quality: 3
   source: Knack+NVA
   expression_of: lat
 - word: de levenslange beoordeling
   ipa: ''
   pos: ''
-  meanings:
-  - definition: életfogytiglani ítélet
+  translations:
+    hu:
+      definitions:
+      - text: életfogytiglani ítélet
+        quality: 3
   source: mondeling 2
   expression_of: levenslange
 - word: een lekker wijf
   ipa: ''
   pos: ''
-  meanings:
-  - definition: sexi csajszi
+  translations:
+    hu:
+      definitions:
+      - text: sexi csajszi
+        quality: 3
   source: het diner
   expression_of: lekker
 - word: hij legt uit
   ipa: ''
   pos: ''
-  meanings:
-  - definition: hozhat
+  translations:
+    hu:
+      definitions:
+      - text: hozhat
+        quality: 2
   source: wiktionary-frequency
   expression_of: legt
 - word: hij liet los
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kifejezések
+  translations:
+    hu:
+      definitions:
+      - text: kifejezések
+        quality: 2
   source: wiktionary-frequency
   expression_of: liet
 - word: hun levens
   ipa: ''
   pos: ''
-  meanings:
-  - definition: nemhogy
+  translations:
+    hu:
+      definitions:
+      - text: nemhogy
+        quality: 2
   source: wiktionary-frequency
   expression_of: levens
 - word: iemand lof geven
   ipa: ''
   pos: ''
-  meanings:
-  - definition: valakit megdicsérni
+  translations:
+    hu:
+      definitions:
+      - text: valakit megdicsérni
+        quality: 3
   source: summoner
   expression_of: lof
 - word: ik leef
   ipa: ''
   pos: ''
-  meanings:
-  - definition: hónapig
+  translations:
+    hu:
+      definitions:
+      - text: hónapig
+        quality: 2
   source: wiktionary-frequency
   expression_of: leef
 - word: ik leefde
   ipa: ''
   pos: ''
-  meanings:
-  - definition: megtalálod
+  translations:
+    hu:
+      definitions:
+      - text: megtalálod
+        quality: 2
   source: wiktionary-frequency
   expression_of: leefde
 - word: Ik leerde
   ipa: ''
   pos: ''
-  meanings:
-  - definition: változatlanul
+  translations:
+    hu:
+      definitions:
+      - text: változatlanul
+        quality: 2
   source: wiktionary-frequency
   expression_of: leerde
 - word: ik lees
   ipa: ''
   pos: ''
-  meanings:
-  - definition: olvastam
+  translations:
+    hu:
+      definitions:
+      - text: olvastam
+        quality: 2
   source: wiktionary-frequency
   expression_of: lees
 - word: ik luister
   ipa: ''
   pos: ''
-  meanings:
-  - definition: hallgatók
+  translations:
+    hu:
+      definitions:
+      - text: hallgatók
+        quality: 2
   source: wiktionary-frequency
   expression_of: luister
 - word: in de les
   ipa: ''
   pos: ''
-  meanings:
-  - definition: mérték
+  translations:
+    hu:
+      definitions:
+      - text: mérték
+        quality: 2
   source: wiktionary-frequency
   expression_of: les
 - word: in de lucht
   ipa: ''
   pos: ''
-  meanings:
-  - definition: bemutatta
+  translations:
+    hu:
+      definitions:
+      - text: bemutatta
+        quality: 2
   source: wiktionary-frequency
   expression_of: lucht
 - word: in dit licht kreeg alles een nieuwe betekenis
   ipa: ''
   pos: ''
-  meanings:
-  - definition: ebben a fényben minden új értelmet nyer/kap
+  translations:
+    hu:
+      definitions:
+      - text: ebben a fényben minden új értelmet nyer/kap
+        quality: 3
   source: het diner
   expression_of: licht
 - word: in het licht van
   ipa: ''
   pos: ''
-  meanings:
-  - definition: dönti
+  translations:
+    hu:
+      definitions:
+      - text: dönti
+        quality: 2
   source: wiktionary-frequency
   expression_of: licht
 - word: in lijn
   ipa: ''
   pos: ''
-  meanings:
-  - definition: fejlődik
+  translations:
+    hu:
+      definitions:
+      - text: fejlődik
+        quality: 2
   source: wiktionary-frequency
   expression_of: lijn
 - word: In Londen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: májusában
+  translations:
+    hu:
+      definitions:
+      - text: májusában
+        quality: 2
   source: wiktionary-frequency
   expression_of: londen
 - word: in loondienst werken
   ipa: ''
   pos: ''
-  meanings:
-  - definition: szerződéses munkaválalóként dolgozni
+  translations:
+    hu:
+      definitions:
+      - text: szerződéses munkaválalóként dolgozni
+        quality: 3
   source: norvegian wood
   expression_of: loondienst
 - word: in ons land
   ipa: ''
   pos: ''
-  meanings:
-  - definition: hazánkban
+  translations:
+    hu:
+      definitions:
+      - text: hazánkban
+        quality: 2
   source: wiktionary-frequency
   expression_of: land
 - word: in zijn leven
   ipa: ''
   pos: ''
-  meanings:
-  - definition: életében
+  translations:
+    hu:
+      definitions:
+      - text: életében
+        quality: 2
   source: wiktionary-frequency
   expression_of: leven
 - word: je laten bijstaan
   ipa: ''
   pos: ''
-  meanings:
-  - definition: támaszkodni
-    examples:
-    - nl: Je moet je laten bijstaan door goede vrienden wanneer je moeilijkheden hebt
-      hu: a jóbarátokra támaszkodhatsz, amikor nehézséged van
+  translations:
+    hu:
+      definitions:
+      - text: támaszkodni
+        quality: 3
+      examples:
+      - nl: Je moet je laten bijstaan door goede vrienden wanneer je moeilijkheden hebt
+        tr: a jóbarátokra támaszkodhatsz, amikor nehézséged van
   source: mondeling
   expression_of: laten
 - word: je laten bijstaan door
   ipa: ''
   pos: ''
-  meanings:
-  - definition: támogatást kapni vkitől
+  translations:
+    hu:
+      definitions:
+      - text: támogatást kapni vkitől
+        quality: 3
   source: mondeling
   expression_of: laten
 - word: je lijk dominant
   ipa: ''
   pos: ''
-  meanings:
-  - definition: úgy érzem domináns vagy (adott pillanatban úgy találom)
+  translations:
+    hu:
+      definitions:
+      - text: úgy érzem domináns vagy (adott pillanatban úgy találom)
+        quality: 3
   source: mondeling 3
   expression_of: lijk
 - word: laag
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: alacsony
+  ipa: /laːx/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: alacsony
+        quality: 2
+    en:
+      definitions:
+      - text: low
+        quality: 5
+      - text: layer
+        quality: 5
+      - text: class, stratum, level (in a society)
+        quality: 5
   source: wiktionary-frequency
 - word: laat
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: főiskolai
+  ipa: /laːt/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: főiskolai
+        quality: 2
+    en:
+      definitions:
+      - text: late (not early)
+        quality: 5
+      - text: tardy
+        quality: 5
+      - text: serf
+        quality: 5
+      - text: 'inflection of laten:'
+        quality: 5
+      - text: first/second/third-person singular present indicative
+        quality: 5
   source: wiktionary-frequency
 - word: laat het
   ipa: ''
   pos: ''
-  meanings:
-  - definition: műsor
+  translations:
+    hu:
+      definitions:
+      - text: műsor
+        quality: 2
   source: wiktionary-frequency
   expression_of: laat
 - word: laat het me weten
   ipa: ''
   pos: ''
-  meanings:
-  - definition: láthatunk
+  translations:
+    hu:
+      definitions:
+      - text: láthatunk
+        quality: 2
   source: wiktionary-frequency
   expression_of: laat
 - word: laat maar
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: mindegy
+  pos: intj
+  translations:
+    hu:
+      definitions:
+      - text: mindegy
+        quality: 2
+    en:
+      definitions:
+      - text: never mind, forget it
+        quality: 5
   source: wiktionary-frequency
   expression_of: laat
 - word: laat staan
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: másodközlése
+  pos: conj
+  translations:
+    hu:
+      definitions:
+      - text: másodközlése
+        quality: 2
+    en:
+      definitions:
+      - text: let alone
+        quality: 5
   source: wiktionary-frequency
   expression_of: laat
 - word: laatste
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: utolsó
+  ipa: /ˈlaːtstə/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: utolsó
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of laatst:'
+        quality: 5
+      - text: masculine/feminine singular attributive
+        quality: 5
+      - text: 'inflection of laatst:'
+        quality: 5
+      - text: definite neuter singular attributive
+        quality: 5
+      - text: 'inflection of laatst:'
+        quality: 5
   source: wiktionary-frequency
 - word: laatste keer
   ipa: ''
   pos: ''
-  meanings:
-  - definition: mozgó
+  translations:
+    hu:
+      definitions:
+      - text: mozgó
+        quality: 2
   source: wiktionary-frequency
   expression_of: laatste
 - word: laboratorium
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: töltse
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: töltse
+        quality: 2
+    en:
+      definitions:
+      - text: laboratory, room, building or institution equipped for scientific research or similarly specialised operations,
+          such as production
+        quality: 5
   source: wiktionary-frequency
 - word: lachen met iets/iemand
   ipa: ''
   pos: ''
-  meanings:
-  - definition: nevetni vkivel
-    examples:
-    - nl: het is uit balans
-      hu: nincs egyensúlyban
+  translations:
+    hu:
+      definitions:
+      - text: nevetni vkivel
+        quality: 3
+      examples:
+      - nl: het is uit balans
+        tr: nincs egyensúlyban
   source: mondeling
   expression_of: lachen
 - word: lacherig
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: nevetgélő természetű
+  ipa: /ˈlɑ.xə.rəx/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: nevetgélő természetű
+        quality: 3
+    en:
+      definitions:
+      - text: prone to or characterised by laughing, particularly in a ridiculing manner
+        quality: 5
   source: pogingen iets van het leven te maken
 - word: lacherige stemming
   ipa: ''
   pos: ''
-  meanings:
-  - definition: nevetgélős hangulat
+  translations:
+    hu:
+      definitions:
+      - text: nevetgélős hangulat
+        quality: 3
   source: kattenoog
   expression_of: lacherige
 - word: Laci
   ipa: ''
   pos: ''
-  meanings:
-  - definition: Irak
+  translations:
+    hu:
+      definitions:
+      - text: Irak
+        quality: 2
   source: wiktionary-frequency
 - word: lagen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: ebbe
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: ebbe
+        quality: 2
+    en:
+      definitions:
+      - text: plural of laag
+        quality: 5
+      - text: 'inflection of liggen:'
+        quality: 5
+      - text: plural past indicative
+        quality: 5
+      - text: plural past subjunctive
+        quality: 5
   source: wiktionary-frequency
 - word: lager
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: also
+  ipa: /ˈlaː.ɣər/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: also
+        quality: 2
+    en:
+      definitions:
+      - text: bearing (a metal block or other construction holding a rotating axis in position)
+        quality: 5
+      - text: beer of low fermentation
+        quality: 5
+      - text: laager (wagon fort used by Boers, especially Voortrekkers)
+        quality: 5
+      - text: comparative degree of laag
+        quality: 5
   source: wiktionary-frequency
 - word: Lajos
   ipa: ''
   pos: ''
-  meanings:
-  - definition: Viktor
+  translations:
+    hu:
+      definitions:
+      - text: Viktor
+        quality: 2
   source: wiktionary-frequency
 - word: laken
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: lepedő
+  ipa: /ˈlaːkə(n)/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: lepedő
+        quality: 3
+    en:
+      definitions:
+      - text: woollen broadcloth (fulled and woven fabric made of wool), very sought-after for clothing in the feudal era
+        quality: 5
+      - text: bedsheet
+        quality: 5
+      - text: to criticize, reproach, denounce
+        quality: 5
+      - text: plural of laak
+        quality: 5
+      - text: a Belgian municipality, near Brussels, site of the largest royal palace estate
+        quality: 5
   source: kattenoog 2
 - word: lakik
   ipa: ''
   pos: ''
-  meanings:
-  - definition: szerény
+  translations:
+    hu:
+      definitions:
+      - text: szerény
+        quality: 2
   source: wiktionary-frequency
 - word: Lakos
   ipa: ''
   pos: ''
-  meanings:
-  - definition: szerencsém
+  translations:
+    hu:
+      definitions:
+      - text: szerencsém
+        quality: 2
   source: wiktionary-frequency
 - word: lalja
   ipa: ''
   pos: ''
-  meanings:
-  - definition: barna
+  translations:
+    hu:
+      definitions:
+      - text: barna
+        quality: 2
   source: wiktionary-frequency
 - word: lamp
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vont
+  ipa: /lɑmp/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: vont
+        quality: 2
+    en:
+      definitions:
+      - text: lamp
+        quality: 5
+      - text: vacuum tube, thermionic valve
+        quality: 5
   source: wiktionary-frequency
 - word: land
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: ország
+  ipa: /lɑnt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: ország
+        quality: 2
+    en:
+      definitions:
+      - text: land, country, realm, territory
+        quality: 5
+      - text: land (part of Earth not covered by water)
+        quality: 5
+      - text: a constituent country of the Kingdom of the Netherlands; the territorial government of an overseas constituent
+          country
+        quality: 5
+      - text: the territorial government or state authority in a Dutch colony or overseas territory in the West Indies
+        quality: 5
+      - text: 'inflection of landen:'
+        quality: 5
   source: wiktionary-frequency
 - word: land-
   ipa: ''
   pos: ''
-  meanings:
-  - definition: puszta
+  translations:
+    hu:
+      definitions:
+      - text: puszta
+        quality: 2
   source: wiktionary-frequency
 - word: landbouw
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: mezőgazdasági
+  ipa: /ˈlɑnt.bɑu̯/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: mezőgazdasági
+        quality: 2
+    en:
+      definitions:
+      - text: agriculture
+        quality: 5
   source: wiktionary-frequency
 - word: landbouwer
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: földműves
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: földműves
+        quality: 3
+    en:
+      definitions:
+      - text: farmer
+        quality: 5
   source: storia
 - word: landelijk
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hátha
+  ipa: /ˈlɑndələk/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: hátha
+        quality: 2
+    en:
+      definitions:
+      - text: national
+        quality: 5
+      - text: rural
+        quality: 5
   source: wiktionary-frequency
 - word: landen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: országok
+  ipa: /ˈlɑn.də(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: országok
+        quality: 2
+    en:
+      definitions:
+      - text: to (arrive on) land from the air (for birds, airplanes)
+        quality: 5
+      - text: to land, bring an aircraft or other vehicle (down) to land
+        quality: 5
+      - text: to (arrive on) land by ship
+        quality: 5
+      - text: to land, bring a vessel near or on land
+        quality: 5
+      - text: to turn wild land (especially marshes) into arable land
+        quality: 5
   source: wiktionary-frequency
 - word: landol
   ipa: ''
   pos: ''
-  meanings:
-  - definition: úgymond
+  translations:
+    hu:
+      definitions:
+      - text: úgymond
+        quality: 2
   source: wiktionary-frequency
 - word: landschap
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: mindaddig
+  ipa: /ˈlɑnt.sxɑp/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: mindaddig
+        quality: 2
+    en:
+      definitions:
+      - text: landscape
+        quality: 5
+      - text: region, territory
+        quality: 5
+      - text: native political entity
+        quality: 5
   source: wiktionary-frequency
 - word: lang
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hosszú
+  ipa: /lɑŋ/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: hosszú
+        quality: 2
+    en:
+      definitions:
+      - text: long
+        quality: 5
+      - text: tall
+        quality: 5
+      - text: long (time), lengthy, a long time
+        quality: 5
+      - text: by far
+        quality: 5
+      - text: a surname
+        quality: 5
   source: wiktionary-frequency
 - word: lang geleden
   ipa: ''
   pos: ''
-  meanings:
-  - definition: régen
+  translations:
+    hu:
+      definitions:
+      - text: régen
+        quality: 2
   source: wiktionary-frequency
   expression_of: lang
 - word: Lang leve
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: használtam
+  ipa: /ˈlɑŋ ˌleː.və/
+  pos: phrase
+  translations:
+    hu:
+      definitions:
+      - text: használtam
+        quality: 2
+    en:
+      definitions:
+      - text: long live
+        quality: 5
   source: wiktionary-frequency
   expression_of: lang
 - word: lange jurk
   ipa: ''
   pos: ''
-  meanings:
-  - definition: hosszú ruha (egy)
+  translations:
+    hu:
+      definitions:
+      - text: hosszú ruha (egy)
+        quality: 3
   source: de wereld van Sophie (Jostein Gaarder)
   expression_of: lange
 - word: langer
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: hosszabb
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: hosszabb
+        quality: 2
+    en:
+      definitions:
+      - text: comparative degree of lang
+        quality: 5
   source: wiktionary-frequency
 - word: langetermijnstrategie
   ipa: ''
   pos: ''
-  meanings:
-  - definition: hosszútávú stratégia
+  translations:
+    hu:
+      definitions:
+      - text: hosszútávú stratégia
+        quality: 3
   source: Knack+NVA
 - word: langs
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vállalatok
+  ipa: /lɑŋs/
+  pos: prep
+  translations:
+    hu:
+      definitions:
+      - text: vállalatok
+        quality: 2
+    en:
+      definitions:
+      - text: along, alongside (implying motion)
+        quality: 5
+      - text: along, alongside (stationary)
+        quality: 5
+      - text: past
+        quality: 5
+      - text: through
+        quality: 5
+      - text: partitive of lang
+        quality: 5
   source: wiktionary-frequency
 - word: langwerpige
   ipa: ''
   pos: ''
-  meanings:
-  - definition: hosszúkás
+  translations:
+    hu:
+      definitions:
+      - text: hosszúkás
+        quality: 3
   source: kattenoog
 - word: langzaam
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: lassan
+  ipa: /ˈlɑŋ.zaːm/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: lassan
+        quality: 2
+    en:
+      definitions:
+      - text: slow
+        quality: 5
+      - text: slowly, gradually, bit by bit
+        quality: 5
   source: wiktionary-frequency
 - word: lans
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: lándzsa
+  ipa: /lɑns/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: lándzsa
+        quality: 3
+    en:
+      definitions:
+      - text: a lance
+        quality: 5
   source: summoner
 - word: Lapon
   ipa: ''
   pos: ''
-  meanings:
-  - definition: társadalomban
+  translations:
+    hu:
+      definitions:
+      - text: társadalomban
+        quality: 2
   source: wiktionary-frequency
 - word: Lapot
   ipa: ''
   pos: ''
-  meanings:
-  - definition: államok
+  translations:
+    hu:
+      definitions:
+      - text: államok
+        quality: 2
   source: wiktionary-frequency
 - word: lapra
   ipa: ''
   pos: ''
-  meanings:
-  - definition: cigányok
+  translations:
+    hu:
+      definitions:
+      - text: cigányok
+        quality: 2
   source: wiktionary-frequency
 - word: lapzwans
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: nyápic, pipogya
+  ipa: /ˈlɑp.zʋɑns/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: nyápic, pipogya
+        quality: 3
+    en:
+      definitions:
+      - text: good-for-nothing, layabout
+        quality: 5
   source: prachtige wereld waar ben je [Sally Rooney]
 - word: lasten
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: mennyiség
+  ipa: /ˈlɑstə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: mennyiség
+        quality: 2
+    en:
+      definitions:
+      - text: to emburden with a load
+        quality: 5
+      - text: to charge with a responsibility
+        quality: 5
+      - text: plural of last
+        quality: 5
+      - text: 'inflection of lassen:'
+        quality: 5
+      - text: plural past indicative
+        quality: 5
   source: wiktionary-frequency
 - word: lasten op arbeid
   ipa: ''
   pos: ''
-  meanings:
-  - definition: munkaerő terhei
+  translations:
+    hu:
+      definitions:
+      - text: munkaerő terhei
+        quality: 3
   source: Knack+NVA
   expression_of: lasten
 - word: laten staan
   ipa: ''
   pos: ''
-  meanings:
-  - definition: semmi
+  translations:
+    hu:
+      definitions:
+      - text: semmi
+        quality: 2
   source: wiktionary-frequency
   expression_of: laten
 - word: laten vallen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: posta
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: posta
+        quality: 2
+    en:
+      definitions:
+      - text: to drop
+        quality: 5
   source: wiktionary-frequency
   expression_of: laten
 - word: laten we gaan
   ipa: ''
   pos: ''
-  meanings:
-  - definition: érdemi
+  translations:
+    hu:
+      definitions:
+      - text: érdemi
+        quality: 2
   source: wiktionary-frequency
   expression_of: laten
 - word: laten we het doen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: célokra
+  translations:
+    hu:
+      definitions:
+      - text: célokra
+        quality: 2
   source: wiktionary-frequency
   expression_of: laten
 - word: laten we kijken
   ipa: ''
   pos: ''
-  meanings:
-  - definition: helyeken
+  translations:
+    hu:
+      definitions:
+      - text: helyeken
+        quality: 2
   source: wiktionary-frequency
   expression_of: laten
 - word: laten we proberen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: szervezésében
+  translations:
+    hu:
+      definitions:
+      - text: szervezésében
+        quality: 2
   source: wiktionary-frequency
   expression_of: laten
 - word: laten we zeggen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: mondjuk
+  translations:
+    hu:
+      definitions:
+      - text: mondjuk
+        quality: 2
   source: wiktionary-frequency
   expression_of: laten
 - word: laten we zijn
   ipa: ''
   pos: ''
-  meanings:
-  - definition: háromszor
+  translations:
+    hu:
+      definitions:
+      - text: háromszor
+        quality: 2
   source: wiktionary-frequency
   expression_of: laten
 - word: laten zien
   ipa: ''
   pos: ''
-  meanings:
-  - definition: jelenthet
+  translations:
+    hu:
+      definitions:
+      - text: jelenthet
+        quality: 2
   source: wiktionary-frequency
   expression_of: laten
 - word: later
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: később
+  ipa: /ˈlaː.tər/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: később
+        quality: 2
+    en:
+      definitions:
+      - text: comparative degree of laat
+        quality: 5
+      - text: having to do with or occurring in the future
+        quality: 5
+      - text: later
+        quality: 5
+      - text: in the future
+        quality: 5
+      - text: bye, later
+        quality: 5
   source: wiktionary-frequency
 - word: later - később
   ipa: ''
   pos: ''
-  meanings:
-  - definition: másképp
+  translations:
+    hu:
+      definitions:
+      - text: másképp
+        quality: 2
   source: wiktionary-frequency
   expression_of: later
 - word: Latijns
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: torta
+  ipa: /laːˈtɛi̯ns/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: torta
+        quality: 2
+    en:
+      definitions:
+      - text: Latin
+        quality: 5
+      - text: the Latin language
+        quality: 5
   source: wiktionary-frequency
 - word: LED
   ipa: ''
   pos: ''
-  meanings:
-  - definition: vezetett
+  translations:
+    hu:
+      definitions:
+      - text: vezetett
+        quality: 2
   source: wiktionary-frequency
 - word: ledematen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: végtagok
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: végtagok
+        quality: 3
+    en:
+      definitions:
+      - text: plural of ledemaat
+        quality: 5
   source: mondeling 2
 - word: leden
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: tagok
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: tagok
+        quality: 2
+    en:
+      definitions:
+      - text: plural of lid
+        quality: 5
+      - text: 'inflection of lijden:'
+        quality: 5
+      - text: plural past indicative
+        quality: 5
+      - text: plural past subjunctive
+        quality: 5
   source: wiktionary-frequency
 - word: leden van
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tagjai
+  translations:
+    hu:
+      definitions:
+      - text: tagjai
+        quality: 2
   source: wiktionary-frequency
   expression_of: leden
 - word: leef ermee
   ipa: ''
   pos: ''
-  meanings:
-  - definition: miről
+  translations:
+    hu:
+      definitions:
+      - text: miről
+        quality: 2
   source: wiktionary-frequency
   expression_of: leef
 - word: leefde
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: élt
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: élt
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of leven:'
+        quality: 5
+      - text: singular past indicative
+        quality: 5
+      - text: 'inflection of leven:'
+        quality: 5
+      - text: singular past subjunctive
+        quality: 5
   source: wiktionary-frequency
 - word: leeftijd
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: megjelenése
+  ipa: /ˈleːf.tɛi̯t/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: megjelenése
+        quality: 2
+    en:
+      definitions:
+      - text: age (amount of time a being or object has lived or existed)
+        quality: 5
+      - text: age (stage of one's life or existence)
+        quality: 5
+      - text: lifetime, lifespan
+        quality: 5
   source: wiktionary-frequency
 - word: leeftijdsgroep
   ipa: ''
   pos: ''
-  meanings:
-  - definition: két
+  translations:
+    hu:
+      definitions:
+      - text: két
+        quality: 2
   source: wiktionary-frequency
 - word: leeg
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: üres
+  ipa: /leːx/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: üres
+        quality: 2
+    en:
+      definitions:
+      - text: empty, hollow
+        quality: 5
+      - text: listless, lethargic
+        quality: 5
+      - text: 'inflection of legen:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
+      - text: second-person singular present indicative
+        quality: 5
   source: wiktionary-frequency
 - word: leerde kennen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: állítható
+  translations:
+    hu:
+      definitions:
+      - text: állítható
+        quality: 2
   source: wiktionary-frequency
   expression_of: leerde
 - word: leergierigheid
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tanulásvágy
+  translations:
+    hu:
+      definitions:
+      - text: tanulásvágy
+        quality: 3
   source: mondeling
 - word: leerling
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hallgató
+  ipa: /ˈleːr.lɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: hallgató
+        quality: 2
+    en:
+      definitions:
+      - text: a learner, someone who learns
+        quality: 5
+      - text: 'someone formally enrolled for some education: a pupil, student, apprentice, disciple'
+        quality: 5
   source: wiktionary-frequency
 - word: leerzaam
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: oktatási
+  ipa: /ˈleːr.zaːm/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: oktatási
+        quality: 2
+    en:
+      definitions:
+      - text: informative, instructional, instructive
+        quality: 5
   source: wiktionary-frequency
 - word: Lees het
   ipa: ''
   pos: ''
-  meanings:
-  - definition: titeket
+  translations:
+    hu:
+      definitions:
+      - text: titeket
+        quality: 2
   source: wiktionary-frequency
   expression_of: lees
 - word: leesbaar
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: olvasható
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: olvasható
+        quality: 2
+    en:
+      definitions:
+      - text: readable, legible
+        quality: 5
   source: wiktionary-frequency
 - word: leeuwendeel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: oroszlánrész
+  ipa: /ˈleːu̯.ə(n)ˌdeːl/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: oroszlánrész
+        quality: 3
+    en:
+      definitions:
+      - text: lion's share
+        quality: 5
   source: het diner
 - word: lef hebben, moed hebben
   ipa: ''
   pos: ''
-  meanings:
-  - definition: bátornak lenni
+  translations:
+    hu:
+      definitions:
+      - text: bátornak lenni
+        quality: 3
   source: mondeling 3
   expression_of: lef
 - word: lefgozer
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: bátor, büszke személy
+  ipa: /ˈlɛfˌxoː.zər/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: bátor, büszke személy
+        quality: 3
+    en:
+      definitions:
+      - text: a man or boy with a lot of chutzpah; a daring or impudent male
+        quality: 5
   source: na de aardbeveging
 - word: legaal
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: közreműködésével
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: közreműködésével
+        quality: 2
+    en:
+      definitions:
+      - text: legal, lawful, licit
+        quality: 5
   source: wiktionary-frequency
 - word: legale bescherming
   ipa: ''
   pos: ''
-  meanings:
-  - definition: heves
+  translations:
+    hu:
+      definitions:
+      - text: heves
+        quality: 2
   source: wiktionary-frequency
   expression_of: legale
 - word: legendarisch
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: egyén
+  ipa: /leː.ɣɛnˈdaː.ris/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: egyén
+        quality: 2
+    en:
+      definitions:
+      - text: legendary
+        quality: 5
   source: wiktionary-frequency
 - word: legende
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kapcsolatát
+  ipa: /ˌləˈɣɛn.də/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kapcsolatát
+        quality: 2
+    en:
+      definitions:
+      - text: legend (fictional story based on oral tradition, possibly with a kernel of truth)
+        quality: 5
   source: wiktionary-frequency
 - word: leger
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: katonai
+  ipa: /ˈleː.ɣər/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: katonai
+        quality: 2
+    en:
+      definitions:
+      - text: army, armed forces
+        quality: 5
+      - text: form (habitation of a hare)
+        quality: 5
+      - text: bed, crib
+        quality: 5
+      - text: mass, multitude
+        quality: 5
+      - text: short for dijkleger
+        quality: 5
   source: wiktionary-frequency
 - word: leggen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: utazott
+  ipa: /ˈlɛɣə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: utazott
+        quality: 2
+    en:
+      definitions:
+      - text: to lay (to place in a lying position)
+        quality: 5
+      - text: to lay (eggs) (to produce and deposit eggs)
+        quality: 5
+      - text: alternative form of liggen
+        quality: 5
   source: wiktionary-frequency
 - word: leider
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vezetője
+  ipa: /ˈlɛi̯.dər/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: vezetője
+        quality: 2
+    en:
+      definitions:
+      - text: leader, head, chief
+        quality: 5
   source: wiktionary-frequency
 - word: leiders
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: fogsz
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: fogsz
+        quality: 2
+    en:
+      definitions:
+      - text: plural of leider
+        quality: 5
   source: wiktionary-frequency
 - word: leiderschap
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vezetői
+  ipa: /ˈlɛi̯dərˌsxɑp/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: vezetői
+        quality: 2
+    en:
+      definitions:
+      - text: leadership
+        quality: 5
   source: wiktionary-frequency
 - word: leiding
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: körbevezetés
+  ipa: /ˈlɛi̯.dɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: körbevezetés
+        quality: 3
+    en:
+      definitions:
+      - text: lead (act of leading), control
+        quality: 5
+      - text: leadership, direction
+        quality: 5
+      - text: pipe, pipeline
+        quality: 5
   source: kattenoog 2
 - word: leidinggevende
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hozzájárulás
+  ipa: /ˈlɛi̯.dɪŋˌɣeː.vən.də/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: hozzájárulás
+        quality: 2
+    en:
+      definitions:
+      - text: manager
+        quality: 5
+      - text: 'inflection of leidinggevend:'
+        quality: 5
+      - text: masculine/feminine singular attributive
+        quality: 5
+      - text: definite neuter singular attributive
+        quality: 5
+      - text: plural attributive
+        quality: 5
   source: wiktionary-frequency
 - word: Leidt
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vezet
+  ipa: /ˈlɛi̯t/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: vezet
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of leiden:'
+        quality: 5
+      - text: second/third-person singular present indicative
+        quality: 5
+      - text: 'inflection of leiden:'
+        quality: 5
+      - text: plural imperative
+        quality: 5
   source: wiktionary-frequency
 - word: lelijk
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: amihez
+  ipa: /ˈleː.lək/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: amihez
+        quality: 2
+    en:
+      definitions:
+      - text: ugly
+        quality: 5
+      - text: badly
+        quality: 5
   source: wiktionary-frequency
 - word: lemmet
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: penge
+  ipa: /ˈlɛ.mɛt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: penge
+        quality: 3
+    en:
+      definitions:
+      - text: blade (of a knife, sword, etc.)
+        quality: 5
+      - text: wick
+        quality: 5
   source: summoner
 - word: lende
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: alsó gerinctájék
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: alsó gerinctájék
+        quality: 3
+    en:
+      definitions:
+      - text: loin, bottom part of the back
+        quality: 5
+      - text: flank, side
+        quality: 5
+      - text: fellow countryman
+        quality: 5
+      - text: neighbour
+        quality: 5
   source: kattenoog 2
 - word: lendendoek
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: ágyékkötő
+  ipa: /ˈlɛn.də(n)ˌduk/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: ágyékkötő
+        quality: 3
+    en:
+      definitions:
+      - text: loincloth
+        quality: 5
   source: summoner
 - word: lengte
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: írók
+  ipa: /ˈlɛŋ.tə/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: írók
+        quality: 2
+    en:
+      definitions:
+      - text: length
+        quality: 5
+      - text: height (of a person)
+        quality: 5
   source: wiktionary-frequency
 - word: lening
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: iskolákban
+  ipa: /ˈleː.nɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: iskolákban
+        quality: 2
+    en:
+      definitions:
+      - text: a loan, credit
+        quality: 5
   source: wiktionary-frequency
 - word: leraar
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: tanár
+  ipa: /ˈleː.raːr/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: tanár
+        quality: 2
+    en:
+      definitions:
+      - text: a teacher, a person who gives lessons
+        quality: 5
+      - text: a Protestant clergyman, a reverend
+        quality: 5
   source: wiktionary-frequency
 - word: leraren
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: akivel
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: akivel
+        quality: 2
+    en:
+      definitions:
+      - text: plural of leraar
+        quality: 5
   source: wiktionary-frequency
 - word: leren
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kérte
+  ipa: /ˈleːrə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: kérte
+        quality: 2
+    en:
+      definitions:
+      - text: to learn, to study
+        quality: 5
+      - text: to teach
+        quality: 5
+      - text: leathern (made of leather)
+        quality: 5
+      - text: plural of leer
+        quality: 5
   source: wiktionary-frequency
 - word: leren kennen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: teremben
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: teremben
+        quality: 2
+    en:
+      definitions:
+      - text: to get to know
+        quality: 5
   source: wiktionary-frequency
   expression_of: leren
 - word: les
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: les
+  ipa: /lɛs/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: les
+        quality: 2
+    en:
+      definitions:
+      - text: course, lesson
+        quality: 5
+      - text: 'inflection of lessen:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
+      - text: second-person singular present indicative
+        quality: 5
+      - text: imperative
+        quality: 5
   source: wiktionary-frequency
 - word: lessenaar
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: olvasó pult, pulpitus, olvasó asztal, kottaállvány
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: olvasó pult, pulpitus, olvasó asztal, kottaállvány
+        quality: 3
+    en:
+      definitions:
+      - text: lectern, stand for books or lecture notes
+        quality: 5
+      - text: teacher's desk
+        quality: 5
+      - text: desk
+        quality: 5
   source: het diner
 - word: letsel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: gyümölcs
+  ipa: /ˈlɛt.səl/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: gyümölcs
+        quality: 2
+    en:
+      definitions:
+      - text: lesion, injury
+        quality: 5
   source: wiktionary-frequency
 - word: letterkunde
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: irodalom
+  ipa: /ˈlɛ.tərˌkʏn.də/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: irodalom
+        quality: 3
+    en:
+      definitions:
+      - text: literature
+        quality: 5
+      - text: the academic study of literature, literary science, literary studies
+        quality: 5
   source: na de aardbeveging
 - word: letterlijk
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: szószerint
+  ipa: /ˈlɛ.tər.lək/
+  pos: adv
+  translations:
+    hu:
+      definitions:
+      - text: szószerint
+        quality: 3
+    en:
+      definitions:
+      - text: literally
+        quality: 5
+      - text: literal
+        quality: 5
   source: prachtige wereld waar ben je [Sally Rooney]
 - word: leugens
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: felhasználókat
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: felhasználókat
+        quality: 2
+    en:
+      definitions:
+      - text: plural of leugen
+        quality: 5
   source: wiktionary-frequency
 - word: leuk
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kedves
+  ipa: /løːk/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: kedves
+        quality: 2
+    en:
+      definitions:
+      - text: nice, pleasant, enjoyable
+        quality: 5
+      - text: attractive
+        quality: 5
+      - text: calm, level-headed
+        quality: 5
+      - text: lukewarm
+        quality: 5
   source: wiktionary-frequency
 - word: Leuk gevonden
   ipa: ''
   pos: ''
-  meanings:
-  - definition: rendezvényen
+  translations:
+    hu:
+      definitions:
+      - text: rendezvényen
+        quality: 2
   source: wiktionary-frequency
   expression_of: leuk
 - word: Leuk vinden
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tetszik
+  translations:
+    hu:
+      definitions:
+      - text: tetszik
+        quality: 2
   source: wiktionary-frequency
   expression_of: leuk
 - word: levele
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kétségtelenül
+  translations:
+    hu:
+      definitions:
+      - text: kétségtelenül
+        quality: 2
   source: wiktionary-frequency
 - word: leven
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: élet
+  ipa: /ˈleːvə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: élet
+        quality: 2
+    en:
+      definitions:
+      - text: to live
+        quality: 5
+      - text: life (act or duration of living)
+        quality: 5
+      - text: life, biography (particularly, but not necessarily a hagiography)
+        quality: 5
   source: wiktionary-frequency
 - word: levend
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: életben
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: életben
+        quality: 2
+    en:
+      definitions:
+      - text: living, alive
+        quality: 5
+      - text: present participle of leven
+        quality: 5
   source: wiktionary-frequency
 - word: levendig
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: életemben
+  ipa: /ˈleːvəndəx/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: életemben
+        quality: 2
+    en:
+      definitions:
+      - text: lively, vivacious
+        quality: 5
+      - text: living, alive
+        quality: 5
+      - text: alive, living
+        quality: 5
   source: wiktionary-frequency
 - word: levenspunt
   ipa: ''
   pos: ''
-  meanings:
-  - definition: életpontot
+  translations:
+    hu:
+      definitions:
+      - text: életpontot
+        quality: 2
   source: wiktionary-frequency
 - word: levensstijl
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: lakó
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: lakó
+        quality: 2
+    en:
+      definitions:
+      - text: lifestyle
+        quality: 5
   source: wiktionary-frequency
 - word: levensvatbaarheid
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: életképességét
+  ipa: /ˌleː.və(n)sˈfɑt.baːr.ɦɛi̯t/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: életképességét
+        quality: 3
+    en:
+      definitions:
+      - text: viability
+        quality: 5
   source: Knack+NVA
 - word: lever
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: máj
+  ipa: /ˈleːvər/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: máj
+        quality: 2
+    en:
+      definitions:
+      - text: liver
+        quality: 5
+      - text: edible animal liver as a dish or culinary ingredient
+        quality: 5
+      - text: 'inflection of leveren:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
+      - text: second-person singular present indicative
+        quality: 5
   source: wiktionary-frequency
 - word: leverancier
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: beszállító
-    english: supplier
+  ipa: /ˌleː.və.rɑnˈsiːr/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: beszállító
+        quality: 3
+        english_hint: supplier
+    en:
+      definitions:
+      - text: supplier
+        quality: 5
   source: summoner
 - word: leveren grote inspanningen om
   ipa: ''
   pos: ''
-  meanings:
-  - definition: nagy erőket fektetnek be
+  translations:
+    hu:
+      definitions:
+      - text: nagy erőket fektetnek be
+        quality: 3
   source: Knack+NVA
   expression_of: leveren
 - word: levering
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: étterem
+  ipa: /ˈleː.və.rɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: étterem
+        quality: 2
+    en:
+      definitions:
+      - text: delivery
+        quality: 5
+      - text: supply
+        quality: 5
   source: wiktionary-frequency
 - word: levering - szállítás
   ipa: ''
   pos: ''
-  meanings:
-  - definition: mutatta
+  translations:
+    hu:
+      definitions:
+      - text: mutatta
+        quality: 2
   source: wiktionary-frequency
   expression_of: levering
 - word: lezen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: olvasni
+  ipa: /ˈleːzə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: olvasni
+        quality: 2
+    en:
+      definitions:
+      - text: to read
+        quality: 5
+      - text: to gather (esp. fruits)
+        quality: 5
   source: wiktionary-frequency
 - word: lezing
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: olvasmány
+  ipa: /ˈleː.zɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: olvasmány
+        quality: 3
+    en:
+      definitions:
+      - text: reading (act of)
+        quality: 5
+      - text: lecture
+        quality: 5
+      - text: reading (of a text), passage (that is read)
+        quality: 5
+      - text: reading (an attested or proposed variant of a section of text)
+        quality: 5
+      - text: reading (a stage of legislative treatment of a law proposal)
+        quality: 5
   source: kattenoog 2
 - word: lezingen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: tagság
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: tagság
+        quality: 2
+    en:
+      definitions:
+      - text: plural of lezing
+        quality: 5
   source: wiktionary-frequency
 - word: liberaal
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: fájdalom
+  ipa: /libəˈraːl/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: fájdalom
+        quality: 2
+    en:
+      definitions:
+      - text: liberal
+        quality: 5
   source: wiktionary-frequency
 - word: licentie
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: elég
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: elég
+        quality: 2
+    en:
+      definitions:
+      - text: license (commercial)
+        quality: 5
   source: wiktionary-frequency
 - word: lichaam
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: test
+  ipa: /ˈlɪxaːm/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: test
+        quality: 2
+    en:
+      definitions:
+      - text: body
+        quality: 5
+      - text: corpse, dead body
+        quality: 5
+      - text: legal body, organisation such as a corporation, association or assembly
+        quality: 5
+      - text: field
+        quality: 5
+      - text: division ring
+        quality: 5
   source: wiktionary-frequency
 - word: licht
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: fény
+  ipa: /lɪxt/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: fény
+        quality: 2
+    en:
+      definitions:
+      - text: light, of little weight
+        quality: 5
+      - text: easy, mild
+        quality: 5
+      - text: light, illumination
+        quality: 5
+      - text: light source
+        quality: 5
+      - text: inspiration (in z'n licht opsteken); a bright mind
+        quality: 5
   source: wiktionary-frequency
 - word: lid
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kupak, fedő
+  ipa: /lɪt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kupak, fedő
+        quality: 3
+    en:
+      definitions:
+      - text: member (of a group)
+        quality: 5
+      - text: member, limb (extremity of a body)
+        quality: 5
+      - text: member, penis
+        quality: 5
+      - text: paragraph, subsection (legislative drafting)
+        quality: 5
+      - text: article, particularly in the Southern diminutive form ledeken
+        quality: 5
   source: bepaalde dag in het leven van idereen
 - word: lidmaatschap
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: kérdés
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kérdés
+        quality: 2
+    en:
+      definitions:
+      - text: membership (status of being a member; originally of a church flock)
+        quality: 5
   source: wiktionary-frequency
 - word: Lidstaten
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: fáradt
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: fáradt
+        quality: 2
+    en:
+      definitions:
+      - text: plural of lidstaat
+        quality: 5
   source: wiktionary-frequency
 - word: Lidwoord
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: cikkek
+  ipa: /ˈlɪt.ʋoːrt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: cikkek
+        quality: 2
+    en:
+      definitions:
+      - text: article
+        quality: 5
   source: wiktionary-frequency
 - word: lied
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: szám
+  ipa: /liːt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: szám
+        quality: 2
+    en:
+      definitions:
+      - text: song
+        quality: 5
   source: wiktionary-frequency
 - word: lied - ének
   ipa: ''
   pos: ''
-  meanings:
-  - definition: támogató
+  translations:
+    hu:
+      definitions:
+      - text: támogató
+        quality: 2
   source: wiktionary-frequency
   expression_of: lied
 - word: liedjes
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: radikális
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: radikális
+        quality: 2
+    en:
+      definitions:
+      - text: plural of liedje
+        quality: 5
   source: wiktionary-frequency
 - word: lief
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: eredményei
+  ipa: /lif/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: eredményei
+        quality: 2
+    en:
+      definitions:
+      - text: nice, sweet, lovely
+        quality: 5
+      - text: beloved, dear
+        quality: 5
+      - text: one's beloved in a romantic relationship, i.e. a boyfriend or girlfriend
+        quality: 5
   source: wiktionary-frequency
 - word: liefde
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: szeretet
+  ipa: /ˈlif.də/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: szeretet
+        quality: 2
+    en:
+      definitions:
+      - text: love
+        quality: 5
   source: wiktionary-frequency
 - word: liefdes
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: szereti
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: szereti
+        quality: 2
+    en:
+      definitions:
+      - text: plural of liefde
+        quality: 5
   source: wiktionary-frequency
 - word: liever
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: inkább
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: inkább
+        quality: 2
+    en:
+      definitions:
+      - text: comparative degree of lief
+        quality: 5
+      - text: 'inflection of lief:'
+        quality: 5
+      - text: feminine genitive singular
+        quality: 5
+      - text: genitive plural
+        quality: 5
+      - text: comparative degree of graag
+        quality: 5
   source: wiktionary-frequency
 - word: liflaf
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: ''
-    english: junk food
+  ipa: /ˈlɪf.lɑf/
+  pos: adj
+  translations:
+    en:
+      definitions:
+      - text: insipid, tasteless
+        quality: 5
+      - text: insipid food
+        quality: 5
+      - text: insipid text(s), bland writing
+        quality: 5
   source: pogingen iets van het leven te maken
 - word: liga
   ipa: ''
   pos: ''
-  meanings:
-  - definition: állunk
+  translations:
+    hu:
+      definitions:
+      - text: állunk
+        quality: 2
   source: wiktionary-frequency
 - word: lijden
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: karácsonyi
+  ipa: /ˈlɛi̯də(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: karácsonyi
+        quality: 2
+    en:
+      definitions:
+      - text: to undergo, endure, suffer
+        quality: 5
+      - text: to suffer
+        quality: 5
+      - text: suffering
+        quality: 5
   source: wiktionary-frequency
 - word: lijden onder iets
   ipa: ''
   pos: ''
-  meanings:
-  - definition: szenved valamitől
+  translations:
+    hu:
+      definitions:
+      - text: szenved valamitől
+        quality: 3
   source: mondeling 2
   expression_of: lijden
 - word: lijk
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: tetem
+  ipa: /lɛi̯k/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: tetem
+        quality: 3
+    en:
+      definitions:
+      - text: the dead but otherwise (mostly) intact body, particularly of a human but sometimes used of animals
+        quality: 5
+      - text: leech
+        quality: 5
+      - text: like
+        quality: 5
+      - text: 'inflection of lijken:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
   source: kattenoog
 - word: lijkt op
   ipa: ''
   pos: ''
-  meanings:
-  - definition: csoportba
+  translations:
+    hu:
+      definitions:
+      - text: csoportba
+        quality: 2
   source: wiktionary-frequency
   expression_of: lijkt
 - word: lijn
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: munkával
+  ipa: /lɛi̯n/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: munkával
+        quality: 2
+    en:
+      definitions:
+      - text: a line
+        quality: 5
+      - text: any line or curve
+        quality: 5
+      - text: a rope, a cable
+        quality: 5
+      - text: a route, a line (of transport, especially of public transport and airlines)
+        quality: 5
+      - text: a leash for restraining animals
+        quality: 5
   source: wiktionary-frequency
 - word: lijst
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: lista
+  ipa: /lɛi̯st/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: lista
+        quality: 2
+    en:
+      definitions:
+      - text: list
+        quality: 5
+      - text: picture frame
+        quality: 5
   source: wiktionary-frequency
 - word: limoen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: novemberben
+  ipa: /liˈmun/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: novemberben
+        quality: 2
+    en:
+      definitions:
+      - text: lime (a green citrus fruit)
+        quality: 5
+      - text: lime (green color)
+        quality: 5
   source: wiktionary-frequency
 - word: linket
   ipa: ''
   pos: ''
-  meanings:
-  - definition: vidék
+  translations:
+    hu:
+      definitions:
+      - text: vidék
+        quality: 2
   source: wiktionary-frequency
 - word: linkre
   ipa: ''
   pos: ''
-  meanings:
-  - definition: közelmúltban
+  translations:
+    hu:
+      definitions:
+      - text: közelmúltban
+        quality: 2
   source: wiktionary-frequency
 - word: links
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: maradt
+  ipa: /lɪŋks/
+  pos: adv
+  translations:
+    hu:
+      definitions:
+      - text: maradt
+        quality: 2
+    en:
+      definitions:
+      - text: on the left
+        quality: 5
+      - text: to the left
+        quality: 5
+      - text: left
+        quality: 5
+      - text: left-wing, leftist, belonging to the ideological left
+        quality: 5
+      - text: left-handed
+        quality: 5
   source: wiktionary-frequency
 - word: linux
   ipa: ''
   pos: ''
-  meanings:
-  - definition: linux
+  translations:
+    hu:
+      definitions:
+      - text: linux
+        quality: 2
   source: wiktionary-frequency
 - word: lispelen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: dadog
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: dadog
+        quality: 3
+    en:
+      definitions:
+      - text: to lisp
+        quality: 5
+      - text: to talk softly
+        quality: 5
   source: summoner
 - word: liter
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: rugalmas
+  ipa: /ˈli.tər/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: rugalmas
+        quality: 2
+    en:
+      definitions:
+      - text: litre
+        quality: 5
   source: wiktionary-frequency
 - word: literair
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: irodalmi
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: irodalmi
+        quality: 2
+    en:
+      definitions:
+      - text: literary
+        quality: 5
   source: wiktionary-frequency
 - word: literatuur
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: irodalom
+  ipa: /ˌli.tə.raːˈtyr/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: irodalom
+        quality: 2
+    en:
+      definitions:
+      - text: literature
+        quality: 5
   source: wiktionary-frequency
 - word: lof
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: dicséret
+  ipa: /lɔf/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: dicséret
+        quality: 3
+    en:
+      definitions:
+      - text: praise
+        quality: 5
+      - text: clipping of witlof (“chicory”)
+        quality: 5
   source: summoner
 - word: logica
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: üveg
+  ipa: /ˈloːxikaː/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: üveg
+        quality: 2
+    en:
+      definitions:
+      - text: logic
+        quality: 5
   source: wiktionary-frequency
 - word: logisch
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: tus
+  ipa: /ˈloːxis/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: tus
+        quality: 2
+    en:
+      definitions:
+      - text: logical
+        quality: 5
   source: wiktionary-frequency
 - word: logisch redeneren
   ipa: ''
   pos: ''
-  meanings:
-  - definition: logikai úton levezet
+  translations:
+    hu:
+      definitions:
+      - text: logikai úton levezet
+        quality: 3
   source: het diner
   expression_of: logisch
 - word: logistiek
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: bűncselekmény
+  ipa: /loː.ɣɪsˈtik/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: bűncselekmény
+        quality: 2
+    en:
+      definitions:
+      - text: logistics
+        quality: 5
+      - text: logistical
+        quality: 5
   source: wiktionary-frequency
 - word: logo's
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kísérő
+  translations:
+    hu:
+      definitions:
+      - text: kísérő
+        quality: 2
   source: wiktionary-frequency
 - word: lokaal
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: helyi
+  ipa: /loːˈkaːl/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: helyi
+        quality: 2
+    en:
+      definitions:
+      - text: local
+        quality: 5
+      - text: room, hall, particularly a classroom
+        quality: 5
   source: wiktionary-frequency
 - word: lol
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: móka
+  ipa: /lɔl/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: móka
+        quality: 3
+    en:
+      definitions:
+      - text: fun
+        quality: 5
+      - text: LOL ("laughing out loud", expression of mirth)
+        quality: 5
   source: kattenoog 2
 - word: lol hebben/maken
   ipa: ''
   pos: ''
-  meanings:
-  - definition: mókázni, szórakozni
+  translations:
+    hu:
+      definitions:
+      - text: mókázni, szórakozni
+        quality: 3
   source: kattenoog 2
   expression_of: lol
 - word: loltrapperij
   ipa: ''
   pos: ''
-  meanings:
-  - definition: szórakozás (örömpedállozás)
+  translations:
+    hu:
+      definitions:
+      - text: szórakozás (örömpedállozás)
+        quality: 3
   source: kattenoog
 - word: Londen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: projektek
+  ipa: /ˈlɔndən/
+  pos: name
+  translations:
+    hu:
+      definitions:
+      - text: projektek
+        quality: 2
+    en:
+      definitions:
+      - text: London (the capital city of the United Kingdom; the capital city of England)
+        quality: 5
   source: wiktionary-frequency
 - word: longen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: felsőoktatás
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: felsőoktatás
+        quality: 2
+    en:
+      definitions:
+      - text: plural of long
+        quality: 5
   source: wiktionary-frequency
 - word: longonsteking
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tüdőgyulladást
+  translations:
+    hu:
+      definitions:
+      - text: tüdőgyulladást
+        quality: 3
   source: ziktes
 - word: loochenen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: tagadni
+  ipa: /ˈloː.xə.nə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: tagadni
+        quality: 3
+    en:
+      definitions:
+      - text: to deny, to withsay (to assert the falsity or non-existence of)
+        quality: 5
+      - text: to disavow, to deny
+        quality: 5
   source: de heks van Portobello
 - word: loodzware
   ipa: ''
   pos: ''
-  meanings:
-  - definition: ólomnehéz
+  translations:
+    hu:
+      definitions:
+      - text: ólomnehéz
+        quality: 3
   source: het diner
 - word: loopt achter
   ipa: ''
   pos: ''
-  meanings:
-  - definition: váltak
+  translations:
+    hu:
+      definitions:
+      - text: váltak
+        quality: 2
   source: wiktionary-frequency
   expression_of: loopt
 - word: looptijd
   ipa: ''
   pos: ''
-  meanings:
-  - definition: ennél
+  translations:
+    hu:
+      definitions:
+      - text: ennél
+        quality: 2
   source: wiktionary-frequency
 - word: lopen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: összetett
+  ipa: /ˈloːpə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: összetett
+        quality: 2
+    en:
+      definitions:
+      - text: to run, go fast on one's own legs
+        quality: 5
+      - text: to run, cover distance, follow a track etc.
+        quality: 5
+      - text: to walk, go somewhere regardless of speed
+        quality: 5
+      - text: to walk in general
+        quality: 5
+      - text: to stretch, to run (to extend in space or through a range) (often of relatively elongated objects or constructs)
+        quality: 5
   source: wiktionary-frequency
 - word: los
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: köszönjük
+  ipa: /lɔs/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: köszönjük
+        quality: 2
+    en:
+      definitions:
+      - text: loose
+        quality: 5
+      - text: separate, individual
+        quality: 5
+      - text: synonym of lynx
+        quality: 5
+      - text: 'inflection of lossen:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
   source: wiktionary-frequency
 - word: los, losse
   ipa: ''
   pos: ''
-  meanings:
-  - definition: laza
+  translations:
+    hu:
+      definitions:
+      - text: laza
+        quality: 3
   source: kattenoog
   expression_of: los,
 - word: losheid
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: lazaság
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: lazaság
+        quality: 3
+    en:
+      definitions:
+      - text: looseness
+        quality: 5
   source: mondeling 3
 - word: losstaand van
   ipa: ''
   pos: ''
-  meanings:
-  - definition: feliratkozhat
+  translations:
+    hu:
+      definitions:
+      - text: feliratkozhat
+        quality: 2
   source: wiktionary-frequency
   expression_of: losstaand
 - word: lot
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vonzó
+  ipa: /lɔt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: vonzó
+        quality: 2
+    en:
+      definitions:
+      - text: destiny, fate, lot
+        quality: 5
+      - text: lottery ticket
+        quality: 5
+      - text: lot, allotment (that which has been apportioned to a party)
+        quality: 5
   source: wiktionary-frequency
 - word: louter ontwikkeljkfase
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tisztán fejlesztési fázis
+  translations:
+    hu:
+      definitions:
+      - text: tisztán fejlesztési fázis
+        quality: 3
   source: contract
   expression_of: louter
 - word: ltd.
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kft.
+  translations:
+    hu:
+      definitions:
+      - text: kft.
+        quality: 2
   source: wiktionary-frequency
 - word: lucht
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: előadást
+  ipa: /lʏxt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: előadást
+        quality: 2
+    en:
+      definitions:
+      - text: air (mixture of gases)
+        quality: 5
+      - text: sky
+        quality: 5
+      - text: odour, smell
+        quality: 5
+      - text: 'inflection of luchten:'
+        quality: 5
+      - text: singular present indicative
+        quality: 5
   source: wiktionary-frequency
 - word: luchtbelletjes
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: levegőbuborék
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: levegőbuborék
+        quality: 3
+    en:
+      definitions:
+      - text: plural of luchtbelletje
+        quality: 5
   source: taalrecht
 - word: luchtvaart maatschappij
   ipa: ''
   pos: ''
-  meanings:
-  - definition: légiközlekedési társaság
+  translations:
+    hu:
+      definitions:
+      - text: légiközlekedési társaság
+        quality: 3
   source: na de aardbeveging
   expression_of: luchtvaart
 - word: Lucky
   ipa: ''
   pos: ''
-  meanings:
-  - definition: átlag
+  translations:
+    hu:
+      definitions:
+      - text: átlag
+        quality: 2
   source: wiktionary-frequency
 - word: lui
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vagyoni
+  ipa: /lœy̯/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: vagyoni
+        quality: 2
+    en:
+      definitions:
+      - text: lazy
+        quality: 5
+      - text: alternative form of lieden
+        quality: 5
   source: wiktionary-frequency
 - word: luid
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: számviteli
+  ipa: /lœy̯t/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: számviteli
+        quality: 2
+    en:
+      definitions:
+      - text: loud
+        quality: 5
+      - text: sound
+        quality: 5
+      - text: assertion
+        quality: 5
+      - text: 'inflection of luiden:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
   source: wiktionary-frequency
 - word: luidkeels
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: hangosan, teltorokkal
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: hangosan, teltorokkal
+        quality: 3
+    en:
+      definitions:
+      - text: with a loud voice
+        quality: 5
   source: summoner
 - word: luidruchtig
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: megérteni
+  ipa: /ˌlœy̯tˈrʏx.təx/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: megérteni
+        quality: 2
+    en:
+      definitions:
+      - text: noisy, vociferous
+        quality: 5
   source: wiktionary-frequency
 - word: luidsprekers
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: fakad
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: fakad
+        quality: 2
+    en:
+      definitions:
+      - text: plural of luidspreker
+        quality: 5
   source: wiktionary-frequency
 - word: luieren
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: lustálkodik
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: lustálkodik
+        quality: 3
+    en:
+      definitions:
+      - text: to be lazy
+        quality: 5
   source: summoner
 - word: luister
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vásárolt
+  ipa: /ˈlœy̯s.tər/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: vásárolt
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of luisteren:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
+      - text: 'inflection of luisteren:'
+        quality: 5
+      - text: second-person singular present indicative
+        quality: 5
+      - text: 'inflection of luisteren:'
+        quality: 5
   source: wiktionary-frequency
 - word: luistert
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: küldte
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: küldte
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of luisteren:'
+        quality: 5
+      - text: second/third-person singular present indicative
+        quality: 5
+      - text: 'inflection of luisteren:'
+        quality: 5
+      - text: plural imperative
+        quality: 5
   source: wiktionary-frequency
 - word: Luke
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tiltott
+  translations:
+    hu:
+      definitions:
+      - text: tiltott
+        quality: 2
   source: wiktionary-frequency
 - word: lul
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: fasz, faszkalap
+  ipa: /lʏl/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: fasz, faszkalap
+        quality: 3
+    en:
+      definitions:
+      - text: cock, prick (slang for penis)
+        quality: 5
+      - text: disgusting male person, dick, prick
+        quality: 5
+      - text: a type of bottle used to feed an infant or the infirm
+        quality: 5
+      - text: 'inflection of lullen:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
   source: het diner
 - word: lulkoek
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: bullshit
+  ipa: /ˈlʏl.kuk/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: bullshit
+        quality: 3
+    en:
+      definitions:
+      - text: bullshit, poppycock, nonsense
+        quality: 5
   source: kattenoog
 - word: lunch
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: válaszolta
+  ipa: /lʏnʃ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: válaszolta
+        quality: 2
+    en:
+      definitions:
+      - text: a lunch, a meal eaten around noon
+        quality: 5
+      - text: 'inflection of lunchen:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
+      - text: second-person singular present indicative
+        quality: 5
+      - text: imperative
+        quality: 5
   source: wiktionary-frequency
 - word: lust
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vágyakozás
+  ipa: /lʏst/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: vágyakozás
+        quality: 3
+    en:
+      definitions:
+      - text: lust, desire (especially sexual, but also more generally)
+        quality: 5
+      - text: object of desire
+        quality: 5
+      - text: pleasure, joy
+        quality: 5
+      - text: benefit, advantage
+        quality: 5
+      - text: a taste for, strong tendency to
+        quality: 5
   source: buitenstander
 - word: lusteloos
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: kedvetlen
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: kedvetlen
+        quality: 3
+    en:
+      definitions:
+      - text: listless
+        quality: 5
   source: kattenoog 2
 - word: Luthers
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: nyers
+  ipa: /ˈly.tərs/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: nyers
+        quality: 2
+    en:
+      definitions:
+      - text: Lutheran
+        quality: 5
   source: wiktionary-frequency
 - word: lyrisch
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: figyelemre
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: figyelemre
+        quality: 2
+    en:
+      definitions:
+      - text: lyrical
+        quality: 5
   source: wiktionary-frequency
 - word: met een leraar
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tehetsz
+  translations:
+    hu:
+      definitions:
+      - text: tehetsz
+        quality: 2
   source: wiktionary-frequency
   expression_of: leraar
 - word: met levering
   ipa: ''
   pos: ''
-  meanings:
-  - definition: sláger
+  translations:
+    hu:
+      definitions:
+      - text: sláger
+        quality: 2
   source: wiktionary-frequency
   expression_of: levering
 - word: met liefde
   ipa: ''
   pos: ''
-  meanings:
-  - definition: várom
+  translations:
+    hu:
+      definitions:
+      - text: várom
+        quality: 2
   source: wiktionary-frequency
   expression_of: liefde
 - word: ons land
   ipa: ''
   pos: ''
-  meanings:
-  - definition: vér
+  translations:
+    hu:
+      definitions:
+      - text: vér
+        quality: 2
   source: wiktionary-frequency
   expression_of: land
 - word: ons leven
   ipa: ''
   pos: ''
-  meanings:
-  - definition: legalább
+  translations:
+    hu:
+      definitions:
+      - text: legalább
+        quality: 2
   source: wiktionary-frequency
   expression_of: leven
 - word: op de leeftijd van
   ipa: ''
   pos: ''
-  meanings:
-  - definition: hibák
+  translations:
+    hu:
+      definitions:
+      - text: hibák
+        quality: 2
   source: wiktionary-frequency
   expression_of: leeftijd
 - word: op de lijn
   ipa: ''
   pos: ''
-  meanings:
-  - definition: életünket
+  translations:
+    hu:
+      definitions:
+      - text: életünket
+        quality: 2
   source: wiktionary-frequency
   expression_of: lijn
 - word: te leren kennen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: mérleg
+  translations:
+    hu:
+      definitions:
+      - text: mérleg
+        quality: 2
   source: wiktionary-frequency
   expression_of: leren
 - word: ten laatste
   ipa: ''
   pos: ''
-  meanings:
-  - definition: fesztivál
+  translations:
+    hu:
+      definitions:
+      - text: fesztivál
+        quality: 2
   source: wiktionary-frequency
   expression_of: laatste
 - word: tot leven
   ipa: ''
   pos: ''
-  meanings:
-  - definition: életre
+  translations:
+    hu:
+      definitions:
+      - text: életre
+        quality: 2
   source: wiktionary-frequency
   expression_of: leven
 - word: uit het land
   ipa: ''
   pos: ''
-  meanings:
-  - definition: néma
+  translations:
+    hu:
+      definitions:
+      - text: néma
+        quality: 2
   source: wiktionary-frequency
   expression_of: land
 - word: voor de laatste keer
   ipa: ''
   pos: ''
-  meanings:
-  - definition: utoljára
+  translations:
+    hu:
+      definitions:
+      - text: utoljára
+        quality: 2
   source: wiktionary-frequency
   expression_of: laatste
 - word: voor een lange tijd
   ipa: ''
   pos: ''
-  meanings:
-  - definition: nektek
+  translations:
+    hu:
+      definitions:
+      - text: nektek
+        quality: 2
   source: wiktionary-frequency
   expression_of: lange
 - word: we leven
   ipa: ''
   pos: ''
-  meanings:
-  - definition: vallásos
+  translations:
+    hu:
+      definitions:
+      - text: vallásos
+        quality: 2
   source: wiktionary-frequency
   expression_of: leven
 - word: wij zijn aan het lopen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: céget
+  translations:
+    hu:
+      definitions:
+      - text: céget
+        quality: 2
   source: wiktionary-frequency
   expression_of: lopen
 - word: ze leefden
   ipa: ''
   pos: ''
-  meanings:
-  - definition: ELTE
+  translations:
+    hu:
+      definitions:
+      - text: ELTE
+        quality: 2
   source: wiktionary-frequency
   expression_of: leefden
 - word: ze lijken
   ipa: ''
   pos: ''
-  meanings:
-  - definition: fórumot
+  translations:
+    hu:
+      definitions:
+      - text: fórumot
+        quality: 2
   source: wiktionary-frequency
   expression_of: lijken
 - word: zij leiden
   ipa: ''
   pos: ''
-  meanings:
-  - definition: erőteljes
+  translations:
+    hu:
+      definitions:
+      - text: erőteljes
+        quality: 2
   source: wiktionary-frequency
   expression_of: leiden
 - word: zij leven
   ipa: ''
   pos: ''
-  meanings:
-  - definition: élnek
+  translations:
+    hu:
+      definitions:
+      - text: élnek
+        quality: 2
   source: wiktionary-frequency
   expression_of: leven
 - word: zijn leven
   ipa: ''
   pos: ''
-  meanings:
-  - definition: élete
+  translations:
+    hu:
+      definitions:
+      - text: élete
+        quality: 2
   source: wiktionary-frequency
   expression_of: leven
 - word: zijn lichaam
   ipa: ''
   pos: ''
-  meanings:
-  - definition: forgalmi
+  translations:
+    hu:
+      definitions:
+      - text: forgalmi
+        quality: 2
   source: wiktionary-frequency
   expression_of: lichaam
 - word: zijn liefde
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kiemelte
+  translations:
+    hu:
+      definitions:
+      - text: kiemelte
+        quality: 2
   source: wiktionary-frequency
   expression_of: liefde

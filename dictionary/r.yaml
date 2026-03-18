@@ -1,1295 +1,2839 @@
 - word: als resultaat
   ipa: ''
   pos: ''
-  meanings:
-  - definition: következtében
+  translations:
+    hu:
+      definitions:
+      - text: következtében
+        quality: 2
   source: wiktionary-frequency
   expression_of: resultaat
 - word: door en door rot
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kerestül kasul rothadht
+  translations:
+    hu:
+      definitions:
+      - text: kerestül kasul rothadht
+        quality: 3
   source: de pauw - werk
   expression_of: rot
 - word: door roest aangevreten
   ipa: ''
   pos: ''
-  meanings:
-  - definition: rozsda által elfogyasztva
-    english: corroded by rust
+  translations:
+    hu:
+      definitions:
+      - text: rozsda által elfogyasztva
+        quality: 3
+        english_hint: corroded by rust
   source: de wereld van Sophie (Jostein Gaarder)
   expression_of: roest
 - word: het restafval te beperken
   ipa: ''
   pos: ''
-  meanings:
-  - definition: csökkenteni a (nem reciklálható) hulladékot
+  translations:
+    hu:
+      definitions:
+      - text: csökkenteni a (nem reciklálható) hulladékot
+        quality: 3
   source: Knack+NVA
   expression_of: restafval
 - word: iemand tot rede brengen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: vkit meggyőz
+  translations:
+    hu:
+      definitions:
+      - text: vkit meggyőz
+        quality: 3
   source: het diner
   expression_of: rede
 - word: ik raad aan
   ipa: ''
   pos: ''
-  meanings:
-  - definition: ajánlom
+  translations:
+    hu:
+      definitions:
+      - text: ajánlom
+        quality: 2
   source: wiktionary-frequency
   expression_of: raad
 - word: in de richting van
   ipa: ''
   pos: ''
-  meanings:
-  - definition: angolul
+  translations:
+    hu:
+      definitions:
+      - text: angolul
+        quality: 2
   source: wiktionary-frequency
   expression_of: richting
 - word: in de ruimte
   ipa: ''
   pos: ''
-  meanings:
-  - definition: nevére
+  translations:
+    hu:
+      definitions:
+      - text: nevére
+        quality: 2
   source: wiktionary-frequency
   expression_of: ruimte
 - word: in een rij
   ipa: ''
   pos: ''
-  meanings:
-  - definition: sorban
+  translations:
+    hu:
+      definitions:
+      - text: sorban
+        quality: 2
   source: wiktionary-frequency
   expression_of: rij
 - word: In rekening brengen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tegyük
+  translations:
+    hu:
+      definitions:
+      - text: tegyük
+        quality: 2
   source: wiktionary-frequency
   expression_of: rekening
 - word: in ruil
   ipa: ''
   pos: ''
-  meanings:
-  - definition: sebeztél
+  translations:
+    hu:
+      definitions:
+      - text: sebeztél
+        quality: 2
   source: wiktionary-frequency
   expression_of: ruil
 - word: met resultaten
   ipa: ''
   pos: ''
-  meanings:
-  - definition: idézett
+  translations:
+    hu:
+      definitions:
+      - text: idézett
+        quality: 2
   source: wiktionary-frequency
   expression_of: resultaten
 - word: na rijp beraad
   ipa: ''
   pos: ''
-  meanings:
-  - definition: alapos megfontolás után
+  translations:
+    hu:
+      definitions:
+      - text: alapos megfontolás után
+        quality: 3
   source: na de bevrijding
   expression_of: rijp
 - word: op zijn rug
   ipa: ''
   pos: ''
-  meanings:
-  - definition: ipari
+  translations:
+    hu:
+      definitions:
+      - text: ipari
+        quality: 2
   source: wiktionary-frequency
   expression_of: rug
 - word: Raad van bestuur
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: szorongás
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: szorongás
+        quality: 2
+    en:
+      definitions:
+      - text: board of directors
+        quality: 5
   source: wiktionary-frequency
   expression_of: raad
 - word: Raad van Toezicht
   ipa: ''
   pos: ''
-  meanings:
-  - definition: nevével
+  translations:
+    hu:
+      definitions:
+      - text: nevével
+        quality: 2
   source: wiktionary-frequency
   expression_of: raad
 - word: raadplegen, consulteren
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tanácsadás
-    examples:
-    - nl: je hoef niet naar de winkel gaan
-      hu: nem muszáj a boltba menned
+  translations:
+    hu:
+      definitions:
+      - text: tanácsadás
+        quality: 3
+      examples:
+      - nl: je hoef niet naar de winkel gaan
+        tr: nem muszáj a boltba menned
   source: taalrecht
   expression_of: raadplegen,
 - word: raak
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: célpont középső területe
+  ipa: /raːk/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: célpont középső területe
+        quality: 3
+    en:
+      definitions:
+      - text: hitting; to the point
+        quality: 5
+      - text: on target; scoring; counting
+        quality: 5
+      - text: pregnant
+        quality: 5
+      - text: rake
+        quality: 5
+      - text: 'inflection of raken:'
+        quality: 5
   source: kattenoog 2
 - word: raaskallen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: hablatyol, össze-vissza beszél
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: hablatyol, össze-vissza beszél
+        quality: 3
+    en:
+      definitions:
+      - text: to babble incoherently, to talk gibberish, to rave
+        quality: 5
   source: buitenstander
 - word: races
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: szeptemberben
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: szeptemberben
+        quality: 2
+    en:
+      definitions:
+      - text: plural of race
+        quality: 5
   source: wiktionary-frequency
 - word: radeloosheid
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tanácstalanság
+  translations:
+    hu:
+      definitions:
+      - text: tanácstalanság
+        quality: 3
   source: na de aardbeveging
 - word: raden
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: ismerünk
+  ipa: /ˈraːdə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: ismerünk
+        quality: 2
+    en:
+      definitions:
+      - text: to guess
+        quality: 5
+      - text: to advise
+        quality: 5
+      - text: plural of raad
+        quality: 5
+      - text: plural of rad
+        quality: 5
   source: wiktionary-frequency
 - word: radicaal
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: döntését
+  ipa: /rɑdiˈkaːl/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: döntését
+        quality: 2
+    en:
+      definitions:
+      - text: radical, fundamental, thorough-going
+        quality: 5
+      - text: radical
+        quality: 5
   source: wiktionary-frequency
 - word: radio-
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: virtuális
+  ipa: /ˌraː.di.oː-/
+  pos: prefix
+  translations:
+    hu:
+      definitions:
+      - text: virtuális
+        quality: 2
+    en:
+      definitions:
+      - text: radio-
+        quality: 5
   source: wiktionary-frequency
 - word: rafelig
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: kopott, feslett
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: kopott, feslett
+        quality: 3
+    en:
+      definitions:
+      - text: frayed, worn
+        quality: 5
   source: de wereld van Sophie (Jostein Gaarder)
 - word: raken
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: meghívott
+  ipa: /ˈraːkə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: meghívott
+        quality: 2
+    en:
+      definitions:
+      - text: to touch
+        quality: 5
+      - text: to hit (to not miss)
+        quality: 5
+      - text: to become
+        quality: 5
+      - text: to rake
+        quality: 5
   source: wiktionary-frequency
 - word: ramen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: japán húsleves
+  ipa: /ˈraːmə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: japán húsleves
+        quality: 3
+    en:
+      definitions:
+      - text: to make an estimate
+        quality: 5
+      - text: to fix an estimate, to budget
+        quality: 5
+      - text: to guess, to reckon, to deduce
+        quality: 5
+      - text: to take aim (at), to watch, to observe
+        quality: 5
+      - text: to hit
+        quality: 5
   source: na de aardbeveging
 - word: rammelaar
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: csörgő
-    english: gyerekjáték
+  ipa: /ˈrɑ.mə.ˌlaːr/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: csörgő
+        quality: 3
+        english_hint: gyerekjáték
+    en:
+      definitions:
+      - text: a rattle, a baby's toy that creates sound when shaken
+        quality: 5
+      - text: a rabbit buck, a male rabbit
+        quality: 5
   source: pogingen iets van het leven te maken
 - word: rammen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: felöklel
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: felöklel
+        quality: 3
+    en:
+      definitions:
+      - text: to ram, to intentionally collide with (a ship or car or building) with the intention of damaging or sinking
+          it
+        quality: 5
+      - text: to strike (something) hard
+        quality: 5
   source: bepaalde dag in het leven van idereen
 - word: rammerig
   ipa: ''
   pos: ''
-  meanings:
-  - definition: nyomulós
+  translations:
+    hu:
+      definitions:
+      - text: nyomulós
+        quality: 3
   source: mondeling
 - word: ramp
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: eladott
+  ipa: /rɑmp/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: eladott
+        quality: 2
+    en:
+      definitions:
+      - text: disaster, catastrophe
+        quality: 5
+      - text: an accident
+        quality: 5
+      - text: a ramp
+        quality: 5
+      - text: a driveway
+        quality: 5
+      - text: a construction to do skating tricks, usually in the form of one half of a pipe, a half-pipe
+        quality: 5
   source: wiktionary-frequency
 - word: rancune
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: gyűlölködés
-    english: rancour
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: gyűlölködés
+        quality: 3
+        english_hint: rancour
+    en:
+      definitions:
+      - text: resentment, grudge; rancor
+        quality: 5
   source: buitenstander
 - word: rand
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: elé
+  ipa: /rɑnt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: elé
+        quality: 2
+    en:
+      definitions:
+      - text: edge, brink, rim
+        quality: 5
+      - text: boundary
+        quality: 5
   source: wiktionary-frequency
 - word: rang
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: számodra
+  ipa: /rɑŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: számodra
+        quality: 2
+    en:
+      definitions:
+      - text: rank
+        quality: 5
   source: wiktionary-frequency
 - word: rangot
   ipa: ''
   pos: ''
-  meanings:
-  - definition: beszélgettünk
+  translations:
+    hu:
+      definitions:
+      - text: beszélgettünk
+        quality: 2
   source: wiktionary-frequency
 - word: ranselen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: ütlegel, megbotoz
+  ipa: /ˈrɑnsələ(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: ütlegel, megbotoz
+        quality: 3
+    en:
+      definitions:
+      - text: to beat up, to flog
+        quality: 5
   source: na de bevrijding
 - word: rantsoen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: fejadag
+  ipa: /rɑntˈsun/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: fejadag
+        quality: 3
+    en:
+      definitions:
+      - text: ration
+        quality: 5
+      - text: synonym of losgeld (“ransom”)
+        quality: 5
   source: na de bevrijding
 - word: ranzig
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: avas
-    english: rancid
+  ipa: /ˈrɑn.zəx/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: avas
+        quality: 3
+        english_hint: rancid
+    en:
+      definitions:
+      - text: rancid, disgusting
+        quality: 5
+      - text: dirty, unclean, gross
+        quality: 5
   source: prachtige wereld waar ben je [Sally Rooney]
 - word: rapporten
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: konfliktus
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: konfliktus
+        quality: 2
+    en:
+      definitions:
+      - text: plural of rapport
+        quality: 5
   source: wiktionary-frequency
 - word: ras
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: verseny
+  ipa: /rɑs/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: verseny
+        quality: 2
+    en:
+      definitions:
+      - text: race, breed
+        quality: 5
+      - text: quick
+        quality: 5
+      - text: a surname
+        quality: 5
   source: wiktionary-frequency
 - word: rasecht
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: fajtiszta
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: fajtiszta
+        quality: 3
+    en:
+      definitions:
+      - text: natural, born
+        quality: 5
+      - text: pure
+        quality: 5
   source: mix
 - word: ratelslang
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: csörgőkigyó
-    english: rattlesnake
+  ipa: /ˈraː.təlˌslɑŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: csörgőkigyó
+        quality: 3
+        english_hint: rattlesnake
+    en:
+      definitions:
+      - text: rattlesnake (poisonous snake with a rattling tail), snake of the genera Crotalus or Sistrurus
+        quality: 5
   source: buitenstander
 - word: rationeel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: védelmére
+  ipa: /ˌraː.(t)ʃoːˈneːl/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: védelmére
+        quality: 2
+    en:
+      definitions:
+      - text: rational, reasonable (pertaining to reason, by means of reason)
+        quality: 5
+      - text: rational (pertaining to ratios, fractional)
+        quality: 5
   source: wiktionary-frequency
 - word: rauw
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: részleges
+  ipa: /rɑu̯/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: részleges
+        quality: 2
+    en:
+      definitions:
+      - text: raw, uncooked
+        quality: 5
+      - text: raw, in a roughed up state, e.g. skinned or infected
+        quality: 5
+      - text: hard, cruel, gross, rude
+        quality: 5
   source: wiktionary-frequency
 - word: ravijn
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: kanyon
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kanyon
+        quality: 3
+    en:
+      definitions:
+      - text: ravine
+        quality: 5
   source: kattenoog
 - word: razernij
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: örjöngés
+  ipa: /ˌraːzərˈnɛi̯/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: örjöngés
+        quality: 3
+    en:
+      definitions:
+      - text: rage, fury
+        quality: 5
   source: de heks van Portobello
 - word: reageert
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: írni
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: írni
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of reageren:'
+        quality: 5
+      - text: second/third-person singular present indicative
+        quality: 5
+      - text: 'inflection of reageren:'
+        quality: 5
+      - text: plural imperative
+        quality: 5
   source: wiktionary-frequency
 - word: Realiseerde ik me
   ipa: ''
   pos: ''
-  meanings:
-  - definition: felügyelő
+  translations:
+    hu:
+      definitions:
+      - text: felügyelő
+        quality: 2
   source: wiktionary-frequency
   expression_of: realiseerde
 - word: realiseren
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: tájékoztató
+  ipa: /reː.aː.liˈzeː.rə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: tájékoztató
+        quality: 2
+    en:
+      definitions:
+      - text: to realize, to achieve, to bring about
+        quality: 5
+      - text: to realise (UK), realize (US), to become aware of
+        quality: 5
   source: wiktionary-frequency
 - word: realistisch
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: elmondani
+  ipa: /ˌreː.aːˈlɪs.tis/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: elmondani
+        quality: 2
+    en:
+      definitions:
+      - text: realistic
+        quality: 5
   source: wiktionary-frequency
 - word: realiteit
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: számon
+  ipa: /ˌreː.aː.liˈtɛi̯t/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: számon
+        quality: 2
+    en:
+      definitions:
+      - text: reality
+        quality: 5
   source: wiktionary-frequency
 - word: rechercheur
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: detektív
+  ipa: /ˌreː.ʃɛrˈʒøːr/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: detektív
+        quality: 3
+    en:
+      definitions:
+      - text: police detective, police investigator
+        quality: 5
   source: buitenstander
 - word: recht hebben
   ipa: ''
   pos: ''
-  meanings:
-  - definition: jogosult
+  translations:
+    hu:
+      definitions:
+      - text: jogosult
+        quality: 2
   source: wiktionary-frequency
   expression_of: recht
 - word: rechtbank
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: bíróság
+  ipa: /ˈrɛxt.bɑŋk/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: bíróság
+        quality: 2
+    en:
+      definitions:
+      - text: a tribunal, court of law, where judge(s) and/or jury administer the law; the higher tribunals are however called
+          (gerechts)hof
+        quality: 5
+      - text: dated form of aanrechtbank
+        quality: 5
   source: wiktionary-frequency
 - word: Rechtdoor
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: jelölt
+  pos: adv
+  translations:
+    hu:
+      definitions:
+      - text: jelölt
+        quality: 2
+    en:
+      definitions:
+      - text: straight, straight ahead
+        quality: 5
   source: wiktionary-frequency
 - word: rechten
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: jogok
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: jogok
+        quality: 2
+    en:
+      definitions:
+      - text: 'to seek justice, notably:'
+        quality: 5
+      - text: to sue judicially
+        quality: 5
+      - text: 'to seek justice, notably:'
+        quality: 5
+      - text: to contend by argument etc.
+        quality: 5
+      - text: to straighten
+        quality: 5
   source: wiktionary-frequency
 - word: rechter
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: jelentett
+  ipa: /ˈrɛx.tər/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: jelentett
+        quality: 2
+    en:
+      definitions:
+      - text: judge
+        quality: 5
+      - text: right (not left)
+        quality: 5
+      - text: comparative degree of recht (“straight”)
+        quality: 5
   source: wiktionary-frequency
 - word: rechthebbende
   ipa: ''
   pos: ''
-  meanings:
-  - definition: régóta
+  translations:
+    hu:
+      definitions:
+      - text: régóta
+        quality: 2
   source: wiktionary-frequency
 - word: rechtmatig
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: lemezt
+  ipa: /ˌrɛxtˈmaː.təx/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: lemezt
+        quality: 2
+    en:
+      definitions:
+      - text: legitimate (according to law)
+        quality: 5
+      - text: legitimate (just, justified)
+        quality: 5
   source: wiktionary-frequency
 - word: rechtreeks
   ipa: ''
   pos: ''
-  meanings:
-  - definition: közvetlenül
+  translations:
+    hu:
+      definitions:
+      - text: közvetlenül
+        quality: 3
   source: contract
 - word: Rechtsaf
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: jobb
+  pos: adv
+  translations:
+    hu:
+      definitions:
+      - text: jobb
+        quality: 2
+    en:
+      definitions:
+      - text: towards the right (while turning)
+        quality: 5
   source: wiktionary-frequency
 - word: rechtspraak
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: Jogtudomány
+  ipa: /ˈrɛxt.spraːk/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: Jogtudomány
+        quality: 3
+    en:
+      definitions:
+      - text: the administration of justice by the judiciary, jurisdiction
+        quality: 5
+      - text: jurisprudence, the interpretation of law as shown by legal precedents
+        quality: 5
   source: mondeling 2
 - word: rechtstaat
   ipa: ''
   pos: ''
-  meanings:
-  - definition: jogállam
+  translations:
+    hu:
+      definitions:
+      - text: jogállam
+        quality: 3
   source: Knack+NVA
 - word: rechtszijdig
   ipa: ''
   pos: ''
-  meanings:
-  - definition: gyártott
+  translations:
+    hu:
+      definitions:
+      - text: gyártott
+        quality: 2
   source: wiktionary-frequency
 - word: rechtvaardigen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: megszületett
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: megszületett
+        quality: 2
+    en:
+      definitions:
+      - text: to justify, provide an acceptable motivation or explanation
+        quality: 5
   source: wiktionary-frequency
 - word: rechtvaardiging
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: indoklás
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: indoklás
+        quality: 3
+    en:
+      definitions:
+      - text: justification
+        quality: 5
   source: na de bevrijding
 - word: rechtvaardigt
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: hegyi
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: hegyi
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of rechtvaardigen:'
+        quality: 5
+      - text: second/third-person singular present indicative
+        quality: 5
+      - text: 'inflection of rechtvaardigen:'
+        quality: 5
+      - text: plural imperative
+        quality: 5
   source: wiktionary-frequency
 - word: reclame
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: iraki
+  ipa: /rəˈklaː.mə/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: iraki
+        quality: 2
+    en:
+      definitions:
+      - text: publicity
+        quality: 5
+      - text: advertisement or ads
+        quality: 5
+      - text: the stock that is advertised at a discount
+        quality: 5
   source: wiktionary-frequency
 - word: records
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: gyakorlat
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: gyakorlat
+        quality: 2
+    en:
+      definitions:
+      - text: plural of record
+        quality: 5
   source: wiktionary-frequency
 - word: redactie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: középkori
+  ipa: /ˌreːˈdɑk.si/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: középkori
+        quality: 2
+    en:
+      definitions:
+      - text: editorial staff
+        quality: 5
+      - text: the act of editing or redacting
+        quality: 5
   source: wiktionary-frequency
 - word: redden
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: publikus
+  ipa: /ˈrɛ.də(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: publikus
+        quality: 2
+    en:
+      definitions:
+      - text: to save, rescue
+        quality: 5
+      - text: to manage, cope, be fine
+        quality: 5
   source: wiktionary-frequency
 - word: redding
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: megmentés, megváltás
+  ipa: /ˈrɛ.dɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: megmentés, megváltás
+        quality: 3
+    en:
+      definitions:
+      - text: rescue, rescuing
+        quality: 5
   source: kattenoog 2
 - word: redelijk groot
   ipa: ''
   pos: ''
-  meanings:
-  - definition: elég nagy
+  translations:
+    hu:
+      definitions:
+      - text: elég nagy
+        quality: 3
   source: summoner
   expression_of: redelijk
 - word: reden
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: oka
+  ipa: /ˈreːdə(n)/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: oka
+        quality: 2
+    en:
+      definitions:
+      - text: reason, ground
+        quality: 5
+      - text: proportion
+        quality: 5
+      - text: to equip (a ship)
+        quality: 5
+      - text: to equip, fit, supply with (something with a supplemental tool)
+        quality: 5
+      - text: plural of rede
+        quality: 5
   source: wiktionary-frequency
 - word: redenen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: alapos
+  ipa: /ˈreːdənə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: alapos
+        quality: 2
+    en:
+      definitions:
+      - text: to speak
+        quality: 5
+      - text: to discuss
+        quality: 5
+      - text: to reason
+        quality: 5
+      - text: plural of reden
+        quality: 5
   source: wiktionary-frequency
 - word: redeneren
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: érvel
+  ipa: /reːdəˈneːrə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: érvel
+        quality: 3
+    en:
+      definitions:
+      - text: to reason
+        quality: 5
+      - text: to speak
+        quality: 5
   source: het diner
 - word: reet
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: nyílás
-    examples:
-    - nl: lik mijn reet
-      hu: nyald ki a seggem
-    - nl: zijn reet redden
-      hu: megmenti  <save his ass>
+  ipa: /reːt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: nyílás
+        quality: 3
+      examples:
+      - nl: lik mijn reet
+        tr: nyald ki a seggem
+      - nl: zijn reet redden
+        tr: megmenti  <save his ass>
+    en:
+      definitions:
+      - text: a ripped-up spot, tear; cleft, crack, crevice
+        quality: 5
+      - text: the butt crack, arse, anus
+        quality: 5
+      - text: the butt, behind
+        quality: 5
+      - text: (in geen reet nothing at all) nothing
+        quality: 5
+      - text: singular past indicative of rijten
+        quality: 5
   source: buitenstander
 - word: reflecteren
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: kerület
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: kerület
+        quality: 2
+    en:
+      definitions:
+      - text: to reflect
+        quality: 5
   source: wiktionary-frequency
 - word: regel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: lakott
+  ipa: /ˈreː.ɣəl/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: lakott
+        quality: 2
+    en:
+      definitions:
+      - text: line of writing, verse; (pre-printed) straight line to write it on
+        quality: 5
+      - text: rule, regulation, custom, prescript; the statute of an order etc.
+        quality: 5
+      - text: narrow slat; especially a ruler
+        quality: 5
+      - text: 'inflection of regelen:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
   source: wiktionary-frequency
 - word: regelgevend kader
   ipa: ''
   pos: ''
-  meanings:
-  - definition: szabályozási keret
+  translations:
+    hu:
+      definitions:
+      - text: szabályozási keret
+        quality: 3
   source: Knack+NVA
   expression_of: regelgevend
 - word: regelgevende
   ipa: ''
   pos: ''
-  meanings:
-  - definition: vezetékes
+  translations:
+    hu:
+      definitions:
+      - text: vezetékes
+        quality: 2
   source: wiktionary-frequency
 - word: regelgeving
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: hálózaton
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: hálózaton
+        quality: 2
+    en:
+      definitions:
+      - text: regulations
+        quality: 5
   source: wiktionary-frequency
 - word: regelmaat
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: rendszeresség
+  ipa: /ˈreː.ɣəlˌmaːt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: rendszeresség
+        quality: 3
+    en:
+      definitions:
+      - text: regularity
+        quality: 5
   source: de pauw - werk
 - word: regelmatig
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: rendszeresen
+  ipa: /ˌreː.ɣəlˈmaː.təx/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: rendszeresen
+        quality: 2
+    en:
+      definitions:
+      - text: regular
+        quality: 5
   source: wiktionary-frequency
 - word: regelt
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: okozza
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: okozza
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of regelen:'
+        quality: 5
+      - text: second/third-person singular present indicative
+        quality: 5
+      - text: 'inflection of regelen:'
+        quality: 5
+      - text: plural imperative
+        quality: 5
   source: wiktionary-frequency
 - word: regen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: eső
+  ipa: /ˈreː.ɣə(n)/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: eső
+        quality: 2
+    en:
+      definitions:
+      - text: rain
+        quality: 5
+      - text: 'inflection of regenen:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
+      - text: second-person singular present indicative
+        quality: 5
+      - text: imperative
+        quality: 5
   source: wiktionary-frequency
 - word: regerend
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: mérsékelt
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: mérsékelt
+        quality: 2
+    en:
+      definitions:
+      - text: present participle of regeren
+        quality: 5
   source: wiktionary-frequency
 - word: regering
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kormány
+  ipa: /rəˈɣeː.rɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kormány
+        quality: 2
+    en:
+      definitions:
+      - text: governing (act of; ruling a state or similar political entity)
+        quality: 5
+      - text: 'government (a governing council: especially the executive branch of government)'
+        quality: 5
+      - text: rule, reign (of a prince etc.)
+        quality: 5
   source: wiktionary-frequency
 - word: regeringshoofd
   ipa: ''
   pos: ''
-  meanings:
-  - definition: regisztráció
+  translations:
+    hu:
+      definitions:
+      - text: regisztráció
+        quality: 2
   source: wiktionary-frequency
 - word: regime verandering
   ipa: ''
   pos: ''
-  meanings:
-  - definition: bocs
+  translations:
+    hu:
+      definitions:
+      - text: bocs
+        quality: 2
   source: wiktionary-frequency
   expression_of: regime
 - word: regio
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kiadás
+  ipa: /ˈreː.ɣi.oː/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kiadás
+        quality: 2
+    en:
+      definitions:
+      - text: region
+        quality: 5
   source: wiktionary-frequency
 - word: Regio's
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: állítás
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: állítás
+        quality: 2
+    en:
+      definitions:
+      - text: plural of regio
+        quality: 5
   source: wiktionary-frequency
 - word: regionaal
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: regionális
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: regionális
+        quality: 2
+    en:
+      definitions:
+      - text: regional
+        quality: 5
   source: wiktionary-frequency
 - word: regionale Ontwikkeling
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kimagasló
+  translations:
+    hu:
+      definitions:
+      - text: kimagasló
+        quality: 2
   source: wiktionary-frequency
   expression_of: regionale
 - word: regisseert
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: állati
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: állati
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of regisseren:'
+        quality: 5
+      - text: second/third-person singular present indicative
+        quality: 5
+      - text: 'inflection of regisseren:'
+        quality: 5
+      - text: plural imperative
+        quality: 5
   source: wiktionary-frequency
 - word: regisseur
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: igazgatója
+  ipa: /ˌreː.ɣiˈsøːr/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: igazgatója
+        quality: 2
+    en:
+      definitions:
+      - text: director (of film, TV, or theater)
+        quality: 5
   source: wiktionary-frequency
 - word: registratie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: regisztráció
+  ipa: /ˌreː.ɣiˈstraː.(t)si/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: regisztráció
+        quality: 2
+    en:
+      definitions:
+      - text: a registration, the act of registering or being registered
+        quality: 5
+      - text: an office in charge of registrations, especially when it also receives correlated payment of tax or other levies
+        quality: 5
+      - text: a registration, the act of selecting stops on an organ
+        quality: 5
+      - text: a specific setting thus achieved
+        quality: 5
   source: wiktionary-frequency
 - word: registreren
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hármas
+  ipa: /ˌreː.ɣiˈstreː.rə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: hármas
+        quality: 2
+    en:
+      definitions:
+      - text: to register
+        quality: 5
   source: wiktionary-frequency
 - word: reglement
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: szabályok
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: szabályok
+        quality: 2
+    en:
+      definitions:
+      - text: rules, regulations
+        quality: 5
   source: wiktionary-frequency
 - word: regulatie
   ipa: ''
   pos: ''
-  meanings:
-  - definition: rendelet
+  translations:
+    hu:
+      definitions:
+      - text: rendelet
+        quality: 2
   source: wiktionary-frequency
 - word: regulerend
   ipa: ''
   pos: ''
-  meanings:
-  - definition: mezőgazdasági
+  translations:
+    hu:
+      definitions:
+      - text: mezőgazdasági
+        quality: 2
   source: wiktionary-frequency
 - word: reiken
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: érinteni
+  ipa: /ˈrɛi̯kə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: érinteni
+        quality: 3
+    en:
+      definitions:
+      - text: to reach, to extend out, to stretch
+        quality: 5
   source: na de aardbeveging
 - word: reikhalzend (wachten)
   ipa: ''
   pos: ''
-  meanings:
-  - definition: aggódva (várni)
+  translations:
+    hu:
+      definitions:
+      - text: aggódva (várni)
+        quality: 3
   source: na de aardbeveging
   expression_of: reikhalzend
 - word: reikwijdte
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: körű
+  ipa: /ˈrɛi̯kˌʋɛi̯.tə/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: körű
+        quality: 2
+    en:
+      definitions:
+      - text: range, reach, scope
+        quality: 5
   source: wiktionary-frequency
 - word: reizen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: látják
+  ipa: /ˈrɛi̯.zə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: látják
+        quality: 2
+    en:
+      definitions:
+      - text: to travel
+        quality: 5
+      - text: plural of reis
+        quality: 5
   source: wiktionary-frequency
 - word: reiziger
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: nyomtató
+  ipa: /ˈrɛi̯zəɣər/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: nyomtató
+        quality: 2
+    en:
+      definitions:
+      - text: traveller, voyager
+        quality: 5
+      - text: Dutch people who live in wagons or mobile homes, predominantly descended from 19th-century displaced agricultural
+          workers
+        quality: 5
   source: wiktionary-frequency
 - word: rejlik
   ipa: ''
   pos: ''
-  meanings:
-  - definition: jövedelem
+  translations:
+    hu:
+      definitions:
+      - text: jövedelem
+        quality: 2
   source: wiktionary-frequency
 - word: rekening houdend met de
   ipa: ''
   pos: ''
-  meanings:
-  - definition: életbe
+  translations:
+    hu:
+      definitions:
+      - text: életbe
+        quality: 2
   source: wiktionary-frequency
   expression_of: rekening
 - word: relaas
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: mese
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: mese
+        quality: 3
+    en:
+      definitions:
+      - text: account, story, report
+        quality: 5
   source: het diner
 - word: relatie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kapcsolatot
+  ipa: /reːˈlaː.tsi/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kapcsolatot
+        quality: 2
+    en:
+      definitions:
+      - text: relation
+        quality: 5
+      - text: relationship
+        quality: 5
   source: wiktionary-frequency
 - word: relevant
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vonatkozó
+  ipa: /reːləˈvɑnt/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: vonatkozó
+        quality: 2
+    en:
+      definitions:
+      - text: relevant
+        quality: 5
   source: wiktionary-frequency
 - word: religie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: szobás
+  ipa: /rəˈliɣi/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: szobás
+        quality: 2
+    en:
+      definitions:
+      - text: faith, religion, a system of beliefs dealing with soul, deity and/or life after death
+        quality: 5
+      - text: religious denomination, such as an organized church
+        quality: 5
+      - text: something one adheres to devotedly
+        quality: 5
   source: wiktionary-frequency
 - word: religieus
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: mindegyik
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: mindegyik
+        quality: 2
+    en:
+      definitions:
+      - text: religious
+        quality: 5
   source: wiktionary-frequency
 - word: religieuze overwegingen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: vallási megfontolások
+  translations:
+    hu:
+      definitions:
+      - text: vallási megfontolások
+        quality: 3
   source: Knack 2
   expression_of: religieuze
 - word: Renaissance
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: rendje
+  pos: name
+  translations:
+    hu:
+      definitions:
+      - text: rendje
+        quality: 2
+    en:
+      definitions:
+      - text: Renaissance
+        quality: 5
   source: wiktionary-frequency
 - word: rendabel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: jövedelmező, rentábilis
+  ipa: /rɛnˈdaːbəl/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: jövedelmező, rentábilis
+        quality: 3
+    en:
+      definitions:
+      - text: profitable
+        quality: 5
   source: de pauw - werk
 - word: rendabele verwerking van de afvalstromen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: a hulladék költséghatékony feldolgozása
+  translations:
+    hu:
+      definitions:
+      - text: a hulladék költséghatékony feldolgozása
+        quality: 3
   source: Knack+NVA
   expression_of: rendabele
 - word: rendement
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hatékonyság
+  ipa: /ˌrɛn.dəˈmɛnt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: hatékonyság
+        quality: 3
+    en:
+      definitions:
+      - text: yield, performance
+        quality: 5
+      - text: efficiency (of energy conversion)
+        quality: 5
   source: mondeling 3
 - word: rendier
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: rénszarvas
+  ipa: /ˈrɛnˌdiːr/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: rénszarvas
+        quality: 3
+    en:
+      definitions:
+      - text: reindeer
+        quality: 5
   source: storia
 - word: rendre
   ipa: ''
   pos: ''
-  meanings:
-  - definition: nyilvántartásba
+  translations:
+    hu:
+      definitions:
+      - text: nyilvántartásba
+        quality: 2
   source: wiktionary-frequency
 - word: rennen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: módszerek
+  ipa: /rɛ.nə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: módszerek
+        quality: 2
+    en:
+      definitions:
+      - text: to run, to move fast
+        quality: 5
+      - text: plural of ren
+        quality: 5
   source: wiktionary-frequency
 - word: rente, interes
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kamat
+  translations:
+    hu:
+      definitions:
+      - text: kamat
+        quality: 3
   source: taalrecht
   expression_of: rente,
 - word: reparatie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: informatika
+  ipa: /ˌreː.paːˈraː.(t)si/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: informatika
+        quality: 2
+    en:
+      definitions:
+      - text: repair
+        quality: 5
   source: wiktionary-frequency
 - word: repeteren
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: átismétel
+  ipa: /ˌreː.pəˈteː.rə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: átismétel
+        quality: 3
+    en:
+      definitions:
+      - text: to repeat
+        quality: 5
+      - text: to rehearse
+        quality: 5
   source: taalrecht
 - word: reptiel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hüllő
+  ipa: /rɛpˈtil/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: hüllő
+        quality: 3
+    en:
+      definitions:
+      - text: reptile, any member of the class Reptilia
+        quality: 5
   source: mondeling
 - word: Republiek
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: működik
+  ipa: /ˌreːpyˈblik/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: működik
+        quality: 2
+    en:
+      definitions:
+      - text: republic (type of state)
+        quality: 5
+      - text: ellipsis of Republiek der Zeven Verenigde Nederlanden (“Dutch Republic”) (a predecessor state of the present-day
+          Netherlands that existed from 1579 to 1795)
+        quality: 5
+      - text: ellipsis of Republiek Indonesië (“Republic of Indonesia”) (an independent state proclaimed in 1945 as the successor
+          to the former Dutch East Indies)
+        quality: 5
   source: wiktionary-frequency
 - word: republikeins
   ipa: ''
   pos: ''
-  meanings:
-  - definition: sátán
+  translations:
+    hu:
+      definitions:
+      - text: sátán
+        quality: 2
   source: wiktionary-frequency
 - word: residu
   ipa: ''
   pos: ''
-  meanings:
-  - definition: több
+  translations:
+    hu:
+      definitions:
+      - text: több
+        quality: 2
   source: wiktionary-frequency
 - word: resolutie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hirtelen
+  ipa: /reː.zoːˈly.tsi/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: hirtelen
+        quality: 2
+    en:
+      definitions:
+      - text: resolution (official decision)
+        quality: 5
+      - text: resolution (degree of visual fineness)
+        quality: 5
   source: wiktionary-frequency
 - word: respect
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: tekintetében
+  ipa: /rɛsˈpɛkt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: tekintetében
+        quality: 2
+    en:
+      definitions:
+      - text: respect
+        quality: 5
   source: wiktionary-frequency
 - word: respectabel
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: megszüntetése
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: megszüntetése
+        quality: 2
+    en:
+      definitions:
+      - text: respectable, deserving respect
+        quality: 5
   source: wiktionary-frequency
 - word: respecteert
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: illeti
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: illeti
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of respecteren:'
+        quality: 5
+      - text: second/third-person singular present indicative
+        quality: 5
+      - text: 'inflection of respecteren:'
+        quality: 5
+      - text: plural imperative
+        quality: 5
   source: wiktionary-frequency
 - word: respectievelijk
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: illetőleg
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: illetőleg
+        quality: 2
+    en:
+      definitions:
+      - text: respective
+        quality: 5
+      - text: respectively
+        quality: 5
   source: wiktionary-frequency
 - word: responsabiliseren
   ipa: ''
   pos: ''
-  meanings:
-  - definition: felelőssé tenni
+  translations:
+    hu:
+      definitions:
+      - text: felelőssé tenni
+        quality: 3
   source: Knack+NVA
 - word: restant
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: maradék
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: maradék
+        quality: 3
+    en:
+      definitions:
+      - text: remnant, remainder
+        quality: 5
   source: kattenoog 2
 - word: restaurant
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: ellenség
+  ipa: /rɛstoːˈrɑnt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: ellenség
+        quality: 2
+    en:
+      definitions:
+      - text: restaurant
+        quality: 5
   source: wiktionary-frequency
 - word: resultaat
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: eredmény
+  ipa: /reː.zʏlˈtaːt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: eredmény
+        quality: 2
+    en:
+      definitions:
+      - text: result
+        quality: 5
   source: wiktionary-frequency
 - word: resultaten
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: eredmények
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: eredmények
+        quality: 2
+    en:
+      definitions:
+      - text: plural of resultaat
+        quality: 5
   source: wiktionary-frequency
 - word: resulterend
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: láthatjuk
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: láthatjuk
+        quality: 2
+    en:
+      definitions:
+      - text: present participle of resulteren
+        quality: 5
   source: wiktionary-frequency
 - word: retentie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hangsúlyozni
+  ipa: /rəˈtɛn(t)si/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: hangsúlyozni
+        quality: 2
+    en:
+      definitions:
+      - text: the retention, act of retaining something rather than returning it
+        quality: 5
+      - text: the confiscation of a fief by the feudal lord
+        quality: 5
+      - text: a remembrance, (retention in) memory
+        quality: 5
+      - text: the abilty retentiveness, to retain, to remember
+        quality: 5
+      - text: the inability to secrete a substance, notably as a medical condition or concerning a delay in the passage of
+          water
+        quality: 5
   source: wiktionary-frequency
 - word: retrospectief
   ipa: ''
   pos: ''
-  meanings:
-  - definition: üzemeltető
+  translations:
+    hu:
+      definitions:
+      - text: üzemeltető
+        quality: 2
   source: wiktionary-frequency
 - word: reusachtig
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: óriási
+  ipa: /røːˈzɑxtəx/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: óriási
+        quality: 2
+    en:
+      definitions:
+      - text: giant, huge, enormous in any sense, e.g. great, extremely good
+        quality: 5
   source: wiktionary-frequency
 - word: revolutie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: számban
+  ipa: /reː.voːˈly.(t)si/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: számban
+        quality: 2
+    en:
+      definitions:
+      - text: revolution (sudden change; upheaval, putsch)
+        quality: 5
+      - text: revolution, rotation (complete turn across an orbit or around an axis)
+        quality: 5
   source: wiktionary-frequency
 - word: revolutionair
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: doktor
+  ipa: /ˌreː.voː.ly.tsjoːˈnɛːr/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: doktor
+        quality: 2
+    en:
+      definitions:
+      - text: revolutionary
+        quality: 5
   source: wiktionary-frequency
 - word: richting
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: nézett
+  ipa: /ˈrɪx.tɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: nézett
+        quality: 2
+    en:
+      definitions:
+      - text: direction
+        quality: 5
+      - text: movement, tendency
+        quality: 5
+      - text: in the direction of
+        quality: 5
+      - text: to, towards
+        quality: 5
   source: wiktionary-frequency
 - word: richtprijs
   ipa: ''
   pos: ''
-  meanings:
-  - definition: támadással
+  translations:
+    hu:
+      definitions:
+      - text: támadással
+        quality: 2
   source: wiktionary-frequency
 - word: rij
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: sor
+  ipa: /rɛi̯/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: sor
+        quality: 2
+    en:
+      definitions:
+      - text: row, line
+        quality: 5
+      - text: row (entries in a table going left to right)
+        quality: 5
+      - text: line, queue of people waiting for something
+        quality: 5
+      - text: sequence
+        quality: 5
+      - text: rank
+        quality: 5
   source: wiktionary-frequency
 - word: rijder
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: válság
+  ipa: /ˈrɛi̯.dər/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: válság
+        quality: 2
+    en:
+      definitions:
+      - text: a rider, someone who rides
+        quality: 5
+      - text: a soldier with the rank of soldaat in the Korps Rijdende Artillerie
+        quality: 5
   source: wiktionary-frequency
 - word: rijen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: stúdió
+  ipa: /ˈrɛi̯.ə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: stúdió
+        quality: 2
+    en:
+      definitions:
+      - text: to form a row, line up into a row
+        quality: 5
+      - text: a village in Gilze en Rijen, North Brabant, Netherlands
+        quality: 5
   source: wiktionary-frequency
 - word: rijk
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: gazdag
+  ipa: /rɛi̯k/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: gazdag
+        quality: 2
+    en:
+      definitions:
+      - text: rich
+        quality: 5
+      - text: wealthy
+        quality: 5
+      - text: abundant
+        quality: 5
+      - text: a realm, kingdom ruled by a monarch
+        quality: 5
+      - text: an empire under the sway of a dominant (e.g. colonial) power
+        quality: 5
   source: wiktionary-frequency
 - word: rijkdom
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: szempont
+  ipa: /ˈrɛi̯k.dɔm/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: szempont
+        quality: 2
+    en:
+      definitions:
+      - text: wealth
+        quality: 5
+      - text: prosperity
+        quality: 5
   source: wiktionary-frequency
 - word: rijp
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: jelentkezési
+  ipa: /rɛi̯p/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: jelentkezési
+        quality: 2
+    en:
+      definitions:
+      - text: ripe (of fruit etc.)
+        quality: 5
+      - text: hoarfrost
+        quality: 5
+      - text: 'inflection of rijpen:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
+      - text: second-person singular present indicative
+        quality: 5
   source: wiktionary-frequency
 - word: rijpen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: ismertetése
+  ipa: /ˈrɛi̯.pə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: ismertetése
+        quality: 2
+    en:
+      definitions:
+      - text: to ripen
+        quality: 5
   source: wiktionary-frequency
 - word: rijststro
   ipa: ''
   pos: ''
-  meanings:
-  - definition: rízsszár
+  translations:
+    hu:
+      definitions:
+      - text: rízsszár
+        quality: 3
   source: de pauw - werk
 - word: rimpel van ergenis
   ipa: ''
   pos: ''
-  meanings:
-  - definition: idegeskedésből eredő ránc
+  translations:
+    hu:
+      definitions:
+      - text: idegeskedésből eredő ránc
+        quality: 3
   source: mix3
   expression_of: rimpel
 - word: rinkelen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: csillingel
+  ipa: /ˈrɪŋ.kə.lə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: csillingel
+        quality: 3
+    en:
+      definitions:
+      - text: to make a ringing sound, as of a bell; to jingle
+        quality: 5
   source: na de aardbeveging
 - word: rit
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: küldése
+  ipa: /rɪt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: küldése
+        quality: 2
+    en:
+      definitions:
+      - text: a ride on a mount (animal) or man-powered vehicle
+        quality: 5
+      - text: a drive in an animal-drawn or motorized vehicle
+        quality: 5
+      - text: a stage or lap as part of a long tour or journey
+        quality: 5
+      - text: 'inflection of ritten:'
+        quality: 5
+      - text: first/second/third-person singular present indicative
+        quality: 5
   source: wiktionary-frequency
 - word: rivier-
   ipa: ''
   pos: ''
-  meanings:
-  - definition: folyó
+  translations:
+    hu:
+      definitions:
+      - text: folyó
+        quality: 2
   source: wiktionary-frequency
 - word: RIZIV nummer
   ipa: ''
   pos: ''
-  meanings:
-  - definition: orvosi igazolószám
+  translations:
+    hu:
+      definitions:
+      - text: orvosi igazolószám
+        quality: 3
   source: Knack+NVA
   expression_of: riziv
 - word: Robert
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: megjelölt
+  ipa: /ˈroː.bərt/
+  pos: name
+  translations:
+    hu:
+      definitions:
+      - text: megjelölt
+        quality: 2
+    en:
+      definitions:
+      - text: a male given name
+        quality: 5
   source: wiktionary-frequency
 - word: roddelblad
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: pletykalap, bulvár
+  ipa: /ˈrɔ.dəlˌblɑt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: pletykalap, bulvár
+        quality: 3
+    en:
+      definitions:
+      - text: tabloid
+        quality: 5
   source: de heks van Portobello
 - word: roddelpraat
   ipa: ''
   pos: ''
-  meanings:
-  - definition: pletyka
+  translations:
+    hu:
+      definitions:
+      - text: pletyka
+        quality: 3
   source: na de aardbeveging
 - word: rodehond
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: rubeola
+  ipa: /ˌroː.dəˈɦɔnt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: rubeola
+        quality: 3
+    en:
+      definitions:
+      - text: rubella, German measles
+        quality: 5
   source: ziktes
 - word: roekeloos
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: vakmerő
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: vakmerő
+        quality: 3
+    en:
+      definitions:
+      - text: reckless
+        quality: 5
   source: bepaalde dag in het leven van idereen
 - word: Roemeense
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: román
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: román
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of Roemeens:'
+        quality: 5
+      - text: masculine/feminine singular attributive
+        quality: 5
+      - text: 'inflection of Roemeens:'
+        quality: 5
+      - text: definite neuter singular attributive
+        quality: 5
+      - text: 'inflection of Roemeens:'
+        quality: 5
   source: wiktionary-frequency
 - word: roemen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: dicsőít, magasztol
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: dicsőít, magasztol
+        quality: 3
+    en:
+      definitions:
+      - text: to praise, to laud
+        quality: 5
   source: na de aardbeveging
 - word: Roemenië
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: elektronikai
+  ipa: /ruˈmeː.ni.(j)ə/
+  pos: name
+  translations:
+    hu:
+      definitions:
+      - text: elektronikai
+        quality: 2
+    en:
+      definitions:
+      - text: Romania (a country in Southeast Europe)
+        quality: 5
   source: wiktionary-frequency
 - word: rol
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: szerepet
+  ipa: /rɔl/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: szerepet
+        quality: 2
+    en:
+      definitions:
+      - text: role, function (as in actions or tasks that a person or a group is expected to perform)
+        quality: 5
+      - text: role, character
+        quality: 5
+      - text: roll (cylindrical object, often used as a rolling part)
+        quality: 5
+      - text: scroll
+        quality: 5
+      - text: 'inflection of rollen:'
+        quality: 5
   source: wiktionary-frequency
 - word: rom
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: félek
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: félek
+        quality: 2
+    en:
+      definitions:
+      - text: Rom (member of the Roma people), Romani
+        quality: 5
   source: wiktionary-frequency
 - word: Roma
   ipa: ''
   pos: ''
-  meanings:
-  - definition: indít
+  translations:
+    hu:
+      definitions:
+      - text: indít
+        quality: 2
   source: wiktionary-frequency
 - word: Roman
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: római
+  ipa: /roːˈmɑn/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: római
+        quality: 2
+    en:
+      definitions:
+      - text: a novel (work of fiction)
+        quality: 5
   source: wiktionary-frequency
 - word: romantisch
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: tisza
+  ipa: /roːˈmɑntis/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: tisza
+        quality: 2
+    en:
+      definitions:
+      - text: romantic
+        quality: 5
   source: wiktionary-frequency
 - word: Rome
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: gyakorlatban
+  ipa: /ˈroː.mə/
+  pos: name
+  translations:
+    hu:
+      definitions:
+      - text: gyakorlatban
+        quality: 2
+    en:
+      definitions:
+      - text: Rome (a major city, the capital of Italy and the Italian region of Lazio, located on the Tiber River; the ancient
+          capital of the Roman Empire)
+        quality: 5
+      - text: Rome (a metropolitan city of Lazio, Italy)
+        quality: 5
+      - text: Rome, Ancient Rome (an ancient empire based out of the city of Rome, covering vast territories in Europe, Asia
+          and Africa; in full, Roman Empire)
+        quality: 5
+      - text: a hamlet in Maasdriel, Gelderland, Netherlands
+        quality: 5
   source: wiktionary-frequency
 - word: rommelig
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: rendetlen (nincs rend)
+  ipa: /ˈrɔ.mə.ləx/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: rendetlen (nincs rend)
+        quality: 3
+    en:
+      definitions:
+      - text: messy, disorderly
+        quality: 5
   source: mondeling 2
 - word: ronde
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: körben
+  ipa: /ˈrɔndə/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: körben
+        quality: 2
+    en:
+      definitions:
+      - text: round, iteration
+        quality: 5
+      - text: tour, stage race
+        quality: 5
+      - text: lap, tour
+        quality: 5
+      - text: a watch (shift or round of standing guard)
+        quality: 5
+      - text: 'inflection of rond:'
+        quality: 5
   source: wiktionary-frequency
 - word: rondtrekken
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vándorol
+  ipa: /ˈrɔntrɛkə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: vándorol
+        quality: 3
+    en:
+      definitions:
+      - text: wander (move without purpose)
+        quality: 5
   source: storia
 - word: rondvaart
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: körutazás
+  ipa: /ˈrɔnt.faːrt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: körutazás
+        quality: 3
+    en:
+      definitions:
+      - text: a boat excursion, a short cruise, a round trip on the water
+        quality: 5
   source: de pauw - werk 2
 - word: rood
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: piros
+  ipa: /roːt/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: piros
+        quality: 2
+    en:
+      definitions:
+      - text: red
+        quality: 5
+      - text: left, socialist, labor
+        quality: 5
+      - text: the colour red
+        quality: 5
   source: wiktionary-frequency
 - word: roodboorst
   ipa: ''
   pos: ''
-  meanings:
-  - definition: vörösbegy
-    examples:
-    - nl: te guur naar mijn zin
-      hu: túl zord az én érzékemnek
+  translations:
+    hu:
+      definitions:
+      - text: vörösbegy
+        quality: 3
+      examples:
+      - nl: te guur naar mijn zin
+        tr: túl zord az én érzékemnek
   source: de pauw - werk
 - word: roos
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: látjuk
+  ipa: /roːs/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: látjuk
+        quality: 2
+    en:
+      definitions:
+      - text: rose, ornamental plant of the genus Rosa
+        quality: 5
+      - text: rose, used as a heraldic charge
+        quality: 5
+      - text: bullseye, the center of a target, as used at shooting practice
+        quality: 5
+      - text: dandruff
+        quality: 5
+      - text: rash, a (reddish) affliction of the skin
+        quality: 5
   source: wiktionary-frequency
 - word: rotavirus
   ipa: ''
   pos: ''
-  meanings:
-  - definition: rotavirus
+  translations:
+    hu:
+      definitions:
+      - text: rotavirus
+        quality: 3
   source: ziktes
 - word: roterend
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: bölcs
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: bölcs
+        quality: 2
+    en:
+      definitions:
+      - text: rotating
+        quality: 5
+      - text: present participle of roteren
+        quality: 5
   source: wiktionary-frequency
 - word: rotsspleet
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kőnyilás, hasadék
+  translations:
+    hu:
+      definitions:
+      - text: kőnyilás, hasadék
+        quality: 3
   source: de pauw - werk
 - word: rotsvast
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: kőszilárd
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: kőszilárd
+        quality: 3
+    en:
+      definitions:
+      - text: rock-solid
+        quality: 5
+      - text: firmly
+        quality: 5
   source: pogingen iets van het leven te maken
 - word: rotzooi
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: ócska, szar
+  ipa: /ˈrɔt.zoːi̯/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: ócska, szar
+        quality: 3
+    en:
+      definitions:
+      - text: mess
+        quality: 5
+      - text: rubbish, garbage
+        quality: 5
   source: kattenoog
 - word: rovat
   ipa: ''
   pos: ''
-  meanings:
-  - definition: legtöbben
+  translations:
+    hu:
+      definitions:
+      - text: legtöbben
+        quality: 2
   source: wiktionary-frequency
 - word: RTL
   ipa: ''
   pos: ''
-  meanings:
-  - definition: útját
+  translations:
+    hu:
+      definitions:
+      - text: útját
+        quality: 2
   source: wiktionary-frequency
 - word: ruggengraat
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: gerinc
+  ipa: /ˈrʏ.ɣəˌɣraːt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: gerinc
+        quality: 3
+    en:
+      definitions:
+      - text: vertebral column
+        quality: 5
+      - text: spine, backbone
+        quality: 5
+      - text: backbone, fundamental support, core of an organization
+        quality: 5
   source: kattenoog
 - word: ruim
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: használtak
+  ipa: /rœy̯m/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: használtak
+        quality: 2
+    en:
+      definitions:
+      - text: spacious, roomy
+        quality: 5
+      - text: large, wide
+        quality: 5
+      - text: ample, generous
+        quality: 5
+      - text: more than, over, easily
+        quality: 5
+      - text: the wide, open space
+        quality: 5
   source: wiktionary-frequency
 - word: ruimte
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: irányár
+  ipa: /ˈrœy̯mtə/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: irányár
+        quality: 2
+    en:
+      definitions:
+      - text: space, room (for a physical object to occupy)
+        quality: 5
+      - text: room (in a building)
+        quality: 5
+      - text: space, outer space
+        quality: 5
   source: wiktionary-frequency
 - word: ruimtelijk
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: alkotmánybíróság
+  ipa: /ˈrœy̯m.tə.lək/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: alkotmánybíróság
+        quality: 2
+    en:
+      definitions:
+      - text: spatial
+        quality: 5
   source: wiktionary-frequency
 - word: ruis
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: zaj
-    english: noise
+  ipa: /rœy̯s/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: zaj
+        quality: 3
+        english_hint: noise
+    en:
+      definitions:
+      - text: noise, rushing sound
+        quality: 5
+      - text: sound or signal generated by random fluctuations; static
+        quality: 5
   source: bepaalde dag in het leven van idereen
 - word: Rusland
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: Lengyelország
+  ipa: /ˈrʏslɑnt/
+  pos: name
+  translations:
+    hu:
+      definitions:
+      - text: Lengyelország
+        quality: 2
+    en:
+      definitions:
+      - text: Russia (a transcontinental country in Eastern Europe and North Asia)
+        quality: 5
   source: wiktionary-frequency
 - word: Russen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: uniós
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: uniós
+        quality: 2
+    en:
+      definitions:
+      - text: plural of Rus
+        quality: 5
+      - text: plural of rus
+        quality: 5
   source: wiktionary-frequency
 - word: Russisch
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: orosz
+  ipa: /ˈrʏ.sis/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: orosz
+        quality: 2
+    en:
+      definitions:
+      - text: Russian, referring to Russia
+        quality: 5
+      - text: Russian, language of Russia
+        quality: 5
   source: wiktionary-frequency
 - word: rust
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: megtartani
+  ipa: /rʏst/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: megtartani
+        quality: 2
+    en:
+      definitions:
+      - text: rest, calm, peace
+        quality: 5
+      - text: half-time
+        quality: 5
+      - text: 'inflection of rusten:'
+        quality: 5
+      - text: first/second/third-person singular present indicative
+        quality: 5
+      - text: imperative
+        quality: 5
   source: wiktionary-frequency
 - word: rustig
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: nyugodtan
+  ipa: /ˈrʏs.təx/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: nyugodtan
+        quality: 2
+    en:
+      definitions:
+      - text: calm, tranquil, quiet
+        quality: 5
+      - text: taking one's time, not hurried
+        quality: 5
+      - text: calmly, tranquilly, quietly
+        quality: 5
+      - text: unhurriedly, leisurely
+        quality: 5
+      - text: A conventional response to hoe gaat het met u (“how do you do”) or hoe gaat het met je (“how are you”), indicating
+          that one is well; I'm fine, I'm doing well
+        quality: 5
   source: wiktionary-frequency
 - word: ruw
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: megrendezésre
+  ipa: /ryu̯/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: megrendezésre
+        quality: 2
+    en:
+      definitions:
+      - text: rough, crude, harsh (not gentle)
+        quality: 5
+      - text: raw, crude (unprocessed)
+        quality: 5
+      - text: 'inflection of ruwen:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
+      - text: second-person singular present indicative
+        quality: 5
   source: wiktionary-frequency
 - word: ruziën. ruzie maken
   ipa: ''
   pos: ''
-  meanings:
-  - definition: veszekedni
+  translations:
+    hu:
+      definitions:
+      - text: veszekedni
+        quality: 3
   source: mondeling 3
   expression_of: ruziën.
 - word: ruïneren
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: erőforrások
+  ipa: /ˌry.iˈneː.rə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: erőforrások
+        quality: 2
+    en:
+      definitions:
+      - text: to ruin, destroy
+        quality: 5
+      - text: to ruin financially
+        quality: 5
   source: wiktionary-frequency
 - word: Rákóczi
   ipa: ''
   pos: ''
-  meanings:
-  - definition: mutatkozik
+  translations:
+    hu:
+      definitions:
+      - text: mutatkozik
+        quality: 2
   source: wiktionary-frequency
 - word: Réka
   ipa: ''
   pos: ''
-  meanings:
-  - definition: Eszter
+  translations:
+    hu:
+      definitions:
+      - text: Eszter
+        quality: 2
   source: wiktionary-frequency
 - word: uit het raam klauteren
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kimászik az ablakon
+  translations:
+    hu:
+      definitions:
+      - text: kimászik az ablakon
+        quality: 3
   source: bepaalde dag in het leven van idereen
   expression_of: raam
 - word: voor een reden
   ipa: ''
   pos: ''
-  meanings:
-  - definition: eredményes
+  translations:
+    hu:
+      definitions:
+      - text: eredményes
+        quality: 2
   source: wiktionary-frequency
   expression_of: reden
 - word: we reserveren
   ipa: ''
   pos: ''
-  meanings:
-  - definition: előadó
+  translations:
+    hu:
+      definitions:
+      - text: előadó
+        quality: 2
   source: wiktionary-frequency
   expression_of: reserveren
 - word: zijn relaas doen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: sztorizik, mesél
+  translations:
+    hu:
+      definitions:
+      - text: sztorizik, mesél
+        quality: 3
   source: het diner
   expression_of: relaas
 - word: zijn rol
   ipa: ''
   pos: ''
-  meanings:
-  - definition: szerepe
+  translations:
+    hu:
+      definitions:
+      - text: szerepe
+        quality: 2
   source: wiktionary-frequency
   expression_of: rol

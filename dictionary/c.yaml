@@ -1,803 +1,1782 @@
 - word: cadans
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: ritmus
-    english: cadence
+  ipa: /kaːˈdɑns/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: ritmus
+        quality: 3
+        english_hint: cadence
+    en:
+      definitions:
+      - text: cadence (rhythm)
+        quality: 5
   source: de pauw - werk
 - word: Cadeau
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: jelen
+  ipa: /kaːˈdoː/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: jelen
+        quality: 2
+    en:
+      definitions:
+      - text: present; gift
+        quality: 5
   source: wiktionary-frequency
 - word: cadeautjes
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: mutatja
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: mutatja
+        quality: 2
+    en:
+      definitions:
+      - text: plural of cadeautje
+        quality: 5
   source: wiktionary-frequency
 - word: Californië
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hasznot
+  ipa: /ˌkaː.liˈfɔr.ni.ə/
+  pos: name
+  translations:
+    hu:
+      definitions:
+      - text: hasznot
+        quality: 2
+    en:
+      definitions:
+      - text: California (the most populous state of the United States)
+        quality: 5
+      - text: colonial California
+        quality: 5
+      - text: California Republic
+        quality: 5
+      - text: a hamlet in Maasdriel, Gelderland, Netherlands
+        quality: 5
+      - text: a hamlet in Horst aan de Maas, Limburg, Netherlands
+        quality: 5
   source: wiktionary-frequency
 - word: camera
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: idejében
+  ipa: /ˈkaː.mə.raː/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: idejében
+        quality: 2
+    en:
+      definitions:
+      - text: camera
+        quality: 5
   source: wiktionary-frequency
 - word: campagne
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: lelke
+  ipa: /kɑmˈpɑ.njə/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: lelke
+        quality: 2
+    en:
+      definitions:
+      - text: campaign
+        quality: 5
+      - text: campaign, offensive
+        quality: 5
+      - text: a neighbourhood of Maastricht, Limburg, Netherlands
+        quality: 5
   source: wiktionary-frequency
 - word: Canadees
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: teára
+  ipa: /ˌkaː.naːˈdeːs/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: teára
+        quality: 2
+    en:
+      definitions:
+      - text: a Canadian
+        quality: 5
+      - text: Canadian English (language)
+        quality: 5
+      - text: Canadian
+        quality: 5
   source: wiktionary-frequency
 - word: caravan
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: péntek
+  ipa: /ˈkɛ.rəˌvɛn/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: péntek
+        quality: 2
+    en:
+      definitions:
+      - text: caravan (type of trailer, mobile home)
+        quality: 5
   source: wiktionary-frequency
 - word: carrousel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: körhinta
-    english: merry-go-around
+  ipa: /kɑ.ruˈsɛl/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: körhinta
+        quality: 3
+        english_hint: merry-go-around
+    en:
+      definitions:
+      - text: carrousel, merry-go-round (fairground ride)
+        quality: 5
+      - text: carrousel, type of group dressage in formation (equestrian discipline)
+        quality: 5
   source: bepaalde dag in het leven van idereen
 - word: cassette
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: munkához
+  ipa: /ˌkɑˈsɛ.tə/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: munkához
+        quality: 2
+    en:
+      definitions:
+      - text: an audio cassette
+        quality: 5
+      - text: any of various other cassette storage media
+        quality: 5
+      - text: a case for a film reel
+        quality: 5
+      - text: a coffer (sunken panel in a ceiling)
+        quality: 5
+      - text: a small chest, case or moneybox
+        quality: 5
   source: wiktionary-frequency
 - word: categorie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kategóriában
+  ipa: /ˌkɑ.tə.ɣoːˈri/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kategóriában
+        quality: 2
+    en:
+      definitions:
+      - text: category (defined group)
+        quality: 5
   source: wiktionary-frequency
 - word: cellen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: benne
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: benne
+        quality: 2
+    en:
+      definitions:
+      - text: plural of cel
+        quality: 5
   source: wiktionary-frequency
 - word: centra
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: arccal
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: arccal
+        quality: 2
+    en:
+      definitions:
+      - text: plural of centrum
+        quality: 5
   source: wiktionary-frequency
 - word: centraal
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: központi
+  ipa: /sɛnˈtraːl/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: központi
+        quality: 2
+    en:
+      definitions:
+      - text: central, being in the centre
+        quality: 5
   source: wiktionary-frequency
 - word: centrum
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: központ
+  ipa: /ˈsɛn.trʏm/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: központ
+        quality: 2
+    en:
+      definitions:
+      - text: the centre, middle of focal part (e.g. of activity)
+        quality: 5
+      - text: centre (UK)
+        quality: 5
+      - text: a centre, centralised facility; also, gathering place
+        quality: 5
+      - text: city centre, town centre
+        quality: 5
   source: wiktionary-frequency
 - word: ceoncessie
   ipa: ''
   pos: ''
-  meanings:
-  - definition: engedmény
+  translations:
+    hu:
+      definitions:
+      - text: engedmény
+        quality: 3
   source: kattenoog 2
 - word: certificaat
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kérdésekkel
+  ipa: /ˌsɛr.ti.fiˈkaːt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kérdésekkel
+        quality: 2
+    en:
+      definitions:
+      - text: certificate, document as certified proof
+        quality: 5
+      - text: certificate, various financial documents
+        quality: 5
   source: wiktionary-frequency
 - word: chagrijnig
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: szörnyű
+  ipa: /ˌʃɑˈɣrɛi̯.nəx/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: szörnyű
+        quality: 3
+    en:
+      definitions:
+      - text: bad-tempered, grumpy, cranky
+        quality: 5
+      - text: bad-tempered, grumpy, cranky
+        quality: 5
+      - text: bad-tempered, grumpy, cranky
+        quality: 5
   source: het diner
 - word: chanteren
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: zsarol
-    english: blackmail
+  ipa: /ʃɑnˈteːrə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: zsarol
+        quality: 3
+        english_hint: blackmail
+    en:
+      definitions:
+      - text: to extort money, to blackmail
+        quality: 5
   source: na de bevrijding
 - word: Charles
   ipa: ''
   pos: ''
-  meanings:
-  - definition: Károly
+  translations:
+    hu:
+      definitions:
+      - text: Károly
+        quality: 2
   source: wiktionary-frequency
 - word: charme
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: baj
+  ipa: /ˈʃɑr.mə/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: baj
+        quality: 2
+    en:
+      definitions:
+      - text: charm (quality of inspiring delight or admiration)
+        quality: 5
   source: wiktionary-frequency
 - word: checker
   ipa: ''
   pos: ''
-  meanings:
-  - definition: barátságos
+  translations:
+    hu:
+      definitions:
+      - text: barátságos
+        quality: 2
   source: wiktionary-frequency
 - word: chef
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: legfőbb
+  ipa: /ʃɛf/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: legfőbb
+        quality: 2
+    en:
+      definitions:
+      - text: a boss, chief, head, leader
+        quality: 5
+      - text: a culinary chef, a head cook
+        quality: 5
+      - text: Short for a title including chef.
+        quality: 5
+      - text: A form of address to a working-class man
+        quality: 5
   source: wiktionary-frequency
 - word: chemie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vesztette
+  ipa: /xeːˈmi/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: vesztette
+        quality: 2
+    en:
+      definitions:
+      - text: chemistry, the branch of natural science studying the composition and properties of matter
+        quality: 5
+      - text: chemistry, attraction, rapport
+        quality: 5
   source: wiktionary-frequency
 - word: chemisch
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: uram
+  ipa: /ˈxeːmis/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: uram
+        quality: 2
+    en:
+      definitions:
+      - text: chemical, relating to or produced by chemistry
+        quality: 5
   source: wiktionary-frequency
 - word: China
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: Edit
+  ipa: /ˈʃinaː/
+  pos: name
+  translations:
+    hu:
+      definitions:
+      - text: Edit
+        quality: 2
+    en:
+      definitions:
+      - text: China (a country in eastern Asia)
+        quality: 5
   source: wiktionary-frequency
 - word: Chinese
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kínai
+  ipa: /ʃiˈneː.sə/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kínai
+        quality: 2
+    en:
+      definitions:
+      - text: woman from China
+        quality: 5
+      - text: 'inflection of Chinees:'
+        quality: 5
+      - text: masculine/feminine singular attributive
+        quality: 5
+      - text: definite neuter singular attributive
+        quality: 5
+      - text: plural attributive
+        quality: 5
   source: wiktionary-frequency
 - word: chique
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: januárjában
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: januárjában
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of chic:'
+        quality: 5
+      - text: masculine/feminine singular attributive
+        quality: 5
+      - text: 'inflection of chic:'
+        quality: 5
+      - text: definite neuter singular attributive
+        quality: 5
+      - text: 'inflection of chic:'
+        quality: 5
   source: wiktionary-frequency
 - word: chirurgie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: légi
+  ipa: /ˌʃi.rʏrˈɣi/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: légi
+        quality: 2
+    en:
+      definitions:
+      - text: surgery; a medical operation
+        quality: 5
+      - text: surgery (branch of medicine)
+        quality: 5
   source: wiktionary-frequency
 - word: christelijke tijdrekening
   ipa: ''
   pos: ''
-  meanings:
-  - definition: keresztény időszámítás
+  translations:
+    hu:
+      definitions:
+      - text: keresztény időszámítás
+        quality: 3
   source: storia
   expression_of: christelijke
 - word: Christen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: keresztény
+  ipa: /ˈkrɪs.tən/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: keresztény
+        quality: 2
+    en:
+      definitions:
+      - text: Christian
+        quality: 5
   source: wiktionary-frequency
 - word: Christendom
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: viseli
+  ipa: /ˈkrɪs.tən.dɔm/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: viseli
+        quality: 2
+    en:
+      definitions:
+      - text: Christianity
+        quality: 5
+      - text: Christendom
+        quality: 5
   source: wiktionary-frequency
 - word: Christenen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: piszkos
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: piszkos
+        quality: 2
+    en:
+      definitions:
+      - text: plural of christen
+        quality: 5
   source: wiktionary-frequency
 - word: Christus
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: Krisztus
+  ipa: /ˈkrɪs.tʏs/
+  pos: name
+  translations:
+    hu:
+      definitions:
+      - text: Krisztus
+        quality: 2
+    en:
+      definitions:
+      - text: Christ, Messiah (Christian title for Jesus of Nazareth)
+        quality: 5
   source: wiktionary-frequency
 - word: cirkel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: tudatos
+  ipa: /ˈsɪr.kəl/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: tudatos
+        quality: 2
+    en:
+      definitions:
+      - text: circle
+        quality: 5
+      - text: 'inflection of cirkelen:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
+      - text: second-person singular present indicative
+        quality: 5
+      - text: imperative
+        quality: 5
   source: wiktionary-frequency
 - word: cirkels
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: beszámolót
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: beszámolót
+        quality: 2
+    en:
+      definitions:
+      - text: plural of cirkel
+        quality: 5
   source: wiktionary-frequency
 - word: citaat
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: viselkedés
+  ipa: /siˈtaːt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: viselkedés
+        quality: 2
+    en:
+      definitions:
+      - text: a quotation, fragment of a human expression, notably as reference
+        quality: 5
   source: wiktionary-frequency
 - word: citaten
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: nézi
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: nézi
+        quality: 2
+    en:
+      definitions:
+      - text: plural of citaat
+        quality: 5
   source: wiktionary-frequency
 - word: civiel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: civil
+  ipa: /siˈvil/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: civil
+        quality: 2
+    en:
+      definitions:
+      - text: civil (all senses)
+        quality: 5
+      - text: civilian
+        quality: 5
+      - text: plain clothes
+        quality: 5
   source: wiktionary-frequency
 - word: claims
   ipa: ''
   pos: ''
-  meanings:
-  - definition: vasúti
+  translations:
+    hu:
+      definitions:
+      - text: vasúti
+        quality: 2
   source: wiktionary-frequency
 - word: cliënt
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: költsége
+  ipa: /kliˈɛnt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: költsége
+        quality: 2
+    en:
+      definitions:
+      - text: client, customer (of a service provider)
+        quality: 5
   source: wiktionary-frequency
 - word: club
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: összhangban
+  ipa: /klʏp/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: összhangban
+        quality: 2
+    en:
+      definitions:
+      - text: club (an association of members joining together for some common purpose, especially sports or recreation)
+        quality: 5
+      - text: club (an implement to hit the ball in certain ball games, such as golf)
+        quality: 5
+      - text: nightclub
+        quality: 5
   source: wiktionary-frequency
 - word: CO2 uitstoten
   ipa: ''
   pos: ''
-  meanings:
-  - definition: co2 kibocsátás
+  translations:
+    hu:
+      definitions:
+      - text: co2 kibocsátás
+        quality: 3
   source: mondeling 2
   expression_of: co2
 - word: CO2-uitstoot naar beneden te halen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: széndioxid kibocsátást csökkenteni
+  translations:
+    hu:
+      definitions:
+      - text: széndioxid kibocsátást csökkenteni
+        quality: 3
   source: Knack+NVA
   expression_of: co2-uitstoot
 - word: code
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: csoport
+  ipa: /ˈkoː.də/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: csoport
+        quality: 2
+    en:
+      definitions:
+      - text: book or body of laws, code of laws, lawbook
+        quality: 5
+      - text: system of rules and principles, e.g. of conduct
+        quality: 5
+      - text: code (set of symbols)
+        quality: 5
+      - text: code (text written in a programming language)
+        quality: 5
   source: wiktionary-frequency
 - word: codes
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: vízszintes
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: vízszintes
+        quality: 2
+    en:
+      definitions:
+      - text: plural of code
+        quality: 5
   source: wiktionary-frequency
 - word: collectief
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hatékonyan
+  ipa: /ˌkɔ.lɛkˈtif/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: hatékonyan
+        quality: 2
+    en:
+      definitions:
+      - text: collective
+        quality: 5
+      - text: a group, a collective
+        quality: 5
+      - text: a collective noun
+        quality: 5
+      - text: a collective farm
+        quality: 5
   source: wiktionary-frequency
 - word: collega
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: feldolgozása
+  ipa: /ˌkɔˈleː.ɣaː/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: feldolgozása
+        quality: 2
+    en:
+      definitions:
+      - text: colleague
+        quality: 5
   source: wiktionary-frequency
 - word: college
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vezetés
+  ipa: /ˌkɔˈleː.ʒə/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: vezetés
+        quality: 2
+    en:
+      definitions:
+      - text: a collegial board, either advisory (committee) or as an authority
+        quality: 5
+      - text: a secondary school, a high school, (now Belgium) especially in Roman Catholic education
+        quality: 5
+      - text: an academic lecture, class
+        quality: 5
   source: wiktionary-frequency
 - word: colloquium
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kövér
+  translations:
+    hu:
+      definitions:
+      - text: kövér
+        quality: 2
   source: wiktionary-frequency
 - word: coltrui
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: garbó
+  ipa: /ˈkɔlˌtrœy̯/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: garbó
+        quality: 3
+    en:
+      definitions:
+      - text: turtleneck sweater
+        quality: 5
   source: het diner
 - word: comfortabel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: érdeklődés
+  ipa: /ˌkɔm.fɔrˈtaː.bəl/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: érdeklődés
+        quality: 2
+    en:
+      definitions:
+      - text: comfortable
+        quality: 5
   source: wiktionary-frequency
 - word: commentaar
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hozzászólás
+  ipa: /ˌkɔ.mɛnˈtaːr/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: hozzászólás
+        quality: 2
+    en:
+      definitions:
+      - text: commentary, comment (act or result of commenting)
+        quality: 5
+      - text: comment (message or speech act in which comment is given)
+        quality: 5
+      - text: commentary (text genre commenting on something, e.g. another text)
+        quality: 5
+      - text: criticism
+        quality: 5
   source: wiktionary-frequency
 - word: commissie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: bizottság
+  ipa: /ˌkɔˈmɪ.si/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: bizottság
+        quality: 2
+    en:
+      definitions:
+      - text: commission
+        quality: 5
   source: wiktionary-frequency
 - word: commissies
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: találhatóak
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: találhatóak
+        quality: 2
+    en:
+      definitions:
+      - text: plural of commissie
+        quality: 5
   source: wiktionary-frequency
 - word: communicatie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: siker
+  ipa: /ˌkɔ.my.niˈkaː.(t)si/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: siker
+        quality: 2
+    en:
+      definitions:
+      - text: communication
+        quality: 5
   source: wiktionary-frequency
 - word: communicatief
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kommunikációs
+  translations:
+    hu:
+      definitions:
+      - text: kommunikációs
+        quality: 2
   source: wiktionary-frequency
 - word: communiceert
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: rendőri
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: rendőri
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of communiceren:'
+        quality: 5
+      - text: second/third-person singular present indicative
+        quality: 5
+      - text: 'inflection of communiceren:'
+        quality: 5
+      - text: plural imperative
+        quality: 5
   source: wiktionary-frequency
 - word: communiceren
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: holnap
+  ipa: /ˌkɔmyniˈseːrə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: holnap
+        quality: 2
+    en:
+      definitions:
+      - text: to communicate
+        quality: 5
   source: wiktionary-frequency
 - word: Communistisch
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: egykor
+  ipa: /ˌkɔ.myˈnɪs.tis/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: egykor
+        quality: 2
+    en:
+      definitions:
+      - text: communist
+        quality: 5
   source: wiktionary-frequency
 - word: comparatief
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: szakasza
+  ipa: /ˌkɔm.paː.raːˈtif/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: szakasza
+        quality: 2
+    en:
+      definitions:
+      - text: comparative (pertaining to comparison)
+        quality: 5
+      - text: comparative (pertaining to the comparative degree)
+        quality: 5
+      - text: comparative (word in the comparative degree)
+        quality: 5
   source: wiktionary-frequency
 - word: compleet
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: teljes
+  ipa: /kɔmˈpleːt/
+  pos: adv
+  translations:
+    hu:
+      definitions:
+      - text: teljes
+        quality: 2
+    en:
+      definitions:
+      - text: completely, thoroughly
+        quality: 5
+      - text: complete
+        quality: 5
   source: wiktionary-frequency
 - word: complex
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: levélben
+  ipa: /kɔmˈplɛks/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: levélben
+        quality: 2
+    en:
+      definitions:
+      - text: complex (composite)
+        quality: 5
+      - text: complex (complicated)
+        quality: 5
+      - text: complex (containing an imaginary component or involving imaginary numbers)
+        quality: 5
+      - text: complex (collection of buildings or facilities with a common purpose)
+        quality: 5
+      - text: complex (abnormal mental state caused by repression)
+        quality: 5
   source: wiktionary-frequency
 - word: complot
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: összeesküvés
+  ipa: /kɔmˈplɔt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: összeesküvés
+        quality: 3
+    en:
+      definitions:
+      - text: conspiracy
+        quality: 5
   source: de pauw - werk
 - word: complot smeden
   ipa: ''
   pos: ''
-  meanings:
-  - definition: összeesküszik
+  translations:
+    hu:
+      definitions:
+      - text: összeesküszik
+        quality: 3
   source: de pauw - werk
   expression_of: complot
 - word: computer
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: számítógépes
+  ipa: /kɔmˈpjutər/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: számítógépes
+        quality: 2
+    en:
+      definitions:
+      - text: computer
+        quality: 5
+      - text: 'inflection of computeren:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
+      - text: second-person singular present indicative
+        quality: 5
+      - text: imperative
+        quality: 5
   source: wiktionary-frequency
 - word: computer technologie
   ipa: ''
   pos: ''
-  meanings:
-  - definition: engem
+  translations:
+    hu:
+      definitions:
+      - text: engem
+        quality: 2
   source: wiktionary-frequency
   expression_of: computer
 - word: computers
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: csekély
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: csekély
+        quality: 2
+    en:
+      definitions:
+      - text: plural of computer
+        quality: 5
   source: wiktionary-frequency
 - word: concept
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: útja
+  ipa: /kɔnˈsɛpt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: útja
+        quality: 2
+    en:
+      definitions:
+      - text: concept
+        quality: 5
+      - text: draft, sketch
+        quality: 5
   source: wiktionary-frequency
 - word: concepten
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: konferenciát
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: konferenciát
+        quality: 2
+    en:
+      definitions:
+      - text: plural of concept
+        quality: 5
   source: wiktionary-frequency
 - word: concert
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: abban
+  ipa: /kɔnˈsɛrt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: abban
+        quality: 2
+    en:
+      definitions:
+      - text: concert (musical entertainment)
+        quality: 5
   source: wiktionary-frequency
 - word: conclusie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: állítólag
+  ipa: /kɔŋˈklyzi/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: állítólag
+        quality: 2
+    en:
+      definitions:
+      - text: conclusion
+        quality: 5
+      - text: opinion (judicial opinion delivered by an Advocate General to the European Court of Justice for a legal solution
+          in a case)
+        quality: 5
   source: wiktionary-frequency
 - word: concreet
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: lépnek
+  ipa: /kɔŋˈkreːt/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: lépnek
+        quality: 2
+    en:
+      definitions:
+      - text: concrete, not abstract
+        quality: 5
+      - text: perceivable, real
+        quality: 5
   source: wiktionary-frequency
 - word: concurrent
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: használjuk
+  ipa: /ˌkɔŋ.kyˈrɛnt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: használjuk
+        quality: 2
+    en:
+      definitions:
+      - text: a competitor, an economic rival
+        quality: 5
+      - text: a creditor without special priority
+        quality: 5
+      - text: concurrent, corresponding
+        quality: 5
   source: wiktionary-frequency
 - word: concurrenten
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: tizenöt
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: tizenöt
+        quality: 2
+    en:
+      definitions:
+      - text: plural of concurrent
+        quality: 5
   source: wiktionary-frequency
 - word: conferentie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: egyfajta
+  ipa: /ˌkɔn.fəˈrɛn.(t)si/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: egyfajta
+        quality: 2
+    en:
+      definitions:
+      - text: conference, convention
+        quality: 5
   source: wiktionary-frequency
 - word: confidentieële aard
   ipa: ''
   pos: ''
-  meanings:
-  - definition: bizalmas jellegű
+  translations:
+    hu:
+      definitions:
+      - text: bizalmas jellegű
+        quality: 3
   source: contract
   expression_of: confidentieële
 - word: conflict
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kivételesen
+  ipa: /kɔnˈflɪkt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kivételesen
+        quality: 2
+    en:
+      definitions:
+      - text: a conflict, clash or dispute
+        quality: 5
   source: wiktionary-frequency
 - word: connector
   ipa: ''
   pos: ''
-  meanings:
-  - definition: fejlesztő
+  translations:
+    hu:
+      definitions:
+      - text: fejlesztő
+        quality: 2
   source: wiktionary-frequency
 - word: conservatief
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: tanszék
+  ipa: /ˌkɔn.zɛr.vaːˈtif/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: tanszék
+        quality: 2
+    en:
+      definitions:
+      - text: conservative, opposing (rapid) change, favouring a small government
+        quality: 5
+      - text: moderate, reserved
+        quality: 5
+      - text: conservative, careful
+        quality: 5
+      - text: a conservative
+        quality: 5
   source: wiktionary-frequency
 - word: constant
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: folyamatosan
+  ipa: /kɔnˈstɑnt/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: folyamatosan
+        quality: 2
+    en:
+      definitions:
+      - text: constant, invariable
+        quality: 5
+      - text: constant, continuous, unceasing
+        quality: 5
   source: wiktionary-frequency
 - word: constante
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: állandó
+  ipa: /ˌkɔnˈstɑn.tə/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: állandó
+        quality: 2
+    en:
+      definitions:
+      - text: constant, non-variable factor or quantity
+        quality: 5
   source: wiktionary-frequency
 - word: constitutioneel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hozták
+  ipa: /ˌkɔn.sti.ty.(t)ʃoːˈneːl/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: hozták
+        quality: 2
+    en:
+      definitions:
+      - text: constitutional
+        quality: 5
   source: wiktionary-frequency
 - word: consultant
   ipa: ''
   pos: ''
-  meanings:
-  - definition: szolgáltatók
+  translations:
+    hu:
+      definitions:
+      - text: szolgáltatók
+        quality: 2
   source: wiktionary-frequency
 - word: consumenten
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: szerződésben
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: szerződésben
+        quality: 2
+    en:
+      definitions:
+      - text: plural of consument
+        quality: 5
   source: wiktionary-frequency
 - word: consumptie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: eldönteni
+  ipa: /ˌkɔnˈzʏmp.si/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: eldönteni
+        quality: 2
+    en:
+      definitions:
+      - text: consumption, act of eating or drinking
+        quality: 5
+      - text: portion of food or drink
+        quality: 5
+      - text: consumption, act of consuming
+        quality: 5
+      - text: quantity of goods and services that is consumed
+        quality: 5
+      - text: pulmonary tuberculosis
+        quality: 5
   source: wiktionary-frequency
 - word: contact
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kapcsolatba
+  ipa: /kɔnˈtɑkt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kapcsolatba
+        quality: 2
+    en:
+      definitions:
+      - text: physical contact, touching
+        quality: 5
+      - text: contact (close association)
+        quality: 5
+      - text: contact (communication, exchange)
+        quality: 5
+      - text: contact (someone with whom communication has been established)
+        quality: 5
   source: wiktionary-frequency
 - word: contemplatie
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: elmélkedés
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: elmélkedés
+        quality: 3
+    en:
+      definitions:
+      - text: contemplation
+        quality: 5
   source: de heks van Portobello
 - word: content, cash
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kézpénz
+  translations:
+    hu:
+      definitions:
+      - text: kézpénz
+        quality: 3
   source: taalrecht
   expression_of: content,
 - word: context
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: otthoni
+  ipa: /ˈkɔn.tɛkst/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: otthoni
+        quality: 2
+    en:
+      definitions:
+      - text: context
+        quality: 5
   source: wiktionary-frequency
 - word: continu
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: folyamatos
+  ipa: /ˌkɔn.tiˈny/
+  pos: adv
+  translations:
+    hu:
+      definitions:
+      - text: folyamatos
+        quality: 2
+    en:
+      definitions:
+      - text: continuously
+        quality: 5
+      - text: continuous (without break, cessation, or interruption in time)
+        quality: 5
   source: wiktionary-frequency
 - word: contract
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: szerződés
+  ipa: /kɔnˈtrɑkt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: szerződés
+        quality: 2
+    en:
+      definitions:
+      - text: contract
+        quality: 5
   source: wiktionary-frequency
 - word: contracten
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: talaj
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: talaj
+        quality: 2
+    en:
+      definitions:
+      - text: plural of contract
+        quality: 5
   source: wiktionary-frequency
 - word: contracteren
   ipa: ''
   pos: ''
-  meanings:
-  - definition: megítélése
+  translations:
+    hu:
+      definitions:
+      - text: megítélése
+        quality: 2
   source: wiktionary-frequency
 - word: contractueel
   ipa: ''
   pos: ''
-  meanings:
-  - definition: váljon
+  translations:
+    hu:
+      definitions:
+      - text: váljon
+        quality: 2
   source: wiktionary-frequency
 - word: contreien
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: régiók
+  ipa: /ˌkɔnˈtrɛi̯.ə(n)/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: régiók
+        quality: 3
+    en:
+      definitions:
+      - text: regions, areas
+        quality: 5
   source: Knack 2
 - word: controle
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: politikus
+  ipa: /ˌkɔnˈtrɔːlə/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: politikus
+        quality: 2
+    en:
+      definitions:
+      - text: checkup, investigation
+        quality: 5
+      - text: control (having someone or something in one's power)
+        quality: 5
   source: wiktionary-frequency
 - word: controleren
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: azaz
+  ipa: /kɔntroːˈleːrə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: azaz
+        quality: 2
+    en:
+      definitions:
+      - text: to check
+        quality: 5
+      - text: to control
+        quality: 5
   source: wiktionary-frequency
 - word: controller
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: partnereink
+  ipa: /ˌkɔnˈtrɔ.lər/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: partnereink
+        quality: 2
+    en:
+      definitions:
+      - text: controller
+        quality: 5
+      - text: controller (a person who audits, and manages the financial affairs of a company or government)
+        quality: 5
   source: wiktionary-frequency
 - word: conventie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: irányában
+  ipa: /ˌkɔnˈvɛn.si/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: irányában
+        quality: 2
+    en:
+      definitions:
+      - text: agreement, accord
+        quality: 5
+      - text: assembly, meeting, convention
+        quality: 5
+      - text: convention, accepted standard
+        quality: 5
   source: wiktionary-frequency
 - word: correct
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: helyes
+  ipa: /kɔˈrɛkt/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: helyes
+        quality: 2
+    en:
+      definitions:
+      - text: correct
+        quality: 5
   source: wiktionary-frequency
 - word: correlatie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: gyorsan
+  ipa: /ˌkɔ.rəˈlaː.(t)si/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: gyorsan
+        quality: 2
+    en:
+      definitions:
+      - text: correlation
+        quality: 5
   source: wiktionary-frequency
 - word: correspondent
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: származású
+  ipa: /ˌkɔ.rɛs.pɔnˈdɛnt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: származású
+        quality: 2
+    en:
+      definitions:
+      - text: a correspondent, in particular a reporter
+        quality: 5
   source: wiktionary-frequency
 - word: corrigeren
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: aláírás
+  ipa: /kɔriˈʒeːrə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: aláírás
+        quality: 2
+    en:
+      definitions:
+      - text: to correct (to make something that was not valid become right)
+        quality: 5
   source: wiktionary-frequency
 - word: creatie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: anya
+  ipa: /kreːˈjaː(t)si/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: anya
+        quality: 2
+    en:
+      definitions:
+      - text: creation (act of creating, inventing, etc.)
+        quality: 5
+      - text: creation, product (something created)
+        quality: 5
+      - text: creation (universe)
+        quality: 5
   source: wiktionary-frequency
 - word: creatief
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: választani
+  ipa: /kreːjaːˈtif/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: választani
+        quality: 2
+    en:
+      definitions:
+      - text: creative
+        quality: 5
   source: wiktionary-frequency
 - word: credit
   ipa: ''
   pos: ''
-  meanings:
-  - definition: jelentkezését
+  translations:
+    hu:
+      definitions:
+      - text: jelentkezését
+        quality: 2
   source: wiktionary-frequency
 - word: creperen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: meghall
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: meghall
+        quality: 3
+    en:
+      definitions:
+      - text: to be in straining pain, to suffer miserably
+        quality: 5
+      - text: to die due to horrible circumstances
+        quality: 5
   source: bepaalde dag in het leven van idereen
 - word: creëren
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vállalta
+  ipa: /kreːˈeːrə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: vállalta
+        quality: 2
+    en:
+      definitions:
+      - text: to create, make, put into existence
+        quality: 5
+      - text: to design creatively
+        quality: 5
+      - text: to appoint, invest with an office etc.
+        quality: 5
+      - text: to establish, erect, found
+        quality: 5
+      - text: to cause, be responsible for
+        quality: 5
   source: wiktionary-frequency
 - word: crisis
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kisebbségek
+  ipa: /ˈkri.zɪs/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kisebbségek
+        quality: 2
+    en:
+      definitions:
+      - text: crisis
+        quality: 5
+      - text: financial crisis
+        quality: 5
   source: wiktionary-frequency
 - word: critici
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: sajtóban
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: sajtóban
+        quality: 2
+    en:
+      definitions:
+      - text: plural of criticus
+        quality: 5
   source: wiktionary-frequency
 - word: criticus
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: jutottak
+  ipa: /ˈkri.ti.kʏs/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: jutottak
+        quality: 2
+    en:
+      definitions:
+      - text: critic
+        quality: 5
   source: wiktionary-frequency
 - word: Csaba
   ipa: ''
   pos: ''
-  meanings:
-  - definition: Éva
+  translations:
+    hu:
+      definitions:
+      - text: Éva
+        quality: 2
   source: wiktionary-frequency
 - word: Csongrád
   ipa: ''
   pos: ''
-  meanings:
-  - definition: csökkenő
+  translations:
+    hu:
+      definitions:
+      - text: csökkenő
+        quality: 2
   source: wiktionary-frequency
 - word: cultureel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kulturális
+  ipa: /ˌkʏl.tyˈreːl/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: kulturális
+        quality: 2
+    en:
+      definitions:
+      - text: cultural
+        quality: 5
   source: wiktionary-frequency
 - word: cultuur
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kultúra
+  ipa: /kʏlˈtyr/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kultúra
+        quality: 2
+    en:
+      definitions:
+      - text: culture (practices and beliefs particular to a society or group)
+        quality: 5
+      - text: culture (arts, historic heritage and creative media as a sector)
+        quality: 5
+      - text: culture (cultivation, tillage of crops)
+        quality: 5
+      - text: culture (collective of microorganisms, such as artificially bred bacteria or fungi)
+        quality: 5
   source: wiktionary-frequency
 - word: Cursus
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: tanfolyam
+  ipa: /ˈkʏr.zʏs/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: tanfolyam
+        quality: 2
+    en:
+      definitions:
+      - text: an educational course, on its own or as part of an academic or evening school curriculum
+        quality: 5
+      - text: the documentation associated with a course, usually compiled by teachers themselves
+        quality: 5
   source: wiktionary-frequency
 - word: de cipier, de bewaker
   ipa: ''
   pos: ''
-  meanings:
-  - definition: foglár, börtönőr
+  translations:
+    hu:
+      definitions:
+      - text: foglár, börtönőr
+        quality: 3
   source: mondeling 3
   expression_of: cipier,
 - word: de controle over het stuur verliezen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: elveszíti a controlt vmi felett
+  translations:
+    hu:
+      definitions:
+      - text: elveszíti a controlt vmi felett
+        quality: 3
   source: mondeling 2
   expression_of: controle
 - word: hij claimt
   ipa: ''
   pos: ''
-  meanings:
-  - definition: állítja
+  translations:
+    hu:
+      definitions:
+      - text: állítja
+        quality: 2
   source: wiktionary-frequency
   expression_of: claimt
 - word: in cijfers
   ipa: ''
   pos: ''
-  meanings:
-  - definition: jelenség
+  translations:
+    hu:
+      definitions:
+      - text: jelenség
+        quality: 2
   source: wiktionary-frequency
   expression_of: cijfers
 - word: in circulatie
   ipa: ''
   pos: ''
-  meanings:
-  - definition: jelentettek
+  translations:
+    hu:
+      definitions:
+      - text: jelentettek
+        quality: 2
   source: wiktionary-frequency
   expression_of: circulatie
 - word: In cirkels
   ipa: ''
   pos: ''
-  meanings:
-  - definition: elméletileg
+  translations:
+    hu:
+      definitions:
+      - text: elméletileg
+        quality: 2
   source: wiktionary-frequency
   expression_of: cirkels
 - word: in collectieve centra opvangen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kollektív központokban gyűjteni
+  translations:
+    hu:
+      definitions:
+      - text: kollektív központokban gyűjteni
+        quality: 3
   source: Knack+NVA
   expression_of: collectieve
 - word: in competitie
   ipa: ''
   pos: ''
-  meanings:
-  - definition: egyensúly
+  translations:
+    hu:
+      definitions:
+      - text: egyensúly
+        quality: 2
   source: wiktionary-frequency
   expression_of: competitie
 - word: in conditie
   ipa: ''
   pos: ''
-  meanings:
-  - definition: állapotban
+  translations:
+    hu:
+      definitions:
+      - text: állapotban
+        quality: 2
   source: wiktionary-frequency
   expression_of: conditie
 - word: in deze contreien
   ipa: ''
   pos: ''
-  meanings:
-  - definition: ebben a régióban, területen
+  translations:
+    hu:
+      definitions:
+      - text: ebben a régióban, területen
+        quality: 3
   source: na de aardbeveging
   expression_of: contreien
 - word: met een computer
   ipa: ''
   pos: ''
-  meanings:
-  - definition: ható
+  translations:
+    hu:
+      definitions:
+      - text: ható
+        quality: 2
   source: wiktionary-frequency
   expression_of: computer
 - word: met het commando
   ipa: ''
   pos: ''
-  meanings:
-  - definition: egyesületek
+  translations:
+    hu:
+      definitions:
+      - text: egyesületek
+        quality: 2
   source: wiktionary-frequency
   expression_of: commando
 - word: niet correct
   ipa: ''
   pos: ''
-  meanings:
-  - definition: lent
+  translations:
+    hu:
+      definitions:
+      - text: lent
+        quality: 2
   source: wiktionary-frequency
   expression_of: correct

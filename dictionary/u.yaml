@@ -1,572 +1,1144 @@
 - word: aan de Unie
   ipa: ''
   pos: ''
-  meanings:
-  - definition: neki
+  translations:
+    hu:
+      definitions:
+      - text: neki
+        quality: 2
   source: wiktionary-frequency
   expression_of: unie
 - word: bij u
   ipa: ''
   pos: ''
-  meanings:
-  - definition: elfelejtettem
+  translations:
+    hu:
+      definitions:
+      - text: elfelejtettem
+        quality: 2
   source: wiktionary-frequency
   expression_of: u
 - word: het uitvoeren van
   ipa: ''
   pos: ''
-  meanings:
-  - definition: arányban
+  translations:
+    hu:
+      definitions:
+      - text: arányban
+        quality: 2
   source: wiktionary-frequency
   expression_of: uitvoeren
 - word: in de Unie
   ipa: ''
   pos: ''
-  meanings:
-  - definition: államnak
+  translations:
+    hu:
+      definitions:
+      - text: államnak
+        quality: 2
   source: wiktionary-frequency
   expression_of: unie
 - word: in uw land
   ipa: ''
   pos: ''
-  meanings:
-  - definition: gondolkodik
+  translations:
+    hu:
+      definitions:
+      - text: gondolkodik
+        quality: 2
   source: wiktionary-frequency
   expression_of: uw
 - word: met uw naam
   ipa: ''
   pos: ''
-  meanings:
-  - definition: messzire
+  translations:
+    hu:
+      definitions:
+      - text: messzire
+        quality: 2
   source: wiktionary-frequency
   expression_of: uw
 - word: met uw toestemming
   ipa: ''
   pos: ''
-  meanings:
-  - definition: engedélyével
+  translations:
+    hu:
+      definitions:
+      - text: engedélyével
+        quality: 2
   source: wiktionary-frequency
   expression_of: uw
 - word: op de universiteit
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tehetséges
+  translations:
+    hu:
+      definitions:
+      - text: tehetséges
+        quality: 2
   source: wiktionary-frequency
   expression_of: universiteit
 - word: op uw naam
   ipa: ''
   pos: ''
-  meanings:
-  - definition: foglalkozunk
+  translations:
+    hu:
+      definitions:
+      - text: foglalkozunk
+        quality: 2
   source: wiktionary-frequency
   expression_of: uw
 - word: op uw verzoek
   ipa: ''
   pos: ''
-  meanings:
-  - definition: felelte
+  translations:
+    hu:
+      definitions:
+      - text: felelte
+        quality: 2
   source: wiktionary-frequency
   expression_of: uw
 - word: per uur
   ipa: ''
   pos: ''
-  meanings:
-  - definition: előkészítő
+  translations:
+    hu:
+      definitions:
+      - text: előkészítő
+        quality: 2
   source: wiktionary-frequency
   expression_of: uur
 - word: u
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: neked
+  ipa: /y/
+  pos: pron
+  translations:
+    hu:
+      definitions:
+      - text: neked
+        quality: 2
+    en:
+      definitions:
+      - text: you (polite)
+        quality: 5
+      - text: you (polite)
+        quality: 5
+      - text: thee (dialectal)
+        quality: 5
+      - text: you (polite)
+        quality: 5
+      - text: you (polite)
+        quality: 5
   source: wiktionary-frequency
 - word: u kunt het verwijderen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: értékesítése
+  translations:
+    hu:
+      definitions:
+      - text: értékesítése
+        quality: 2
   source: wiktionary-frequency
   expression_of: u
 - word: u kunt over mij beschikken
   ipa: ''
   pos: ''
-  meanings:
-  - definition: rendelkezzék az időmmel
+  translations:
+    hu:
+      definitions:
+      - text: rendelkezzék az időmmel
+        quality: 3
   source: summoner
   expression_of: u
 - word: u kunt verwachten
   ipa: ''
   pos: ''
-  meanings:
-  - definition: római
+  translations:
+    hu:
+      definitions:
+      - text: római
+        quality: 2
   source: wiktionary-frequency
   expression_of: u
 - word: u kunt zich abonneren
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kliens
+  translations:
+    hu:
+      definitions:
+      - text: kliens
+        quality: 2
   source: wiktionary-frequency
   expression_of: u
 - word: u kunt zich registreren
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kezdődően
+  translations:
+    hu:
+      definitions:
+      - text: kezdődően
+        quality: 2
   source: wiktionary-frequency
   expression_of: u
 - word: u op de hoogte brengen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: Európa
+  translations:
+    hu:
+      definitions:
+      - text: Európa
+        quality: 2
   source: wiktionary-frequency
   expression_of: u
 - word: U schreef
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tönkre
+  translations:
+    hu:
+      definitions:
+      - text: tönkre
+        quality: 2
   source: wiktionary-frequency
   expression_of: u
 - word: uhu
   ipa: ''
   pos: ''
-  meanings:
-  - definition: napját
+  translations:
+    hu:
+      definitions:
+      - text: napját
+        quality: 2
   source: wiktionary-frequency
 - word: uit
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hozzászólásokért
+  ipa: /œy̯t/
+  pos: adv
+  translations:
+    hu:
+      definitions:
+      - text: hozzászólásokért
+        quality: 2
+    en:
+      definitions:
+      - text: out, from the inside to the outside
+        quality: 5
+      - text: out, off (to an extinguished or switched-off state)
+        quality: 5
+      - text: over, finished, completely
+        quality: 5
+      - text: out of, from
+        quality: 5
+      - text: 'inflection of uiten:'
+        quality: 5
   source: wiktionary-frequency
 - word: uitbater
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: menedzser
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: menedzser
+        quality: 3
+    en:
+      definitions:
+      - text: manager
+        quality: 5
   source: Knack 2
 - word: uitbating
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kiaknázás
+  translations:
+    hu:
+      definitions:
+      - text: kiaknázás
+        quality: 3
   source: contract
 - word: uitbreiding
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hitelt
+  ipa: /ˈœy̯tˌbrɛi̯.dɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: hitelt
+        quality: 2
+    en:
+      definitions:
+      - text: extension, expansion
+        quality: 5
+      - text: short for uitbreidingspakket
+        quality: 5
   source: wiktionary-frequency
 - word: uitbrengen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kiad (pl szoftver)
+  ipa: /ˈœy̯tˌbrɛŋə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: kiad (pl szoftver)
+        quality: 3
+    en:
+      definitions:
+      - text: to bring out – e.g. the vote
+        quality: 5
+      - text: to release – e.g. a record
+        quality: 5
+      - text: to utter – e.g. a word
+        quality: 5
   source: mondeling
 - word: uitbundig
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: dús
+  ipa: /ˌœy̯tˈbʏn.dəx/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: dús
+        quality: 3
+    en:
+      definitions:
+      - text: overwhelming
+        quality: 5
+      - text: exuberant, energetic
+        quality: 5
+      - text: excellent, exemplary
+        quality: 5
   source: mix
 - word: uitdaging
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: elutasítja
+  ipa: /ˈœy̯tˌdaː.ɣɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: elutasítja
+        quality: 2
+    en:
+      definitions:
+      - text: challenge (something challenging)
+        quality: 5
+      - text: challenge (act of challenging someone)
+        quality: 5
   source: wiktionary-frequency
 - word: uitdrukken
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: formát
+  ipa: /ˈœy̯ˌdrʏ.kə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: formát
+        quality: 2
+    en:
+      definitions:
+      - text: to express (to convey meaning)
+        quality: 5
+      - text: to press out, to squeeze out
+        quality: 5
   source: wiktionary-frequency
 - word: uitdrukking
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: javasolt
+  ipa: /ˈœy̯(t)ˌdrʏkɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: javasolt
+        quality: 2
+    en:
+      definitions:
+      - text: expression, act or process of expressing something
+        quality: 5
+      - text: expression, saying, idiom
+        quality: 5
   source: wiktionary-frequency
 - word: uitdrukkingen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: megtanulni
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: megtanulni
+        quality: 2
+    en:
+      definitions:
+      - text: plural of uitdrukking
+        quality: 5
   source: wiktionary-frequency
 - word: uiterlijk
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: jelszót
+  ipa: /ˈœy̯.tər.lək/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: jelszót
+        quality: 2
+    en:
+      definitions:
+      - text: appearance
+        quality: 5
+      - text: external
+        quality: 5
+      - text: latest; at latest; no later than
+        quality: 5
   source: wiktionary-frequency
 - word: uitgaven
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: semmiféle
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: semmiféle
+        quality: 2
+    en:
+      definitions:
+      - text: plural of uitgave
+        quality: 5
+      - text: 'inflection of uitgeven:'
+        quality: 5
+      - text: plural dependent-clause past indicative
+        quality: 5
+      - text: plural dependent-clause past subjunctive
+        quality: 5
   source: wiktionary-frequency
 - word: uitgebreid
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: honnan
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: honnan
+        quality: 2
+    en:
+      definitions:
+      - text: vast, spacious
+        quality: 5
+      - text: comprehensive, extensive
+        quality: 5
+      - text: copious
+        quality: 5
+      - text: extensively, copiously
+        quality: 5
+      - text: past participle of uitbreiden
+        quality: 5
   source: wiktionary-frequency
 - word: uitgedrukt
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: néhol
+  ipa: /ˈœy̯txəˌdrʏkt/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: néhol
+        quality: 2
+    en:
+      definitions:
+      - text: past participle of uitdrukken
+        quality: 5
   source: wiktionary-frequency
 - word: uitgegeven
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: csapatot
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: csapatot
+        quality: 2
+    en:
+      definitions:
+      - text: past participle of uitgeven
+        quality: 5
   source: wiktionary-frequency
 - word: uitgegeven door
   ipa: ''
   pos: ''
-  meanings:
-  - definition: emelkedik
+  translations:
+    hu:
+      definitions:
+      - text: emelkedik
+        quality: 2
   source: wiktionary-frequency
   expression_of: uitgegeven
 - word: uitgelegd
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: felhasználás
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: felhasználás
+        quality: 2
+    en:
+      definitions:
+      - text: past participle of uitleggen
+        quality: 5
   source: wiktionary-frequency
 - word: uitgenodigd
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: tényt
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: tényt
+        quality: 2
+    en:
+      definitions:
+      - text: past participle of uitnodigen
+        quality: 5
   source: wiktionary-frequency
 - word: uitgerust
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: kutatás
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: kutatás
+        quality: 2
+    en:
+      definitions:
+      - text: past participle of uitrusten
+        quality: 5
   source: wiktionary-frequency
 - word: uitgesloten
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: királynő
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: királynő
+        quality: 2
+    en:
+      definitions:
+      - text: past participle of uitsluiten
+        quality: 5
   source: wiktionary-frequency
 - word: uitgestrektheid
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kiterjesztés
+  translations:
+    hu:
+      definitions:
+      - text: kiterjesztés
+        quality: 3
   source: na de aardbeveging
 - word: uitgever
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kiadó
+  ipa: /ˈœy̯tˌxeːvər/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kiadó
+        quality: 2
+    en:
+      definitions:
+      - text: publisher
+        quality: 5
   source: wiktionary-frequency
 - word: uitleg
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: csomagot
+  ipa: /ˈœy̯t.lɛx/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: csomagot
+        quality: 2
+    en:
+      definitions:
+      - text: explanation
+        quality: 5
+      - text: expansion, esp. the expansion of a city outside its previous walls
+        quality: 5
+      - text: first-person singular dependent-clause present indicative of uitleggen
+        quality: 5
   source: wiktionary-frequency
 - word: uitleggen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: Magyarország
+  ipa: /ˈœy̯tˌlɛ.ɣə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: Magyarország
+        quality: 2
+    en:
+      definitions:
+      - text: to explain
+        quality: 5
+      - text: to interpret
+        quality: 5
+      - text: plural of uitleg
+        quality: 5
   source: wiktionary-frequency
 - word: uitrekken
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: ülésen
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: ülésen
+        quality: 2
+    en:
+      definitions:
+      - text: to stretch out
+        quality: 5
   source: wiktionary-frequency
 - word: uitrit
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kijárat, pl parkolóból
+  translations:
+    hu:
+      definitions:
+      - text: kijárat, pl parkolóból
+        quality: 3
   source: het diner
 - word: uitschakeling
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: sötétség
+  ipa: /ˈœy̯tˌsxaː.kə.lɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: sötétség
+        quality: 2
+    en:
+      definitions:
+      - text: elimination
+        quality: 5
   source: wiktionary-frequency
 - word: uitslapen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: kialussza magát
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: kialussza magát
+        quality: 3
+    en:
+      definitions:
+      - text: to sleep in
+        quality: 5
   source: mix3
 - word: uitsluitend
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: exkluzív, kizárólag
+  pos: adv
+  translations:
+    hu:
+      definitions:
+      - text: exkluzív, kizárólag
+        quality: 3
+    en:
+      definitions:
+      - text: exclusively
+        quality: 5
+      - text: present participle of uitsluiten
+        quality: 5
   source: het diner
 - word: uitsluitend volwassenen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: csak felnőtteknek
+  translations:
+    hu:
+      definitions:
+      - text: csak felnőtteknek
+        quality: 3
   source: het diner
   expression_of: uitsluitend
 - word: uitspraak
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: nyilatkozta
+  ipa: /ˈœy̯tˌspraːk/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: nyilatkozta
+        quality: 2
+    en:
+      definitions:
+      - text: pronunciation
+        quality: 5
+      - text: judgment, decision
+        quality: 5
+      - text: assertion, claim, expression
+        quality: 5
   source: wiktionary-frequency
 - word: uitstaan
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: kiáll valakit, elvisel
-    examples:
-    - nl: moeder kon niet meer vader uitstaan
-      hu: a anya nem birta a apát elviselni többé
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: kiáll valakit, elvisel
+        quality: 3
+      examples:
+      - nl: moeder kon niet meer vader uitstaan
+        tr: a anya nem birta a apát elviselni többé
+    en:
+      definitions:
+      - text: to endure, tolerate, stand
+        quality: 5
+      - text: to be outstanding, to be owing
+        quality: 5
+      - text: to be switched off (of an electrical device)
+        quality: 5
   source: de pauw - werk
 - word: uitsteeksel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kiemelkedés, nyúlvány
+  ipa: /ˈœy̯tˌsteːk.səl/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kiemelkedés, nyúlvány
+        quality: 3
+    en:
+      definitions:
+      - text: protrusion
+        quality: 5
   source: bepaalde dag in het leven van idereen
 - word: uitsteken
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: jut
+  ipa: /ˈœy̯tˌsteːkə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: jut
+        quality: 2
+    en:
+      definitions:
+      - text: to stick out, stand out, protrude
+        quality: 5
+      - text: to poke out, put out, gouge
+        quality: 5
   source: wiktionary-frequency
 - word: uitstekend
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kiváló
+  ipa: /œy̯tˈsteːkənt/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: kiváló
+        quality: 2
+    en:
+      definitions:
+      - text: outstanding, excellent
+        quality: 5
+      - text: present participle of uitsteken
+        quality: 5
   source: wiktionary-frequency
 - word: uitstel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: késés, késlekedés
+  ipa: /ˈœy̯t.stɛl/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: késés, késlekedés
+        quality: 3
+    en:
+      definitions:
+      - text: delay, deferment
+        quality: 5
+      - text: first-person singular dependent-clause present indicative of uitstellen
+        quality: 5
   source: het diner
 - word: uitstoot van broeikasgassen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: üvegházhatású gázok kibocsátása
+  translations:
+    hu:
+      definitions:
+      - text: üvegházhatású gázok kibocsátása
+        quality: 3
   source: Knack+NVA
   expression_of: uitstoot
 - word: uitstraling
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: árt
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: árt
+        quality: 2
+    en:
+      definitions:
+      - text: eradiation
+        quality: 5
+      - text: aura
+        quality: 5
   source: wiktionary-frequency
 - word: uittreding
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kilépés
+  ipa: /ˈœy̯ˌtreː.dɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kilépés
+        quality: 3
+    en:
+      definitions:
+      - text: act of leaving, withdrawal, departure
+        quality: 5
   source: mix2
 - word: uitverkoop
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: kezelését
+  ipa: /ˈœy̯t.fər.ˌkoː.p/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kezelését
+        quality: 2
+    en:
+      definitions:
+      - text: sale (a period of reduced prices)
+        quality: 5
+      - text: first-person singular dependent-clause present indicative of uitverkopen
+        quality: 5
   source: wiktionary-frequency
 - word: uitvindig
   ipa: ''
   pos: ''
-  meanings:
-  - definition: találmány
+  translations:
+    hu:
+      definitions:
+      - text: találmány
+        quality: 3
   source: contract
 - word: uitvoeren
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: micsoda
+  ipa: /ˈœy̯tˌvu.rə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: micsoda
+        quality: 2
+    en:
+      definitions:
+      - text: to execute, carry out; perform
+        quality: 5
+      - text: to output
+        quality: 5
+      - text: to export
+        quality: 5
   source: wiktionary-frequency
 - word: uitvoerend
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: elképzelhető
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: elképzelhető
+        quality: 2
+    en:
+      definitions:
+      - text: executive
+        quality: 5
+      - text: present participle of uitvoeren
+        quality: 5
   source: wiktionary-frequency
 - word: uitvoerig onderzoek
   ipa: ''
   pos: ''
-  meanings:
-  - definition: mélyremenő kutatás
+  translations:
+    hu:
+      definitions:
+      - text: mélyremenő kutatás
+        quality: 3
   source: de heks van Portobello
   expression_of: uitvoerig
 - word: uitvoering, prestatie
   ipa: ''
   pos: ''
-  meanings:
-  - definition: teljesítmény
+  translations:
+    hu:
+      definitions:
+      - text: teljesítmény
+        quality: 3
   source: mix3
   expression_of: uitvoering,
 - word: uitwerking
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: hatás
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: hatás
+        quality: 3
+    en:
+      definitions:
+      - text: effect, consequence
+        quality: 5
+      - text: elaboration
+        quality: 5
   source: Knack 2
 - word: uitwerpselen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: széklet
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: széklet
+        quality: 3
+    en:
+      definitions:
+      - text: plural of uitwerpsel
+        quality: 5
   source: na de bevrijding
 - word: uitwisseling
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: lényegét
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: lényegét
+        quality: 2
+    en:
+      definitions:
+      - text: exchange
+        quality: 5
   source: wiktionary-frequency
 - word: uitzending
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: tv/rádió sugárzás
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: tv/rádió sugárzás
+        quality: 3
+    en:
+      definitions:
+      - text: broadcast, also programme or episode
+        quality: 5
+      - text: the act of sending someone somewhere (for a significant period of time)
+        quality: 5
   source: het diner
 - word: uitzondering
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: bajnok
+  ipa: /ˈœy̯tˌsɔn.də.rɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: bajnok
+        quality: 2
+    en:
+      definitions:
+      - text: exception
+        quality: 5
   source: wiktionary-frequency
 - word: ultiem
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: végső
-    english: ultimate
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: végső
+        quality: 3
+        english_hint: ultimate
+    en:
+      definitions:
+      - text: ultimate
+        quality: 5
   source: mix
 - word: unie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: unió
+  ipa: /ˈy.ni/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: unió
+        quality: 2
+    en:
+      definitions:
+      - text: union
+        quality: 5
   source: wiktionary-frequency
 - word: uniek
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: egyedi
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: egyedi
+        quality: 2
+    en:
+      definitions:
+      - text: unique
+        quality: 5
+      - text: uniquely
+        quality: 5
   source: wiktionary-frequency
 - word: uniform
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: egységes
+  ipa: /ˈy.niˌfɔrm/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: egységes
+        quality: 2
+    en:
+      definitions:
+      - text: uniform; a distinctive outfit
+        quality: 5
+      - text: uniform
+        quality: 5
   source: wiktionary-frequency
 - word: universeel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: megtalálni
+  ipa: /ˌy.ni.vɛrˈzeːl/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: megtalálni
+        quality: 2
+    en:
+      definitions:
+      - text: universal
+        quality: 5
   source: wiktionary-frequency
 - word: Universiteit
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: egyetemi
+  ipa: /y.ni.vɛr.ziˈtɛi̯t/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: egyetemi
+        quality: 2
+    en:
+      definitions:
+      - text: university, (university) college (especially in the United States)
+        quality: 5
   source: wiktionary-frequency
 - word: universiteiten
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: pilóta
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: pilóta
+        quality: 2
+    en:
+      definitions:
+      - text: plural of universiteit
+        quality: 5
   source: wiktionary-frequency
 - word: ura
   ipa: ''
   pos: ''
-  meanings:
-  - definition: váratlanul
+  translations:
+    hu:
+      definitions:
+      - text: váratlanul
+        quality: 2
   source: wiktionary-frequency
 - word: urak
   ipa: ''
   pos: ''
-  meanings:
-  - definition: néznek
+  translations:
+    hu:
+      definitions:
+      - text: néznek
+        quality: 2
   source: wiktionary-frequency
 - word: urat
   ipa: ''
   pos: ''
-  meanings:
-  - definition: követelményeket
+  translations:
+    hu:
+      definitions:
+      - text: követelményeket
+        quality: 2
   source: wiktionary-frequency
 - word: uren
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: óra
+  ipa: /ˈyrə(n)/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: óra
+        quality: 2
+    en:
+      definitions:
+      - text: plural of uur
+        quality: 5
+      - text: for hours, for a long time
+        quality: 5
   source: wiktionary-frequency
 - word: urunk
   ipa: ''
   pos: ''
-  meanings:
-  - definition: támadást
+  translations:
+    hu:
+      definitions:
+      - text: támadást
+        quality: 2
   source: wiktionary-frequency
 - word: USB
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kezdték
+  translations:
+    hu:
+      definitions:
+      - text: kezdték
+        quality: 2
   source: wiktionary-frequency
 - word: uur
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: műholdas
+  ipa: /yr/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: műholdas
+        quality: 2
+    en:
+      definitions:
+      - text: an hour, a period of time
+        quality: 5
+      - text: the hour, the time of day
+        quality: 5
+      - text: o'clock
+        quality: 5
   source: wiktionary-frequency
 - word: uw naam
   ipa: ''
   pos: ''
-  meanings:
-  - definition: elnökének
+  translations:
+    hu:
+      definitions:
+      - text: elnökének
+        quality: 2
   source: wiktionary-frequency
   expression_of: uw
 - word: uw probleem
   ipa: ''
   pos: ''
-  meanings:
-  - definition: korban
+  translations:
+    hu:
+      definitions:
+      - text: korban
+        quality: 2
   source: wiktionary-frequency
   expression_of: uw
 - word: uw vraag
   ipa: ''
   pos: ''
-  meanings:
-  - definition: engedélyt
+  translations:
+    hu:
+      definitions:
+      - text: engedélyt
+        quality: 2
   source: wiktionary-frequency
   expression_of: uw
 - word: uális
   ipa: ''
   pos: ''
-  meanings:
-  - definition: emiatt
+  translations:
+    hu:
+      definitions:
+      - text: emiatt
+        quality: 2
   source: wiktionary-frequency
 - word: voor een uur
   ipa: ''
   pos: ''
-  meanings:
-  - definition: jelentést
+  translations:
+    hu:
+      definitions:
+      - text: jelentést
+        quality: 2
   source: wiktionary-frequency
   expression_of: uur
 - word: waar ik van uitga
   ipa: ''
   pos: ''
-  meanings:
-  - definition: amit feltételezek
+  translations:
+    hu:
+      definitions:
+      - text: amit feltételezek
+        quality: 3
   source: Knack 2
   expression_of: uitga

@@ -1,12 +1,26 @@
 - word: yoga
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: joga
+  ipa: /ˈjoː.ɣaː/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: joga
+        quality: 2
+    en:
+      definitions:
+      - text: yoga
+        quality: 5
   source: wiktionary-frequency
 - word: yogi
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: jogi
+  ipa: /ˈjoː.ɣi/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: jogi
+        quality: 2
+    en:
+      definitions:
+      - text: yogi
+        quality: 5
   source: wiktionary-frequency

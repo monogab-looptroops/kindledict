@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dutch-Hungarian Dictionary</title>
+  <title>Dutch Multilingual Dictionary</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f5; color: #222; }
@@ -19,142 +19,76 @@
       gap: 12px;
     }
     .header h1 { font-size: 1.3rem; font-weight: 600; }
-    .header .stats { display: flex; gap: 20px; align-items: center; font-size: 0.95rem; color: #555; }
+    .header .stats { display: flex; gap: 16px; align-items: center; font-size: 0.9rem; color: #555; flex-wrap: wrap; }
     .header .stats span { font-weight: 600; color: #222; }
     .header .download-btn {
-      background: #222;
-      color: #fff;
-      border: none;
-      padding: 8px 16px;
-      font-size: 0.9rem;
-      cursor: pointer;
+      background: #222; color: #fff; border: none; padding: 8px 16px; font-size: 0.9rem; cursor: pointer;
     }
     .header .download-btn:hover { background: #444; }
 
     .container { max-width: 900px; margin: 0 auto; padding: 24px; }
 
-    /* Search */
     .search-section { margin-bottom: 24px; }
-    .search-box {
-      display: flex;
-      gap: 8px;
-    }
+    .search-box { display: flex; gap: 8px; }
     .search-box input {
-      flex: 1;
-      padding: 10px 14px;
-      font-size: 1rem;
-      border: 2px solid #222;
-      outline: none;
+      flex: 1; padding: 10px 14px; font-size: 1rem; border: 2px solid #222; outline: none;
     }
     .search-box input:focus { border-color: #555; }
     .search-box button {
-      padding: 10px 20px;
-      font-size: 1rem;
-      background: #222;
-      color: #fff;
-      border: none;
-      cursor: pointer;
+      padding: 10px 20px; font-size: 1rem; background: #222; color: #fff; border: none; cursor: pointer;
     }
     .search-box button:hover { background: #444; }
 
-    /* Results */
     .results {
-      background: #fff;
-      border: 2px solid #222;
-      min-height: 200px;
-      max-height: 500px;
-      overflow-y: auto;
-      padding: 16px;
-      margin-bottom: 24px;
+      background: #fff; border: 2px solid #222; min-height: 200px; max-height: 600px;
+      overflow-y: auto; padding: 16px; margin-bottom: 24px;
     }
     .results.empty { display: flex; align-items: center; justify-content: center; color: #999; }
-    .result-entry { padding: 10px 0; border-bottom: 1px solid #eee; }
+
+    .result-entry { padding: 12px 0; border-bottom: 1px solid #eee; }
     .result-entry:last-child { border-bottom: none; }
-    .result-word {
-      font-weight: 700;
-      font-size: 1.1rem;
+
+    .result-header { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; margin-bottom: 6px; }
+    .result-word { font-weight: 700; font-size: 1.15rem; }
+    .result-ipa { font-size: 0.85rem; color: #666; }
+    .result-pos { font-size: 0.8rem; color: #fff; background: #888; padding: 1px 6px; border-radius: 3px; }
+    .result-expression-of { font-size: 0.8rem; color: #888; }
+
+    .lang-block { margin: 6px 0 6px 12px; }
+    .lang-flag { font-size: 0.85rem; font-weight: 600; color: #555; margin-bottom: 2px; }
+    .lang-def { margin: 2px 0 2px 8px; display: flex; align-items: baseline; gap: 6px; }
+    .lang-def-text { color: #333; }
+    .lang-def-hint { color: #999; font-size: 0.8rem; }
+
+    .quality-dots { display: inline-flex; gap: 2px; margin-left: 4px; }
+    .quality-dot {
+      width: 6px; height: 6px; border-radius: 50%; background: #ddd; display: inline-block;
     }
-    .result-expression-of {
-      font-size: 0.8rem;
-      color: #888;
-      margin-left: 8px;
-    }
-    .result-pos {
-      font-size: 0.8rem;
-      color: #888;
-      font-style: italic;
-      margin-left: 6px;
-    }
-    .result-ipa {
-      font-size: 0.85rem;
-      color: #666;
-      margin-left: 8px;
-    }
-    .result-meaning { margin: 4px 0 4px 16px; }
-    .result-definition { color: #333; }
-    .result-english { color: #888; font-size: 0.85rem; margin-left: 6px; }
-    .result-example {
-      margin: 2px 0 2px 32px;
-      font-size: 0.9rem;
-      color: #666;
-      font-style: italic;
-    }
-    .result-source {
-      font-size: 0.75rem;
-      color: #aaa;
-      margin-top: 4px;
-      margin-left: 16px;
+    .quality-dot.filled { background: #4a4; }
+    .quality-dot.filled.low { background: #c93; }
+    .quality-dot.filled.vlow { background: #c55; }
+
+    .example {
+      margin: 3px 0 3px 20px; font-size: 0.9rem; color: #666; font-style: italic;
     }
 
-    /* Add words */
-    .add-section h2 {
-      font-size: 1.1rem;
-      margin-bottom: 12px;
-      font-weight: 600;
-    }
-    .add-source {
-      display: flex;
-      gap: 8px;
-      align-items: center;
-      margin-bottom: 8px;
-      font-size: 0.9rem;
-    }
-    .add-source input {
-      padding: 6px 10px;
-      border: 2px solid #222;
-      font-size: 0.9rem;
-      width: 250px;
-    }
+    .result-source { font-size: 0.75rem; color: #aaa; margin-top: 4px; margin-left: 12px; }
+
+    .add-section h2 { font-size: 1.1rem; margin-bottom: 12px; font-weight: 600; }
+    .add-source { display: flex; gap: 8px; align-items: center; margin-bottom: 8px; font-size: 0.9rem; }
+    .add-source input { padding: 6px 10px; border: 2px solid #222; font-size: 0.9rem; width: 250px; }
     .add-textarea {
-      width: 100%;
-      min-height: 250px;
-      padding: 12px;
-      font-family: 'SF Mono', 'Fira Code', monospace;
-      font-size: 0.9rem;
-      border: 2px solid #222;
-      resize: vertical;
-      outline: none;
+      width: 100%; min-height: 200px; padding: 12px;
+      font-family: 'SF Mono', 'Fira Code', monospace; font-size: 0.9rem;
+      border: 2px solid #222; resize: vertical; outline: none;
     }
     .add-textarea:focus { border-color: #555; }
-    .add-footer {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-top: 8px;
-    }
+    .add-footer { display: flex; justify-content: space-between; align-items: center; margin-top: 8px; }
     .add-footer button {
-      padding: 10px 24px;
-      font-size: 1rem;
-      background: #222;
-      color: #fff;
-      border: none;
-      cursor: pointer;
+      padding: 10px 24px; font-size: 1rem; background: #222; color: #fff; border: none; cursor: pointer;
     }
     .add-footer button:hover { background: #444; }
-    .add-footer .message {
-      font-size: 0.9rem;
-      color: #555;
-    }
+    .add-footer .message { font-size: 0.9rem; color: #555; }
     .add-footer .message.success { color: #2a7d2a; }
     .add-footer .message.error { color: #c33; }
   </style>
@@ -162,10 +96,11 @@
 <body>
 
 <div class="header">
-  <h1>Dutch-Hungarian dictionary</h1>
+  <h1>Dutch Multilingual Dictionary</h1>
   <div class="stats">
     <div>words: <span id="stat-words">-</span></div>
     <div>expressions: <span id="stat-expressions">-</span></div>
+    <div id="stat-langs"></div>
     <button class="download-btn" onclick="downloadDict()">Download .mobi</button>
   </div>
 </div>
@@ -178,9 +113,7 @@
     </div>
   </div>
 
-  <div class="results empty" id="results">
-    Type a word to search
-  </div>
+  <div class="results empty" id="results">Type a word to search</div>
 
   <div class="add-section">
     <h2>Add new words</h2>
@@ -192,7 +125,6 @@
 
 fiets - bicikli
 het ventiel - szelep
-kruiperig - szolgalelkű <servile>
 bekommeren - aggódni
 [ik bekommerd me niet - nem aggódom]"></textarea>
     <div class="add-footer">
@@ -203,21 +135,26 @@ bekommeren - aggódni
 </div>
 
 <script>
+  const LANG_LABELS = {
+    hu: '🇭🇺 Magyar',
+    en: '🇬🇧 English',
+    es: '🇪🇸 Español',
+    nl: '🇳🇱 Nederlands',
+    de: '🇩🇪 Deutsch',
+    fr: '🇫🇷 Français',
+  };
+  // Display order for languages
+  const LANG_ORDER = ['hu', 'en', 'es', 'de', 'fr', 'nl'];
+
   const searchInput = document.getElementById('search-input');
   const resultsDiv = document.getElementById('results');
   const addTextarea = document.getElementById('add-textarea');
   const sourceInput = document.getElementById('source-input');
   const addMessage = document.getElementById('add-message');
 
-  // Load stats on page load
   fetchStats();
 
-  // Search on Enter key
-  searchInput.addEventListener('keydown', (e) => {
-    if (e.key === 'Enter') doSearch();
-  });
-
-  // Debounced search as you type
+  searchInput.addEventListener('keydown', (e) => { if (e.key === 'Enter') doSearch(); });
   let debounceTimer;
   searchInput.addEventListener('input', () => {
     clearTimeout(debounceTimer);
@@ -229,6 +166,14 @@ bekommeren - aggódni
     const data = await res.json();
     document.getElementById('stat-words').textContent = data.words.toLocaleString();
     document.getElementById('stat-expressions').textContent = data.expressions.toLocaleString();
+    const langsDiv = document.getElementById('stat-langs');
+    if (data.languages) {
+      const parts = Object.entries(data.languages)
+        .sort((a,b) => b[1] - a[1])
+        .map(([lang, count]) => `${LANG_LABELS[lang] || lang}: ${count.toLocaleString()}`)
+        .join(' · ');
+      langsDiv.textContent = parts;
+    }
   }
 
   async function doSearch() {
@@ -238,16 +183,13 @@ bekommeren - aggódni
       resultsDiv.innerHTML = 'Type a word to search';
       return;
     }
-
     const res = await fetch(`/api/search?q=${encodeURIComponent(query)}`);
     const entries = await res.json();
-
     if (entries.length === 0) {
       resultsDiv.className = 'results empty';
       resultsDiv.innerHTML = 'No results found';
       return;
     }
-
     resultsDiv.className = 'results';
     resultsDiv.innerHTML = entries.map(renderEntry).join('');
   }
@@ -255,31 +197,61 @@ bekommeren - aggódni
   function renderEntry(entry) {
     let html = '<div class="result-entry">';
 
-    // Word + IPA + POS
+    // Header: word, IPA, POS
+    html += '<div class="result-header">';
     html += `<span class="result-word">${esc(entry.word)}</span>`;
     if (entry.ipa) html += `<span class="result-ipa">${esc(entry.ipa)}</span>`;
     if (entry.pos) html += `<span class="result-pos">${esc(entry.pos)}</span>`;
     if (entry.expression_of) html += `<span class="result-expression-of">→ ${esc(entry.expression_of)}</span>`;
+    html += '</div>';
 
-    // Meanings
-    for (const m of entry.meanings) {
-      html += '<div class="result-meaning">';
-      html += `<span class="result-definition">${esc(m.definition)}</span>`;
-      if (m.english) html += `<span class="result-english">(${esc(m.english)})</span>`;
-      if (m.examples) {
-        for (const ex of m.examples) {
-          html += `<div class="result-example">"${esc(ex.nl)}" — ${esc(ex.hu)}</div>`;
-        }
+    // Translations by language
+    const translations = entry.translations || {};
+    const sortedLangs = LANG_ORDER.filter(l => l in translations);
+    // Add any remaining languages not in LANG_ORDER
+    for (const l of Object.keys(translations)) {
+      if (!sortedLangs.includes(l)) sortedLangs.push(l);
+    }
+
+    for (const lang of sortedLangs) {
+      const trans = translations[lang];
+      const label = LANG_LABELS[lang] || lang;
+      html += '<div class="lang-block">';
+      html += `<div class="lang-flag">${label}</div>`;
+
+      for (const d of (trans.definitions || [])) {
+        html += '<div class="lang-def">';
+        html += `<span class="lang-def-text">${esc(d.text)}</span>`;
+        if (d.english_hint) html += `<span class="lang-def-hint">(${esc(d.english_hint)})</span>`;
+        html += renderQuality(d.quality || 0);
+        html += '</div>';
+      }
+
+      for (const ex of (trans.examples || [])) {
+        html += `<div class="example">"${esc(ex.nl)}" — ${esc(ex.tr)}</div>`;
       }
       html += '</div>';
     }
 
-    // Source
     if (entry.source) {
       html += `<div class="result-source">source: ${esc(entry.source)}</div>`;
     }
-
     html += '</div>';
+    return html;
+  }
+
+  function renderQuality(q) {
+    let html = '<span class="quality-dots" title="quality: ' + q + '/5">';
+    for (let i = 1; i <= 5; i++) {
+      let cls = 'quality-dot';
+      if (i <= q) {
+        cls += ' filled';
+        if (q <= 1) cls += ' vlow';
+        else if (q <= 2) cls += ' low';
+      }
+      html += `<span class="${cls}"></span>`;
+    }
+    html += '</span>';
     return html;
   }
 
@@ -292,28 +264,19 @@ bekommeren - aggódni
 
   async function importWords() {
     const text = addTextarea.value.trim();
-    if (!text) {
-      showMessage('Please paste some words first.', 'error');
-      return;
-    }
-
+    if (!text) { showMessage('Please paste some words first.', 'error'); return; }
     const source = sourceInput.value.trim() || 'web-import';
-
     const res = await fetch('/api/import', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ text, source }),
     });
     const data = await res.json();
-
     if (data.error) {
       showMessage(data.error, 'error');
     } else {
       showMessage(data.message, 'success');
-      if (data.added > 0) {
-        addTextarea.value = '';
-        fetchStats();
-      }
+      if (data.added > 0) { addTextarea.value = ''; fetchStats(); }
     }
   }
 
@@ -323,9 +286,7 @@ bekommeren - aggódni
     setTimeout(() => { addMessage.textContent = ''; }, 5000);
   }
 
-  function downloadDict() {
-    window.location.href = '/api/download';
-  }
+  function downloadDict() { window.location.href = '/api/download'; }
 </script>
 
 </body>

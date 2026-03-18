@@ -1,693 +1,1468 @@
 - word: de federale overheid en de Gewesten
   ipa: ''
   pos: ''
-  meanings:
-  - definition: federációs kormány és a régiók(szövetségi államok)
+  translations:
+    hu:
+      definitions:
+      - text: federációs kormány és a régiók(szövetségi államok)
+        quality: 3
   source: Knack+NVA
   expression_of: federale
 - word: fabricage
   ipa: ''
   pos: ''
-  meanings:
-  - definition: utólagos
+  translations:
+    hu:
+      definitions:
+      - text: utólagos
+        quality: 2
   source: wiktionary-frequency
 - word: fabriek
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: feltételeket
+  ipa: /faːˈbrik/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: feltételeket
+        quality: 2
+    en:
+      definitions:
+      - text: factory
+        quality: 5
   source: wiktionary-frequency
 - word: fabrikant
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: célszerű
+  ipa: /faː.briˈkɑnt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: célszerű
+        quality: 2
+    en:
+      definitions:
+      - text: manufacturer
+        quality: 5
   source: wiktionary-frequency
 - word: fabrikanten
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: farkas
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: farkas
+        quality: 2
+    en:
+      definitions:
+      - text: plural of fabrikant
+        quality: 5
   source: wiktionary-frequency
 - word: faciliteit
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: Proper Nouns
+  ipa: /ˌfaː.si.liˈtɛi̯t/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: Proper Nouns
+        quality: 2
+    en:
+      definitions:
+      - text: facility, the physical means or contrivances to make something (especially a public service) possible; the required
+          equipment, infrastructure, location etc.
+        quality: 5
+      - text: an accommodation or easing, such as relaxation of rules
+        quality: 5
   source: wiktionary-frequency
 - word: factor
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: teli
+  ipa: /ˈfɑk.tɔr/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: teli
+        quality: 2
+    en:
+      definitions:
+      - text: a factor, element
+        quality: 5
+      - text: factor
+        quality: 5
+      - text: business representative
+        quality: 5
   source: wiktionary-frequency
 - word: factoren
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: írott
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: írott
+        quality: 2
+    en:
+      definitions:
+      - text: plural of factor
+        quality: 5
   source: wiktionary-frequency
 - word: factuur
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: számmal
+  ipa: /fɑkˈtyːr/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: számmal
+        quality: 2
+    en:
+      definitions:
+      - text: invoice
+        quality: 5
   source: wiktionary-frequency
 - word: fakad
   ipa: ''
   pos: ''
-  meanings:
-  - definition: hanggal
+  translations:
+    hu:
+      definitions:
+      - text: hanggal
+        quality: 2
   source: wiktionary-frequency
 - word: fakkel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: fáklya
+  ipa: /ˈfɑ.kəl/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: fáklya
+        quality: 3
+    en:
+      definitions:
+      - text: torch (a stick with a flame at one end)
+        quality: 5
   source: mix3
 - word: 'false'
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tegye
+  translations:
+    hu:
+      definitions:
+      - text: tegye
+        quality: 2
   source: wiktionary-frequency
 - word: familie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: családi
+  ipa: /faːˈmi.li/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: családi
+        quality: 2
+    en:
+      definitions:
+      - text: relatives (extended kin)
+        quality: 5
+      - text: family (close kin)
+        quality: 5
+      - text: family
+        quality: 5
   source: wiktionary-frequency
 - word: familielid
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: levele
+  ipa: /faːˈmi.liˌlɪt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: levele
+        quality: 2
+    en:
+      definitions:
+      - text: relative, family member
+        quality: 5
   source: wiktionary-frequency
 - word: fans
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: kapják
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: kapják
+        quality: 2
+    en:
+      definitions:
+      - text: plural of fan
+        quality: 5
   source: wiktionary-frequency
 - word: fantastisch
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: nyomtatott
+  ipa: /fɑnˈtɑs.tis/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: nyomtatott
+        quality: 2
+    en:
+      definitions:
+      - text: fantastic, great
+        quality: 5
+      - text: fantastic, imaginative
+        quality: 5
+      - text: unreal, unrealistic, fantastical
+        quality: 5
   source: wiktionary-frequency
 - word: fatsoen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: illem
+  ipa: /fɑtˈsun/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: illem
+        quality: 3
+    en:
+      definitions:
+      - text: decency, propriety
+        quality: 5
+      - text: model, design, shape
+        quality: 5
   source: de heks van Portobello
 - word: favoriete
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: kedvenc
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: kedvenc
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of favoriet:'
+        quality: 5
+      - text: masculine/feminine singular attributive
+        quality: 5
+      - text: 'inflection of favoriet:'
+        quality: 5
+      - text: definite neuter singular attributive
+        quality: 5
+      - text: 'inflection of favoriet:'
+        quality: 5
   source: wiktionary-frequency
 - word: feb
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: tartalmaznak
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: tartalmaznak
+        quality: 2
+    en:
+      definitions:
+      - text: abbreviation of februari (“February”)
+        quality: 5
   source: wiktionary-frequency
 - word: februari
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: február
+  ipa: /ˌfeː.bryˈaː.ri/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: február
+        quality: 2
+    en:
+      definitions:
+      - text: February
+        quality: 5
   source: wiktionary-frequency
 - word: federaal
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: javítani
+  ipa: /ˌfeː.dəˈraːl/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: javítani
+        quality: 2
+    en:
+      definitions:
+      - text: federal
+        quality: 5
   source: wiktionary-frequency
 - word: feestelijk
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: igazad
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: igazad
+        quality: 2
+    en:
+      definitions:
+      - text: festive
+        quality: 5
   source: wiktionary-frequency
 - word: feesten
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: beszélgetés
+  ipa: /ˈfeːstə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: beszélgetés
+        quality: 2
+    en:
+      definitions:
+      - text: to party, to celebrate
+        quality: 5
+      - text: plural of feest
+        quality: 5
   source: wiktionary-frequency
 - word: feit
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: tény
+  ipa: /fɛi̯t/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: tény
+        quality: 3
+    en:
+      definitions:
+      - text: fact
+        quality: 5
   source: storia
 - word: feitelijk
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: cím
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: cím
+        quality: 2
+    en:
+      definitions:
+      - text: actual
+        quality: 5
+      - text: factual
+        quality: 5
+      - text: in fact, de facto
+        quality: 5
+      - text: actually
+        quality: 5
   source: wiktionary-frequency
 - word: feiten
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: követve
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: követve
+        quality: 2
+    en:
+      definitions:
+      - text: plural of feit
+        quality: 5
   source: wiktionary-frequency
 - word: fel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: alább
+  ipa: /fɛl/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: alább
+        quality: 2
+    en:
+      definitions:
+      - text: bright, shiny (e.g. sunlight)
+        quality: 5
+      - text: fierce, feisty, even bitter
+        quality: 5
+      - text: flashy, showy
+        quality: 5
+      - text: fiercely
+        quality: 5
   source: wiktionary-frequency
 - word: fenomeen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: szoktam
+  ipa: /feː.noːˈmeːn/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: szoktam
+        quality: 2
+    en:
+      definitions:
+      - text: phenomenon (observable event)
+        quality: 5
+      - text: phenomenon (unexplainable or questionable fact or situation)
+        quality: 5
   source: wiktionary-frequency
 - word: fenomenen
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: hazafelé
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: hazafelé
+        quality: 2
+    en:
+      definitions:
+      - text: plural of fenomeen
+        quality: 5
   source: wiktionary-frequency
 - word: Ferenc
   ipa: ''
   pos: ''
-  meanings:
-  - definition: Ferenc
+  translations:
+    hu:
+      definitions:
+      - text: Ferenc
+        quality: 2
   source: wiktionary-frequency
 - word: ferment
   ipa: ''
   pos: ''
-  meanings:
-  - definition: élesztő
+  translations:
+    hu:
+      definitions:
+      - text: élesztő
+        quality: 3
   source: na de bevrijding
 - word: festival
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: törvényes
+  ipa: /ˈfɛs.tiˌvɑl/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: törvényes
+        quality: 2
+    en:
+      definitions:
+      - text: a festival (festive event or gathering)
+        quality: 5
   source: wiktionary-frequency
 - word: Fidesz
   ipa: ''
   pos: ''
-  meanings:
-  - definition: részlet
+  translations:
+    hu:
+      definitions:
+      - text: részlet
+        quality: 2
   source: wiktionary-frequency
 - word: fiedelen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: játszani, birizgálni vminvel, pl hangszerrel
+  translations:
+    hu:
+      definitions:
+      - text: játszani, birizgálni vminvel, pl hangszerrel
+        quality: 3
   source: de pauw - werk
 - word: fiets
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hajnalban
+  ipa: /fits/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: hajnalban
+        quality: 2
+    en:
+      definitions:
+      - text: bicycle
+        quality: 5
+      - text: motorbike
+        quality: 5
+      - text: 'inflection of fietsen:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
+      - text: second-person singular present indicative
+        quality: 5
   source: wiktionary-frequency
 - word: figuur
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: belépés
+  ipa: /fiˈɣyːr/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: belépés
+        quality: 2
+    en:
+      definitions:
+      - text: figure, shape
+        quality: 5
+      - text: figure, person
+        quality: 5
   source: wiktionary-frequency
 - word: fik
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: tűz, láng
+  pos: name
+  translations:
+    hu:
+      definitions:
+      - text: tűz, láng
+        quality: 3
+    en:
+      definitions:
+      - text: dog's name
+        quality: 5
+      - text: fire
+        quality: 5
+      - text: 'inflection of fikken:'
+        quality: 5
+      - text: first-person singular present indicative
+        quality: 5
+      - text: second-person singular present indicative
+        quality: 5
   source: het diner
 - word: fik, vuur, brand
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tűz
+  translations:
+    hu:
+      definitions:
+      - text: tűz
+        quality: 3
   source: kattenoog 2
   expression_of: fik,
 - word: film
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: film
+  ipa: /fɪlm/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: film
+        quality: 2
+    en:
+      definitions:
+      - text: a film, thin layer or membrane; especially the physical medium film
+        quality: 5
+      - text: a film production, movie
+        quality: 5
+      - text: the movie sector, cinema
+        quality: 5
   source: wiktionary-frequency
 - word: filmje
   ipa: ''
   pos: ''
-  meanings:
-  - definition: érti
+  translations:
+    hu:
+      definitions:
+      - text: érti
+        quality: 2
   source: wiktionary-frequency
 - word: films
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: alapul
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: alapul
+        quality: 2
+    en:
+      definitions:
+      - text: plural of film
+        quality: 5
   source: wiktionary-frequency
 - word: filosofie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hozzád
+  ipa: /ˌfi.loː.soːˈfi/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: hozzád
+        quality: 2
+    en:
+      definitions:
+      - text: philosophy
+        quality: 5
   source: wiktionary-frequency
 - word: filosofisch
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: maradék
+  ipa: /ˌfiloːˈsoːfis/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: maradék
+        quality: 2
+    en:
+      definitions:
+      - text: philosophical
+        quality: 5
   source: wiktionary-frequency
 - word: finale
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: alapuló
+  ipa: /fiˈnaːlə/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: alapuló
+        quality: 2
+    en:
+      definitions:
+      - text: a final, e.g. the end-round in a competition
+        quality: 5
+      - text: the finale of a music piece
+        quality: 5
+      - text: 'inflection of finaal:'
+        quality: 5
+      - text: masculine/feminine singular attributive
+        quality: 5
+      - text: definite neuter singular attributive
+        quality: 5
   source: wiktionary-frequency
 - word: financieel
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: pénzügyi
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: pénzügyi
+        quality: 2
+    en:
+      definitions:
+      - text: financial
+        quality: 5
   source: wiktionary-frequency
 - word: financiering
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: létezett
+  ipa: /ˈfi.nɑn.siː.rɪŋ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: létezett
+        quality: 2
+    en:
+      definitions:
+      - text: financing, funding
+        quality: 5
   source: wiktionary-frequency
 - word: Finoman
   ipa: ''
   pos: ''
-  meanings:
-  - definition: későn
+  translations:
+    hu:
+      definitions:
+      - text: későn
+        quality: 2
   source: wiktionary-frequency
 - word: Fins
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: egyforma
+  ipa: /fɪns/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: egyforma
+        quality: 2
+    en:
+      definitions:
+      - text: Finnish
+        quality: 5
+      - text: Finnish (language)
+        quality: 5
   source: wiktionary-frequency
 - word: flapteksten
   ipa: ''
   pos: ''
-  meanings:
-  - definition: bórító ajánlszöveg
+  translations:
+    hu:
+      definitions:
+      - text: bórító ajánlszöveg
+        quality: 3
   source: mix
 - word: flard
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: cafat
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: cafat
+        quality: 3
+    en:
+      definitions:
+      - text: bit, piece
+        quality: 5
+      - text: shred, tatter
+        quality: 5
   source: na de bevrijding
 - word: flauwvallen
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: elájul
-    examples:
-    - nl: zij valt flauw
-      hu: elájul
+  ipa: /ˈflɑu̯vɑlə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: elájul
+        quality: 3
+      examples:
+      - nl: zij valt flauw
+        tr: elájul
+    en:
+      definitions:
+      - text: to faint
+        quality: 5
   source: kattenoog
 - word: fleurig
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: virágzó, színes
+  ipa: /ˈfløː.rəx/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: virágzó, színes
+        quality: 3
+    en:
+      definitions:
+      - text: blooming, lavish
+        quality: 5
+      - text: cheerful
+        quality: 5
   source: bepaalde dag in het leven van idereen
 - word: flexibel
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: színvonalú
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: színvonalú
+        quality: 2
+    en:
+      definitions:
+      - text: flexible, pliable
+        quality: 5
+      - text: adaptable, flexible
+        quality: 5
+      - text: easygoing, approachable
+        quality: 5
   source: wiktionary-frequency
 - word: flexibiliteit
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: rugalmasság
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: rugalmasság
+        quality: 3
+    en:
+      definitions:
+      - text: flexibility
+        quality: 5
   source: contract
 - word: flikflooien
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hízeleg
+  ipa: /ˈflɪkfloːi̯ə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: hízeleg
+        quality: 3
+    en:
+      definitions:
+      - text: to butter up, flatter hoping for profit in return
+        quality: 5
+      - text: to practice flattery, sycophancy
+        quality: 5
+      - text: to resort to dubious methods or ploys
+        quality: 5
   source: buitenstander
 - word: flikken
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: sikeresen szállít
-    examples:
-    - nl: kunst is iets wat je ongestraft kunt flikken
-      hu: a művészet olyan dolog, amelyet büntetlenül űzhetsz
-    - nl: dat heeft hij neetjes geflikt
-      hu: remekül sikerült neki
+  ipa: /ˈflɪkə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: sikeresen szállít
+        quality: 3
+      examples:
+      - nl: kunst is iets wat je ongestraft kunt flikken
+        tr: a művészet olyan dolog, amelyet büntetlenül űzhetsz
+      - nl: dat heeft hij neetjes geflikt
+        tr: remekül sikerült neki
+    en:
+      definitions:
+      - text: to do, to pull off
+        quality: 5
+      - text: plural of flik
+        quality: 5
   source: kattenoog
 - word: flits
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: vaku
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: vaku
+        quality: 3
+    en:
+      definitions:
+      - text: a flash; (figuratively) an instant
+        quality: 5
+      - text: lightning bolt
+        quality: 5
+      - text: brief but intense radiation from a flashtube
+        quality: 5
+      - text: short television or radio reportage
+        quality: 5
+      - text: 'inflection of flitsen:'
+        quality: 5
   source: kattenoog
 - word: fluiten
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: sípolni
+  ipa: /ˈflœy̯tə(n)/
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: sípolni
+        quality: 3
+    en:
+      definitions:
+      - text: to whistle
+        quality: 5
+      - text: to make any similar sound, as a passing bullet
+        quality: 5
+      - text: to referee
+        quality: 5
+      - text: plural of fluit
+        quality: 5
   source: bepaalde dag in het leven van idereen
 - word: fodor
   ipa: ''
   pos: ''
-  meanings:
-  - definition: legjobbak
+  translations:
+    hu:
+      definitions:
+      - text: legjobbak
+        quality: 2
   source: wiktionary-frequency
 - word: foedraal
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tokk, táska
+  translations:
+    hu:
+      definitions:
+      - text: tokk, táska
+        quality: 3
   source: de pauw - werk
 - word: foeteren over iets
   ipa: ''
   pos: ''
-  meanings:
-  - definition: morogni vmin, elégedetlenkedni
-    examples:
-    - nl: dat interessert me allemaal geen zier
-      hu: egyáltalán nem érdekel az engem
+  translations:
+    hu:
+      definitions:
+      - text: morogni vmin, elégedetlenkedni
+        quality: 3
+      examples:
+      - nl: dat interessert me allemaal geen zier
+        tr: egyáltalán nem érdekel az engem
   source: na de aardbeveging
   expression_of: foeteren
 - word: fondsen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: hírű
+  translations:
+    hu:
+      definitions:
+      - text: hírű
+        quality: 2
   source: wiktionary-frequency
 - word: fondsenwerver
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tőkebefektetés kereső
-    english: fundraiser
+  translations:
+    hu:
+      definitions:
+      - text: tőkebefektetés kereső
+        quality: 3
+        english_hint: fundraiser
   source: buitenstander
 - word: fonkeling
   ipa: ''
   pos: ''
-  meanings:
-  - definition: szikra
+  translations:
+    hu:
+      definitions:
+      - text: szikra
+        quality: 3
   source: bepaalde dag in het leven van idereen
 - word: fooi
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: borravaló
+  ipa: /foːj/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: borravaló
+        quality: 3
+    en:
+      definitions:
+      - text: a gift of money (often for people such as artists and beggars in places like city centers)
+        quality: 5
+      - text: a tip, a gratuity (a small amount of money left for a bartender or servant as a token of appreciation)
+        quality: 5
   source: het diner
 - word: forfaitaire
   ipa: ''
   pos: ''
-  meanings:
-  - definition: általány
+  translations:
+    hu:
+      definitions:
+      - text: általány
+        quality: 3
   source: contract
 - word: forint
   ipa: ''
   pos: ''
-  meanings:
-  - definition: forint
+  translations:
+    hu:
+      definitions:
+      - text: forint
+        quality: 2
   source: wiktionary-frequency
 - word: forintra
   ipa: ''
   pos: ''
-  meanings:
-  - definition: kezdenek
+  translations:
+    hu:
+      definitions:
+      - text: kezdenek
+        quality: 2
   source: wiktionary-frequency
 - word: formaat
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: méretű
+  ipa: /fɔrˈmaːt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: méretű
+        quality: 2
+    en:
+      definitions:
+      - text: size
+        quality: 5
+      - text: stature, importance
+        quality: 5
+      - text: format
+        quality: 5
   source: wiktionary-frequency
 - word: formai
   ipa: ''
   pos: ''
-  meanings:
-  - definition: csendben
+  translations:
+    hu:
+      definitions:
+      - text: csendben
+        quality: 2
   source: wiktionary-frequency
 - word: formeel
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: jelentések
+  ipa: /fɔrˈmeːl/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: jelentések
+        quality: 2
+    en:
+      definitions:
+      - text: formal
+        quality: 5
+      - text: formally
+        quality: 5
   source: wiktionary-frequency
 - word: formuleert
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: nemrég
+  pos: verb
+  translations:
+    hu:
+      definitions:
+      - text: nemrég
+        quality: 2
+    en:
+      definitions:
+      - text: 'inflection of formuleren:'
+        quality: 5
+      - text: second/third-person singular present indicative
+        quality: 5
+      - text: 'inflection of formuleren:'
+        quality: 5
+      - text: plural imperative
+        quality: 5
   source: wiktionary-frequency
 - word: fornuis
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: tűzhely
+  ipa: /fɔrˈnœy̯s/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: tűzhely
+        quality: 3
+    en:
+      definitions:
+      - text: cooker, stove (kitchen appliance consisting of a cooktop and an oven)
+        quality: 5
   source: de pauw - werk
 - word: forum
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: fórum
+  ipa: /ˈfoː.rʏm/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: fórum
+        quality: 2
+    en:
+      definitions:
+      - text: forum (ancient Roman marketplace)
+        quality: 5
+      - text: forum (venue, medium, vehicle; general place of exchange)
+        quality: 5
+      - text: Internet forum
+        quality: 5
   source: wiktionary-frequency
 - word: forums
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: történtek
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: történtek
+        quality: 2
+    en:
+      definitions:
+      - text: plural of forum
+        quality: 5
   source: wiktionary-frequency
 - word: Foto
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: rájöttem
+  ipa: /ˈfoː.toː/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: rájöttem
+        quality: 2
+    en:
+      definitions:
+      - text: photo, photograph
+        quality: 5
   source: wiktionary-frequency
 - word: foto's
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: ötletet
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: ötletet
+        quality: 2
+    en:
+      definitions:
+      - text: plural of foto
+        quality: 5
   source: wiktionary-frequency
 - word: fout
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: hiba
+  ipa: /fɑu̯t/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: hiba
+        quality: 2
+    en:
+      definitions:
+      - text: error, mistake
+        quality: 5
+      - text: fault, defect
+        quality: 5
+      - text: wrong
+        quality: 5
+      - text: unfashionable, cheesy, inappropriate
+        quality: 5
+      - text: active in or collaborating with far-right movements, especially Nazism
+        quality: 5
   source: wiktionary-frequency
 - word: fouten
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: ügyvezető
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: ügyvezető
+        quality: 2
+    en:
+      definitions:
+      - text: plural of fout
+        quality: 5
   source: wiktionary-frequency
 - word: foutieve werkwoordtijd
   ipa: ''
   pos: ''
-  meanings:
-  - definition: hibás igeidő
+  translations:
+    hu:
+      definitions:
+      - text: hibás igeidő
+        quality: 3
   source: Knack 2
   expression_of: foutieve
 - word: fraai
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: gyönyörű
+  ipa: /fraːi̯/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: gyönyörű
+        quality: 3
+    en:
+      definitions:
+      - text: beautiful, pretty, handsome
+        quality: 5
+      - text: nice, fancy
+        quality: 5
   source: prachtige wereld waar ben je [Sally Rooney]
 - word: frames
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: közszolgálati
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: közszolgálati
+        quality: 2
+    en:
+      definitions:
+      - text: plural of frame
+        quality: 5
   source: wiktionary-frequency
 - word: franc
   ipa: ''
   pos: ''
-  meanings:
-  - definition: szerkesztés
+  translations:
+    hu:
+      definitions:
+      - text: szerkesztés
+        quality: 2
   source: wiktionary-frequency
 - word: Frankrijk
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: alfa
+  ipa: /ˈfrɑŋk.rɛi̯k/
+  pos: name
+  translations:
+    hu:
+      definitions:
+      - text: alfa
+        quality: 2
+    en:
+      definitions:
+      - text: France (a country located primarily in Western Europe)
+        quality: 5
+      - text: a hamlet in Ooststellingwerf, Friesland, Netherlands
+        quality: 5
+      - text: a neighborhood of Harderwijk, Gelderland, Netherlands
+        quality: 5
   source: wiktionary-frequency
 - word: Frans
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: francia
+  ipa: /frɑns/
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: francia
+        quality: 2
+    en:
+      definitions:
+      - text: French
+        quality: 5
+      - text: French (language)
+        quality: 5
+      - text: a male given name, equivalent to English Francis
+        quality: 5
   source: wiktionary-frequency
 - word: frequentie
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: morális
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: morális
+        quality: 2
+    en:
+      definitions:
+      - text: frequency (rate of occurrence of anything)
+        quality: 5
+      - text: frequency, measure of pulsation as in (radio) waves
+        quality: 5
   source: wiktionary-frequency
 - word: frons
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: ránc
+  ipa: /frɔns/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: ránc
+        quality: 3
+    en:
+      definitions:
+      - text: a frown, a furrow of one's eyebrows or forehead
+        quality: 5
   source: de pauw - werk
 - word: fruit
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: vizek
+  ipa: /frœy̯t/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: vizek
+        quality: 2
+    en:
+      definitions:
+      - text: fruit (produced by trees or bushes, or any sweet vegetable; only literal sense)
+        quality: 5
+      - text: 'inflection of fruiten:'
+        quality: 5
+      - text: first/second/third-person singular present indicative
+        quality: 5
+      - text: imperative
+        quality: 5
   source: wiktionary-frequency
 - word: ft / db
   ipa: ''
   pos: ''
-  meanings:
-  - definition: ft/db
+  translations:
+    hu:
+      definitions:
+      - text: ft/db
+        quality: 2
   source: wiktionary-frequency
   expression_of: ft
 - word: functie
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: amin
+  ipa: /ˈfʏŋk.(t)si/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: amin
+        quality: 2
+    en:
+      definitions:
+      - text: job, position
+        quality: 5
+      - text: function, purpose
+        quality: 5
+      - text: function
+        quality: 5
+      - text: function
+        quality: 5
+      - text: function
+        quality: 5
   source: wiktionary-frequency
 - word: functies
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: győri
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: győri
+        quality: 2
+    en:
+      definitions:
+      - text: plural of functie
+        quality: 5
   source: wiktionary-frequency
 - word: functioneel
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: ebéd
+  pos: adv
+  translations:
+    hu:
+      definitions:
+      - text: ebéd
+        quality: 2
+    en:
+      definitions:
+      - text: functionally
+        quality: 5
+      - text: functional
+        quality: 5
   source: wiktionary-frequency
 - word: fundament
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: alapítvány
+  ipa: /ˌfʏn.daːˌmɛnt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: alapítvány
+        quality: 2
+    en:
+      definitions:
+      - text: basis
+        quality: 5
+      - text: foundation, basis
+        quality: 5
   source: wiktionary-frequency
 - word: fungeren als
   ipa: ''
   pos: ''
-  meanings:
-  - definition: vmikép funkcionál
-    examples:
-    - nl: zij fungeert voorlopig als voorzitter
-      hu: jelenleg elnökként dolgozik
+  translations:
+    hu:
+      definitions:
+      - text: vmikép funkcionál
+        quality: 3
+      examples:
+      - nl: zij fungeert voorlopig als voorzitter
+        tr: jelenleg elnökként dolgozik
   source: de heks van Portobello
   expression_of: fungeren
 - word: fut
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: energia, elevenség
+  ipa: /fʏt/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: energia, elevenség
+        quality: 3
+    en:
+      definitions:
+      - text: vim, energy, pep, vitality
+        quality: 5
   source: het diner
 - word: futloss
   ipa: ''
   pos: ''
-  meanings:
-  - definition: elmosódott
+  translations:
+    hu:
+      definitions:
+      - text: elmosódott
+        quality: 3
   source: pogingen iets van het leven te maken
 - word: fysica
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: fehér
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: fehér
+        quality: 2
+    en:
+      definitions:
+      - text: physics (branch of science)
+        quality: 5
   source: wiktionary-frequency
 - word: fysiek
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: fizikai
+  pos: adj
+  translations:
+    hu:
+      definitions:
+      - text: fizikai
+        quality: 2
+    en:
+      definitions:
+      - text: physical (in the sense of Physical Education)
+        quality: 5
   source: wiktionary-frequency
 - word: geen fut hebben on iets te doen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: nincs erőm vlmit csinálni
+  translations:
+    hu:
+      definitions:
+      - text: nincs erőm vlmit csinálni
+        quality: 3
   source: het diner
   expression_of: fut
 - word: in de fik staan
   ipa: ''
   pos: ''
-  meanings:
-  - definition: lángban áll
+  translations:
+    hu:
+      definitions:
+      - text: lángban áll
+        quality: 3
   source: het diner
   expression_of: fik
 - word: in de fik staken
   ipa: ''
   pos: ''
-  meanings:
-  - definition: tűzben borít
+  translations:
+    hu:
+      definitions:
+      - text: tűzben borít
+        quality: 3
   source: het diner
   expression_of: fik
 - word: in de fleur
   ipa: ''
   pos: ''
-  meanings:
-  - definition: virágzásban (átvit. ért. is)
+  translations:
+    hu:
+      definitions:
+      - text: virágzásban (átvit. ért. is)
+        quality: 3
   source: na de bevrijding
   expression_of: fleur
 - word: in een flits
   ipa: ''
   pos: ''
-  meanings:
-  - definition: villámgyorsan
+  translations:
+    hu:
+      definitions:
+      - text: villámgyorsan
+        quality: 3
   source: kattenoog
   expression_of: flits
 - word: in feite
   ipa: ''
-  pos: ''
-  meanings:
-  - definition: sőt
+  pos: prep_phrase
+  translations:
+    hu:
+      definitions:
+      - text: sőt
+        quality: 2
+    en:
+      definitions:
+      - text: in fact
+        quality: 5
   source: wiktionary-frequency
   expression_of: feite
 - word: in focus
   ipa: ''
   pos: ''
-  meanings:
-  - definition: találkozót
+  translations:
+    hu:
+      definitions:
+      - text: találkozót
+        quality: 2
   source: wiktionary-frequency
   expression_of: focus
 - word: In Frankrijk
   ipa: ''
   pos: ''
-  meanings:
-  - definition: elfogadják
+  translations:
+    hu:
+      definitions:
+      - text: elfogadják
+        quality: 2
   source: wiktionary-frequency
   expression_of: frankrijk
 - word: met een foto
   ipa: ''
   pos: ''
-  meanings:
-  - definition: menedzser
+  translations:
+    hu:
+      definitions:
+      - text: menedzser
+        quality: 2
   source: wiktionary-frequency
   expression_of: foto
 - word: naar het forum
   ipa: ''
   pos: ''
-  meanings:
-  - definition: beszélünk
+  translations:
+    hu:
+      definitions:
+      - text: beszélünk
+        quality: 2
   source: wiktionary-frequency
   expression_of: forum
 - word: op de foto
   ipa: ''
   pos: ''
-  meanings:
-  - definition: vékony
+  translations:
+    hu:
+      definitions:
+      - text: vékony
+        quality: 2
   source: wiktionary-frequency
   expression_of: foto
 - word: zich futloos voelen
   ipa: ''
   pos: ''
-  meanings:
-  - definition: szarul érezni magát
+  translations:
+    hu:
+      definitions:
+      - text: szarul érezni magát
+        quality: 3
   source: pogingen iets van het leven te maken
   expression_of: futloos

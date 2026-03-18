@@ -1,6 +1,13 @@
 - word: quatsch
-  ipa: ''
-  pos: ''
-  meanings:
-  - definition: baromság
+  ipa: /kʋɑtʃ/
+  pos: noun
+  translations:
+    hu:
+      definitions:
+      - text: baromság
+        quality: 3
+    en:
+      definitions:
+      - text: nonsense
+        quality: 5
   source: mondeling

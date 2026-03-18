@@ -1,10 +1,10 @@
 """
-Web server for the Dutch-Hungarian dictionary.
+Web server for the multilingual Dutch dictionary.
 
 Provides a UI for searching, browsing, and adding words.
 
 Usage:
-    venv/bin/python src/server.py
+    cd src && ../venv/bin/python server.py
 """
 
 import os
@@ -45,15 +45,23 @@ def load_dictionary():
 
 
 def get_stats():
-    """Count total words and expressions."""
+    """Count total words, expressions, and language coverage."""
     total = 0
     expressions = 0
+    langs = {}
     for entries in dictionary.values():
         for entry in entries:
             total += 1
             if 'expression_of' in entry:
                 expressions += 1
-    return {'total': total, 'words': total - expressions, 'expressions': expressions}
+            for lang in entry.get('translations', {}):
+                langs[lang] = langs.get(lang, 0) + 1
+    return {
+        'total': total,
+        'words': total - expressions,
+        'expressions': expressions,
+        'languages': langs,
+    }
 
 
 def get_word_index():
@@ -75,6 +83,39 @@ def save_letter(letter):
             sort_keys=False,
             width=120,
         )
+
+
+def convert_old_entry_to_new(entry, source):
+    """Convert an old-format import entry to the new multilingual format."""
+    hu_defs = []
+    hu_examples = []
+    for meaning in entry.get('meanings', []):
+        defn = meaning.get('definition', '')
+        if defn:
+            hu_def = {'text': defn, 'quality': 3}
+            if meaning.get('english'):
+                hu_def['english_hint'] = meaning['english']
+            hu_defs.append(hu_def)
+        for ex in meaning.get('examples', []):
+            hu_examples.append({'nl': ex.get('nl', ''), 'tr': ex.get('hu', '')})
+
+    translations = {}
+    if hu_defs:
+        hu_trans = {'definitions': hu_defs}
+        if hu_examples:
+            hu_trans['examples'] = hu_examples
+        translations['hu'] = hu_trans
+
+    new_entry = {
+        'word': entry['word'],
+        'ipa': entry.get('ipa', ''),
+        'pos': entry.get('pos', ''),
+        'translations': translations,
+        'source': source,
+    }
+    if 'expression_of' in entry:
+        new_entry['expression_of'] = entry['expression_of']
+    return new_entry
 
 
 # --- Routes ---
@@ -105,11 +146,14 @@ def search():
             # Match on word
             if query in entry['word'].lower():
                 matched = True
-            # Match on definitions
+            # Match on translations
             if not matched:
-                for m in entry['meanings']:
-                    if query in m.get('definition', '').lower():
-                        matched = True
+                for lang, trans in entry.get('translations', {}).items():
+                    for d in trans.get('definitions', []):
+                        if query in d.get('text', '').lower():
+                            matched = True
+                            break
+                    if matched:
                         break
             if matched:
                 seen.add(id(entry))
@@ -132,17 +176,17 @@ def import_words():
     if not text.strip():
         return jsonify({'error': 'No text provided'}), 400
 
-    # Write to temp file and parse
+    # Write to temp file and parse (old format)
     with tempfile.NamedTemporaryFile(mode='w', suffix='.txt', delete=False, encoding='utf-8') as f:
         f.write(text)
         tmpfile = f.name
 
     try:
-        new_entries = parse_file(tmpfile, source_name=source)
+        old_entries = parse_file(tmpfile, source_name=source)
     finally:
         os.unlink(tmpfile)
 
-    if not new_entries:
+    if not old_entries:
         return jsonify({'added': 0, 'skipped': 0, 'message': 'No valid words found in input.'})
 
     existing_words = get_word_index()
@@ -150,15 +194,16 @@ def import_words():
     skipped = 0
     updated_letters = set()
 
-    for entry in new_entries:
-        if entry['word'].lower() in existing_words:
+    for old_entry in old_entries:
+        if old_entry['word'].lower() in existing_words:
             skipped += 1
             continue
-        letter = letter_for_entry(entry)
+        new_entry = convert_old_entry_to_new(old_entry, source)
+        letter = letter_for_entry(new_entry)
         if letter not in dictionary:
             dictionary[letter] = []
-        dictionary[letter].append(entry)
-        existing_words.add(entry['word'].lower())
+        dictionary[letter].append(new_entry)
+        existing_words.add(new_entry['word'].lower())
         updated_letters.add(letter)
         added += 1
 
@@ -177,7 +222,7 @@ def import_words():
 def download():
     mobi_path = os.path.join(PROJECT_ROOT, 'dict.mobi')
     if os.path.exists(mobi_path):
-        return send_file(mobi_path, as_attachment=True, download_name='nl-hu-dictionary.mobi')
+        return send_file(mobi_path, as_attachment=True, download_name='nl-dictionary.mobi')
     return jsonify({'error': 'Dictionary file not found. Run generate.py first.'}), 404
 
 
@@ -185,6 +230,7 @@ def download():
 
 if __name__ == '__main__':
     load_dictionary()
-    stats = get_stats()
-    print(f'Dictionary loaded: {stats["total"]} entries ({stats["words"]} words, {stats["expressions"]} expressions)')
+    s = get_stats()
+    print(f'Dictionary loaded: {s["total"]} entries ({s["words"]} words, {s["expressions"]} expressions)')
+    print(f'Languages: {s["languages"]}')
     app.run(debug=True, port=5333)

@@ -1,6 +1,9 @@
 - word: Árpád
   ipa: ''
   pos: ''
-  meanings:
-  - definition: access
+  translations:
+    hu:
+      definitions:
+      - text: access
+        quality: 2
   source: wiktionary-frequency
