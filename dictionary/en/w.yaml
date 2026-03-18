@@ -1,0 +1,19 @@
+- word: waiver
+  ipa: ''
+  pos: ''
+  translations:
+    hu:
+      definitions:
+      - text: lemondás
+        quality: 3
+  source: english-contracts
+- word: Without limiting the foregoing
+  ipa: ''
+  pos: ''
+  translations:
+    hu:
+      definitions:
+      - text: A fentiek korlátozása nélkül
+        quality: 3
+  source: english-contracts
+  expression_of: without

@@ -1,14 +1,15 @@
 """
-Import new words from words/ into the structured YAML dictionary.
+Import new words into the structured YAML dictionary.
 
-- Parses plain-text word files from words/
-- Merges new entries into existing dictionary/*.yaml files
+- Parses plain-text word files (word - translation format)
+- Merges new entries into existing dictionary/<lang>/*.yaml files
 - Skips words that already exist in the dictionary
-- Preserves all manual edits (IPA, pos, meanings, etc.)
+- Preserves all manual edits
 
 Usage:
-    python src/migrate.py                  # import all files from words/
-    python src/migrate.py words/new-book   # import a specific file
+    python src/migrate.py                       # import all from words/ into nl
+    python src/migrate.py words/new-book        # import a specific file into nl
+    python src/migrate.py --lang en words/file  # import into English dictionary
 """
 
 import os
@@ -19,8 +20,8 @@ from functools import reduce
 from collections import defaultdict
 
 
-def parse_file(filename, source_name):
-    """Parse a legacy word file into structured dictionary entries."""
+def parse_file(filename, source_name, target_lang='hu'):
+    """Parse a word file into structured dictionary entries."""
     # Try utf-8 first, fall back to latin-1
     for enc in ['utf-8', 'latin-1']:
         try:
@@ -36,7 +37,7 @@ def parse_file(filename, source_name):
         if line == '' or line.startswith('#'):
             continue
 
-        # Check if this is an example line: [dutch - hungarian] or <dutch - hungarian> or (e.g. ...)
+        # Check if this is an example line: [word - translation] or <...> or (e.g. ...)
         is_example = line.startswith('[') and line.endswith(']')
         if is_example:
             line = line.strip('[]')
@@ -52,10 +53,9 @@ def parse_file(filename, source_name):
             line = line.strip('()')
             line = re.sub(r'^e\.g\.\s*', '', line)
 
-        # Split on first " - " to separate nl and hu
+        # Split on first " - " to separate source and target
         ws = line.split(' - ', 1)
         if len(ws) < 2:
-            # Try splitting on just "-" as fallback
             ws = line.split('-')
             if len(ws) > 2:
                 wsr = [ws[0], reduce(lambda a, b: a + '-' + b, ws[1:])]
@@ -66,103 +66,103 @@ def parse_file(filename, source_name):
         if len(ws) < 2 or ws[0] == '' or ws[1] == '':
             continue
 
-        nl_text = ws[0]
-        hu_text = ws[1]
+        src_text = ws[0]
+        tgt_text = ws[1]
 
         if is_example:
-            # Attach example to the last entry's Hungarian translation
+            # Attach example to the last entry
             if entries:
-                hu_trans = entries[-1]['translations'].get('hu', {})
-                if 'examples' not in hu_trans:
-                    hu_trans['examples'] = []
-                hu_trans['examples'].append({
-                    'nl': nl_text,
-                    'tr': hu_text,
+                trans = entries[-1]['translations'].get(target_lang, {})
+                if 'examples' not in trans:
+                    trans['examples'] = []
+                trans['examples'].append({
+                    'nl': src_text,
+                    'tr': tgt_text,
                 })
             continue
 
         # Extract <english> hint if present
-        english_match = re.search(r'<(.+?)>\s*$', hu_text)
+        english_match = re.search(r'<(.+?)>\s*$', tgt_text)
         english_hint = None
         if english_match:
             english_hint = english_match.group(1)
-            hu_text = hu_text[:english_match.start()].strip()
-            hu_text = hu_text.rstrip(',').strip()
+            tgt_text = tgt_text[:english_match.start()].strip()
+            tgt_text = tgt_text.rstrip(',').strip()
 
         # Build multilingual entry
-        hu_def = {'text': hu_text, 'quality': 3}
+        tgt_def = {'text': tgt_text, 'quality': 3}
         if english_hint:
-            hu_def['english_hint'] = english_hint
+            tgt_def['english_hint'] = english_hint
 
         entry = {
-            'word': nl_text,
+            'word': src_text,
             'ipa': '',
             'pos': '',
             'translations': {
-                'hu': {
-                    'definitions': [hu_def],
+                target_lang: {
+                    'definitions': [tgt_def],
                 },
             },
             'source': source_name,
         }
 
-        if is_expression(nl_text):
-            entry['expression_of'] = find_key_word(nl_text)
+        if is_expression(src_text):
+            entry['expression_of'] = find_key_word(src_text)
 
         entries.append(entry)
 
     return entries
 
 
-# Dutch function words to skip when finding the key word of an expression
-DUTCH_STOP_WORDS = {
-    # articles
+# Common function words to skip when finding the key word of an expression
+STOP_WORDS = {
+    # Dutch
     'de', 'het', 'een',
-    # prepositions
     'aan', 'bij', 'door', 'in', 'met', 'na', 'naar', 'om', 'op', 'over',
     'per', 'te', 'tot', 'uit', 'van', 'via', 'voor', 'zonder', 'tegen',
     'onder', 'tussen', 'langs', 'rond', 'rondom', 'sinds', 'tijdens',
-    # pronouns
     'je', 'jij', 'hij', 'zij', 'ze', 'wij', 'we', 'ik', 'me', 'mij',
     'zich', 'zijn', 'haar', 'hun', 'ons', 'dit', 'dat', 'deze', 'die',
     'wat', 'wie', 'welk', 'welke', 'iets', 'niets', 'iemand', 'niemand',
     'elkaar', 'zichzelf',
-    # conjunctions / adverbs
     'en', 'of', 'maar', 'want', 'dus', 'als', 'dan', 'nog', 'al', 'ook',
     'niet', 'geen', 'wel', 'er', 'daar', 'hier', 'waar',
-    # other common function words
     'andere', 'ander', 'alle', 'veel', 'meer', 'hele', 'heel',
     'zo', 'te', 'ten',
+    # English
+    'the', 'a', 'an', 'of', 'to', 'in', 'on', 'at', 'by', 'for', 'with',
+    'from', 'is', 'are', 'was', 'be', 'been', 'being', 'have', 'has', 'had',
+    'do', 'does', 'did', 'will', 'would', 'shall', 'should', 'may', 'might',
+    'can', 'could', 'must', 'not', 'no', 'nor', 'and', 'but', 'or', 'so',
+    'if', 'that', 'this', 'these', 'those', 'it', 'its', 'my', 'your',
+    'his', 'her', 'our', 'their', 'who', 'whom', 'which', 'what',
 }
 
 
 def find_key_word(phrase):
     """Find the most meaningful word in a multi-word expression."""
     words = phrase.lower().split()
-    # Pick the first non-stop word that starts with a letter
     for w in words:
-        if w not in DUTCH_STOP_WORDS and w[0].isalpha():
+        if w not in STOP_WORDS and w[0].isalpha():
             return w
-    # Fallback: last word
     return words[-1]
 
 
 def is_expression(word):
     """Check if an entry is a multi-word expression rather than a single word."""
     words = word.strip().split()
-    # Filter out articles + noun (e.g. "het ventiel" = single word with article)
-    if len(words) == 2 and words[0] in ('de', 'het', 'een'):
+    # Filter out articles + noun
+    if len(words) == 2 and words[0].lower() in ('de', 'het', 'een', 'the', 'a', 'an'):
         return False
     return len(words) > 1
 
 
 def first_letter(word):
-    """Get the first letter of a word, normalized to lowercase a-z."""
+    """Get the first letter of a word, normalized to lowercase."""
     w = word.lower().strip()
     for ch in w:
         if ch.isalpha():
             return ch
-    # For entries starting with digits, find the key word's letter
     words = w.split()
     for word in words:
         for ch in word:
@@ -176,6 +176,18 @@ def letter_for_entry(entry):
     if 'expression_of' in entry:
         return first_letter(entry['expression_of'])
     return first_letter(entry['word'])
+
+
+def save_yaml(entries, filepath):
+    """Write entries to a YAML file."""
+    with open(filepath, 'w', encoding='utf-8') as f:
+        yaml.dump(
+            entries, f,
+            allow_unicode=True,
+            default_flow_style=False,
+            sort_keys=False,
+            width=120,
+        )
 
 
 def load_existing_dictionary(dict_dir):
@@ -204,16 +216,16 @@ def build_word_index(by_letter):
     return existing
 
 
-def migrate(files=None):
+def migrate(files=None, lang='nl', target_lang='hu'):
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     words_dir = os.path.join(project_root, 'words')
-    dict_dir = os.path.join(project_root, 'dictionary')
+    dict_dir = os.path.join(project_root, 'dictionary', lang)
     os.makedirs(dict_dir, exist_ok=True)
 
     # Load existing dictionary
     by_letter = load_existing_dictionary(dict_dir)
     existing_words = build_word_index(by_letter)
-    print(f'Existing dictionary: {len(existing_words)} words')
+    print(f'Existing {lang} dictionary: {len(existing_words)} words')
 
     # Determine which files to import
     if files:
@@ -231,7 +243,7 @@ def migrate(files=None):
     skipped = 0
     for filepath in file_list:
         source_name = os.path.basename(filepath)
-        entries = parse_file(filepath, source_name)
+        entries = parse_file(filepath, source_name, target_lang=target_lang)
         file_new = 0
         file_skipped = 0
         for entry in entries:
@@ -263,40 +275,41 @@ def migrate(files=None):
     for letter in sorted(updated_letters):
         entries = by_letter[letter]
         entries.sort(key=lambda e: e['word'].lower())
-        outfile = os.path.join(dict_dir, f'{letter}.yaml')
-        with open(outfile, 'w', encoding='utf-8') as f:
-            yaml.dump(
-                entries,
-                f,
-                allow_unicode=True,
-                default_flow_style=False,
-                sort_keys=False,
-                width=120,
-            )
+        save_yaml(entries, os.path.join(dict_dir, f'{letter}.yaml'))
         print(f'  Updated {letter}.yaml: {len(entries)} entries')
 
-    # Write/update meta.yaml if it doesn't exist
+    # Write meta.yaml if it doesn't exist
     meta_path = os.path.join(dict_dir, 'meta.yaml')
     if not os.path.exists(meta_path):
         meta = {
-            'source_language': 'nl',
-            'target_language': 'hu',
-            'title': 'Nederlands-Hongaars Woordenschat',
+            'language': lang,
+            'title': f'{lang} Multilingual Dictionary',
             'author': 'Gabor Monostori',
-            'version': 1.0,
+            'version': 2.0,
         }
         with open(meta_path, 'w', encoding='utf-8') as f:
             yaml.dump(meta, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
 
     total = sum(len(entries) for entries in by_letter.values())
     print(f'\nDone. Added {len(new_entries)} new words, skipped {skipped} duplicates.')
-    print(f'Dictionary total: {total} words')
+    print(f'{lang} dictionary total: {total} words')
 
 
 if __name__ == '__main__':
-    if len(sys.argv) > 1:
-        # Import specific files
-        files = [os.path.abspath(f) for f in sys.argv[1:]]
-        migrate(files)
+    # Parse --lang flag
+    args = sys.argv[1:]
+    lang = 'nl'
+    target_lang = 'hu'
+    if '--lang' in args:
+        idx = args.index('--lang')
+        lang = args[idx + 1]
+        args = args[:idx] + args[idx + 2:]
+        # Default target language based on source
+        if lang == 'en':
+            target_lang = 'hu'
+
+    if args:
+        files = [os.path.abspath(f) for f in args]
+        migrate(files, lang=lang, target_lang=target_lang)
     else:
-        migrate()
+        migrate(lang=lang, target_lang=target_lang)

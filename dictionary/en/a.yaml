@@ -1,0 +1,10 @@
+- word: As allowance for Contractor’s admittance to the MSP Program
+  ipa: ''
+  pos: ''
+  translations:
+    hu:
+      definitions:
+      - text: A Vállalkozónak az MSP programba való felvételére vonatkozó hozzájárulásként
+        quality: 3
+  source: english-contracts
+  expression_of: as

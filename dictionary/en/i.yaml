@@ -1,0 +1,37 @@
+- word: I shall refrain from any conduct that would adversely reflect on Barco
+  ipa: ''
+  pos: ''
+  translations:
+    hu:
+      definitions:
+      - text: Tartózkodni fogok minden olyan magatartástól, amely hátrányosan befolyásolná a Barcót
+        quality: 3
+  source: english-contracts
+  expression_of: i
+- word: indemnification
+  ipa: ''
+  pos: ''
+  translations:
+    hu:
+      definitions:
+      - text: kártalanítás
+        quality: 3
+  source: english-contracts
+- word: indemnify
+  ipa: ''
+  pos: ''
+  translations:
+    hu:
+      definitions:
+      - text: kártalanítja
+        quality: 3
+  source: english-contracts
+- word: irrespective
+  ipa: ''
+  pos: ''
+  translations:
+    hu:
+      definitions:
+      - text: függetlenül
+        quality: 3
+  source: english-contracts

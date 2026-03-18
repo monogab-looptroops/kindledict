@@ -3,31 +3,38 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Dutch Multilingual Dictionary</title>
+  <title>Multilingual Dictionary</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f5; color: #222; }
 
     .header {
-      background: #fff;
-      border-bottom: 2px solid #222;
-      padding: 16px 24px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      gap: 12px;
+      background: #fff; border-bottom: 2px solid #222; padding: 16px 24px;
+      display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px;
     }
     .header h1 { font-size: 1.3rem; font-weight: 600; }
-    .header .stats { display: flex; gap: 16px; align-items: center; font-size: 0.9rem; color: #555; flex-wrap: wrap; }
-    .header .stats span { font-weight: 600; color: #222; }
-    .header .download-btn {
+    .header .right { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+    .download-btn {
       background: #222; color: #fff; border: none; padding: 8px 16px; font-size: 0.9rem; cursor: pointer;
     }
-    .header .download-btn:hover { background: #444; }
+    .download-btn:hover { background: #444; }
 
     .container { max-width: 900px; margin: 0 auto; padding: 24px; }
 
+    /* Stats */
+    .stats-bar {
+      display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 20px;
+      font-size: 0.9rem; color: #555;
+    }
+    .stat-lang {
+      background: #fff; border: 1px solid #ddd; padding: 8px 14px; border-radius: 4px;
+      cursor: pointer;
+    }
+    .stat-lang:hover { border-color: #888; }
+    .stat-lang.active { border-color: #222; font-weight: 600; }
+    .stat-lang .count { font-weight: 600; color: #222; }
+
+    /* Search */
     .search-section { margin-bottom: 24px; }
     .search-box { display: flex; gap: 8px; }
     .search-box input {
@@ -39,6 +46,7 @@
     }
     .search-box button:hover { background: #444; }
 
+    /* Results */
     .results {
       background: #fff; border: 2px solid #222; min-height: 200px; max-height: 600px;
       overflow-y: auto; padding: 16px; margin-bottom: 24px;
@@ -50,6 +58,9 @@
 
     .result-header { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; margin-bottom: 6px; }
     .result-word { font-weight: 700; font-size: 1.15rem; }
+    .result-dict-lang {
+      font-size: 0.75rem; color: #fff; background: #555; padding: 1px 5px; border-radius: 3px;
+    }
     .result-ipa { font-size: 0.85rem; color: #666; }
     .result-pos { font-size: 0.8rem; color: #fff; background: #888; padding: 1px 6px; border-radius: 3px; }
     .result-expression-of { font-size: 0.8rem; color: #888; }
@@ -61,22 +72,21 @@
     .lang-def-hint { color: #999; font-size: 0.8rem; }
 
     .quality-dots { display: inline-flex; gap: 2px; margin-left: 4px; }
-    .quality-dot {
-      width: 6px; height: 6px; border-radius: 50%; background: #ddd; display: inline-block;
-    }
+    .quality-dot { width: 6px; height: 6px; border-radius: 50%; background: #ddd; display: inline-block; }
     .quality-dot.filled { background: #4a4; }
     .quality-dot.filled.low { background: #c93; }
     .quality-dot.filled.vlow { background: #c55; }
 
-    .example {
-      margin: 3px 0 3px 20px; font-size: 0.9rem; color: #666; font-style: italic;
-    }
-
+    .example { margin: 3px 0 3px 20px; font-size: 0.9rem; color: #666; font-style: italic; }
     .result-source { font-size: 0.75rem; color: #aaa; margin-top: 4px; margin-left: 12px; }
 
+    /* Add words */
     .add-section h2 { font-size: 1.1rem; margin-bottom: 12px; font-weight: 600; }
-    .add-source { display: flex; gap: 8px; align-items: center; margin-bottom: 8px; font-size: 0.9rem; }
-    .add-source input { padding: 6px 10px; border: 2px solid #222; font-size: 0.9rem; width: 250px; }
+    .add-row { display: flex; gap: 8px; align-items: center; margin-bottom: 8px; font-size: 0.9rem; flex-wrap: wrap; }
+    .add-row label { min-width: 50px; }
+    .add-row input, .add-row select {
+      padding: 6px 10px; border: 2px solid #222; font-size: 0.9rem;
+    }
     .add-textarea {
       width: 100%; min-height: 200px; padding: 12px;
       font-family: 'SF Mono', 'Fira Code', monospace; font-size: 0.9rem;
@@ -96,19 +106,18 @@
 <body>
 
 <div class="header">
-  <h1>Dutch Multilingual Dictionary</h1>
-  <div class="stats">
-    <div>words: <span id="stat-words">-</span></div>
-    <div>expressions: <span id="stat-expressions">-</span></div>
-    <div id="stat-langs"></div>
+  <h1>Multilingual Dictionary</h1>
+  <div class="right">
     <button class="download-btn" onclick="downloadDict()">Download .mobi</button>
   </div>
 </div>
 
 <div class="container">
+  <div class="stats-bar" id="stats-bar"></div>
+
   <div class="search-section">
     <div class="search-box">
-      <input type="text" id="search-input" placeholder="Search a word or expression..." autofocus>
+      <input type="text" id="search-input" placeholder="Search across all dictionaries..." autofocus>
       <button onclick="doSearch()">Search</button>
     </div>
   </div>
@@ -117,9 +126,21 @@
 
   <div class="add-section">
     <h2>Add new words</h2>
-    <div class="add-source">
+    <div class="add-row">
+      <label for="add-lang">Dict:</label>
+      <select id="add-lang">
+        <option value="nl">Dutch (nl)</option>
+        <option value="en">English (en)</option>
+      </select>
+      <label for="add-target">To:</label>
+      <select id="add-target">
+        <option value="hu">Hungarian (hu)</option>
+        <option value="en">English (en)</option>
+        <option value="nl">Dutch (nl)</option>
+        <option value="es">Spanish (es)</option>
+      </select>
       <label for="source-input">Source:</label>
-      <input type="text" id="source-input" placeholder="e.g. book title, chapter...">
+      <input type="text" id="source-input" placeholder="e.g. book title">
     </div>
     <textarea class="add-textarea" id="add-textarea" placeholder="Paste words here, one per line:
 
@@ -136,24 +157,17 @@ bekommeren - aggódni
 
 <script>
   const LANG_LABELS = {
-    hu: '🇭🇺 Magyar',
-    en: '🇬🇧 English',
-    es: '🇪🇸 Español',
-    nl: '🇳🇱 Nederlands',
-    de: '🇩🇪 Deutsch',
-    fr: '🇫🇷 Français',
+    hu: '🇭🇺 Magyar', en: '🇬🇧 English', es: '🇪🇸 Español',
+    nl: '🇳🇱 Nederlands', de: '🇩🇪 Deutsch', fr: '🇫🇷 Français',
   };
-  // Display order for languages
   const LANG_ORDER = ['hu', 'en', 'es', 'de', 'fr', 'nl'];
+
+  let activeFilter = '';  // empty = all
 
   const searchInput = document.getElementById('search-input');
   const resultsDiv = document.getElementById('results');
-  const addTextarea = document.getElementById('add-textarea');
-  const sourceInput = document.getElementById('source-input');
-  const addMessage = document.getElementById('add-message');
 
   fetchStats();
-
   searchInput.addEventListener('keydown', (e) => { if (e.key === 'Enter') doSearch(); });
   let debounceTimer;
   searchInput.addEventListener('input', () => {
@@ -164,16 +178,40 @@ bekommeren - aggódni
   async function fetchStats() {
     const res = await fetch('/api/stats');
     const data = await res.json();
-    document.getElementById('stat-words').textContent = data.words.toLocaleString();
-    document.getElementById('stat-expressions').textContent = data.expressions.toLocaleString();
-    const langsDiv = document.getElementById('stat-langs');
-    if (data.languages) {
-      const parts = Object.entries(data.languages)
-        .sort((a,b) => b[1] - a[1])
-        .map(([lang, count]) => `${LANG_LABELS[lang] || lang}: ${count.toLocaleString()}`)
-        .join(' · ');
-      langsDiv.textContent = parts;
+    const bar = document.getElementById('stats-bar');
+
+    // "All" button
+    let html = `<div class="stat-lang ${!activeFilter ? 'active' : ''}" onclick="setFilter('')">
+      All: <span class="count">${Object.values(data).reduce((s,d) => s + d.total, 0).toLocaleString()}</span>
+    </div>`;
+
+    for (const [lang, s] of Object.entries(data)) {
+      const label = LANG_LABELS[lang] || lang;
+      const active = activeFilter === lang ? 'active' : '';
+      html += `<div class="stat-lang ${active}" onclick="setFilter('${lang}')">
+        ${label}: <span class="count">${s.total.toLocaleString()}</span>
+        <span style="color:#999; font-size:0.8rem">(${s.expressions} expr)</span>
+      </div>`;
     }
+    bar.innerHTML = html;
+
+    // Update add-lang dropdown with available languages
+    const addLang = document.getElementById('add-lang');
+    const currentVal = addLang.value;
+    addLang.innerHTML = '';
+    for (const lang of Object.keys(data)) {
+      const opt = document.createElement('option');
+      opt.value = lang;
+      opt.textContent = `${LANG_LABELS[lang] || lang} (${lang})`;
+      addLang.appendChild(opt);
+    }
+    addLang.value = currentVal || 'nl';
+  }
+
+  function setFilter(lang) {
+    activeFilter = lang;
+    fetchStats();
+    doSearch();
   }
 
   async function doSearch() {
@@ -183,7 +221,9 @@ bekommeren - aggódni
       resultsDiv.innerHTML = 'Type a word to search';
       return;
     }
-    const res = await fetch(`/api/search?q=${encodeURIComponent(query)}`);
+    let url = `/api/search?q=${encodeURIComponent(query)}`;
+    if (activeFilter) url += `&lang=${activeFilter}`;
+    const res = await fetch(url);
     const entries = await res.json();
     if (entries.length === 0) {
       resultsDiv.className = 'results empty';
@@ -196,29 +236,24 @@ bekommeren - aggódni
 
   function renderEntry(entry) {
     let html = '<div class="result-entry">';
-
-    // Header: word, IPA, POS
     html += '<div class="result-header">';
     html += `<span class="result-word">${esc(entry.word)}</span>`;
+    if (entry._lang) html += `<span class="result-dict-lang">${entry._lang}</span>`;
     if (entry.ipa) html += `<span class="result-ipa">${esc(entry.ipa)}</span>`;
     if (entry.pos) html += `<span class="result-pos">${esc(entry.pos)}</span>`;
     if (entry.expression_of) html += `<span class="result-expression-of">→ ${esc(entry.expression_of)}</span>`;
     html += '</div>';
 
-    // Translations by language
     const translations = entry.translations || {};
     const sortedLangs = LANG_ORDER.filter(l => l in translations);
-    // Add any remaining languages not in LANG_ORDER
     for (const l of Object.keys(translations)) {
       if (!sortedLangs.includes(l)) sortedLangs.push(l);
     }
-
     for (const lang of sortedLangs) {
       const trans = translations[lang];
       const label = LANG_LABELS[lang] || lang;
       html += '<div class="lang-block">';
       html += `<div class="lang-flag">${label}</div>`;
-
       for (const d of (trans.definitions || [])) {
         html += '<div class="lang-def">';
         html += `<span class="lang-def-text">${esc(d.text)}</span>`;
@@ -226,16 +261,12 @@ bekommeren - aggódni
         html += renderQuality(d.quality || 0);
         html += '</div>';
       }
-
       for (const ex of (trans.examples || [])) {
         html += `<div class="example">"${esc(ex.nl)}" — ${esc(ex.tr)}</div>`;
       }
       html += '</div>';
     }
-
-    if (entry.source) {
-      html += `<div class="result-source">source: ${esc(entry.source)}</div>`;
-    }
+    if (entry.source) html += `<div class="result-source">source: ${esc(entry.source)}</div>`;
     html += '</div>';
     return html;
   }
@@ -244,15 +275,10 @@ bekommeren - aggódni
     let html = '<span class="quality-dots" title="quality: ' + q + '/5">';
     for (let i = 1; i <= 5; i++) {
       let cls = 'quality-dot';
-      if (i <= q) {
-        cls += ' filled';
-        if (q <= 1) cls += ' vlow';
-        else if (q <= 2) cls += ' low';
-      }
+      if (i <= q) { cls += ' filled'; if (q <= 1) cls += ' vlow'; else if (q <= 2) cls += ' low'; }
       html += `<span class="${cls}"></span>`;
     }
-    html += '</span>';
-    return html;
+    return html + '</span>';
   }
 
   function esc(str) {
@@ -263,27 +289,30 @@ bekommeren - aggódni
   }
 
   async function importWords() {
-    const text = addTextarea.value.trim();
+    const text = document.getElementById('add-textarea').value.trim();
     if (!text) { showMessage('Please paste some words first.', 'error'); return; }
-    const source = sourceInput.value.trim() || 'web-import';
+    const lang = document.getElementById('add-lang').value;
+    const targetLang = document.getElementById('add-target').value;
+    const source = document.getElementById('source-input').value.trim() || 'web-import';
     const res = await fetch('/api/import', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ text, source }),
+      body: JSON.stringify({ text, source, lang, target_lang: targetLang }),
     });
     const data = await res.json();
     if (data.error) {
       showMessage(data.error, 'error');
     } else {
       showMessage(data.message, 'success');
-      if (data.added > 0) { addTextarea.value = ''; fetchStats(); }
+      if (data.added > 0) { document.getElementById('add-textarea').value = ''; fetchStats(); }
     }
   }
 
   function showMessage(msg, type) {
-    addMessage.textContent = msg;
-    addMessage.className = `message ${type}`;
-    setTimeout(() => { addMessage.textContent = ''; }, 5000);
+    const el = document.getElementById('add-message');
+    el.textContent = msg;
+    el.className = `message ${type}`;
+    setTimeout(() => { el.textContent = ''; }, 5000);
   }
 
   function downloadDict() { window.location.href = '/api/download'; }

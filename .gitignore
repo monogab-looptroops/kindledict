@@ -130,6 +130,7 @@ dmypy.json
 
 # Build artifacts (generated from dictionary/*.yaml)
 content_gen.html
+content_gen_*.html
 content.html
 content2.html
 dict.mobi

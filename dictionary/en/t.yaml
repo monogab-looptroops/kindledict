@@ -1,0 +1,50 @@
+- word: TAPFIN is entitled to an administrative fee
+  ipa: ''
+  pos: ''
+  translations:
+    hu:
+      definitions:
+      - text: A TAPFIN adminisztrációs díjra jogosult
+        quality: 3
+  source: english-contracts
+  expression_of: tapfin
+- word: the contractor shall be solely liable
+  ipa: ''
+  pos: ''
+  translations:
+    hu:
+      definitions:
+      - text: a vállalkozó kizárólagos felelősséggel tartozik
+        quality: 3
+  source: english-contracts
+  expression_of: the
+- word: to administer
+  ipa: ''
+  pos: ''
+  translations:
+    hu:
+      definitions:
+      - text: kezel, felügyel
+        quality: 3
+  source: english-contracts
+  expression_of: to
+- word: to the extent legally permitted
+  ipa: ''
+  pos: ''
+  translations:
+    hu:
+      definitions:
+      - text: jogilag megengedett mértékben
+        quality: 3
+  source: english-contracts
+  expression_of: to
+- word: to undertake
+  ipa: ''
+  pos: ''
+  translations:
+    hu:
+      definitions:
+      - text: vállal, vállalkozik (vmilyen szolgáltatás, munka elvégzésére)
+        quality: 3
+  source: english-contracts
+  expression_of: to
