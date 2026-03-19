@@ -197,24 +197,6 @@
       - text: bemutatására
         quality: 2
   source: wiktionary-frequency
-- word: gas-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: sport
-        quality: 2
-  source: wiktionary-frequency
-- word: Gaspar
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: belga
-        quality: 2
-  source: wiktionary-frequency
 - word: gast
   ipa: /ɣɑst/
   pos: noun
@@ -919,16 +901,6 @@
       - text: singular past subjunctive of gedenken
         quality: 5
   source: wiktionary-frequency
-- word: gedachte - gondoloat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: éles
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: gedachte
 - word: gedachten
   ipa: ''
   pos: noun
@@ -2747,15 +2719,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: georganiseerd
-- word: George
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: György
-        quality: 2
-  source: wiktionary-frequency
 - word: gepensioneerde
   ipa: /ɣəˌpɛn.ʃoːˈneːr.də/
   pos: noun
@@ -2989,15 +2952,6 @@
       definitions:
       - text: past participle of reserveren
         quality: 5
-  source: wiktionary-frequency
-- word: gergely
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szoktak
-        quality: 2
   source: wiktionary-frequency
 - word: gericht op
   ipa: ''
@@ -5789,42 +5743,6 @@
       - text: chillingly cold, rainy and windy
         quality: 5
   source: de pauw - werk
-- word: Gyula
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Balázs
-        quality: 2
-  source: wiktionary-frequency
-- word: Győr
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: évtizedek
-        quality: 2
-  source: wiktionary-frequency
-- word: Gábor
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Gábor
-        quality: 2
-  source: wiktionary-frequency
-- word: Géza
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Péter
-        quality: 2
-  source: wiktionary-frequency
 - word: hij gaat dood
   ipa: ''
   pos: ''

@@ -555,15 +555,6 @@
       - text: conspiracy
         quality: 5
   source: de pauw - werk
-- word: Satan
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: oldaláról
-        quality: 2
-  source: wiktionary-frequency
 - word: satanisme
   ipa: /ˌsaː.taːˈnɪs.mə/
   pos: noun
@@ -1024,16 +1015,6 @@
       - text: in focus, clearly visible, not blurry
         quality: 5
   source: wiktionary-frequency
-- word: scherp - éles
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: valamikor
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: scherp
 - word: schetteren
   ipa: /ˈsxɛ.tə.rə(n)/
   pos: verb
@@ -1273,15 +1254,6 @@
       - text: imperative
         quality: 5
   source: het diner
-- word: school-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: iskola
-        quality: 2
-  source: wiktionary-frequency
 - word: schoolbord
   ipa: ''
   pos: noun
@@ -1833,15 +1805,6 @@
       - text: semester (period of six months)
         quality: 5
   source: wiktionary-frequency
-- word: Sept.
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: törvényt
-        quality: 2
-  source: wiktionary-frequency
 - word: september
   ipa: /sɛpˈtɛm.bər/
   pos: noun
@@ -1997,15 +1960,6 @@
       - text: a film set (filming location)
         quality: 5
   source: wiktionary-frequency
-- word: sg
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: készülékek
-        quality: 2
-  source: wiktionary-frequency
 - word: shit
   ipa: /ʃɪt/
   pos: intj
@@ -2083,15 +2037,6 @@
       definitions:
       - text: significant
         quality: 5
-  source: wiktionary-frequency
-- word: Simon
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: számítástechnikai
-        quality: 2
   source: wiktionary-frequency
 - word: sinds
   ipa: /sɪn(t)s/
@@ -2950,16 +2895,6 @@
       - text: second-person singular present indicative
         quality: 5
   source: wiktionary-frequency
-- word: sms - sms
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: vers
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: sms
 - word: smurrie
   ipa: ''
   pos: noun
@@ -3346,15 +3281,6 @@
       - text: some
         quality: 5
   source: wiktionary-frequency
-- word: Somogy
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Debrecen
-        quality: 2
-  source: wiktionary-frequency
 - word: soms
   ipa: /sɔms/
   pos: adv
@@ -3421,51 +3347,6 @@
       - text: similar
         quality: 5
   source: wiktionary-frequency
-- word: sopron
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: fűződő
-        quality: 2
-  source: wiktionary-frequency
-- word: sora
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: csoportban
-        quality: 2
-  source: wiktionary-frequency
-- word: soron
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: távközlési
-        quality: 2
-  source: wiktionary-frequency
-- word: Soros
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: történetet
-        quality: 2
-  source: wiktionary-frequency
-- word: Sorra
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: következők
-        quality: 2
-  source: wiktionary-frequency
 - word: Sorry
   ipa: /ˈsɔ.ri/
   pos: intj
@@ -3481,15 +3362,6 @@
       - text: sorry, pardon, excuse me
         quality: 5
   source: wiktionary-frequency
-- word: sorsa
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: programmal
-        quality: 2
-  source: wiktionary-frequency
 - word: sorteren
   ipa: /sɔrˈteːrə(n)/
   pos: verb
@@ -3502,15 +3374,6 @@
       definitions:
       - text: to sort
         quality: 5
-  source: wiktionary-frequency
-- word: Sovjet-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: törvényben
-        quality: 2
   source: wiktionary-frequency
 - word: sowieso
   ipa: /ˈzoːʋizoː/
@@ -4054,15 +3917,6 @@
       - text: railway
         quality: 5
   source: de pauw - werk
-- word: sport-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kérdezte
-        quality: 2
-  source: wiktionary-frequency
 - word: sportief
   ipa: /spɔrˈtif/
   pos: adj
@@ -4127,16 +3981,6 @@
       - text: figyelemfelhívó (beszédtémát generáló)
         quality: 3
   source: bepaalde dag in het leven van idereen
-- word: spreadsheet - táblázat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: alkalmazások
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: spreadsheet
 - word: spreekt
   ipa: /spreːkt/
   pos: verb
@@ -4479,15 +4323,6 @@
         quality: 5
       - text: stand (small building or booth)
         quality: 5
-  source: wiktionary-frequency
-- word: standaard-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: időn
-        quality: 2
   source: wiktionary-frequency
 - word: standbeeld
   ipa: /ˈstɑnt.beːlt/
@@ -4904,16 +4739,6 @@
       - text: strong, pertaining to strong nouns, strong declension
         quality: 5
   source: wiktionary-frequency
-- word: sterker - erőssebb
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ezenkívül
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: sterker
 - word: sterkste
   ipa: ''
   pos: adj
@@ -5373,16 +5198,6 @@
       - text: törzsfő
         quality: 3
   source: storia
-- word: strategie -
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: önkéntes
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: strategie
 - word: strategisch
   ipa: /ˌstraːˈteː.ɣis/
   pos: adj
@@ -5462,16 +5277,6 @@
       - text: second-person singular present indicative
         quality: 5
   source: wiktionary-frequency
-- word: strijd - harc
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: alkalmából
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: strijd
 - word: strijdbaar
   ipa: /ˈstrɛi̯t.baːr/
   pos: adj
@@ -6008,15 +5813,6 @@
       - text: to appease
         quality: 5
   source: bepaalde dag in het leven van idereen
-- word: sy
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ellenzék
-        quality: 2
-  source: wiktionary-frequency
 - word: Sylva fluisterde ontzet
   ipa: ''
   pos: ''
@@ -6094,69 +5890,6 @@
       - text: plural of systeem
         quality: 5
   source: wiktionary-frequency
-- word: Szabolcs
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Ede
-        quality: 2
-  source: wiktionary-frequency
-- word: SZDSZ
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: irányba
-        quality: 2
-  source: wiktionary-frequency
-- word: Szeged
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: egyik
-        quality: 2
-  source: wiktionary-frequency
-- word: Szekler
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szívében
-        quality: 2
-  source: wiktionary-frequency
-- word: Szolnok
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: segítette
-        quality: 2
-  source: wiktionary-frequency
-- word: sztem
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szerkezete
-        quality: 2
-  source: wiktionary-frequency
-- word: Széchenyi
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: bátran
-        quality: 2
-  source: wiktionary-frequency
 - word: ten slotte
   ipa: ''
   pos: adv
@@ -6181,16 +5914,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: szeged
-- word: veel - sok
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hangsúlyozta
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: sok
 - word: wat voor soort
   ipa: ''
   pos: ''

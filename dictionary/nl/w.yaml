@@ -1512,15 +1512,6 @@
       - text: the Web, the World Wide Web
         quality: 5
   source: wiktionary-frequency
-- word: webes
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: megtekintése
-        quality: 2
-  source: wiktionary-frequency
 - word: website
   ipa: /ˈʋɛp.sɑi̯t/
   pos: noun

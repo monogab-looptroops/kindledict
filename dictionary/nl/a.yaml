@@ -1295,15 +1295,6 @@
       - text: a vulture, a person who profits from the suffering of others
         quality: 5
   source: buitenstander
-- word: abba
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: abba
-        quality: 2
-  source: wiktionary-frequency
 - word: abonnee
   ipa: /ˌɑ.bɔˈneː/
   pos: noun
@@ -1777,24 +1768,6 @@
       - text: breathtaking
         quality: 5
   source: summoner
-- word: adhat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: létrehozni
-        quality: 2
-  source: wiktionary-frequency
-- word: adj
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: fennálló
-        quality: 2
-  source: wiktionary-frequency
 - word: administratief
   ipa: /ˌɑt.mi.ni.straːˈtif/
   pos: adj
@@ -1833,24 +1806,6 @@
       definitions:
       - text: plural of adres
         quality: 5
-  source: wiktionary-frequency
-- word: adunk
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: vinni
-        quality: 2
-  source: wiktionary-frequency
-- word: adva
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: társai
-        quality: 2
   source: wiktionary-frequency
 - word: adverteert
   ipa: ''
@@ -2587,15 +2542,6 @@
       - text: plural of agent
         quality: 5
   source: wiktionary-frequency
-- word: Agnes
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: okozhat
-        quality: 2
-  source: wiktionary-frequency
 - word: agressief
   ipa: /ˌɑ.ɣrɛˈsif/
   pos: adj
@@ -2608,15 +2554,6 @@
       definitions:
       - text: aggressive
         quality: 5
-  source: wiktionary-frequency
-- word: akarta
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: akarta
-        quality: 2
   source: wiktionary-frequency
 - word: akelig
   ipa: /ˈaː.kə.ləx/
@@ -2633,15 +2570,6 @@
       - text: nasty, unfriendly
         quality: 5
   source: summoner
-- word: akit
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ezáltal
-        quality: 2
-  source: wiktionary-frequency
 - word: akker
   ipa: /ˈɑ.kər/
   pos: noun
@@ -2793,15 +2721,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: algemene
-- word: alig
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: alig
-        quality: 2
-  source: wiktionary-frequency
 - word: alimentatie
   ipa: /ˌaː.li.mɛnˈtaː.(t)si/
   pos: noun
@@ -2981,15 +2900,6 @@
       - text: not at all, anything but
         quality: 5
   source: kattenoog
-- word: alpha
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: helyezték
-        quality: 2
-  source: wiktionary-frequency
 - word: als
   ipa: /ɑ(l)s/
   pos: conj
@@ -3112,15 +3022,6 @@
         quality: 5
       - text: in advance (to do something before an ensuing event)
         quality: 5
-  source: wiktionary-frequency
-- word: ama
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ilyesmit
-        quality: 2
   source: wiktionary-frequency
 - word: amateur
   ipa: /ˌɑ.maːˈtøːr/
@@ -3256,42 +3157,6 @@
       - text: plural of Amerikaan
         quality: 5
   source: wiktionary-frequency
-- word: amibe
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kollégium
-        quality: 2
-  source: wiktionary-frequency
-- word: amin
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: röviden
-        quality: 2
-  source: wiktionary-frequency
-- word: amire
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: amire
-        quality: 2
-  source: wiktionary-frequency
-- word: amolyan
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: támogatásra
-        quality: 2
-  source: wiktionary-frequency
 - word: analist
   ipa: /ˌaː.naːˈlɪst/
   pos: noun
@@ -3410,15 +3275,6 @@
       - text: differently
         quality: 5
   source: wiktionary-frequency
-- word: anders-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: különben
-        quality: 2
-  source: wiktionary-frequency
 - word: andjoen, ajuin
   ipa: ''
   pos: ''
@@ -3429,24 +3285,6 @@
         quality: 3
   source: dialect
   expression_of: andjoen,
-- word: Andrea
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Esztergom
-        quality: 2
-  source: wiktionary-frequency
-- word: Andrew
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Erzsébet
-        quality: 2
-  source: wiktionary-frequency
 - word: angst
   ipa: /ɑŋst/
   pos: noun
@@ -3535,15 +3373,6 @@
       - text: anonymous, without an (acknowledged) name
         quality: 5
   source: wiktionary-frequency
-- word: antal
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: helyzete
-        quality: 2
-  source: wiktionary-frequency
 - word: antwoord
   ipa: /ˈɑntʋoːrt/
   pos: noun
@@ -3598,15 +3427,6 @@
         quality: 5
       - text: plural of antwoord
         quality: 5
-  source: wiktionary-frequency
-- word: apja
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: találunk
-        quality: 2
   source: wiktionary-frequency
 - word: apostel
   ipa: /aːˈpɔs.təl/
@@ -3845,15 +3665,6 @@
       - text: szegény ember
         quality: 3
   source: de pauw - werk
-- word: arra
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: arra
-        quality: 2
-  source: wiktionary-frequency
 - word: arrestatie verrichten
   ipa: ''
   pos: ''
@@ -3947,15 +3758,6 @@
       - text: synonym of sfeer (“atmosphere, ambiance, mood”)
         quality: 5
   source: wiktionary-frequency
-- word: Attila
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Attila
-        quality: 2
-  source: wiktionary-frequency
 - word: augustus
   ipa: /ɑu̯ˈɣʏs.tʏs/
   pos: noun
@@ -4045,16 +3847,6 @@
       - text: car, automobile
         quality: 5
   source: wiktionary-frequency
-- word: auto - autó
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kizárólagos
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: auto
 - word: auto's
   ipa: ''
   pos: noun

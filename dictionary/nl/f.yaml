@@ -115,15 +115,6 @@
       - text: invoice
         quality: 5
   source: wiktionary-frequency
-- word: fakad
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hanggal
-        quality: 2
-  source: wiktionary-frequency
 - word: fakkel
   ipa: /ˈfɑ.kəl/
   pos: noun
@@ -137,15 +128,6 @@
       - text: torch (a stick with a flame at one end)
         quality: 5
   source: mix3
-- word: 'false'
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tegye
-        quality: 2
-  source: wiktionary-frequency
 - word: familie
   ipa: /faːˈmi.li/
   pos: noun
@@ -401,15 +383,6 @@
       - text: plural of fenomeen
         quality: 5
   source: wiktionary-frequency
-- word: Ferenc
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Ferenc
-        quality: 2
-  source: wiktionary-frequency
 - word: ferment
   ipa: ''
   pos: ''
@@ -431,15 +404,6 @@
       definitions:
       - text: a festival (festive event or gathering)
         quality: 5
-  source: wiktionary-frequency
-- word: Fidesz
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: részlet
-        quality: 2
   source: wiktionary-frequency
 - word: fiedelen
   ipa: ''
@@ -534,15 +498,6 @@
       - text: the movie sector, cinema
         quality: 5
   source: wiktionary-frequency
-- word: filmje
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: érti
-        quality: 2
-  source: wiktionary-frequency
 - word: films
   ipa: ''
   pos: noun
@@ -628,15 +583,6 @@
       definitions:
       - text: financing, funding
         quality: 5
-  source: wiktionary-frequency
-- word: Finoman
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: későn
-        quality: 2
   source: wiktionary-frequency
 - word: Fins
   ipa: /fɪns/
@@ -815,15 +761,6 @@
       - text: plural of fluit
         quality: 5
   source: bepaalde dag in het leven van idereen
-- word: fodor
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: legjobbak
-        quality: 2
-  source: wiktionary-frequency
 - word: foedraal
   ipa: ''
   pos: ''
@@ -898,15 +835,6 @@
       - text: általány
         quality: 3
   source: contract
-- word: forint
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: forint
-        quality: 2
-  source: wiktionary-frequency
 - word: forintra
   ipa: ''
   pos: ''
@@ -932,15 +860,6 @@
         quality: 5
       - text: format
         quality: 5
-  source: wiktionary-frequency
-- word: formai
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: csendben
-        quality: 2
   source: wiktionary-frequency
 - word: formeel
   ipa: /fɔrˈmeːl/

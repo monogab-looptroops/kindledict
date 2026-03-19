@@ -242,16 +242,6 @@
       - text: first/second/third-person singular present indicative
         quality: 5
   source: wiktionary-frequency
-- word: naast - mellett
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: édes
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: naast
 - word: naast mij
   ipa: ''
   pos: ''
@@ -470,24 +460,6 @@
       - text: late afternoon, between 4 and 6 o'clock
         quality: 5
   source: wiktionary-frequency
-- word: napig
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: napig
-        quality: 2
-  source: wiktionary-frequency
-- word: napra
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: napra
-        quality: 2
-  source: wiktionary-frequency
 - word: nasmaak
   ipa: /ˈnaː.smaːk/
   pos: noun
@@ -560,15 +532,6 @@
       definitions:
       - text: nationality
         quality: 5
-  source: wiktionary-frequency
-- word: native
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: menj
-        quality: 2
   source: wiktionary-frequency
 - word: natuur
   ipa: /naːˈtyr/
@@ -798,15 +761,6 @@
       definitions:
       - text: 'no'
         quality: 5
-  source: wiktionary-frequency
-- word: Nee.
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: számú
-        quality: 2
   source: wiktionary-frequency
 - word: neemt
   ipa: /neːmt/
@@ -1069,15 +1023,6 @@
       - text: plural of netje
         quality: 5
   source: wiktionary-frequency
-- word: netto-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: halad
-        quality: 2
-  source: wiktionary-frequency
 - word: netwerk
   ipa: /ˈnɛt.ʋɛrk/
   pos: noun
@@ -1148,24 +1093,6 @@
       - text: foggy, nebulous
         quality: 5
   source: kattenoog
-- word: Neves
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szépségápolás
-        quality: 2
-  source: wiktionary-frequency
-- word: nevezi
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: gróf
-        quality: 2
-  source: wiktionary-frequency
 - word: niemand
   ipa: /ˈni.mɑnt/
   pos: pron
@@ -1397,15 +1324,6 @@
       - text: level
         quality: 5
   source: wiktionary-frequency
-- word: nk
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: témaváltás
-        quality: 2
-  source: wiktionary-frequency
 - word: noch
   ipa: /nɔx/
   pos: conj
@@ -1536,15 +1454,6 @@
         quality: 5
       - text: the Norwegian language
         quality: 5
-  source: wiktionary-frequency
-- word: Norbi
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: alján
-        quality: 2
   source: wiktionary-frequency
 - word: normaal
   ipa: /nɔrˈmaːl/
@@ -1764,15 +1673,6 @@
         quality: 5
       - text: imperative
         quality: 5
-  source: wiktionary-frequency
-- word: Németh
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: éjjel
-        quality: 2
   source: wiktionary-frequency
 - word: onder de noodzaak van
   ipa: ''

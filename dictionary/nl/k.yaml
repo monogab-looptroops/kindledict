@@ -1198,15 +1198,6 @@
       - text: capital (letter) c
         quality: 5
   source: wiktionary-frequency
-- word: kapja
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: színház
-        quality: 2
-  source: wiktionary-frequency
 - word: kapoen
   ipa: /kɑˈpun/
   pos: noun
@@ -1309,15 +1300,6 @@
       - text: cardinal
         quality: 5
   source: wiktionary-frequency
-- word: kari
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: rendszerű
-        quality: 2
-  source: wiktionary-frequency
 - word: karkas
   ipa: /kɑrˈkɑs/
   pos: noun
@@ -1384,15 +1366,6 @@
       - text: cavalier (a raised firing platform)
         quality: 5
   source: wiktionary-frequency
-- word: Katalin
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: vesznek
-        quality: 2
-  source: wiktionary-frequency
 - word: Katholiek
   ipa: /kɑ.toːˈlik/
   pos: noun
@@ -1405,15 +1378,6 @@
       definitions:
       - text: Catholic
         quality: 5
-  source: wiktionary-frequency
-- word: KDE
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: érvek
-        quality: 2
   source: wiktionary-frequency
 - word: keel
   ipa: /keːl/
@@ -1568,15 +1532,6 @@
       - text: a notice, a message, a notification
         quality: 5
   source: wiktionary-frequency
-- word: kepi
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szavai
-        quality: 2
-  source: wiktionary-frequency
 - word: kerestetik
   ipa: ''
   pos: ''
@@ -1646,24 +1601,6 @@
       - text: Christmas mass
         quality: 5
   source: het diner
-- word: Kerstmis-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: világra
-        quality: 2
-  source: wiktionary-frequency
-- word: keuken-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tisztelt
-        quality: 2
-  source: wiktionary-frequency
 - word: keurig
   ipa: ''
   pos: adj
@@ -1703,15 +1640,6 @@
       - text: beetle (insect of the order Coleoptera)
         quality: 5
   source: mondeling
-- word: kht.
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: vállalt
-        quality: 2
-  source: wiktionary-frequency
 - word: kiekje
   ipa: /ˈkik.jə/
   pos: noun
@@ -1968,15 +1896,6 @@
       - text: csirkeszar
         quality: 3
   source: de pauw - werk
-- word: kis
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kezdtem
-        quality: 2
-  source: wiktionary-frequency
 - word: klaaglijk
   ipa: ''
   pos: ''
@@ -2660,16 +2579,6 @@
       - text: finger-joint; knuckle
         quality: 5
   source: het diner
-- word: knoop - gomb
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hihetetlen
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: knoop
 - word: knop
   ipa: ''
   pos: noun
@@ -2995,16 +2904,6 @@
       - text: synonym of klaarkomen (“to orgasm, come”)
         quality: 5
   source: wiktionary-frequency
-- word: komen - jönni
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: családok
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: komen
 - word: kommeren
   ipa: ''
   pos: ''
@@ -3367,15 +3266,6 @@
       - text: tulajdonosok
         quality: 2
   source: wiktionary-frequency
-- word: kora
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: valami
-        quality: 2
-  source: wiktionary-frequency
 - word: korabeli
   ipa: ''
   pos: ''
@@ -3383,15 +3273,6 @@
     hu:
       definitions:
       - text: fizet
-        quality: 2
-  source: wiktionary-frequency
-- word: korig
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: említi
         quality: 2
   source: wiktionary-frequency
 - word: korps
@@ -3528,15 +3409,6 @@
       - text: shortsighted, blinkered
         quality: 5
   source: mondeling 2
-- word: Kossuth
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: honlap
-        quality: 2
-  source: wiktionary-frequency
 - word: kosten
   ipa: /ˈkɔstə(n)/
   pos: verb
@@ -3650,25 +3522,6 @@
       - text: newspaper
         quality: 5
   source: mix
-- word: krant - újság
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ellene
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: krant
-- word: krant-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mondanom
-        quality: 2
-  source: wiktionary-frequency
 - word: kranten
   ipa: ''
   pos: noun
@@ -4238,24 +4091,6 @@
       - text: to lose, to cause (something) to cease to be in one's possession or capability
         quality: 5
   source: de pauw - werk
-- word: Kálmán
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Réka
-        quality: 2
-  source: wiktionary-frequency
-- word: Können
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: amíg
-        quality: 2
-  source: wiktionary-frequency
 - word: niet kunnen
   ipa: ''
   pos: ''

@@ -241,15 +241,6 @@
       - text: roof window
         quality: 5
   source: bepaalde dag in het leven van idereen
-- word: dalt
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: lemezek
-        quality: 2
-  source: wiktionary-frequency
 - word: damboord
   ipa: ''
   pos: ''
@@ -468,15 +459,6 @@
     hu:
       definitions:
       - text: őszén
-        quality: 2
-  source: wiktionary-frequency
-- word: dating
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: arról
         quality: 2
   source: wiktionary-frequency
 - word: datum
@@ -1086,16 +1068,6 @@
       - text: to take part, to partake, to participate
         quality: 5
   source: wiktionary-frequency
-- word: deelnemer - résztvevő
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: stratégia
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: deelnemer
 - word: deelnemers
   ipa: ''
   pos: noun
@@ -1253,15 +1225,6 @@
       - text: to move with a thunderous noise
         quality: 5
   source: kattenoog
-- word: Denes
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: gyógyszerek
-        quality: 2
-  source: wiktionary-frequency
 - word: denkbaar
   ipa: /ˈdɛŋk.baːr/
   pos: adj
@@ -1368,15 +1331,6 @@
       - text: thirty
         quality: 5
   source: wiktionary-frequency
-- word: Desi
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: sorok
-        quality: 2
-  source: wiktionary-frequency
 - word: design verandering
   ipa: ''
   pos: ''
@@ -1407,15 +1361,6 @@
         quality: 5
       - text: 'inflection of deskundig:'
         quality: 5
-  source: wiktionary-frequency
-- word: detail-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: példák
-        quality: 2
   source: wiktionary-frequency
 - word: details
   ipa: ''
@@ -1471,15 +1416,6 @@
       - text: dent
         quality: 5
   source: mix
-- word: deur-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: illő
-        quality: 2
-  source: wiktionary-frequency
 - word: deze
   ipa: /ˈdeːzə/
   pos: det
@@ -1524,15 +1460,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: dezelfde
-- word: deák
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: állapítja
-        quality: 2
-  source: wiktionary-frequency
 - word: dialoog
   ipa: /ˌdi.aːˈloːx/
   pos: noun
@@ -2035,24 +1962,6 @@
       - text: a diminutive of the female given name Dirkje
         quality: 5
   source: wiktionary-frequency
-- word: div
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: RTL
-        quality: 2
-  source: wiktionary-frequency
-- word: dkg
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: rendszernek
-        quality: 2
-  source: wiktionary-frequency
 - word: doctoraal
   ipa: ''
   pos: ''
@@ -2310,15 +2219,6 @@
       - text: rowlock, oarlock
         quality: 5
   source: kattenoog
-- word: dolga
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hatás
-        quality: 2
-  source: wiktionary-frequency
 - word: dollar
   ipa: /ˈdɔlɑr/
   pos: noun
@@ -3136,15 +3036,6 @@
         quality: 5
       - text: drink, beverage
         quality: 5
-  source: wiktionary-frequency
-- word: drives
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: dolguk
-        quality: 2
   source: wiktionary-frequency
 - word: droefheid
   ipa: /ˈdruf.ɦɛi̯t/

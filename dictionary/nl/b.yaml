@@ -189,24 +189,6 @@
       - text: bathroom
         quality: 5
   source: wiktionary-frequency
-- word: baja
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: jobboldali
-        quality: 2
-  source: wiktionary-frequency
-- word: bajom
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: teremtett
-        quality: 2
-  source: wiktionary-frequency
 - word: bal
   ipa: /bɑl/
   pos: noun
@@ -247,15 +229,6 @@
       - text: type of bridge with counterweight
         quality: 5
   source: wiktionary-frequency
-- word: Balaton
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: USA
-        quality: 2
-  source: wiktionary-frequency
 - word: balk
   ipa: /bɑlk/
   pos: noun
@@ -291,24 +264,6 @@
       - text: exile (state of being in exile)
         quality: 5
   source: na de bevrijding
-- word: Balogh
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Győr
-        quality: 2
-  source: wiktionary-frequency
-- word: Balázs
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Izrael
-        quality: 2
-  source: wiktionary-frequency
 - word: band
   ipa: /bɑnt/
   pos: noun
@@ -467,24 +422,6 @@
       - text: plural of barst
         quality: 5
   source: de pauw - werk
-- word: Bartók
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kapcsolatokat
-        quality: 2
-  source: wiktionary-frequency
-- word: basics
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kérdéses
-        quality: 2
-  source: wiktionary-frequency
 - word: basis
   ipa: /ˈbaː.zəs/
   pos: noun
@@ -556,15 +493,6 @@
       - text: firmly, soundly, in good measure (or more)
         quality: 5
   source: kattenoog
-- word: BBCode
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: bizonnyal
-        quality: 2
-  source: wiktionary-frequency
 - word: bbp
   ipa: /beː.beːˈpeː/
   pos: noun
@@ -2544,15 +2472,6 @@
       - text: as strong as a bear, very strong
         quality: 5
   source: bepaalde dag in het leven van idereen
-- word: berg-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: védi
-        quality: 2
-  source: wiktionary-frequency
 - word: bergafwaarts
   ipa: /ˌbɛrxˈɑf.ʋaːrts/
   pos: adv
@@ -4879,15 +4798,6 @@
         quality: 3
   source: dialect
   expression_of: bikken,fretten,
-- word: Bill
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: automatikus
-        quality: 2
-  source: wiktionary-frequency
 - word: billijk
   ipa: /ˈbɪlək/
   pos: adj
@@ -5492,19 +5402,6 @@
       - text: ship, vessel
         quality: 5
   source: wiktionary-frequency
-- word: Boedapest
-  ipa: /ˈbu.daːˌpɛst/
-  pos: name
-  translations:
-    hu:
-      definitions:
-      - text: Budapest
-        quality: 2
-    en:
-      definitions:
-      - text: Budapest (the capital city of Hungary)
-        quality: 5
-  source: wiktionary-frequency
 - word: boegbeeld
   ipa: /ˈbux.beːlt/
   pos: noun
@@ -5847,15 +5744,6 @@
       - text: breastbone, sternum
         quality: 5
   source: de pauw - werk 2
-- word: bort
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: olaj
-        quality: 2
-  source: wiktionary-frequency
 - word: bouw
   ipa: /bɑu̯/
   pos: noun
@@ -6515,15 +6403,6 @@
       - text: gross (excluding deductions)
         quality: 5
   source: wiktionary-frequency
-- word: BSD
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: felhasználásával
-        quality: 2
-  source: wiktionary-frequency
 - word: bubbeltjeswijn
   ipa: ''
   pos: ''
@@ -6533,15 +6412,6 @@
       - text: pezsgőbor
         quality: 3
   source: prachtige wereld waar ben je [Sally Rooney]
-- word: budai
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: zárva
-        quality: 2
-  source: wiktionary-frequency
 - word: budgettair
   ipa: /ˌbʏ.dʒəˈtɛːr/
   pos: adj
@@ -6777,15 +6647,6 @@
       - text: vicinity, proximity
         quality: 5
   source: wiktionary-frequency
-- word: Bálint
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: végre
-        quality: 2
-  source: wiktionary-frequency
 - word: bèta
   ipa: /ˈbɛː.taː/
   pos: noun
@@ -6800,15 +6661,6 @@
         quality: 5
       - text: a person with proficiency in the hard sciences
         quality: 5
-  source: wiktionary-frequency
-- word: Béla
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Béla
-        quality: 2
   source: wiktionary-frequency
 - word: dat ben ik met je eens
   ipa: ''

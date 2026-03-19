@@ -1219,15 +1219,6 @@
       - text: a hamlet in Bunnik, Utrecht, Netherlands
         quality: 5
   source: wiktionary-frequency
-- word: vedd
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szex
-        quality: 2
-  source: wiktionary-frequency
 - word: vee
   ipa: /veː/
   pos: noun
@@ -1414,15 +1405,6 @@
         quality: 5
       - text: a rag, a shred
         quality: 5
-  source: wiktionary-frequency
-- word: veld-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mentális
-        quality: 2
   source: wiktionary-frequency
 - word: vele soorten
   ipa: ''
@@ -4791,15 +4773,6 @@
       - text: boredom
         quality: 5
   source: het diner
-- word: vervoer-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: közlekedési
-        quality: 2
-  source: wiktionary-frequency
 - word: vervoermiddeld
   ipa: ''
   pos: ''
@@ -5629,15 +5602,6 @@
       - text: értékelése
         quality: 2
   source: wiktionary-frequency
-- word: veti
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: minőségét
-        quality: 2
-  source: wiktionary-frequency
 - word: veto uitgesproken
   ipa: ''
   pos: ''
@@ -5703,15 +5667,6 @@
         quality: 3
   source: het diner
   expression_of: video
-- word: video-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: vizsgálja
-        quality: 2
-  source: wiktionary-frequency
 - word: viel
   ipa: /vil/
   pos: verb
@@ -5853,33 +5808,6 @@
       - text: fifty
         quality: 5
   source: wiktionary-frequency
-- word: Viktor
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Pannon
-        quality: 2
-  source: wiktionary-frequency
-- word: Villusi
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: nézők
-        quality: 2
-  source: wiktionary-frequency
-- word: Vilmos
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: köztársasági
-        quality: 2
-  source: wiktionary-frequency
 - word: vind
   ipa: /vɪnt/
   pos: verb
@@ -5938,15 +5866,6 @@
         quality: 5
   source: wiktionary-frequency
   expression_of: vindt
-- word: vinni
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szabvány
-        quality: 2
-  source: wiktionary-frequency
 - word: virtueel
   ipa: ''
   pos: adj
@@ -5998,15 +5917,6 @@
       - text: second-person singular present indicative
         quality: 5
   source: wiktionary-frequency
-- word: viseli
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Rákóczi
-        quality: 2
-  source: wiktionary-frequency
 - word: visie
   ipa: /ˈvi.zi/
   pos: noun
@@ -6051,15 +5961,6 @@
       definitions:
       - text: visual
         quality: 5
-  source: wiktionary-frequency
-- word: Viszi
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: állít
-        quality: 2
   source: wiktionary-frequency
 - word: vitaliteit
   ipa: ''
@@ -6911,15 +6812,6 @@
       - text: volt (unit)
         quality: 5
   source: wiktionary-frequency
-- word: volta
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kifejezett
-        quality: 2
-  source: wiktionary-frequency
 - word: voltooid
   ipa: ''
   pos: adj
@@ -6992,15 +6884,6 @@
       definitions:
       - text: plural of volwassene
         quality: 5
-  source: wiktionary-frequency
-- word: von
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: von
-        quality: 2
   source: wiktionary-frequency
 - word: vondst
   ipa: /vɔn(t)st/
@@ -8572,15 +8455,6 @@
       - text: NGO
         quality: 3
   source: taalrecht
-- word: vén
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: értelmezni
-        quality: 2
-  source: wiktionary-frequency
 - word: we vinden
   ipa: ''
   pos: ''

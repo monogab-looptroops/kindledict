@@ -129,15 +129,6 @@
       - text: hair (mammalian keratin filament)
         quality: 5
   source: wiktionary-frequency
-- word: haar-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mondjak
-        quality: 2
-  source: wiktionary-frequency
 - word: haarlok
   ipa: ''
   pos: ''
@@ -170,15 +161,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: had
-- word: hadd
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hirdetés
-        quality: 2
-  source: wiktionary-frequency
 - word: haemophilis influenzae B, hersenvliesonsteking
   ipa: ''
   pos: ''
@@ -189,15 +171,6 @@
         quality: 3
   source: ziktes
   expression_of: haemophilis
-- word: haja
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: akkor
-        quality: 2
-  source: wiktionary-frequency
 - word: hal
   ipa: /ɦɑl/
   pos: noun
@@ -215,15 +188,6 @@
       - text: a hamlet in Boxtel, North Brabant, Netherlands
         quality: 5
   source: wiktionary-frequency
-- word: halad
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: azokra
-        quality: 2
-  source: wiktionary-frequency
 - word: half jaar
   ipa: ''
   pos: ''
@@ -234,15 +198,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: half
-- word: Halkan
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: telepítése
-        quality: 2
-  source: wiktionary-frequency
 - word: Hallo
   ipa: /ɦɑˈloː/
   pos: intj
@@ -279,15 +234,6 @@
       - text: million-dollar question (the final, critical or most important question, the crux)
         quality: 5
   source: Knack 2
-- word: hand-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: összesen
-        quality: 2
-  source: wiktionary-frequency
 - word: handboei
   ipa: ''
   pos: noun
@@ -506,15 +452,6 @@
       - text: protection
         quality: 5
   source: summoner 2
-- word: hart-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: költségeit
-        quality: 2
-  source: wiktionary-frequency
 - word: hartaandoening
   ipa: ''
   pos: noun
@@ -566,15 +503,6 @@
         quality: 5
       - text: plural of have
         quality: 5
-  source: wiktionary-frequency
-- word: headers
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: halálát
-        quality: 2
   source: wiktionary-frequency
 - word: hebben
   ipa: /ˈɦɛbə(n)/
@@ -961,16 +889,6 @@
       - text: anyway
         quality: 5
   source: wiktionary-frequency
-- word: helemaal - teljesen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: eszközökkel
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: helemaal
 - word: helemaal niet
   ipa: ''
   pos: adv
@@ -1746,15 +1664,6 @@
       - text: gap, omission; hiatus
         quality: 5
   source: mix
-- word: hidd
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: értékének
-        quality: 2
-  source: wiktionary-frequency
 - word: hier
   ipa: /ɦir/
   pos: adv
@@ -2439,16 +2348,6 @@
       - text: oral sex
         quality: 5
   source: wiktionary-frequency
-- word: hoofd - fej
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kht.
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: hoofd
 - word: hoofdkwartier
   ipa: ''
   pos: noun
@@ -2768,15 +2667,6 @@
         quality: 3
         english_hint: hornpipe
   source: bepaalde dag in het leven van idereen
-- word: Horváth
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tanácsadás
-        quality: 2
-  source: wiktionary-frequency
 - word: horzel
   ipa: /ˈɦɔr.zəl/
   pos: noun
@@ -2959,15 +2849,6 @@
         quality: 3
   source: de pauw - werk
   expression_of: hout
-- word: HUF
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: logikai
-        quality: 2
-  source: wiktionary-frequency
 - word: Huid
   ipa: /ɦœy̯t/
   pos: noun

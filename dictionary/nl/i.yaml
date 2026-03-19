@@ -480,15 +480,6 @@
       - text: I; first-person singular subjective personal pronoun
         quality: 5
   source: wiktionary-frequency
-- word: Ildikó
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: háza
-        quality: 2
-  source: wiktionary-frequency
 - word: illustratie
   ipa: /ɪlyˈstraː(t)si/
   pos: noun
@@ -501,24 +492,6 @@
       definitions:
       - text: illustration
         quality: 5
-  source: wiktionary-frequency
-- word: Ilona
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szabadságot
-        quality: 2
-  source: wiktionary-frequency
-- word: ily
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: növekszik
-        quality: 2
   source: wiktionary-frequency
 - word: imheemse groepen
   ipa: ''
@@ -570,15 +543,6 @@
       definitions:
       - text: implementation
         quality: 5
-  source: wiktionary-frequency
-- word: Imre
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Imre
-        quality: 2
   source: wiktionary-frequency
 - word: in
   ipa: /ɪn/
@@ -1552,15 +1516,6 @@
       - text: integration
         quality: 5
   source: wiktionary-frequency
-- word: intel
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: intel
-        quality: 2
-  source: wiktionary-frequency
 - word: intellect
   ipa: /ˈɪn.tə.lɛkt/
   pos: noun
@@ -2232,24 +2187,6 @@
         quality: 5
       - text: item (specific object)
         quality: 5
-  source: wiktionary-frequency
-- word: items
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: négy
-        quality: 2
-  source: wiktionary-frequency
-- word: Ivan
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tért
-        quality: 2
   source: wiktionary-frequency
 - word: met iets
   ipa: ''

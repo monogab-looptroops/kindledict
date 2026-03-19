@@ -117,24 +117,6 @@
       - text: annually, every year
         quality: 5
   source: wiktionary-frequency
-- word: jaj
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: váró
-        quality: 2
-  source: wiktionary-frequency
-- word: Jakab
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: bizottságának
-        quality: 2
-  source: wiktionary-frequency
 - word: jaloezie, jaloersheid
   ipa: ''
   pos: ''
@@ -167,15 +149,6 @@
       - text: 'the common man:'
         quality: 5
   source: summoner 2
-- word: januari-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: január
-        quality: 2
-  source: wiktionary-frequency
 - word: Japan
   ipa: /jaːˈpɑn/
   pos: name
@@ -265,33 +238,6 @@
       - text: towards, for the purpose of
         quality: 5
   source: buitenstander
-- word: jele
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: megakadályozza
-        quality: 2
-  source: wiktionary-frequency
-- word: jeles
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: gyár
-        quality: 2
-  source: wiktionary-frequency
-- word: Jenő
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: földrajzi
-        quality: 2
-  source: wiktionary-frequency
 - word: jerrycan
   ipa: /ˈʒɛriˌkɛn/
   pos: noun
@@ -531,15 +477,6 @@
       - text: Jewish (concerning the Jewish race)
         quality: 5
   source: wiktionary-frequency
-- word: Joseph
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Géza
-        quality: 2
-  source: wiktionary-frequency
 - word: journalist
   ipa: /ʒurnaːˈlɪst/
   pos: noun
@@ -596,15 +533,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: jouw
-- word: Judit
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: végző
-        quality: 2
-  source: wiktionary-frequency
 - word: Juiste zelfstandige naamwoorden
   ipa: ''
   pos: ''
@@ -615,24 +543,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: juiste
-- word: juli-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: július
-        quality: 2
-  source: wiktionary-frequency
-- word: juni-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: június
-        quality: 2
-  source: wiktionary-frequency
 - word: juridische relatie
   ipa: ''
   pos: ''
@@ -668,15 +578,6 @@
       definitions:
       - text: jury
         quality: 5
-  source: wiktionary-frequency
-- word: jusson
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: megjelenítéséhez
-        quality: 2
   source: wiktionary-frequency
 - word: juweel
   ipa: /jyˈ(ʋ)eːl/

@@ -602,15 +602,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: zullen
-- word: za
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: látták
-        quality: 2
-  source: wiktionary-frequency
 - word: zaadlozing
   ipa: /ˈzaːtˌloː.zɪŋ/
   pos: noun
@@ -825,15 +816,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: zal
-- word: Zala
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Mónika
-        quality: 2
-  source: wiktionary-frequency
 - word: zalfje
   ipa: ''
   pos: noun
@@ -1852,16 +1834,6 @@
       - text: plural imperative
         quality: 5
   source: wiktionary-frequency
-- word: zoet - édes
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: dolga
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zoet
 - word: zoetjesaan
   ipa: ''
   pos: ''
@@ -1885,25 +1857,6 @@
         quality: 5
       - text: supposedly (according to a dubious claim)
         quality: 5
-  source: wiktionary-frequency
-- word: zoiets - ilyen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: erősebb
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zoiets
-- word: Zoltán
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Zoltán
-        quality: 2
   source: wiktionary-frequency
 - word: zomer
   ipa: /ˈzoːmər/
@@ -2211,33 +2164,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: zoveel
-- word: Zsolt
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Balaton
-        quality: 2
-  source: wiktionary-frequency
-- word: Zsuzsa
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: fal
-        quality: 2
-  source: wiktionary-frequency
-- word: Zsuzsanna
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Ady
-        quality: 2
-  source: wiktionary-frequency
 - word: zuiden
   ipa: /ˈzœy̯.də(n)/
   pos: noun

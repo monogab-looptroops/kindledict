@@ -436,15 +436,6 @@
       - text: rank
         quality: 5
   source: wiktionary-frequency
-- word: rangot
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: beszélgettünk
-        quality: 2
-  source: wiktionary-frequency
 - word: ranselen
   ipa: /ˈrɑnsələ(n)/
   pos: verb
@@ -1446,15 +1437,6 @@
           workers
         quality: 5
   source: wiktionary-frequency
-- word: rejlik
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: jövedelem
-        quality: 2
-  source: wiktionary-frequency
 - word: rekening houdend met de
   ipa: ''
   pos: ''
@@ -1610,15 +1592,6 @@
       - text: reindeer
         quality: 5
   source: storia
-- word: rendre
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: nyilvántartásba
-        quality: 2
-  source: wiktionary-frequency
 - word: rennen
   ipa: /rɛ.nə(n)/
   pos: verb
@@ -2145,15 +2118,6 @@
       - text: first/second/third-person singular present indicative
         quality: 5
   source: wiktionary-frequency
-- word: rivier-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: folyó
-        quality: 2
-  source: wiktionary-frequency
 - word: RIZIV nummer
   ipa: ''
   pos: ''
@@ -2305,15 +2269,6 @@
       definitions:
       - text: Rom (member of the Roma people), Romani
         quality: 5
-  source: wiktionary-frequency
-- word: Roma
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: indít
-        quality: 2
   source: wiktionary-frequency
 - word: Roman
   ipa: /roːˈmɑn/
@@ -2535,24 +2490,6 @@
       - text: rubbish, garbage
         quality: 5
   source: kattenoog
-- word: rovat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: legtöbben
-        quality: 2
-  source: wiktionary-frequency
-- word: RTL
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: útját
-        quality: 2
-  source: wiktionary-frequency
 - word: ruggengraat
   ipa: /ˈrʏ.ɣəˌɣraːt/
   pos: noun
@@ -2768,24 +2705,6 @@
         quality: 5
       - text: to ruin financially
         quality: 5
-  source: wiktionary-frequency
-- word: Rákóczi
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mutatkozik
-        quality: 2
-  source: wiktionary-frequency
-- word: Réka
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Eszter
-        quality: 2
   source: wiktionary-frequency
 - word: uit het raam klauteren
   ipa: ''

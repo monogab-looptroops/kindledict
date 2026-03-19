@@ -282,15 +282,6 @@
       - text: to extort money, to blackmail
         quality: 5
   source: na de bevrijding
-- word: Charles
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Károly
-        quality: 2
-  source: wiktionary-frequency
 - word: charme
   ipa: /ˈʃɑr.mə/
   pos: noun
@@ -303,15 +294,6 @@
       definitions:
       - text: charm (quality of inspiring delight or admiration)
         quality: 5
-  source: wiktionary-frequency
-- word: checker
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: barátságos
-        quality: 2
   source: wiktionary-frequency
 - word: chef
   ipa: /ʃɛf/
@@ -570,15 +552,6 @@
         quality: 5
       - text: plain clothes
         quality: 5
-  source: wiktionary-frequency
-- word: claims
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: vasúti
-        quality: 2
   source: wiktionary-frequency
 - word: cliënt
   ipa: /kliˈɛnt/
@@ -1499,15 +1472,6 @@
       - text: creative
         quality: 5
   source: wiktionary-frequency
-- word: credit
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: jelentkezését
-        quality: 2
-  source: wiktionary-frequency
 - word: creperen
   ipa: ''
   pos: verb
@@ -1584,24 +1548,6 @@
       definitions:
       - text: critic
         quality: 5
-  source: wiktionary-frequency
-- word: Csaba
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Éva
-        quality: 2
-  source: wiktionary-frequency
-- word: Csongrád
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: csökkenő
-        quality: 2
   source: wiktionary-frequency
 - word: cultureel
   ipa: /ˌkʏl.tyˈreːl/

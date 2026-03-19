@@ -438,15 +438,6 @@
         quality: 3
   source: kattenoog
   expression_of: lacherige
-- word: Laci
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Irak
-        quality: 2
-  source: wiktionary-frequency
 - word: lagen
   ipa: ''
   pos: noun
@@ -485,15 +476,6 @@
       - text: comparative degree of laag
         quality: 5
   source: wiktionary-frequency
-- word: Lajos
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Viktor
-        quality: 2
-  source: wiktionary-frequency
 - word: laken
   ipa: /ˈlaːkə(n)/
   pos: noun
@@ -515,33 +497,6 @@
       - text: a Belgian municipality, near Brussels, site of the largest royal palace estate
         quality: 5
   source: kattenoog 2
-- word: lakik
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szerény
-        quality: 2
-  source: wiktionary-frequency
-- word: Lakos
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szerencsém
-        quality: 2
-  source: wiktionary-frequency
-- word: lalja
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: barna
-        quality: 2
-  source: wiktionary-frequency
 - word: lamp
   ipa: /lɑmp/
   pos: noun
@@ -578,15 +533,6 @@
         quality: 5
       - text: 'inflection of landen:'
         quality: 5
-  source: wiktionary-frequency
-- word: land-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: puszta
-        quality: 2
   source: wiktionary-frequency
 - word: landbouw
   ipa: /ˈlɑnt.bɑu̯/
@@ -649,15 +595,6 @@
         quality: 5
       - text: to turn wild land (especially marshes) into arable land
         quality: 5
-  source: wiktionary-frequency
-- word: landol
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: úgymond
-        quality: 2
   source: wiktionary-frequency
 - word: landschap
   ipa: /ˈlɑnt.sxɑp/
@@ -811,33 +748,6 @@
       - text: a lance
         quality: 5
   source: summoner
-- word: Lapon
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: társadalomban
-        quality: 2
-  source: wiktionary-frequency
-- word: Lapot
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: államok
-        quality: 2
-  source: wiktionary-frequency
-- word: lapra
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: cigányok
-        quality: 2
-  source: wiktionary-frequency
 - word: lapzwans
   ipa: /ˈlɑp.zʋɑns/
   pos: noun
@@ -997,16 +907,6 @@
       - text: bye, later
         quality: 5
   source: wiktionary-frequency
-- word: later - később
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: másképp
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: later
 - word: Latijns
   ipa: /laːˈtɛi̯ns/
   pos: adj
@@ -1021,15 +921,6 @@
         quality: 5
       - text: the Latin language
         quality: 5
-  source: wiktionary-frequency
-- word: LED
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: vezetett
-        quality: 2
   source: wiktionary-frequency
 - word: ledematen
   ipa: ''
@@ -1722,15 +1613,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: leuk
-- word: levele
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kétségtelenül
-        quality: 2
-  source: wiktionary-frequency
 - word: leven
   ipa: /ˈleːvə(n)/
   pos: verb
@@ -1875,16 +1757,6 @@
       - text: supply
         quality: 5
   source: wiktionary-frequency
-- word: levering - szállítás
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mutatta
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: levering
 - word: lezen
   ipa: /ˈleːzə(n)/
   pos: verb
@@ -2075,16 +1947,6 @@
       - text: song
         quality: 5
   source: wiktionary-frequency
-- word: lied - ének
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: támogató
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: lied
 - word: liedjes
   ipa: ''
   pos: noun
@@ -2293,24 +2155,6 @@
       - text: lime (green color)
         quality: 5
   source: wiktionary-frequency
-- word: linket
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: vidék
-        quality: 2
-  source: wiktionary-frequency
-- word: linkre
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: közelmúltban
-        quality: 2
-  source: wiktionary-frequency
 - word: links
   ipa: /lɪŋks/
   pos: adv
@@ -2331,15 +2175,6 @@
         quality: 5
       - text: left-handed
         quality: 5
-  source: wiktionary-frequency
-- word: linux
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: linux
-        quality: 2
   source: wiktionary-frequency
 - word: lispelen
   ipa: ''
@@ -2699,15 +2534,6 @@
         quality: 3
   source: contract
   expression_of: louter
-- word: ltd.
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kft.
-        quality: 2
-  source: wiktionary-frequency
 - word: lucht
   ipa: /lʏxt/
   pos: noun
@@ -2752,15 +2578,6 @@
         quality: 3
   source: na de aardbeveging
   expression_of: luchtvaart
-- word: Lucky
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: átlag
-        quality: 2
-  source: wiktionary-frequency
 - word: lui
   ipa: /lœy̯/
   pos: adj
@@ -2888,15 +2705,6 @@
         quality: 5
       - text: plural imperative
         quality: 5
-  source: wiktionary-frequency
-- word: Luke
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tiltott
-        quality: 2
   source: wiktionary-frequency
 - word: lul
   ipa: /lʏl/

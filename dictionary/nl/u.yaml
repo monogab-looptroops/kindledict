@@ -199,15 +199,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: u
-- word: uhu
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: napját
-        quality: 2
-  source: wiktionary-frequency
 - word: uit
   ipa: /œy̯t/
   pos: adv
@@ -1006,33 +997,6 @@
       - text: plural of universiteit
         quality: 5
   source: wiktionary-frequency
-- word: ura
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: váratlanul
-        quality: 2
-  source: wiktionary-frequency
-- word: urak
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: néznek
-        quality: 2
-  source: wiktionary-frequency
-- word: urat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: követelményeket
-        quality: 2
-  source: wiktionary-frequency
 - word: uren
   ipa: /ˈyrə(n)/
   pos: noun
@@ -1047,24 +1011,6 @@
         quality: 5
       - text: for hours, for a long time
         quality: 5
-  source: wiktionary-frequency
-- word: urunk
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: támadást
-        quality: 2
-  source: wiktionary-frequency
-- word: USB
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kezdték
-        quality: 2
   source: wiktionary-frequency
 - word: uur
   ipa: /yr/
@@ -1113,15 +1059,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: uw
-- word: uális
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: emiatt
-        quality: 2
-  source: wiktionary-frequency
 - word: voor een uur
   ipa: ''
   pos: ''

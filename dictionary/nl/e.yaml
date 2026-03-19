@@ -681,15 +681,6 @@
       - text: comparative degree of efficiënt
         quality: 5
   source: wiktionary-frequency
-- word: egri
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mondod
-        quality: 2
-  source: wiktionary-frequency
 - word: Egyptische
   ipa: ''
   pos: ''
@@ -957,15 +948,6 @@
       - text: plural imperative
         quality: 5
   source: wiktionary-frequency
-- word: einem
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: erővel
-        quality: 2
-  source: wiktionary-frequency
 - word: ekster
   ipa: /ˈɛk.stər/
   pos: noun
@@ -1151,33 +1133,6 @@
         quality: 3
   source: summoner
   expression_of: ellendig
-- word: ELTE
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szerette
-        quality: 2
-  source: wiktionary-frequency
-- word: eme
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: máig
-        quality: 2
-  source: wiktionary-frequency
-- word: emeli
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: vágy
-        quality: 2
-  source: wiktionary-frequency
 - word: emotioneel
   ipa: /eːˌmoː.ʃoːˈneːl/
   pos: adj
@@ -1211,15 +1166,6 @@
         quality: 5
       - text: only, merely, no other than, none other than (together with maar)
         quality: 5
-  source: wiktionary-frequency
-- word: endre
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: alkalmával
-        quality: 2
   source: wiktionary-frequency
 - word: energie
   ipa: /ˌeː.nərˈʒi/
@@ -1589,15 +1535,6 @@
       - text: serious
         quality: 5
   source: wiktionary-frequency
-- word: Ernő
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Laci
-        quality: 2
-  source: wiktionary-frequency
 - word: erotisch
   ipa: /eːˈroː.tis/
   pos: adj
@@ -1713,24 +1650,6 @@
       - text: The wood of a maple tree.
         quality: 5
   source: mix
-- word: esete
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: énekel
-        quality: 2
-  source: wiktionary-frequency
-- word: essence
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: lényeg
-        quality: 2
-  source: wiktionary-frequency
 - word: essentieel
   ipa: /ɛsɛnˈsjeːl/
   pos: adj
@@ -2302,15 +2221,6 @@
       - text: easel
         quality: 5
   source: wiktionary-frequency
-- word: Eötvös
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: elveszett
-        quality: 2
-  source: wiktionary-frequency
 - word: iemand de eer/plaats/geld geven die hem toekomt
   ipa: ''
   pos: ''
@@ -2505,16 +2415,6 @@
         quality: 2
   source: wiktionary-frequency
   expression_of: eind
-- word: tegen - ellen, vmikorra
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ellátás
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: ellen,
 - word: tot het einde
   ipa: ''
   pos: ''

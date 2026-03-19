@@ -408,15 +408,6 @@
       - text: obstacle
         quality: 5
   source: wiktionary-frequency
-- word: ochtend-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: reggel
-        quality: 2
-  source: wiktionary-frequency
 - word: octrooi
   ipa: ''
   pos: noun
@@ -595,15 +586,6 @@
       - text: plural of oog
         quality: 5
   source: wiktionary-frequency
-- word: okai
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: döntöttek
-        quality: 2
-  source: wiktionary-frequency
 - word: Oke
   ipa: /oːˈkeː/
   pos: intj
@@ -658,15 +640,6 @@
       - text: October
         quality: 5
   source: wiktionary-frequency
-- word: okán
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: titka
-        quality: 2
-  source: wiktionary-frequency
 - word: oké
   ipa: /oːˈkeː/
   pos: adj
@@ -693,15 +666,6 @@
       - text: fenék
         quality: 3
   source: dialect
-- word: olie-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kártyát
-        quality: 2
-  source: wiktionary-frequency
 - word: ollemolle, allemaal
   ipa: ''
   pos: ''
@@ -712,33 +676,6 @@
         quality: 3
   source: dialect
   expression_of: ollemolle,
-- word: olva
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: integrált
-        quality: 2
-  source: wiktionary-frequency
-- word: oly
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: oly
-        quality: 2
-  source: wiktionary-frequency
-- word: olyat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: területet
-        quality: 2
-  source: wiktionary-frequency
 - word: Olympisch
   ipa: ''
   pos: adj
@@ -1883,16 +1820,6 @@
       - text: second-person singular present indicative
         quality: 5
   source: wiktionary-frequency
-- word: Onderzoek - kutatás
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mérkőzés
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: onderzoek
 - word: onderzoeker
   ipa: /ˌɔn.dərˈzu.kər/
   pos: noun
@@ -2057,16 +1984,6 @@
       - text: unbelievable
         quality: 5
   source: wiktionary-frequency
-- word: ongelooflijk - hihetetlen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: táblázat
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: ongelooflijk
 - word: ongeluk
   ipa: /ˈɔŋ.ɣəˌlʏk/
   pos: noun
@@ -3649,15 +3566,6 @@
       - text: plural of oorzaak
         quality: 5
   source: wiktionary-frequency
-- word: oosten-
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: keleti
-        quality: 2
-  source: wiktionary-frequency
 - word: Oostenrijk
   ipa: /ˈoːs.tə(n)ˌrɛi̯k/
   pos: name
@@ -4760,15 +4668,6 @@
       - text: to excite, to whip up
         quality: 5
   source: de pauw - werk
-- word: Orbán
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: köszi
-        quality: 2
-  source: wiktionary-frequency
 - word: organisatie
   ipa: /ˌɔr.ɣaː.niˈsaː.(t)si/
   pos: noun
@@ -4868,15 +4767,6 @@
       definitions:
       - text: original
         quality: 5
-  source: wiktionary-frequency
-- word: Otto
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Zsuzsanna
-        quality: 2
   source: wiktionary-frequency
 - word: oud
   ipa: /ɑu̯t/
