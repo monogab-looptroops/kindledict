@@ -8,16 +8,6 @@
         quality: 3
   source: de pauw - werk
   expression_of: doodsverachting
-- word: al deze
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: viszi
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: deze
 - word: alle donders
   ipa: ''
   pos: ''
@@ -28,36 +18,6 @@
         quality: 3
   source: na de bevrijding
   expression_of: donders
-- word: alle drie
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: másképpen
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: drie
-- word: als doel
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: manapság
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: doel
-- word: bij dageraad
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: jöjjön
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dageraad
 - word: daadkracht
   ipa: /ˈdaːt.krɑxt/
   pos: noun
@@ -77,10 +37,6 @@
   ipa: /daːr/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: ott
-        quality: 2
     en:
       definitions:
       - text: there
@@ -94,10 +50,6 @@
   ipa: /daːrˈbɛi̯/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: ezáltal
-        quality: 2
     en:
       definitions:
       - text: pronominal adverb form of bij + dat
@@ -107,10 +59,6 @@
   ipa: /ˌdaːrˈbœy̯.tə(n)/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: hagyja
-        quality: 2
     en:
       definitions:
       - text: pronominal adverb form of buiten + dat
@@ -120,10 +68,6 @@
   ipa: /daːrˈnaːst/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: kérdésekre
-        quality: 2
     en:
       definitions:
       - text: pronominal adverb form of naast + dat
@@ -133,10 +77,6 @@
   ipa: /daː.rˈɔm/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: azért
-        quality: 2
     en:
       definitions:
       - text: pronominal adverb form of om + dat
@@ -154,10 +94,6 @@
   ipa: /dɑx/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: nap
-        quality: 2
     en:
       definitions:
       - text: day (period of 24 hours)
@@ -175,10 +111,6 @@
   ipa: /ˈdaː.ɣəˌləks/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: napi
-        quality: 2
     en:
       definitions:
       - text: daily
@@ -188,10 +120,6 @@
   ipa: /ˈdaːɣə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: különbséget
-        quality: 2
     en:
       definitions:
       - text: to dawn
@@ -209,10 +137,6 @@
   ipa: /ˈdaː.ɣəˌraːt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: átvett
-        quality: 2
     en:
       definitions:
       - text: dawn, daybreak
@@ -254,10 +178,6 @@
   ipa: /ˈdaː.mə/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: bármit
-        quality: 2
     en:
       definitions:
       - text: lady
@@ -275,10 +195,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: nők
-        quality: 2
     en:
       definitions:
       - text: plural of dame
@@ -288,10 +204,6 @@
   ipa: /dɑn/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: akkor
-        quality: 2
     en:
       definitions:
       - text: then, at that time (in the future)
@@ -309,10 +221,6 @@
   ipa: /ˈdaː.niˌjɛl/
   pos: name
   translations:
-    hu:
-      definitions:
-      - text: Jézus
-        quality: 2
     en:
       definitions:
       - text: a village in Curaçao
@@ -334,10 +242,6 @@
   ipa: /ˈdɑŋky/
   pos: intj
   translations:
-    hu:
-      definitions:
-      - text: küldeni
-        quality: 2
     en:
       definitions:
       - text: alternative spelling of dank u
@@ -350,10 +254,6 @@
   ipa: /ˈdɑŋk.baːr/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: megadva
-        quality: 2
     en:
       definitions:
       - text: thankful, grateful
@@ -365,10 +265,6 @@
   ipa: /ˈdɑŋk.baːrˌɦɛi̯t/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: versenyek
-        quality: 2
     en:
       definitions:
       - text: thankfulness, gratitude
@@ -378,10 +274,6 @@
   ipa: /dɑns/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: részleteket
-        quality: 2
     en:
       definitions:
       - text: dance
@@ -412,10 +304,6 @@
   ipa: /dɑt/
   pos: det
   translations:
-    hu:
-      definitions:
-      - text: azon
-        quality: 2
     en:
       definitions:
       - text: neuter singular of die (“that”); referring to a thing or a person further away.
@@ -429,46 +317,19 @@
       - text: who, which, that
         quality: 5
   source: wiktionary-frequency
-- word: data papier
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: párbeszéd
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: data
 - word: database
   ipa: /ˈdaː.taːˌbeːs/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: mennek
-        quality: 2
     en:
       definitions:
       - text: database
         quality: 5
   source: wiktionary-frequency
-- word: datasheets
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: őszén
-        quality: 2
-  source: wiktionary-frequency
 - word: datum
   ipa: /ˈdaːtʏm/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szórakoztató
-        quality: 2
     en:
       definitions:
       - text: date (point in time)
@@ -480,10 +341,6 @@
   ipa: /ˈdaː.vɪt/
   pos: name
   translations:
-    hu:
-      definitions:
-      - text: ENSZ
-        quality: 2
     en:
       definitions:
       - text: David
@@ -497,25 +354,12 @@
   ipa: /də/
   pos: article
   translations:
-    hu:
-      definitions:
-      - text: a
-        quality: 2
     en:
       definitions:
       - text: the; definite article, masculine and feminine singular, plural
         quality: 5
       - text: per
         quality: 5
-  source: wiktionary-frequency
-- word: de armen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: sebessége
-        quality: 2
   source: wiktionary-frequency
 - word: de bepalingen
   ipa: ''
@@ -581,24 +425,6 @@
         quality: 3
   source: mondeling 3
   expression_of: draak
-- word: de elite
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kedvezményes
-        quality: 2
-  source: wiktionary-frequency
-- word: de essentie
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hagyom
-        quality: 2
-  source: wiktionary-frequency
 - word: de expertise
   ipa: ''
   pos: ''
@@ -611,15 +437,6 @@
       - nl: Je veel expertise in lesgeven hebt
         tr: jól tudsz tanítani
   source: mondeling
-- word: de facto
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szolgáltatási
-        quality: 2
-  source: wiktionary-frequency
 - word: de gevangene
   ipa: ''
   pos: ''
@@ -674,15 +491,6 @@
       - text: császármetszés
         quality: 3
   source: mondeling 2
-- word: de laagste
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: végezhető
-        quality: 2
-  source: wiktionary-frequency
 - word: de lat
   ipa: ''
   pos: ''
@@ -692,33 +500,6 @@
       - text: a léc
         quality: 3
   source: mondeling
-- word: de mensheid
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: déli
-        quality: 2
-  source: wiktionary-frequency
-- word: de mijne
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: jelszavad
-        quality: 2
-  source: wiktionary-frequency
-- word: de mooiste
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: fórumon
-        quality: 2
-  source: wiktionary-frequency
 - word: de muizenval
   ipa: ''
   pos: ''
@@ -728,15 +509,6 @@
       - text: egérfogó
         quality: 3
   source: mondeling 3
-- word: de nevel
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: nyilvánosságra
-        quality: 2
-  source: wiktionary-frequency
 - word: de oever
   ipa: ''
   pos: ''
@@ -782,15 +554,6 @@
       - text: reszelő
         quality: 3
   source: taalrecht
-- word: de rest
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: többi
-        quality: 2
-  source: wiktionary-frequency
 - word: de schaaf
   ipa: ''
   pos: ''
@@ -818,15 +581,6 @@
       - text: bulvár sajtó
         quality: 3
   source: mondeling 2
-- word: de snelste
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: legerősebb
-        quality: 2
-  source: wiktionary-frequency
 - word: de tijdrekening
   ipa: ''
   pos: ''
@@ -895,54 +649,14 @@
       - text: bizalmi szavazás
         quality: 3
   source: mondeling
-- word: de volgende
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tovább
-        quality: 2
-  source: wiktionary-frequency
-- word: de weg
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: utat
-        quality: 2
-  source: wiktionary-frequency
 - word: deadline
   ipa: /ˈdɛt.lɑi̯n/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: valamivel
-        quality: 2
     en:
       definitions:
       - text: deadline
         quality: 5
-  source: wiktionary-frequency
-- word: Debrecen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: megmaradt
-        quality: 2
-  source: wiktionary-frequency
-- word: debreceni
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: egymásnak
-        quality: 2
   source: wiktionary-frequency
 - word: decadent
   ipa: ''
@@ -957,10 +671,6 @@
   ipa: /deːˈsɛmbər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: december
-        quality: 2
     en:
       definitions:
       - text: December
@@ -983,10 +693,6 @@
   ipa: /deːt/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: tette
-        quality: 2
     en:
       definitions:
       - text: singular past indicative of doen
@@ -1013,10 +719,6 @@
   ipa: /deːl/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: egyértelmű
-        quality: 2
     en:
       definitions:
       - text: part, piece
@@ -1030,24 +732,10 @@
       - text: second-person singular present indicative
         quality: 5
   source: wiktionary-frequency
-- word: deel van
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: része
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: deel
 - word: deelname
   ipa: /ˈdeːlˌnaː.mə/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: járnak
-        quality: 2
     en:
       definitions:
       - text: participation
@@ -1059,10 +747,6 @@
   ipa: /ˈdeːlneːmə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: részt
-        quality: 2
     en:
       definitions:
       - text: to take part, to partake, to participate
@@ -1072,10 +756,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: ritka
-        quality: 2
     en:
       definitions:
       - text: plural of deelnemer
@@ -1099,10 +779,6 @@
   ipa: /deːns/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: arányos
-        quality: 2
     en:
       definitions:
       - text: Danish (pertaining to Denmark or Danes)
@@ -1114,10 +790,6 @@
   ipa: /ˌdeː.fiˈni.(t)si/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: régió
-        quality: 2
     en:
       definitions:
       - text: definition (i.e. statement of the meaning of a term)
@@ -1127,10 +799,6 @@
   ipa: /ˌdeː.fi.niˈtif/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: hülye
-        quality: 2
     en:
       definitions:
       - text: definitive, conclusive
@@ -1188,10 +856,6 @@
   ipa: /ˌdeː.moː.kraːˈ(t)si/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: esetek
-        quality: 2
     en:
       definitions:
       - text: democracy
@@ -1201,10 +865,6 @@
   ipa: /deːmoːˈkraːtis/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: amelyre
-        quality: 2
     en:
       definitions:
       - text: democratic
@@ -1229,10 +889,6 @@
   ipa: /ˈdɛŋk.baːr/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: szeretnéd
-        quality: 2
     en:
       definitions:
       - text: conceivable, thinkable
@@ -1242,10 +898,6 @@
   ipa: /ˈdɛŋkə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: hisz
-        quality: 2
     en:
       definitions:
       - text: to think
@@ -1271,10 +923,6 @@
   ipa: /ˈdɛr.də/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: harmadik
-        quality: 2
     en:
       definitions:
       - text: third
@@ -1288,10 +936,6 @@
   ipa: /ˈdɛr.ɣə.lə.kə/
   pos: det
   translations:
-    hu:
-      definitions:
-      - text: ilyen
-        quality: 2
     en:
       definitions:
       - text: 'inflection of dergelijk:'
@@ -1322,33 +966,15 @@
   ipa: /ˈdɛr.təx/
   pos: num
   translations:
-    hu:
-      definitions:
-      - text: leveleket
-        quality: 2
     en:
       definitions:
       - text: thirty
         quality: 5
   source: wiktionary-frequency
-- word: design verandering
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ismételt
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: design
 - word: deskundige
   ipa: /dɛsˈkʏn.də.ɣə/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: labdát
-        quality: 2
     en:
       definitions:
       - text: 'inflection of deskundig:'
@@ -1366,10 +992,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: fekszik
-        quality: 2
     en:
       definitions:
       - text: plural of detail
@@ -1420,10 +1042,6 @@
   ipa: /ˈdeːzə/
   pos: det
   translations:
-    hu:
-      definitions:
-      - text: ezek
-        quality: 2
     en:
       definitions:
       - text: this; referring to a thing or a person closer by.
@@ -1439,10 +1057,6 @@
   ipa: /dəˈzɛlf.də/
   pos: det
   translations:
-    hu:
-      definitions:
-      - text: azonos
-        quality: 2
     en:
       definitions:
       - text: the same
@@ -1450,24 +1064,10 @@
       - text: the same
         quality: 5
   source: wiktionary-frequency
-- word: dezelfde manier
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: munkaügyi
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dezelfde
 - word: dialoog
   ipa: /ˌdi.aːˈloːx/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: rendbe
-        quality: 2
     en:
       definitions:
       - text: dialogue, conversation or other discourse between two interlocutors
@@ -1477,10 +1077,6 @@
   ipa: /ˈdi.aːˌmeː.tər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: interjút
-        quality: 2
     en:
       definitions:
       - text: diameter (length of diametrical chord)
@@ -1492,10 +1088,6 @@
   ipa: /dɪxt/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: telken
-        quality: 2
     en:
       definitions:
       - text: closed, shut
@@ -1513,10 +1105,6 @@
   ipa: /dɪxtˈbɛi̯/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: közel
-        quality: 2
     en:
       definitions:
       - text: close, nearby
@@ -1541,10 +1129,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: közelebb
-        quality: 2
     en:
       definitions:
       - text: comparative degree of dichtbij
@@ -1554,10 +1138,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: kis
-        quality: 2
     en:
       definitions:
       - text: 'inflection of dichtstbijzijnd:'
@@ -1575,10 +1155,6 @@
   ipa: /di/
   pos: det
   translations:
-    hu:
-      definitions:
-      - text: azok
-        quality: 2
     en:
       definitions:
       - text: that; referring to a thing or a person further away.
@@ -1592,24 +1168,10 @@
       - text: those (ones) (plural)
         quality: 5
   source: wiktionary-frequency
-- word: die dag
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: évében
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dag
 - word: dienen
   ipa: /ˈdinə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: hihetetlenül
-        quality: 2
     en:
       definitions:
       - text: to serve
@@ -1636,32 +1198,15 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szolgáltatások
-        quality: 2
     en:
       definitions:
       - text: plural of dienst
         quality: 5
   source: wiktionary-frequency
-- word: dienstverleners
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: egyesek
-        quality: 2
-  source: wiktionary-frequency
 - word: diep
   ipa: /dip/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: mély
-        quality: 2
     en:
       definitions:
       - text: deep, down low
@@ -1679,10 +1224,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: küzd
-        quality: 2
     en:
       definitions:
       - text: comparative degree of diep
@@ -1692,10 +1233,6 @@
   ipa: /dir/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: állat
-        quality: 2
     en:
       definitions:
       - text: animal (any member of the kingdom Animalia)
@@ -1709,10 +1246,6 @@
   ipa: /ˈdiː.rə(n)/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: állatok
-        quality: 2
     en:
       definitions:
       - text: plural of dier
@@ -1724,10 +1257,6 @@
   ipa: /ˈdiː.rə(n)ˌɑrts/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: ponttal
-        quality: 2
     en:
       definitions:
       - text: a veterinarian; mostly used for one treating pets
@@ -1747,10 +1276,6 @@
   ipa: /ˌdi.ɣiˈtaːl/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: digitális
-        quality: 2
     en:
       definitions:
       - text: digital (representing values as discrete, usually binary, numbers)
@@ -1764,10 +1289,6 @@
   ipa: /dɪk/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: PHP
-        quality: 2
     en:
       definitions:
       - text: thick
@@ -1785,10 +1306,6 @@
   ipa: /dɪŋ/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: dolog
-        quality: 2
     en:
       definitions:
       - text: matter, thing
@@ -1806,10 +1323,6 @@
   ipa: /ˈdɪŋə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: dolgok
-        quality: 2
     en:
       definitions:
       - text: to solicit
@@ -1834,33 +1347,15 @@
   ipa: /ˈdɪns.dɑx/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: ura
-        quality: 2
     en:
       definitions:
       - text: Tuesday
         quality: 5
   source: wiktionary-frequency
-- word: diploma uitreiking
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: irányító
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: diploma
 - word: direct
   ipa: /diˈrɛkt/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: azonnal
-        quality: 2
     en:
       definitions:
       - text: direct, immediate
@@ -1874,10 +1369,6 @@
   ipa: /ˌdi.rɛkˈtøːr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: felügyelet
-        quality: 2
     en:
       definitions:
       - text: director, manager (in a company), general manager, CEO (or at a lower (e.g., branch) level)
@@ -1910,10 +1401,6 @@
   ipa: /ˌdɪ.si.pliˈnɛːr/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: létszám
-        quality: 2
     en:
       definitions:
       - text: disciplinary (pertaining to sanction, discipline)
@@ -1923,10 +1410,6 @@
   ipa: /ˌdɪsˈkʏ.si/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: tanácsot
-        quality: 2
     en:
       definitions:
       - text: discussion, debate
@@ -1936,10 +1419,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: vállalni
-        quality: 2
     en:
       definitions:
       - text: plural of discussie
@@ -1949,10 +1428,6 @@
   ipa: /dɪt/
   pos: det
   translations:
-    hu:
-      definitions:
-      - text: ez
-        quality: 2
     en:
       definitions:
       - text: neuter singular of deze (“this”); referring to a thing or a person closer by.
@@ -1962,23 +1437,10 @@
       - text: a diminutive of the female given name Dirkje
         quality: 5
   source: wiktionary-frequency
-- word: doctoraal
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: nyújtanak
-        quality: 2
-  source: wiktionary-frequency
 - word: document
   ipa: /ˌdoː.kyˈmɛnt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: mindenki
-        quality: 2
     en:
       definitions:
       - text: document
@@ -1988,10 +1450,6 @@
   ipa: /ˌdoːkymɛnˈtaː(t)si/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: nyugat
-        quality: 2
     en:
       definitions:
       - text: documentation (documents that explain the operation of a particular software program)
@@ -2001,10 +1459,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kint
-        quality: 2
     en:
       definitions:
       - text: plural of document
@@ -2014,33 +1468,15 @@
   ipa: /ˈdoː.də.lək/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: ismerik
-        quality: 2
     en:
       definitions:
       - text: deadly, lethal, mortal, fatal (causing death)
         quality: 5
   source: wiktionary-frequency
-- word: doe het
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: műanyag
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: doe
 - word: doel
   ipa: /dul/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: célra
-        quality: 2
     en:
       definitions:
       - text: aim, purpose
@@ -2081,10 +1517,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: akartak
-        quality: 2
     en:
       definitions:
       - text: plural of doeleinde
@@ -2094,10 +1526,6 @@
   ipa: /ˈdulə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: linkre
-        quality: 2
     en:
       definitions:
       - text: to aim
@@ -2111,10 +1539,6 @@
   ipa: /ˈdul.ʋɪt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: cél
-        quality: 2
     en:
       definitions:
       - text: target (something or someone at which one aims), prey
@@ -2124,10 +1548,6 @@
   ipa: ''
   pos: name
   translations:
-    hu:
-      definitions:
-      - text: gyűjtött
-        quality: 2
     en:
       definitions:
       - text: the Russian State Duma
@@ -2137,10 +1557,6 @@
   ipa: /dun/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: teszi
-        quality: 2
     en:
       definitions:
       - text: to do
@@ -2173,10 +1589,6 @@
   ipa: /ˈdɔk.tər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: orvos
-        quality: 2
     en:
       definitions:
       - text: doctor (physician, medical doctor)
@@ -2186,10 +1598,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: igények
-        quality: 2
     en:
       definitions:
       - text: plural of dokter
@@ -2223,10 +1631,6 @@
   ipa: /ˈdɔlɑr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: művészeti
-        quality: 2
     en:
       definitions:
       - text: dollar (currency, especially the US dollar)
@@ -2236,10 +1640,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: előtt
-        quality: 2
     en:
       definitions:
       - text: plural of dollar
@@ -2249,10 +1649,6 @@
   ipa: /dɔm/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: állapot
-        quality: 2
     en:
       definitions:
       - text: dumb, brainless
@@ -2316,10 +1712,6 @@
   ipa: /ˈdoːnɑu̯/
   pos: name
   translations:
-    hu:
-      definitions:
-      - text: Dávid
-        quality: 2
     en:
       definitions:
       - text: Danube (a river in Europe; flowing 2,850 kilometers from the confluence of the Breg and Brigach at Donaueschingen,
@@ -2353,10 +1745,6 @@
   ipa: /ˈdɔndərˌdɑx/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: Franciaország
-        quality: 2
     en:
       definitions:
       - text: Thursday
@@ -2398,10 +1786,6 @@
   ipa: /ˈdɔŋ.kər/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: sötét
-        quality: 2
     en:
       definitions:
       - text: dark
@@ -2424,10 +1808,6 @@
   ipa: /doːt/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: halál
-        quality: 2
     en:
       definitions:
       - text: dead
@@ -2474,10 +1854,6 @@
   ipa: /doːr/
   pos: prep
   translations:
-    hu:
-      definitions:
-      - text: által
-        quality: 2
     en:
       definitions:
       - text: through
@@ -2491,16 +1867,6 @@
       - text: forward, on
         quality: 5
   source: wiktionary-frequency
-- word: Door dit
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ifjúsági
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dit
 - word: doordringen
   ipa: /ˌdoːrˈdrɪŋə(n)/
   pos: verb
@@ -2520,25 +1886,11 @@
   ipa: /ˈdoːrɣaːn/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: fejléceit
-        quality: 2
     en:
       definitions:
       - text: to go through (with), to proceed, to continue
         quality: 5
   source: wiktionary-frequency
-- word: doorgaan met
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: továbbra
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: doorgaan
 - word: doorgroeimogeleijkheid
   ipa: ''
   pos: ''
@@ -2606,10 +1958,6 @@
   ipa: /ˌdoːrˈzɪx.təx/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: világos
-        quality: 2
     en:
       definitions:
       - text: transparent
@@ -2619,10 +1967,6 @@
   ipa: /doːs/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kimaradt
-        quality: 2
     en:
       definitions:
       - text: box
@@ -2638,10 +1982,6 @@
   ipa: /dɔrp/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: falu
-        quality: 2
     en:
       definitions:
       - text: village, small settlement
@@ -2655,10 +1995,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: ösztöndíj
-        quality: 2
     en:
       definitions:
       - text: plural of dorp
@@ -2668,10 +2004,6 @@
   ipa: /ˈdoː.zɪs/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: feltéve
-        quality: 2
     en:
       definitions:
       - text: dose
@@ -2698,23 +2030,10 @@
       - text: plural of dove
         quality: 5
   source: bepaalde dag in het leven van idereen
-- word: downloadbaar
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: helyszínen
-        quality: 2
-  source: wiktionary-frequency
 - word: downloaden
   ipa: /ˈdɑu̯nloːdə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: kereső
-        quality: 2
     en:
       definitions:
       - text: to download
@@ -2724,10 +2043,6 @@
   ipa: /doːˈzɛi̯n/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szabályozó
-        quality: 2
     en:
       definitions:
       - text: dozen, twelve
@@ -2758,10 +2073,6 @@
   ipa: /draːx/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: hatalmat
-        quality: 2
     en:
       definitions:
       - text: 'inflection of dragen:'
@@ -2775,24 +2086,10 @@
       - text: 'inflection of dragen:'
         quality: 5
   source: wiktionary-frequency
-- word: draag zorg voor
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kérünk
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: draag
 - word: draagbaar
   ipa: /ˈdraːx.baːr/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: éli
-        quality: 2
     en:
       definitions:
       - text: portable
@@ -2800,26 +2097,6 @@
       - text: stretcher, bier
         quality: 5
   source: wiktionary-frequency
-- word: draagt ​​bij
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: pláne
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: draagt
-- word: draaide zich om
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: fordult
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: draaide
 - word: draak
   ipa: /draːk/
   pos: noun
@@ -2845,10 +2122,6 @@
   ipa: /ˈdraː.maː/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kiváltó
-        quality: 2
     en:
       definitions:
       - text: drama (theatrical work; anything involving play acting)
@@ -2860,10 +2133,6 @@
   ipa: /ˌdraːˈmaː.tis/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: belépési
-        quality: 2
     en:
       definitions:
       - text: dramatic, pertaining to drama
@@ -2955,10 +2224,6 @@
   ipa: /dri/
   pos: num
   translations:
-    hu:
-      definitions:
-      - text: három
-        quality: 2
     en:
       definitions:
       - text: three
@@ -2966,16 +2231,6 @@
       - text: a hamlet in Ermelo, Gelderland, Netherlands
         quality: 5
   source: wiktionary-frequency
-- word: drie keer
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: eredeti
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: drie
 - word: driedubbel
   ipa: ''
   pos: ''
@@ -3024,10 +2279,6 @@
   ipa: /ˈdrɪŋkə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: évtizedben
-        quality: 2
     en:
       definitions:
       - text: to drink, consume a liquid
@@ -3054,10 +2305,6 @@
   ipa: /droːx/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: kijelölt
-        quality: 2
     en:
       definitions:
       - text: dry (not wet)
@@ -3075,10 +2322,6 @@
   ipa: /ˈdroːx.tə/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szerző
-        quality: 2
     en:
       definitions:
       - text: drought
@@ -3088,10 +2331,6 @@
   ipa: /droːm/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: voltál
-        quality: 2
     en:
       definitions:
       - text: dream
@@ -3133,10 +2372,6 @@
   ipa: /drʏk/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: megállapítása
-        quality: 2
     en:
       definitions:
       - text: pressure
@@ -3150,16 +2385,6 @@
       - text: busy, preoccupied (of a person)
         quality: 5
   source: wiktionary-frequency
-- word: druk op
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: versenyt
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: druk
 - word: drukverschil
   ipa: ''
   pos: ''
@@ -3173,10 +2398,6 @@
   ipa: /ˈdʏ.bəl/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: kettős
-        quality: 2
     en:
       definitions:
       - text: double, twofold
@@ -3190,10 +2411,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: magazin
-        quality: 2
     en:
       definitions:
       - text: 'inflection of dubbel:'
@@ -3211,10 +2428,6 @@
   ipa: /ˈdœy̯.də.lək/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: egyértelműen
-        quality: 2
     en:
       definitions:
       - text: clear, precise
@@ -3224,24 +2437,10 @@
       - text: clearly
         quality: 5
   source: wiktionary-frequency
-- word: duidt op
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: jelzi
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: duidt
 - word: duiken
   ipa: /ˈdœy̯kə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: közismert
-        quality: 2
     en:
       definitions:
       - text: to dive
@@ -3264,10 +2463,6 @@
   ipa: /ˈdœy̯stərˌnɪs/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: gépkocsi
-        quality: 2
     en:
       definitions:
       - text: darkness
@@ -3277,10 +2472,6 @@
   ipa: /ˈdœy̯t.sə/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: német
-        quality: 2
     en:
       definitions:
       - text: German woman
@@ -3298,10 +2489,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: parti
-        quality: 2
     en:
       definitions:
       - text: plural of Duitser
@@ -3311,10 +2498,6 @@
   ipa: /ˈdœy̯ts.lɑnt/
   pos: name
   translations:
-    hu:
-      definitions:
-      - text: válaszol
-        quality: 2
     en:
       definitions:
       - text: Germany (a country in Central Europe, formed in 1949 as West Germany, with its provisional capital Bonn until
@@ -3325,10 +2508,6 @@
   ipa: /ˈdœy̯vəl/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: fát
-        quality: 2
     en:
       definitions:
       - text: devil
@@ -3351,10 +2530,6 @@
   ipa: /ˈdœy̯.zənt/
   pos: num
   translations:
-    hu:
-      definitions:
-      - text: ezer
-        quality: 2
     en:
       definitions:
       - text: thousand
@@ -3366,10 +2541,6 @@
   ipa: /dʏn/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: teljesen
-        quality: 2
     en:
       definitions:
       - text: thin, slender
@@ -3397,10 +2568,6 @@
   ipa: /ˈdʏs.vɛr/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: eddig
-        quality: 2
     en:
       definitions:
       - text: thus far
@@ -3410,10 +2577,6 @@
   ipa: /dyr/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: drága
-        quality: 2
     en:
       definitions:
       - text: expensive, dear
@@ -3431,10 +2594,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: táblázatban
-        quality: 2
     en:
       definitions:
       - text: comparative degree of duur
@@ -3444,10 +2603,6 @@
   ipa: /ˈdyːr.zaːm/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: érhető
-        quality: 2
     en:
       definitions:
       - text: durable
@@ -3459,10 +2614,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: vettük
-        quality: 2
     en:
       definitions:
       - text: 'inflection of duurzaam:'
@@ -3480,10 +2631,6 @@
   ipa: /ˈdyu̯ə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: jövőbeni
-        quality: 2
     en:
       definitions:
       - text: to push
@@ -3493,10 +2640,6 @@
   ipa: /deː.veːˈdeː/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: képezi
-        quality: 2
     en:
       definitions:
       - text: DVD
@@ -3506,10 +2649,6 @@
   ipa: /dʋaːs/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: szabadságharc
-        quality: 2
     en:
       definitions:
       - text: foolish, stupid
@@ -3535,10 +2674,6 @@
   ipa: /dʋɛrx/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: reneszánsz
-        quality: 2
     en:
       definitions:
       - text: dwarf (small human; small specimen, breed or species of animal)
@@ -3550,10 +2685,6 @@
   ipa: /ˈdʋɪŋə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: szoros
-        quality: 2
     en:
       definitions:
       - text: to force, coerce (someone)
@@ -3567,10 +2698,6 @@
   ipa: /ˌdiˈnaː.mis/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: kémiai
-        quality: 2
     en:
       definitions:
       - text: dynamic
@@ -3585,36 +2712,6 @@
       - text: izomsorvadás
         quality: 3
   source: na de bevrijding
-- word: het hele ding
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: érezte
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: ding
-- word: hij dacht
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: dolgozat
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dacht
-- word: hij denkt
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: gondolja
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: denkt
 - word: hij doet rechten in London
   ipa: ''
   pos: ''
@@ -3635,216 +2732,6 @@
         quality: 3
   source: mondeling 3
   expression_of: doofpot
-- word: ik dacht
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: gondoltam
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dacht
-- word: ik deed
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: interface
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: deed
-- word: Ik denk het wel
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szerintem
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: denk
-- word: Ik doe
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: játszó
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: doe
-- word: in dat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: abban
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dat
-- word: In de dagen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: napokban
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dagen
-- word: in december
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: műtét
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: december
-- word: in detail
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: jogszabály
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: detail
-- word: in deze
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ebben
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: deze
-- word: in Duitsland
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szilárd
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: duitsland
-- word: in het donker
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: átadott
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: donker
-- word: in het dorp
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kormány
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dorp
-- word: jij denkt
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: fogadja
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: denkt
-- word: met dank aan
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mindezt
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dank
-- word: met dat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: azzal
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dat
-- word: met de deelname van
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: jöttem
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: deelname
-- word: met deze
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: problémákat
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: deze
-- word: naar daar
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: arra
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: daar
-- word: naar deze
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: jövök
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: deze
-- word: naar een dokter
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: meglepően
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dokter
-- word: of de
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: fogni
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: de
 - word: onder dwang
   ipa: ''
   pos: ''
@@ -3855,86 +2742,6 @@
         quality: 3
   source: Knack+NVA
   expression_of: dwang
-- word: ons doel
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: örömmel
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: doel
-- word: op dat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ahhoz
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dat
-- word: op de deur
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: témakörben
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: deur
-- word: Op deze
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ennél
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: deze
-- word: op dezelfde manier
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hasonlóan
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dezelfde
-- word: op dinsdag
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: minimális
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dinsdag
-- word: op dit
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ezen
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dit
-- word: op donderdag
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: azóta
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: donderdag
 - word: op dreef komen
   ipa: ''
   pos: ''
@@ -3955,250 +2762,16 @@
         quality: 3
   source: de pauw - werk
   expression_of: dreef
-- word: over deze
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: középpontjában
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: deze
-- word: over dingen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: bekövetkező
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dingen
-- word: Te doen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tenni
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: doen
-- word: tijdens de Dag
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: nappal
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dag
 - word: tot dan
   ipa: /tɔ(t)ˈdɑn/
   pos: intj
   translations:
-    hu:
-      definitions:
-      - text: addig
-        quality: 2
     en:
       definitions:
       - text: see you later (referring to a specific moment in time when one expects to meet or communicate again)
         quality: 5
   source: wiktionary-frequency
   expression_of: dan
-- word: tot de dood
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hal
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dood
-- word: van dat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: attól
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dat
-- word: van de dag
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: állás
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dag
-- word: van deze
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ettől
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: deze
-- word: van dit
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ennek
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dit
-- word: voor dames
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hangulata
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dames
-- word: voor deze
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: erre
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: deze
-- word: Voor dit doeleinde
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kávéra
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: doeleinde
-- word: we denken
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: főre
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: denken
-- word: we zijn aan het doen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: panasz
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: doen
-- word: wij doen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kedvem
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: doen
-- word: ze dachten
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hetek
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dachten
-- word: ze deden
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: források
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: deden
-- word: ze denken
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: elv
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: denken
-- word: ze draaien
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: utakon
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: draaien
-- word: zij doen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: teszik
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: doen
-- word: zij dragen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kíváncsiak
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dragen
-- word: zijn dochter
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: liberális
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dochter
-- word: zijn doel
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: célja
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: doel
 - word: zijn doel verwezenlijken
   ipa: ''
   pos: ''
@@ -4209,33 +2782,3 @@
         quality: 3
   source: het diner
   expression_of: doel
-- word: zijn dood
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: energia
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dood
-- word: zijn druk
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: nehezebb
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: druk
-- word: zonder dat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: anélkül
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: dat

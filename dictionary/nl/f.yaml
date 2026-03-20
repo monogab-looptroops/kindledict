@@ -8,23 +8,10 @@
         quality: 3
   source: Knack+NVA
   expression_of: federale
-- word: fabricage
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: utólagos
-        quality: 2
-  source: wiktionary-frequency
 - word: fabriek
   ipa: /faːˈbrik/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: feltételeket
-        quality: 2
     en:
       definitions:
       - text: factory
@@ -34,10 +21,6 @@
   ipa: /faː.briˈkɑnt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: célszerű
-        quality: 2
     en:
       definitions:
       - text: manufacturer
@@ -47,10 +30,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: farkas
-        quality: 2
     en:
       definitions:
       - text: plural of fabrikant
@@ -60,10 +39,6 @@
   ipa: /ˌfaː.si.liˈtɛi̯t/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: Proper Nouns
-        quality: 2
     en:
       definitions:
       - text: facility, the physical means or contrivances to make something (especially a public service) possible; the required
@@ -76,10 +51,6 @@
   ipa: /ˈfɑk.tɔr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: teli
-        quality: 2
     en:
       definitions:
       - text: a factor, element
@@ -93,10 +64,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: írott
-        quality: 2
     en:
       definitions:
       - text: plural of factor
@@ -106,10 +73,6 @@
   ipa: /fɑkˈtyːr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: számmal
-        quality: 2
     en:
       definitions:
       - text: invoice
@@ -132,10 +95,6 @@
   ipa: /faːˈmi.li/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: családi
-        quality: 2
     en:
       definitions:
       - text: relatives (extended kin)
@@ -149,10 +108,6 @@
   ipa: /faːˈmi.liˌlɪt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: levele
-        quality: 2
     en:
       definitions:
       - text: relative, family member
@@ -162,10 +117,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kapják
-        quality: 2
     en:
       definitions:
       - text: plural of fan
@@ -175,10 +126,6 @@
   ipa: /fɑnˈtɑs.tis/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: nyomtatott
-        quality: 2
     en:
       definitions:
       - text: fantastic, great
@@ -207,10 +154,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: kedvenc
-        quality: 2
     en:
       definitions:
       - text: 'inflection of favoriet:'
@@ -228,10 +171,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: tartalmaznak
-        quality: 2
     en:
       definitions:
       - text: abbreviation of februari (“February”)
@@ -241,10 +180,6 @@
   ipa: /ˌfeː.bryˈaː.ri/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: február
-        quality: 2
     en:
       definitions:
       - text: February
@@ -254,10 +189,6 @@
   ipa: /ˌfeː.dəˈraːl/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: javítani
-        quality: 2
     en:
       definitions:
       - text: federal
@@ -267,10 +198,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: igazad
-        quality: 2
     en:
       definitions:
       - text: festive
@@ -280,10 +207,6 @@
   ipa: /ˈfeːstə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: beszélgetés
-        quality: 2
     en:
       definitions:
       - text: to party, to celebrate
@@ -308,10 +231,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: cím
-        quality: 2
     en:
       definitions:
       - text: actual
@@ -327,10 +246,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: követve
-        quality: 2
     en:
       definitions:
       - text: plural of feit
@@ -340,10 +255,6 @@
   ipa: /fɛl/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: alább
-        quality: 2
     en:
       definitions:
       - text: bright, shiny (e.g. sunlight)
@@ -359,10 +270,6 @@
   ipa: /feː.noːˈmeːn/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szoktam
-        quality: 2
     en:
       definitions:
       - text: phenomenon (observable event)
@@ -374,10 +281,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: hazafelé
-        quality: 2
     en:
       definitions:
       - text: plural of fenomeen
@@ -396,10 +299,6 @@
   ipa: /ˈfɛs.tiˌvɑl/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: törvényes
-        quality: 2
     en:
       definitions:
       - text: a festival (festive event or gathering)
@@ -418,10 +317,6 @@
   ipa: /fits/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: hajnalban
-        quality: 2
     en:
       definitions:
       - text: bicycle
@@ -439,10 +334,6 @@
   ipa: /fiˈɣyːr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: belépés
-        quality: 2
     en:
       definitions:
       - text: figure, shape
@@ -485,10 +376,6 @@
   ipa: /fɪlm/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: film
-        quality: 2
     en:
       definitions:
       - text: a film, thin layer or membrane; especially the physical medium film
@@ -502,10 +389,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: alapul
-        quality: 2
     en:
       definitions:
       - text: plural of film
@@ -515,10 +398,6 @@
   ipa: /ˌfi.loː.soːˈfi/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: hozzád
-        quality: 2
     en:
       definitions:
       - text: philosophy
@@ -528,10 +407,6 @@
   ipa: /ˌfiloːˈsoːfis/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: maradék
-        quality: 2
     en:
       definitions:
       - text: philosophical
@@ -541,10 +416,6 @@
   ipa: /fiˈnaːlə/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: alapuló
-        quality: 2
     en:
       definitions:
       - text: a final, e.g. the end-round in a competition
@@ -562,10 +433,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: pénzügyi
-        quality: 2
     en:
       definitions:
       - text: financial
@@ -575,10 +442,6 @@
   ipa: /ˈfi.nɑn.siː.rɪŋ/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: létezett
-        quality: 2
     en:
       definitions:
       - text: financing, funding
@@ -588,10 +451,6 @@
   ipa: /fɪns/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: egyforma
-        quality: 2
     en:
       definitions:
       - text: Finnish
@@ -658,10 +517,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: színvonalú
-        quality: 2
     en:
       definitions:
       - text: flexible, pliable
@@ -783,15 +638,6 @@
         tr: egyáltalán nem érdekel az engem
   source: na de aardbeveging
   expression_of: foeteren
-- word: fondsen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hírű
-        quality: 2
-  source: wiktionary-frequency
 - word: fondsenwerver
   ipa: ''
   pos: ''
@@ -835,23 +681,10 @@
       - text: általány
         quality: 3
   source: contract
-- word: forintra
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kezdenek
-        quality: 2
-  source: wiktionary-frequency
 - word: formaat
   ipa: /fɔrˈmaːt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: méretű
-        quality: 2
     en:
       definitions:
       - text: size
@@ -865,10 +698,6 @@
   ipa: /fɔrˈmeːl/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: jelentések
-        quality: 2
     en:
       definitions:
       - text: formal
@@ -880,10 +709,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: nemrég
-        quality: 2
     en:
       definitions:
       - text: 'inflection of formuleren:'
@@ -912,10 +737,6 @@
   ipa: /ˈfoː.rʏm/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: fórum
-        quality: 2
     en:
       definitions:
       - text: forum (ancient Roman marketplace)
@@ -929,10 +750,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: történtek
-        quality: 2
     en:
       definitions:
       - text: plural of forum
@@ -942,10 +759,6 @@
   ipa: /ˈfoː.toː/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: rájöttem
-        quality: 2
     en:
       definitions:
       - text: photo, photograph
@@ -955,10 +768,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: ötletet
-        quality: 2
     en:
       definitions:
       - text: plural of foto
@@ -968,10 +777,6 @@
   ipa: /fɑu̯t/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: hiba
-        quality: 2
     en:
       definitions:
       - text: error, mistake
@@ -989,10 +794,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: ügyvezető
-        quality: 2
     en:
       definitions:
       - text: plural of fout
@@ -1027,32 +828,15 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: közszolgálati
-        quality: 2
     en:
       definitions:
       - text: plural of frame
         quality: 5
   source: wiktionary-frequency
-- word: franc
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szerkesztés
-        quality: 2
-  source: wiktionary-frequency
 - word: Frankrijk
   ipa: /ˈfrɑŋk.rɛi̯k/
   pos: name
   translations:
-    hu:
-      definitions:
-      - text: alfa
-        quality: 2
     en:
       definitions:
       - text: France (a country located primarily in Western Europe)
@@ -1066,10 +850,6 @@
   ipa: /frɑns/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: francia
-        quality: 2
     en:
       definitions:
       - text: French
@@ -1083,10 +863,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: morális
-        quality: 2
     en:
       definitions:
       - text: frequency (rate of occurrence of anything)
@@ -1111,10 +887,6 @@
   ipa: /frœy̯t/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: vizek
-        quality: 2
     en:
       definitions:
       - text: fruit (produced by trees or bushes, or any sweet vegetable; only literal sense)
@@ -1126,24 +898,10 @@
       - text: imperative
         quality: 5
   source: wiktionary-frequency
-- word: ft / db
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ft/db
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: ft
 - word: functie
   ipa: /ˈfʏŋk.(t)si/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: amin
-        quality: 2
     en:
       definitions:
       - text: job, position
@@ -1161,10 +919,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: győri
-        quality: 2
     en:
       definitions:
       - text: plural of functie
@@ -1174,10 +928,6 @@
   ipa: ''
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: ebéd
-        quality: 2
     en:
       definitions:
       - text: functionally
@@ -1189,10 +939,6 @@
   ipa: /ˌfʏn.daːˌmɛnt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: alapítvány
-        quality: 2
     en:
       definitions:
       - text: basis
@@ -1239,10 +985,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: fehér
-        quality: 2
     en:
       definitions:
       - text: physics (branch of science)
@@ -1252,10 +994,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: fizikai
-        quality: 2
     en:
       definitions:
       - text: physical (in the sense of Physical Education)
@@ -1315,66 +1053,12 @@
   ipa: ''
   pos: prep_phrase
   translations:
-    hu:
-      definitions:
-      - text: sőt
-        quality: 2
     en:
       definitions:
       - text: in fact
         quality: 5
   source: wiktionary-frequency
   expression_of: feite
-- word: in focus
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: találkozót
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: focus
-- word: In Frankrijk
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: elfogadják
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: frankrijk
-- word: met een foto
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: menedzser
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: foto
-- word: naar het forum
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: beszélünk
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: forum
-- word: op de foto
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: vékony
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: foto
 - word: zich futloos voelen
   ipa: ''
   pos: ''

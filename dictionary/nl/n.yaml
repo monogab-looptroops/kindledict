@@ -2,10 +2,6 @@
   ipa: /ˈsnɑx(t)s/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: hangot
-        quality: 2
     en:
       definitions:
       - text: during the night, in the night, at night
@@ -32,114 +28,10 @@
         quality: 3
   source: het diner
   expression_of: netwerk
-- word: hij noemde
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tanulói
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: noemde
-- word: in de nabije toekomst
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: válaszul
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: nabije
-- word: in de nasleep van
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: nyomán
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: nasleep
-- word: in de natuur
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: képviselt
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: natuur
-- word: in de nederzetting
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: megpróbálom
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: nederzetting
-- word: in november
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: dalok
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: november
-- word: in zijn naam
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: működés
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: naam
-- word: je neemt
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: gépeket
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: neemt
-- word: met een naam
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: landol
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: naam
-- word: met niets
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: csinálta
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: niets
 - word: na
   ipa: /naː/
   pos: prep
   translations:
-    hu:
-      definitions:
-      - text: után
-        quality: 2
     en:
       definitions:
       - text: after
@@ -181,10 +73,6 @@
   ipa: /naːm/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: neve
-        quality: 2
     en:
       definitions:
       - text: name
@@ -192,24 +80,10 @@
       - text: reputation
         quality: 5
   source: wiktionary-frequency
-- word: naam dagen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: lenyűgöző
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: naam
 - word: naar
   ipa: /naːr/
   pos: prep
   translations:
-    hu:
-      definitions:
-      - text: felé
-        quality: 2
     en:
       definitions:
       - text: to, towards in time, space, consequence, purpose etc.
@@ -225,10 +99,6 @@
   ipa: /naːst/
   pos: prep
   translations:
-    hu:
-      definitions:
-      - text: mellett
-        quality: 2
     en:
       definitions:
       - text: beside, next to
@@ -242,16 +112,6 @@
       - text: first/second/third-person singular present indicative
         quality: 5
   source: wiktionary-frequency
-- word: naast mij
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: végeztem
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: naast
 - word: nabijheid
   ipa: ''
   pos: noun
@@ -269,10 +129,6 @@
   ipa: /nɑxt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: éjszaka
-        quality: 2
     en:
       definitions:
       - text: night
@@ -282,10 +138,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: several
-        quality: 2
     en:
       definitions:
       - text: disadvantageous, adverse
@@ -318,10 +170,6 @@
   ipa: /ˈnaː.də.rɪŋ/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kihasználva
-        quality: 2
     en:
       definitions:
       - text: approach
@@ -331,10 +179,6 @@
   ipa: /ˈnaː.drʏk/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: éri
-        quality: 2
     en:
       definitions:
       - text: emphasis
@@ -359,10 +203,6 @@
   ipa: /ˈnaː.ɣəl/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: Csongrád
-        quality: 2
     en:
       definitions:
       - text: a nail (on the fingers or toes)
@@ -385,10 +225,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: vette
-        quality: 2
     en:
       definitions:
       - text: singular past indicative of nemen
@@ -398,10 +234,6 @@
   ipa: /ˈnaː.mə.lək/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: szeme
-        quality: 2
     en:
       definitions:
       - text: namely
@@ -415,10 +247,6 @@
   ipa: /ˈnaː.mə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: termelés
-        quality: 2
     en:
       definitions:
       - text: 'inflection of nemen:'
@@ -436,10 +264,6 @@
   ipa: ''
   pos: prep
   translations:
-    hu:
-      definitions:
-      - text: részéről
-        quality: 2
     en:
       definitions:
       - text: on behalf of
@@ -449,10 +273,6 @@
   ipa: /ˈnaː.mɪˌdɑx/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: délután
-        quality: 2
     en:
       definitions:
       - text: afternoon, between 12 and 6 o'clock
@@ -477,10 +297,6 @@
   ipa: /nɑt/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: betöltött
-        quality: 2
     en:
       definitions:
       - text: wet
@@ -492,10 +308,6 @@
   ipa: /ˈnaː.(t)si/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: iskolában
-        quality: 2
     en:
       definitions:
       - text: nation
@@ -511,10 +323,6 @@
   ipa: /naː(t)ʃoːˈnaːl/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: nemzeti
-        quality: 2
     en:
       definitions:
       - text: national
@@ -524,10 +332,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: munkahelyi
-        quality: 2
     en:
       definitions:
       - text: nationality
@@ -537,10 +341,6 @@
   ipa: /naːˈtyr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: jellegű
-        quality: 2
     en:
       definitions:
       - text: nature
@@ -548,23 +348,10 @@
       - text: character
         quality: 5
   source: wiktionary-frequency
-- word: natuurbescherming
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mellesleg
-        quality: 2
-  source: wiktionary-frequency
 - word: natuurlijk
   ipa: /naːˈtyrlək/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: persze
-        quality: 2
     en:
       definitions:
       - text: naturally
@@ -587,10 +374,6 @@
   ipa: /ˈnɑu̯.ə.ləks/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: ellenzéki
-        quality: 2
     en:
       definitions:
       - text: hardly, barely
@@ -600,10 +383,6 @@
   ipa: /ˌnɑu̯ˈkøː.rəx/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: pontos
-        quality: 2
     en:
       definitions:
       - text: precise, accurate
@@ -648,10 +427,6 @@
   ipa: /ˈnaː.voː/
   pos: name
   translations:
-    hu:
-      definitions:
-      - text: megállapodást
-        quality: 2
     en:
       definitions:
       - text: acronym of Noord-Atlantische Verdragsorganisatie (“NATO”)
@@ -700,10 +475,6 @@
   ipa: /ˈneː.dərˌlɑnts/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: kérlek
-        quality: 2
     en:
       definitions:
       - text: of the Netherlands; Dutch, Netherlandish
@@ -727,10 +498,6 @@
   ipa: /ˈneː.dərˌzɛ.tɪŋ/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: település
-        quality: 2
     en:
       definitions:
       - text: settlement (a territory where a population have established residence)
@@ -740,10 +507,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: Norbi
-        quality: 2
     en:
       definitions:
       - text: plural of nederzetting
@@ -753,10 +516,6 @@
   ipa: /neː/
   pos: intj
   translations:
-    hu:
-      definitions:
-      - text: nem
-        quality: 2
     en:
       definitions:
       - text: 'no'
@@ -766,10 +525,6 @@
   ipa: /neːmt/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: veszi
-        quality: 2
     en:
       definitions:
       - text: 'inflection of nemen:'
@@ -858,10 +613,6 @@
   ipa: /ˌneː.xaːˈtif/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: negatív
-        quality: 2
     en:
       definitions:
       - text: negative
@@ -873,10 +624,6 @@
   ipa: /ˈneː.ɣə(n)/
   pos: num
   translations:
-    hu:
-      definitions:
-      - text: stb
-        quality: 2
     en:
       definitions:
       - text: nine
@@ -909,10 +656,6 @@
   ipa: /ˈnɛi̯.ɣɪŋ/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: bizonyíték
-        quality: 2
     en:
       definitions:
       - text: tendency, inclination
@@ -922,10 +665,6 @@
   ipa: /ˈneːmə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: véve
-        quality: 2
     en:
       definitions:
       - text: to take, to take hold of, to grasp or grab
@@ -959,44 +698,16 @@
   ipa: ''
   pos: conj
   translations:
-    hu:
-      definitions:
-      - text: lépést
-        quality: 2
     en:
       definitions:
       - text: just like
         quality: 5
   source: wiktionary-frequency
   expression_of: net
-- word: net nu
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: indítanak
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: net
-- word: net zo
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mint
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: net
 - word: neten
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kapitány
-        quality: 2
     en:
       definitions:
       - text: plural of neet
@@ -1006,10 +717,6 @@
   ipa: /ˈnɛ.tjəs/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: folytatni
-        quality: 2
     en:
       definitions:
       - text: tidy, neat
@@ -1027,10 +734,6 @@
   ipa: /ˈnɛt.ʋɛrk/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: hálózati
-        quality: 2
     en:
       definitions:
       - text: network (system of interconnected narrow elements)
@@ -1041,15 +744,6 @@
         quality: 5
       - text: social network
         quality: 5
-  source: wiktionary-frequency
-- word: netwerken
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: csatlakozási
-        quality: 2
   source: wiktionary-frequency
 - word: neuriën
   ipa: /ˈnøː.ri.ə(n)/
@@ -1097,10 +791,6 @@
   ipa: /ˈni.mɑnt/
   pos: pron
   translations:
-    hu:
-      definitions:
-      - text: senki
-        quality: 2
     en:
       definitions:
       - text: nobody, no one
@@ -1110,10 +800,6 @@
   ipa: /nit/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: áru
-        quality: 2
     en:
       definitions:
       - text: 'not, no, don''t: used to express negation.'
@@ -1131,10 +817,6 @@
   ipa: /nits/
   pos: pron
   translations:
-    hu:
-      definitions:
-      - text: semmi
-        quality: 2
     en:
       definitions:
       - text: nothing
@@ -1144,10 +826,6 @@
   ipa: ''
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: teljes
-        quality: 2
     en:
       definitions:
       - text: nevertheless, nonetheless
@@ -1157,10 +835,6 @@
   ipa: /niu̯/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: időnként
-        quality: 2
     en:
       definitions:
       - text: new
@@ -1170,10 +844,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: újabb
-        quality: 2
     en:
       definitions:
       - text: comparative degree of nieuw
@@ -1196,10 +866,6 @@
   ipa: /niu̯s/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: hírek
-        quality: 2
     en:
       definitions:
       - text: news
@@ -1211,10 +877,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: amennyiben
-        quality: 2
     en:
       definitions:
       - text: plural of nieuwsbrief
@@ -1224,10 +886,6 @@
   ipa: /ˌniu̯ˈsxiː.rəx/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: kíváncsi
-        quality: 2
     en:
       definitions:
       - text: curious, inquisitive
@@ -1237,10 +895,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: legújabb
-        quality: 2
     en:
       definitions:
       - text: 'inflection of nieuwst, the superlative degree of nieuw:'
@@ -1315,10 +969,6 @@
   ipa: /niˈvoː/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szintű
-        quality: 2
     en:
       definitions:
       - text: level
@@ -1328,10 +978,6 @@
   ipa: /nɔx/
   pos: conj
   translations:
-    hu:
-      definitions:
-      - text: sem
-        quality: 2
     en:
       definitions:
       - text: neither...nor
@@ -1359,34 +1005,16 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: szükség
-        quality: 2
     en:
       definitions:
       - text: to have a need for
         quality: 5
   source: wiktionary-frequency
   expression_of: nodig
-- word: nodig zijn
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kellett
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: nodig
 - word: nog
   ipa: /nɔx/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: még
-        quality: 2
     en:
       definitions:
       - text: still, as before
@@ -1404,10 +1032,6 @@
   ipa: ''
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: mégsem
-        quality: 2
     en:
       definitions:
       - text: not yet
@@ -1418,10 +1042,6 @@
   ipa: /noːit/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: soha
-        quality: 2
     en:
       definitions:
       - text: never
@@ -1431,10 +1051,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: szabályozás
-        quality: 2
     en:
       definitions:
       - text: northern
@@ -1444,10 +1060,6 @@
   ipa: /noːrs/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: valóságot
-        quality: 2
     en:
       definitions:
       - text: Norwegian
@@ -1459,10 +1071,6 @@
   ipa: /nɔrˈmaːl/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: normális
-        quality: 2
     en:
       definitions:
       - text: normal, usual, in accordance with what is common
@@ -1480,10 +1088,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: igyekeztek
-        quality: 2
     en:
       definitions:
       - text: normative
@@ -1493,10 +1097,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: évesek
-        quality: 2
     en:
       definitions:
       - text: plural of norm
@@ -1506,10 +1106,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: erőszakos
-        quality: 2
     en:
       definitions:
       - text: notary
@@ -1519,10 +1115,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: melléklete
-        quality: 2
     en:
       definitions:
       - text: to write down, note
@@ -1532,10 +1124,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: november
-        quality: 2
     en:
       definitions:
       - text: November
@@ -1545,10 +1133,6 @@
   ipa: /ny/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: most
-        quality: 2
     en:
       definitions:
       - text: now, at the present moment
@@ -1560,24 +1144,10 @@
       - text: n (letter of the Greek alphabet)
         quality: 5
   source: wiktionary-frequency
-- word: nu al
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: már
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: nu
 - word: nuchter
   ipa: /ˈnʏx.tər/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: használatra
-        quality: 2
     en:
       definitions:
       - text: empty
@@ -1610,10 +1180,6 @@
   ipa: /ˌny.kleːˈɛːr/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: dátum
-        quality: 2
     en:
       definitions:
       - text: nuclear (pertaining to a nucleus, chiefly of an atom or a cell)
@@ -1623,10 +1189,6 @@
   ipa: /nʏl/
   pos: num
   translations:
-    hu:
-      definitions:
-      - text: harcot
-        quality: 2
     en:
       definitions:
       - text: zero, nought
@@ -1644,10 +1206,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: egyház
-        quality: 2
     en:
       definitions:
       - text: plural of nummer
@@ -1657,10 +1215,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: hasznos
-        quality: 2
     en:
       definitions:
       - text: useful, handy
@@ -1674,16 +1228,6 @@
       - text: imperative
         quality: 5
   source: wiktionary-frequency
-- word: onder de noodzaak van
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: közben
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: noodzaak
 - word: op je nagels bijten
   ipa: ''
   pos: ''
@@ -1698,10 +1242,6 @@
   ipa: /vɑn naːˈtyː.rə/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: természetesen
-        quality: 2
     en:
       definitions:
       - text: naturally, by nature (according to the natural state of affairs; according to the state of nature)
@@ -1710,73 +1250,3 @@
         quality: 5
   source: wiktionary-frequency
   expression_of: nature
-- word: voor niets
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: relatív
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: niets
-- word: voor nu
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: egyelőre
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: nu
-- word: we nemen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hova
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: nemen
-- word: wij namen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: választják
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: namen
-- word: ze noemen mij
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: híre
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: noemen
-- word: ze zijn nieuwsgierig
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: értesítést
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: nieuwsgierig
-- word: zij zijn niet
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: nincsenek
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: niet

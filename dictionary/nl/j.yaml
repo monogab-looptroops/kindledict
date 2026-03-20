@@ -1,71 +1,7 @@
-- word: aan jou
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: önkormányzat
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jou
-- word: dit jaar
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: idén
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jaar
-- word: door jou
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tán
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jou
-- word: in januari
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: alkotni
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: januari
-- word: in jou
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: gyűjteménye
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jou
-- word: in jouw huis
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: sík
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jouw
 - word: ja
   ipa: /jaː/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: igen
-        quality: 2
     en:
       definitions:
       - text: 'yes'
@@ -81,10 +17,6 @@
   ipa: /jaːr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: évi
-        quality: 2
     en:
       definitions:
       - text: year (the time it takes the Earth to circle the Sun; its equivalent on other planets)
@@ -92,24 +24,10 @@
       - text: year (the individuals associated with a year, notably the students in or graduates from an annual class at school)
         quality: 5
   source: wiktionary-frequency
-- word: jaar oud
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: pert
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jaar
 - word: jaarlijks
   ipa: /ˈjaːr.ləks/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: éves
-        quality: 2
     en:
       definitions:
       - text: yearly, annual
@@ -153,10 +71,6 @@
   ipa: /jaːˈpɑn/
   pos: name
   translations:
-    hu:
-      definitions:
-      - text: japán
-        quality: 2
     en:
       definitions:
       - text: Japan (a country and archipelago of East Asia)
@@ -166,53 +80,15 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: éve
-        quality: 2
     en:
       definitions:
       - text: plural of jaar
         quality: 5
   source: wiktionary-frequency
-- word: jaren negentig
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tábla
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jaren
-- word: jaren tachtig
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: belőlük
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jaren
-- word: jaren zeventig
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: látnak
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jaren
 - word: Java
   ipa: /ˈjaː.vaː/
   pos: name
   translations:
-    hu:
-      definitions:
-      - text: reggeli
-        quality: 2
     en:
       definitions:
       - text: Java (island of Indonesia)
@@ -256,10 +132,6 @@
   ipa: /ˈjøːxt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: értékben
-        quality: 2
     en:
       definitions:
       - text: youth
@@ -298,10 +170,6 @@
   ipa: ''
   pos: pron
   translations:
-    hu:
-      definitions:
-      - text: magad
-        quality: 2
     en:
       definitions:
       - text: yourself
@@ -311,10 +179,6 @@
   ipa: /ˈjeː.zʏs/
   pos: name
   translations:
-    hu:
-      definitions:
-      - text: Jézus
-        quality: 2
     en:
       definitions:
       - text: Jesus, Jesus of Nazareth
@@ -328,10 +192,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: csak
-        quality: 2
     en:
       definitions:
       - text: plural of jood
@@ -343,10 +203,6 @@
   ipa: /jɔk/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: felhasználónév
-        quality: 2
     en:
       definitions:
       - text: jest; frivolous, unserious intent or mood
@@ -360,10 +216,6 @@
   ipa: /jɔŋ/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: fiatal
-        quality: 2
     en:
       definitions:
       - text: young
@@ -377,34 +229,10 @@
       - text: first-person singular present indicative
         quality: 5
   source: wiktionary-frequency
-- word: jonge man
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: vissza
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jonge
-- word: jonge mensen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: megkezdett
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jonge
 - word: jongen
   ipa: /ˈjɔ.ŋə(n)/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: fiú
-        quality: 2
     en:
       definitions:
       - text: a boy, any male child
@@ -423,10 +251,6 @@
   ipa: /ˈjɔ.ŋə(n)s/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: jelentősége
-        quality: 2
     en:
       definitions:
       - text: plural of jongen
@@ -440,10 +264,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: sérült
-        quality: 2
     en:
       definitions:
       - text: comparative degree of jong
@@ -453,10 +273,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: fiatalok
-        quality: 2
     en:
       definitions:
       - text: plural of jongere
@@ -466,10 +282,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: zsidó
-        quality: 2
     en:
       definitions:
       - text: Jewish (concerning the Jewish religion)
@@ -481,10 +293,6 @@
   ipa: /ʒurnaːˈlɪst/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: használta
-        quality: 2
     en:
       definitions:
       - text: press journalist
@@ -494,73 +302,15 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: tapasztalatokat
-        quality: 2
     en:
       definitions:
       - text: plural of journalist
         quality: 5
   source: wiktionary-frequency
-- word: jouw adres
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: címed
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jouw
-- word: jouw held
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: könyvtár
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jouw
-- word: jouw mening
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: véleményed
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jouw
-- word: Juiste zelfstandige naamwoorden
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Zsolt
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: juiste
-- word: juridische relatie
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: eléréséhez
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: juridische
 - word: jurk
   ipa: /jʏrk/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: akármilyen
-        quality: 2
     en:
       definitions:
       - text: dress
@@ -570,10 +320,6 @@
   ipa: /ˈʒyː.ri/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: tesztet
-        quality: 2
     en:
       definitions:
       - text: jury
@@ -594,113 +340,3 @@
       - text: gem, precious stone
         quality: 5
   source: kattenoog
-- word: met jou
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: magával
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jou
-- word: naar jezelf
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: magának
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jezelf
-- word: naar jou toe
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: jegyzőkönyv
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jou
-- word: naar jouw kant
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: egyidőben
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jouw
-- word: op jou
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: világába
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jou
-- word: over jezelf
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: próbáljuk
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jezelf
-- word: van jou
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: túlmenően
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jou
-- word: voor jaren
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kutyát
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jaren
-- word: voor je
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: vezetést
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: je
-- word: voor jezelf
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: használd
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jezelf
-- word: voor jou
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: dollár
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: jou

@@ -1,13 +1,3 @@
-- word: alle soorten
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mindenféle
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: soorten
 - word: de Schone Slaapster
   ipa: ''
   pos: ''
@@ -28,16 +18,6 @@
         quality: 3
   source: Knack 2
   expression_of: stijl
-- word: door te specificeren
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: egyidejű
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: specificeren
 - word: een slang sist
   ipa: ''
   pos: ''
@@ -48,16 +28,6 @@
         quality: 3
   source: summoner
   expression_of: slang
-- word: een soort van
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: jelek
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: soort
 - word: een strengere interpretatie hanteren
   ipa: ''
   pos: ''
@@ -88,16 +58,6 @@
         quality: 3
   source: het diner
   expression_of: slingerde
-- word: hij sprak
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: beszélt
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: sprak
 - word: hij steekt de draak met de wereld
   ipa: ''
   pos: ''
@@ -138,56 +98,6 @@
         quality: 3
   source: Knack 2
   expression_of: strekt
-- word: ik schrijf
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: várnak
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: schrijf
-- word: ik snap het
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: látom
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: snap
-- word: Ik sprak
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: zavaró
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: sprak
-- word: ik spreek
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: nemsokára
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: spreek
-- word: ik sta
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: könyvtárak
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: sta
 - word: ik sta maar wat te prutsen
   ipa: ''
   pos: ''
@@ -198,26 +108,6 @@
         quality: 3
   source: na de aardbeveging
   expression_of: sta
-- word: ik stel voor
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: nagyrészt
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: stel
-- word: ik stuur het
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: meghaladja
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: stuur
 - word: in de schoot
   ipa: ''
   pos: ''
@@ -228,76 +118,6 @@
         quality: 3
   source: de pauw - werk
   expression_of: schoot
-- word: in de stad
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: városban
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: stad
-- word: in het spel
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: pillanatra
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: spel
-- word: in scholen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tananyag
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: scholen
-- word: in september
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: bort
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: september
-- word: in situ
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: letölthető
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: situ
-- word: in stilte
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: bővebben
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: stilte
-- word: jij schrijft
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mennyiségben
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: schrijft
 - word: met de schroom
   ipa: ''
   pos: ''
@@ -308,16 +128,6 @@
         quality: 3
   source: bepaalde dag in het leven van idereen
   expression_of: schroom
-- word: met de steun van
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: jelentkezik
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: steun
 - word: met een snuifje argwaan
   ipa: ''
   pos: ''
@@ -328,16 +138,6 @@
         quality: 3
   source: bepaalde dag in het leven van idereen
   expression_of: snuifje
-- word: met spelletjes
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: darabja
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: spelletjes
 - word: met spijt in haar hart
   ipa: ''
   pos: ''
@@ -348,46 +148,6 @@
         quality: 3
   source: na de bevrijding
   expression_of: spijt
-- word: met succes
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tárgy
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: succes
-- word: naar de stad
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tartósan
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: stad
-- word: naar de straat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tavasz
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: straat
-- word: naar school
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: igen
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: school
 - word: nog een schep bovenop doen
   ipa: ''
   pos: ''
@@ -408,26 +168,6 @@
         quality: 3
   source: formal
   expression_of: slane
-- word: op schijf
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tudósok
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: schijf
-- word: op school
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: olvas
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: school
 - word: op spitzen
   ipa: ''
   pos: ''
@@ -438,34 +178,10 @@
         quality: 3
   source: de heks van Portobello
   expression_of: spitzen
-- word: op straat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: fölé
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: straat
-- word: s avonds
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: eredményre
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: s
 - word: saai
   ipa: /saːi/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: számok
-        quality: 2
     en:
       definitions:
       - text: boring, tedious
@@ -479,10 +195,6 @@
   ipa: /ˈsaː.li/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: válaszokat
-        quality: 2
     en:
       definitions:
       - text: a sage, herb of the genus Salvia
@@ -494,10 +206,6 @@
   ipa: /ˈsaː.mə(n)/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: együtt
-        quality: 2
     en:
       definitions:
       - text: together
@@ -520,10 +228,6 @@
   ipa: /ˈsaː.mə(n)ˌvɑ.tɪŋ/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: ügyvéd
-        quality: 2
     en:
       definitions:
       - text: a summary, a digest
@@ -533,10 +237,6 @@
   ipa: /ˈsaː.mə(n)ˌʋɛr.kɪŋ/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: együttműködés
-        quality: 2
     en:
       definitions:
       - text: cooperation, working together, collaboration
@@ -559,32 +259,15 @@
   ipa: /ˌsaː.taːˈnɪs.mə/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: bérleti
-        quality: 2
     en:
       definitions:
       - text: satanism
         quality: 5
   source: wiktionary-frequency
-- word: satanist
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: államok
-        quality: 2
-  source: wiktionary-frequency
 - word: satelliet
   ipa: /ˌsaː.təˈlit/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: amerikai
-        quality: 2
     en:
       definitions:
       - text: 'satellite (natural: e.g. Phobos and Deimos)'
@@ -596,10 +279,6 @@
   ipa: /ˈsɑu̯.naː/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: legyőzte
-        quality: 2
     en:
       definitions:
       - text: sauna
@@ -611,10 +290,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: ide
-        quality: 2
     en:
       definitions:
       - text: 'inflection of schaden:'
@@ -673,10 +348,6 @@
   ipa: /ˈsxaː.də/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: maximális
-        quality: 2
     en:
       definitions:
       - text: damage, detrimental effect
@@ -700,10 +371,6 @@
   ipa: /ˈsxaː.də.lək/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: mer
-        quality: 2
     en:
       definitions:
       - text: harmful, damaging, detrimental, pernicious, noisome
@@ -726,10 +393,6 @@
   ipa: /ˈsxaː.kəˌlaːr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: elénk
-        quality: 2
     en:
       definitions:
       - text: a switch (device for directing the flow of electric currents)
@@ -791,10 +454,6 @@
   ipa: /ˈsxɑ.təx/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: jelenetek
-        quality: 2
     en:
       definitions:
       - text: cute, adorable
@@ -846,10 +505,6 @@
   ipa: /ˈsxɛi̯.də(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: kódokat
-        quality: 2
     en:
       definitions:
       - text: to separate
@@ -880,10 +535,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: nemet
-        quality: 2
     en:
       definitions:
       - text: 'inflection of schenden:'
@@ -935,10 +586,6 @@
   ipa: /ˈsxeːpə(n)/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: blokk
-        quality: 2
     en:
       definitions:
       - text: alderman
@@ -964,10 +611,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: munkások
-        quality: 2
     en:
       definitions:
       - text: plural of schepsel
@@ -977,10 +620,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: hatvanas
-        quality: 2
     en:
       definitions:
       - text: screen, protection
@@ -998,10 +637,6 @@
   ipa: /sxɛrp/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: tart
-        quality: 2
     en:
       definitions:
       - text: sharp, able to cut easily
@@ -1058,10 +693,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: időm
-        quality: 2
     en:
       definitions:
       - text: ostensible, apparent
@@ -1112,10 +743,6 @@
   ipa: /sxɪlt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: banda
-        quality: 2
     en:
       definitions:
       - text: shield
@@ -1131,10 +758,6 @@
   ipa: /ˈsxɪl.dər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: tisztelet
-        quality: 2
     en:
       definitions:
       - text: painter
@@ -1176,10 +799,6 @@
   ipa: /sxɪp/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: részletesen
-        quality: 2
     en:
       definitions:
       - text: ship (a large, water borne vessel)
@@ -1192,10 +811,6 @@
   ipa: /ˈsxunˌmaː.kər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: dokumentumok
-        quality: 2
     en:
       definitions:
       - text: shoemaker (artisan who produces and repairs shoes)
@@ -1216,10 +831,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: lányok
-        quality: 2
     en:
       definitions:
       - text: to school, give formal/organized training
@@ -1258,10 +869,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: központja
-        quality: 2
     en:
       definitions:
       - text: blackboard
@@ -1271,10 +878,6 @@
   ipa: /ˈsxoːl.jaːr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: gondoskodni
-        quality: 2
     en:
       definitions:
       - text: school year
@@ -1294,10 +897,6 @@
   ipa: /sxoːn/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: tiszta
-        quality: 2
     en:
       definitions:
       - text: beautiful
@@ -1315,10 +914,6 @@
   ipa: /ˈsxoːn.faːˌmi.li/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: tőlük
-        quality: 2
     en:
       definitions:
       - text: in-laws
@@ -1328,25 +923,12 @@
   ipa: /ˈsxoːn.ɦɛi̯t/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: életpont
-        quality: 2
     en:
       definitions:
       - text: beauty
         quality: 5
       - text: beautiful person or object
         quality: 5
-  source: wiktionary-frequency
-- word: Schoonheidszorg
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: bőven
-        quality: 2
   source: wiktionary-frequency
 - word: schoorvoetend
   ipa: ''
@@ -1423,10 +1005,6 @@
   ipa: /sxreːf/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: írt
-        quality: 2
     en:
       definitions:
       - text: line, stroke of the pen
@@ -1451,10 +1029,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: írja
-        quality: 2
     en:
       definitions:
       - text: 'inflection of schrijven:'
@@ -1470,10 +1044,6 @@
   ipa: /ˈsxrɛi̯və(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: írd
-        quality: 2
     en:
       definitions:
       - text: to write
@@ -1485,10 +1055,6 @@
   ipa: /ˈsxrɛi̯vər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szerző
-        quality: 2
     en:
       definitions:
       - text: writer, author
@@ -1596,23 +1162,10 @@
       - text: diminutive of schuurpapier
         quality: 5
   source: taalrecht
-- word: Scotsman
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: fejlesztésének
-        quality: 2
-  source: wiktionary-frequency
 - word: scènes
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: büntetés
-        quality: 2
     en:
       definitions:
       - text: plural of scène
@@ -1622,10 +1175,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: másodperc
-        quality: 2
     en:
       definitions:
       - text: plural of seconde
@@ -1635,10 +1184,6 @@
   ipa: /sɪkrəˈtaːrɪs/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: rendezvényt
-        quality: 2
     en:
       definitions:
       - text: secretary
@@ -1652,10 +1197,6 @@
   ipa: /ˈsɛk.si/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: section
-        quality: 2
     en:
       definitions:
       - text: dissection, autopsy
@@ -1671,32 +1212,15 @@
   ipa: /ˈsɛk.tɔr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: meddig
-        quality: 2
     en:
       definitions:
       - text: sector
         quality: 5
   source: wiktionary-frequency
-- word: sectoraal
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: fene
-        quality: 2
-  source: wiktionary-frequency
 - word: seculier
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: csillag
-        quality: 2
     en:
       definitions:
       - text: secular
@@ -1715,10 +1239,6 @@
   ipa: /sɛi̯ˈzun/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: készíti
-        quality: 2
     en:
       definitions:
       - text: a season, major part of the year
@@ -1730,10 +1250,6 @@
   ipa: /sɛks/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szexuális
-        quality: 2
     en:
       definitions:
       - text: sex (sexual intercourse)
@@ -1753,10 +1269,6 @@
   ipa: /səˈlɛk.si/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: csakhogy
-        quality: 2
     en:
       definitions:
       - text: selection (the act of selecting)
@@ -1768,10 +1280,6 @@
   ipa: /səˈleː.ni.ʏm/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: keményen
-        quality: 2
     en:
       definitions:
       - text: selenium
@@ -1781,10 +1289,6 @@
   ipa: /sɛm/
   pos: name
   translations:
-    hu:
-      definitions:
-      - text: segíthet
-        quality: 2
     en:
       definitions:
       - text: Shem (a son of Noah)
@@ -1796,10 +1300,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: városok
-        quality: 2
     en:
       definitions:
       - text: semester (period of six months)
@@ -1809,10 +1309,6 @@
   ipa: /sɛpˈtɛm.bər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szeptember
-        quality: 2
     en:
       definitions:
       - text: September
@@ -1822,10 +1318,6 @@
   ipa: /sɛrˈʒɑnt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: érvényben
-        quality: 2
     en:
       definitions:
       - text: sergeant (non-commissioned officer in several armed forces)
@@ -1835,10 +1327,6 @@
   ipa: /ˈseːri/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: sorozat
-        quality: 2
     en:
       definitions:
       - text: series
@@ -1848,10 +1336,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: növekedése
-        quality: 2
     en:
       definitions:
       - text: comparative degree of serieus
@@ -1861,10 +1345,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: szolgál
-        quality: 2
     en:
       definitions:
       - text: 'inflection of serveren:'
@@ -1880,10 +1360,6 @@
   ipa: /ˈsʏrvər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szerver
-        quality: 2
     en:
       definitions:
       - text: server (a computer or software that provides services to other programs or users)
@@ -1893,32 +1369,15 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: zavarja
-        quality: 2
     en:
       definitions:
       - text: plural of server
         quality: 5
   source: wiktionary-frequency
-- word: serviceprovider
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szolgáltató
-        quality: 2
-  source: wiktionary-frequency
 - word: Servisch
   ipa: /ˈsɛr.vis/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: tanszék
-        quality: 2
     en:
       definitions:
       - text: Serbian (of the people)
@@ -1945,10 +1404,6 @@
   ipa: /sɛt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: míg
-        quality: 2
     en:
       definitions:
       - text: a set (collection of objects belonging together)
@@ -1964,10 +1419,6 @@
   ipa: /ʃɪt/
   pos: intj
   translations:
-    hu:
-      definitions:
-      - text: részében
-        quality: 2
     en:
       definitions:
       - text: shit, darn
@@ -1981,10 +1432,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: alakítja
-        quality: 2
     en:
       definitions:
       - text: plural of show
@@ -1999,23 +1446,10 @@
       - text: díszgalamb
         quality: 3
   source: Knack 2
-- word: Sigismund
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Szeged
-        quality: 2
-  source: wiktionary-frequency
 - word: signaal
   ipa: /sɪnˈjaːl/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: minta
-        quality: 2
     en:
       definitions:
       - text: signal (sign made to give notice)
@@ -2029,10 +1463,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: jelentős
-        quality: 2
     en:
       definitions:
       - text: significant
@@ -2042,10 +1472,6 @@
   ipa: /sɪn(t)s/
   pos: conj
   translations:
-    hu:
-      definitions:
-      - text: hiszen
-        quality: 2
     en:
       definitions:
       - text: since
@@ -2064,10 +1490,6 @@
   ipa: /ˈsɪŋ.əl/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: egyetlen
-        quality: 2
     en:
       definitions:
       - text: a single (short music record, e.g. 45 RPM vinyl with an A side and a B side; main track of such a record)
@@ -2096,10 +1518,6 @@
   ipa: /sityˈaː(t)si/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: helyzetet
-        quality: 2
     en:
       definitions:
       - text: situation, circumstance
@@ -2169,10 +1587,6 @@
   ipa: /slaːp/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kiterjedő
-        quality: 2
     en:
       definitions:
       - text: sleep
@@ -2203,10 +1617,6 @@
   ipa: /ˈslaːp.saːl/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: esetre
-        quality: 2
     en:
       definitions:
       - text: dormitory (room where multiple people can sleep)
@@ -2229,10 +1639,6 @@
   ipa: /ˈslɑxtˌɔ.fər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: örökös
-        quality: 2
     en:
       definitions:
       - text: victim
@@ -2244,10 +1650,6 @@
   ipa: /ˈslaːɣə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: sikerül
-        quality: 2
     en:
       definitions:
       - text: to succeed (obtaining what was desired)
@@ -2261,10 +1663,6 @@
   ipa: /ˈslaː.ɣər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: direkt
-        quality: 2
     en:
       definitions:
       - text: butcher (one who prepares and sells meat and meat products)
@@ -2291,10 +1689,6 @@
   ipa: /ˈslaː.pə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: véleményük
-        quality: 2
     en:
       definitions:
       - text: to sleep
@@ -2316,10 +1710,6 @@
   ipa: /slɛxt/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: rossz
-        quality: 2
     en:
       definitions:
       - text: bad
@@ -2360,10 +1750,6 @@
   ipa: /slɛx(t)s/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: és
-        quality: 2
     en:
       definitions:
       - text: only, just
@@ -2395,10 +1781,6 @@
   ipa: /ˈsløː.təl/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: bírói
-        quality: 2
     en:
       definitions:
       - text: a key
@@ -2442,10 +1824,6 @@
   ipa: /slɪm/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: tartunk
-        quality: 2
     en:
       definitions:
       - text: intelligent, bright
@@ -2571,10 +1949,6 @@
   ipa: /slɔt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kihívás
-        quality: 2
     en:
       definitions:
       - text: lock (something used for fastening)
@@ -2588,10 +1962,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: állította
-        quality: 2
     en:
       definitions:
       - text: Slovak, Slovakian
@@ -2628,10 +1998,6 @@
   ipa: /slœy̯t/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: gazdálkodó
-        quality: 2
     en:
       definitions:
       - text: 'inflection of sluiten:'
@@ -2647,10 +2013,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: üzembe
-        quality: 2
     en:
       definitions:
       - text: present participle of sluiten
@@ -2702,10 +2064,6 @@
   ipa: /smaːk/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: alkalmat
-        quality: 2
     en:
       definitions:
       - text: taste, sense of taste
@@ -2749,10 +2107,6 @@
   ipa: /smɑl/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: fogjuk
-        quality: 2
     en:
       definitions:
       - text: narrow
@@ -2766,10 +2120,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: minap
-        quality: 2
     en:
       definitions:
       - text: comparative degree of smal
@@ -2827,10 +2177,6 @@
   ipa: /smɪt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kovács
-        quality: 2
     en:
       definitions:
       - text: a smith, who forges metal
@@ -2878,10 +2224,6 @@
   ipa: /ˌɛs.ɛmˈɛs/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: sms
-        quality: 2
     en:
       definitions:
       - text: SMS, a service for sending text messages on a cellular telephone system
@@ -2912,10 +2254,6 @@
   ipa: /snɛl/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: gyors
-        quality: 2
     en:
       definitions:
       - text: fast, quick, rapid
@@ -2933,10 +2271,6 @@
   ipa: /ˈsnɛl.ɦɛi̯t/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kiadvány
-        quality: 2
     en:
       definitions:
       - text: speed, velocity
@@ -2946,10 +2280,6 @@
   ipa: /ˈsnɛlər/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: pápa
-        quality: 2
     en:
       definitions:
       - text: comparative degree of snel
@@ -2959,10 +2289,6 @@
   ipa: /ˈsnɛl.ʋɛx/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: lelkész
-        quality: 2
     en:
       definitions:
       - text: highway (major thoroughfare road)
@@ -3062,10 +2388,6 @@
   ipa: /soːˈʃaːl/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: társadalmi
-        quality: 2
     en:
       definitions:
       - text: social
@@ -3090,24 +2412,10 @@
         quality: 3
   source: mondeling
   expression_of: social
-- word: sociale zekerheid
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szervezetekkel
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: sociale
 - word: socialisten
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: dolgokról
-        quality: 2
     en:
       definitions:
       - text: plural of socialist
@@ -3117,10 +2425,6 @@
   ipa: /ˌsoː.ʃaːˈlɪs.tis/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: azért
-        quality: 2
     en:
       definitions:
       - text: socialist
@@ -3173,10 +2477,6 @@
   ipa: /ˈsɔft.ʋɛr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szoftver
-        quality: 2
     en:
       definitions:
       - text: software (encoded computer instructions)
@@ -3200,10 +2500,6 @@
   ipa: /sɔlˈdaːt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: választották
-        quality: 2
     en:
       definitions:
       - text: soldier, private
@@ -3213,10 +2509,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: azon
-        quality: 2
     en:
       definitions:
       - text: plural of soldaat
@@ -3226,10 +2518,6 @@
   ipa: /soːˈli.də/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: romantikus
-        quality: 2
     en:
       definitions:
       - text: solid, secure
@@ -3251,10 +2539,6 @@
   ipa: /ˈsoː.loː/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szóló
-        quality: 2
     en:
       definitions:
       - text: solo (piece or passage performed or typified by a single performer)
@@ -3264,10 +2548,6 @@
   ipa: /ˈsɔməɣə/
   pos: det
   translations:
-    hu:
-      definitions:
-      - text: néhány
-        quality: 2
     en:
       definitions:
       - text: 'inflection of sommig (“some”):'
@@ -3285,10 +2565,6 @@
   ipa: /sɔms/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: néha
-        quality: 2
     en:
       definitions:
       - text: sometimes
@@ -3300,10 +2576,6 @@
   ipa: /soːrt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: egyenlő
-        quality: 2
     en:
       definitions:
       - text: sort, kind
@@ -3311,24 +2583,10 @@
       - text: species
         quality: 5
   source: wiktionary-frequency
-- word: soort van
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: bíró
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: soort
 - word: soorten
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: fajta
-        quality: 2
     en:
       definitions:
       - text: plural of soort
@@ -3338,10 +2596,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: ilyet
-        quality: 2
     en:
       definitions:
       - text: similar
@@ -3351,10 +2605,6 @@
   ipa: /ˈsɔ.ri/
   pos: intj
   translations:
-    hu:
-      definitions:
-      - text: modellek
-        quality: 2
     en:
       definitions:
       - text: sorry (expressing regret)
@@ -3366,10 +2616,6 @@
   ipa: /sɔrˈteːrə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: elmegyek
-        quality: 2
     en:
       definitions:
       - text: to sort
@@ -3394,10 +2640,6 @@
   ipa: /spaːns/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: összeget
-        quality: 2
     en:
       definitions:
       - text: Spanish
@@ -3413,10 +2655,6 @@
   ipa: /ˈspɑnənt/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: üzenetek
-        quality: 2
     en:
       definitions:
       - text: tensive
@@ -3432,10 +2670,6 @@
   ipa: /ˈspɑ.nɪŋ/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: eme
-        quality: 2
     en:
       definitions:
       - text: tension, suspense
@@ -3460,10 +2694,6 @@
   ipa: /speːˈʃaːl/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: speciális
-        quality: 2
     en:
       definitions:
       - text: special
@@ -3477,41 +2707,15 @@
   ipa: /ˌspeː.ʃaːˈlɪst/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: részletek
-        quality: 2
     en:
       definitions:
       - text: specialist
         quality: 5
   source: wiktionary-frequency
-- word: specificatie
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: udvar
-        quality: 2
-  source: wiktionary-frequency
-- word: specificaties
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: feszültség
-        quality: 2
-  source: wiktionary-frequency
 - word: specificeren
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: tényleg
-        quality: 2
     en:
       definitions:
       - text: to specify
@@ -3521,10 +2725,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: bizony
-        quality: 2
     en:
       definitions:
       - text: specific
@@ -3536,10 +2736,6 @@
   ipa: /spɛkˈtaː.kyˌlɛr/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: baráti
-        quality: 2
     en:
       definitions:
       - text: spectacular
@@ -3562,10 +2758,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: játszik
-        quality: 2
     en:
       definitions:
       - text: 'inflection of spelen:'
@@ -3611,10 +2803,6 @@
   ipa: /spɛl/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: játék
-        quality: 2
     en:
       definitions:
       - text: game
@@ -3641,10 +2829,6 @@
   ipa: /ˈspeːlə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: játszani
-        quality: 2
     en:
       definitions:
       - text: to play
@@ -3658,16 +2842,6 @@
       - text: plural of spel (“tournament”)
         quality: 5
   source: wiktionary-frequency
-- word: spelen zich af
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: előadók
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: spelen
 - word: spelenderwijs
   ipa: ''
   pos: adv
@@ -3685,10 +2859,6 @@
   ipa: /ˈspeː.lər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: játékos
-        quality: 2
     en:
       definitions:
       - text: a player, someone who plays a game
@@ -3702,10 +2872,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szép
-        quality: 2
     en:
       definitions:
       - text: plural of speler
@@ -3715,10 +2881,6 @@
   ipa: /ˈspɛ.lə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: játékok
-        quality: 2
     en:
       definitions:
       - text: to spell
@@ -3730,10 +2892,6 @@
   ipa: /ˈspi.ɣəl/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: fedett
-        quality: 2
     en:
       definitions:
       - text: mirror
@@ -3747,10 +2905,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kedvelt
-        quality: 2
     en:
       definitions:
       - text: plural of spiegel
@@ -3785,10 +2939,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: környezetében
-        quality: 2
     en:
       definitions:
       - text: plural of spin
@@ -3798,10 +2948,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: lelki
-        quality: 2
     en:
       definitions:
       - text: spiritual
@@ -3841,10 +2987,6 @@
   ipa: /ˈspu.dəx/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: hamarosan
-        quality: 2
     en:
       definitions:
       - text: imminent, arriving or occurring soon, soon
@@ -3872,10 +3014,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: egybe
-        quality: 2
     en:
       definitions:
       - text: spontaneous
@@ -3887,10 +3025,6 @@
   ipa: /spoːr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kiválasztott
-        quality: 2
     en:
       definitions:
       - text: track
@@ -3921,10 +3055,6 @@
   ipa: /spɔrˈtif/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: jutunk
-        quality: 2
     en:
       definitions:
       - text: sporty, pertaining or partial to sports
@@ -3985,10 +3115,6 @@
   ipa: /spreːkt/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: igényli
-        quality: 2
     en:
       definitions:
       - text: 'inflection of spreken:'
@@ -4017,10 +3143,6 @@
   ipa: /ˈspreːkə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: szól
-        quality: 2
     en:
       definitions:
       - text: to speak
@@ -4030,10 +3152,6 @@
   ipa: /ˈsprɪŋə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: hatást
-        quality: 2
     en:
       definitions:
       - text: to jump, to leap
@@ -4094,10 +3212,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: amíg
-        quality: 2
     en:
       definitions:
       - text: plural of spul
@@ -4130,10 +3244,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: álló
-        quality: 2
     en:
       definitions:
       - text: present participle of staan
@@ -4153,10 +3263,6 @@
   ipa: /staːt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: áll
-        quality: 2
     en:
       definitions:
       - text: state (political entity)
@@ -4209,10 +3315,6 @@
   ipa: /ˈstaːt.seː.krəˌtaː.rɪs/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: beállítások
-        quality: 2
     en:
       definitions:
       - text: junior minister, deputy minister
@@ -4222,10 +3324,6 @@
   ipa: /staːˈbil/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: bizonyult
-        quality: 2
     en:
       definitions:
       - text: stable, (relatively) unchanging
@@ -4239,10 +3337,6 @@
   ipa: /stɑt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: város
-        quality: 2
     en:
       definitions:
       - text: city, town
@@ -4254,10 +3348,6 @@
   ipa: /ˈstaː.di.ʏm/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: működni
-        quality: 2
     en:
       definitions:
       - text: a stage; a phase
@@ -4309,10 +3399,6 @@
   ipa: /stɑnt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: ezekkel
-        quality: 2
     en:
       definitions:
       - text: posture, position, bearing
@@ -4328,10 +3414,6 @@
   ipa: /ˈstɑnt.beːlt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: eladási
-        quality: 2
     en:
       definitions:
       - text: statue
@@ -4341,10 +3423,6 @@
   ipa: /ˈstɑnt.pʏnt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szempontból
-        quality: 2
     en:
       definitions:
       - text: standpoint; point of view
@@ -4367,10 +3445,6 @@
   ipa: /stɑp/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kénytelen
-        quality: 2
     en:
       definitions:
       - text: step
@@ -4388,10 +3462,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: oldalát
-        quality: 2
     en:
       definitions:
       - text: 'inflection of instappen:'
@@ -4410,10 +3480,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: nevezzük
-        quality: 2
     en:
       definitions:
       - text: 'inflection of opstappen:'
@@ -4432,10 +3498,6 @@
   ipa: /ˈstɑ.pə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: lép
-        quality: 2
     en:
       definitions:
       - text: to march
@@ -4466,10 +3528,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: értéket
-        quality: 2
     en:
       definitions:
       - text: plural of staat
@@ -4479,10 +3537,6 @@
   ipa: /staːˈʃɔn/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: csend
-        quality: 2
     en:
       definitions:
       - text: station (place for vehicles to stop)
@@ -4492,23 +3546,10 @@
       - text: radio station or television station
         quality: 5
   source: wiktionary-frequency
-- word: statistieken
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: rajongók
-        quality: 2
-  source: wiktionary-frequency
 - word: statistisch
   ipa: /staːˈtɪs.tis/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: keresünk
-        quality: 2
     en:
       definitions:
       - text: statistical
@@ -4518,10 +3559,6 @@
   ipa: /ˈsteː.də.lək/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: városi
-        quality: 2
     en:
       definitions:
       - text: urban, civic
@@ -4531,10 +3568,6 @@
   ipa: /ˈsteːdə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: kapcsolódó
-        quality: 2
     en:
       definitions:
       - text: to place
@@ -4570,10 +3603,6 @@
   ipa: /stɛi̯l/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: elfoglalt
-        quality: 2
     en:
       definitions:
       - text: steep
@@ -4594,24 +3623,10 @@
       - text: blind as a bat, blind as a mole
         quality: 5
   source: Knack 2
-- word: stel je voor
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: sokkal
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: stel
 - word: stelling
   ipa: /ˈstɛ.lɪŋ/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szükségem
-        quality: 2
     en:
       definitions:
       - text: position, configuration
@@ -4629,10 +3644,6 @@
   ipa: /stɛm/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: hang
-        quality: 2
     en:
       definitions:
       - text: voice, sound made by the mouth using airflow
@@ -4650,10 +3661,6 @@
   ipa: /ˈstɛmə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: szavazás
-        quality: 2
     en:
       definitions:
       - text: to vote (to cast a vote)
@@ -4688,10 +3695,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: titok
-        quality: 2
     en:
       definitions:
       - text: plural of stengel
@@ -4701,10 +3704,6 @@
   ipa: /stɛr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: korántsem
-        quality: 2
     en:
       definitions:
       - text: star (celestial body)
@@ -4722,10 +3721,6 @@
   ipa: /stɛrk/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: erős
-        quality: 2
     en:
       definitions:
       - text: strong, having physical strength
@@ -4743,10 +3738,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: jutottam
-        quality: 2
     en:
       definitions:
       - text: 'inflection of sterkst, the superlative degree of sterk:'
@@ -4764,10 +3755,6 @@
   ipa: /ˈstɛrə(n)/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kategória
-        quality: 2
     en:
       definitions:
       - text: plural of ster
@@ -4818,10 +3805,6 @@
   ipa: /stɛi̯f/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: irányított
-        quality: 2
     en:
       definitions:
       - text: stiff, rigid
@@ -4849,10 +3832,6 @@
   ipa: /ˈstɛi̯ɣə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: Pécs
-        quality: 2
     en:
       definitions:
       - text: to climb, to go up, to rise
@@ -4866,10 +3845,6 @@
   ipa: /stɛi̯l/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szellem
-        quality: 2
     en:
       definitions:
       - text: style, fashion
@@ -4921,10 +3896,6 @@
   ipa: /ˈstɪl.tə/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: száll
-        quality: 2
     en:
       definitions:
       - text: silence
@@ -4934,10 +3905,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: alapította
-        quality: 2
     en:
       definitions:
       - text: present participle of stinken
@@ -4960,10 +3927,6 @@
   ipa: /stul/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kutatások
-        quality: 2
     en:
       definitions:
       - text: a chair, a piece of furniture used for sitting, normally portable and having four legs
@@ -5012,10 +3975,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: marad
-        quality: 2
     en:
       definitions:
       - text: remains (of corpses)
@@ -5041,10 +4000,6 @@
   ipa: /stɔm/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: szerek
-        quality: 2
     en:
       definitions:
       - text: mute, unable to speak, as medical condition or species-determined
@@ -5062,10 +4017,6 @@
   ipa: /stɔnt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: állt
-        quality: 2
     en:
       definitions:
       - text: time; point in time, moment
@@ -5094,10 +4045,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: tulajdonságai
-        quality: 2
     en:
       definitions:
       - text: 'inflection of storen:'
@@ -5113,10 +4060,6 @@
   ipa: /ˈstɔpə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: bent
-        quality: 2
     en:
       definitions:
       - text: to stop, to halt
@@ -5129,15 +4072,6 @@
         quality: 5
       - text: plural of stop
         quality: 5
-  source: wiktionary-frequency
-- word: stortplaats
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tesztek
-        quality: 2
   source: wiktionary-frequency
 - word: stotteren, hakkelen
   ipa: ''
@@ -5153,10 +4087,6 @@
   ipa: /straːt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: utca
-        quality: 2
     en:
       definitions:
       - text: street, paved way
@@ -5172,10 +4102,6 @@
   ipa: /strɑf/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: testet
-        quality: 2
     en:
       definitions:
       - text: a punishment, penalty, sanction
@@ -5202,10 +4128,6 @@
   ipa: /ˌstraːˈteː.ɣis/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: hozzánk
-        quality: 2
     en:
       definitions:
       - text: strategic
@@ -5215,10 +4137,6 @@
   ipa: /strɛŋ/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: induló
-        quality: 2
     en:
       definitions:
       - text: strict, severe, rigorous, unbending, cruel
@@ -5260,10 +4178,6 @@
   ipa: /srɛi̯t/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: mentes
-        quality: 2
     en:
       definitions:
       - text: conflict, strife
@@ -5308,10 +4222,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: honlapja
-        quality: 2
     en:
       definitions:
       - text: strict
@@ -5358,10 +4268,6 @@
   ipa: /ˈstroː.mə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: folyik
-        quality: 2
     en:
       definitions:
       - text: to flow
@@ -5408,10 +4314,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: sztem
-        quality: 2
     en:
       definitions:
       - text: structural
@@ -5421,10 +4323,6 @@
   ipa: /strʏkˈtyr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: holland
-        quality: 2
     en:
       definitions:
       - text: structure
@@ -5472,10 +4370,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: diákok
-        quality: 2
     en:
       definitions:
       - text: plural of student
@@ -5485,10 +4379,6 @@
   ipa: /ˈsty.di/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: tanulmány
-        quality: 2
     en:
       definitions:
       - text: the activity of studying (mental effort to learn or acquire knowledge)
@@ -5504,10 +4394,6 @@
   ipa: /ˈsty.dis/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: tűnő
-        quality: 2
     en:
       definitions:
       - text: plural of studie
@@ -5517,10 +4403,6 @@
   ipa: /ˈstydioː/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: véres
-        quality: 2
     en:
       definitions:
       - text: a studio flat/apartment
@@ -5543,10 +4425,6 @@
   ipa: /stʏk/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: darab
-        quality: 2
     en:
       definitions:
       - text: a piece, part, share (of a whole)
@@ -5564,10 +4442,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: lény
-        quality: 2
     en:
       definitions:
       - text: plural of stuk
@@ -5577,10 +4451,6 @@
   ipa: /ˈstyrə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: küldj
-        quality: 2
     en:
       definitions:
       - text: to steer, guide
@@ -5594,10 +4464,6 @@
   ipa: /ˌsʏp.jɛkˈtif/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: irodai
-        quality: 2
     en:
       definitions:
       - text: subjective
@@ -5607,10 +4473,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: védelme
-        quality: 2
     en:
       definitions:
       - text: plural of subsidie
@@ -5620,10 +4482,6 @@
   ipa: /ˌsʏp.stɑnˈʃeːl/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: vettek
-        quality: 2
     en:
       definitions:
       - text: substantial; having or pertaining to substance, meaning or content
@@ -5637,10 +4495,6 @@
   ipa: /sykˈsɛs/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: sikert
-        quality: 2
     en:
       definitions:
       - text: success
@@ -5652,10 +4506,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: vendége
-        quality: 2
     en:
       definitions:
       - text: plural of succes
@@ -5665,10 +4515,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: sikeres
-        quality: 2
     en:
       definitions:
       - text: successful
@@ -5678,10 +4524,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: vitt
-        quality: 2
     en:
       definitions:
       - text: 'inflection of suggereren:'
@@ -5697,10 +4539,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: csoportos
-        quality: 2
     en:
       definitions:
       - text: 'inflection of suggereren:'
@@ -5726,10 +4564,6 @@
   ipa: /sʏˈxɛstis/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: veszélyt
-        quality: 2
     en:
       definitions:
       - text: plural of suggestie
@@ -5779,10 +4613,6 @@
   ipa: /ˈsy.pər/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: fontosságát
-        quality: 2
     en:
       definitions:
       - text: very, extremely, super
@@ -5790,16 +4620,6 @@
       - text: great, super
         quality: 5
   source: wiktionary-frequency
-- word: Super goed
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: remek
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: super
 - word: sussen
   ipa: ''
   pos: verb
@@ -5827,10 +4647,6 @@
   ipa: /sɪmˈboːlis/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: költségei
-        quality: 2
     en:
       definitions:
       - text: symbolic
@@ -5842,10 +4658,6 @@
   ipa: /sɪm.paːˈtik/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: madarak
-        quality: 2
     en:
       definitions:
       - text: sympathetic, nice, kind, friendly, likeable
@@ -5855,10 +4667,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: feladatai
-        quality: 2
     en:
       definitions:
       - text: plural of symptoom
@@ -5868,10 +4676,6 @@
   ipa: /siˈsteːm/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: rendszer
-        quality: 2
     en:
       definitions:
       - text: system
@@ -5881,10 +4685,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: rendszerek
-        quality: 2
     en:
       definitions:
       - text: plural of systeem
@@ -5894,96 +4694,12 @@
   ipa: ''
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: nemzetiségi
-        quality: 2
     en:
       definitions:
       - text: at last, finally
         quality: 5
   source: wiktionary-frequency
   expression_of: slotte
-- word: uit Szeged
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: önállóan
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: szeged
-- word: wat voor soort
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: milyen
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: soort
-- word: We spraken
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: telefont
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: spraken
-- word: we staan
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kérdésed
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: staan
-- word: we sturen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kérdéssel
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: sturen
-- word: wij stellen voor
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: fele
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: stellen
-- word: ze speelden
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: művelődési
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: speelden
-- word: ze spelen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: október
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: spelen
 - word: ze spelen eerste viool
   ipa: ''
   pos: ''
@@ -5994,73 +4710,3 @@
         quality: 3
   source: Knack 2
   expression_of: spelen
-- word: ze stapten
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: falak
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: stapten
-- word: ze stonden
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hal
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: stonden
-- word: Zij schreven
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: utólag
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: schreven
-- word: zij schrijven
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ellenőrző
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: schrijven
-- word: zijn in staat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: képesek
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: staat
-- word: zijn staat
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: játékok
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: staat
-- word: zijn stem
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: pályázatok
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: stem

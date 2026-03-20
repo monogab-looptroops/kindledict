@@ -1,33 +1,3 @@
-- word: aan het zeuren
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: papír
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zeuren
-- word: bij het zien van
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: nyugszik
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zien
-- word: de zestiger jaren
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kérdezi
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zestiger
 - word: er zit geen fut in hem
   ipa: ''
   pos: ''
@@ -48,16 +18,6 @@
         quality: 3
   source: na de aardbeveging
   expression_of: zuipen
-- word: het zou kunnen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: lehetett
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zou
 - word: het zwart schaap
   ipa: ''
   pos: ''
@@ -68,16 +28,6 @@
         quality: 3
   source: mondeling 3
   expression_of: zwart
-- word: hij zei
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szólt
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zei
 - word: hij zet in op iets
   ipa: ''
   pos: ''
@@ -88,36 +38,6 @@
         quality: 3
   source: Knack+NVA
   expression_of: zet
-- word: hij ziet
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: látja
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: ziet
-- word: hij zingt
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: totál
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zingt
-- word: hij zou
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: külföldiek
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zou
 - word: hij zou veeleer armoe lijden dan iemands gunst te vragen
   ipa: ''
   pos: ''
@@ -128,266 +48,6 @@
         quality: 3
   source: na de bevrijding
   expression_of: zou
-- word: hun zaken
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: észrevételeit
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zaken
-- word: ik zag
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: láttam
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zag
-- word: ik zal
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: fogok
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
-- word: ik zal blijven
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kinek
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
-- word: ik zal het nakijken
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ezekről
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
-- word: ik zal zijn
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: leszek
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
-- word: ik zeg
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mondom
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zeg
-- word: ik zei
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mondtam
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zei
-- word: ik zocht
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: alkalmazottak
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zocht
-- word: ik zoek
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: keresek
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zoek
-- word: ik zou gaan
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: találhatók
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zou
-- word: ik zou geinteresseerd zijn
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ugyanezt
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zou
-- word: ik zou kunnen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tört
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zou
-- word: ik zou willen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szeretném
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zou
-- word: ik zou zeggen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ülnek
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zou
-- word: ik zou zijn
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: lennék
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zou
-- word: in de zin van
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: értelmében
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zin
-- word: in de zomer
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: nyáron
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zomer
-- word: in het ziekenhuis
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: állampolgár
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: ziekenhuis
-- word: in zichzelf
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: magába
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zichzelf
-- word: je zal vinden
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Judit
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
-- word: je zocht
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: műsorok
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zocht
-- word: je zou willen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: eltűnt
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zou
-- word: jij zal
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: konyha
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
-- word: jij zal zijn
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: gondolom
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
-- word: jij zegt
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: igazgatóság
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zegt
 - word: jij zult morgen niet meer halen
   ipa: ''
   pos: ''
@@ -398,26 +58,6 @@
         quality: 3
   source: na de bevrijding
   expression_of: zult
-- word: naar de zijkant
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: oldalra
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zijkant
-- word: naar het ziekenhuis
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: sajtótájékoztatón
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: ziekenhuis
 - word: om nog maar te zwijgen van iets
   ipa: ''
   pos: ''
@@ -428,180 +68,16 @@
         quality: 3
   source: mix2
   expression_of: zwijgen
-- word: op de zon
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: napon
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zon
-- word: op zaterdag
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szombaton
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zaterdag
-- word: op zichzelf
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: önmagában
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zichzelf
 - word: op zoek
   ipa: ''
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: engedte
-        quality: 2
     en:
       definitions:
       - text: in search of
         quality: 5
   source: wiktionary-frequency
   expression_of: zoek
-- word: van de zijkant
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tetején
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zijkant
-- word: van zichzelf
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kapcsolható
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zichzelf
-- word: voor zichzelf
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: elmegy
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zichzelf
-- word: voor zover
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: részből
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zover
-- word: we zijn op zoek naar
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: valamennyi
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zoek
-- word: we zoeken
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: halott
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zoeken
-- word: we zullen zien
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: magam
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zullen
-- word: we zullen zijn
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szeretnek
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zullen
-- word: wij zagen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hallgat
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zagen
-- word: wij zien
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szocialista
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zien
-- word: wij zijn
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: vagyunk
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zijn
-- word: wij zullen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: néző
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zullen
-- word: wij zullen zenden
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mintha
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zullen
 - word: zaadlozing
   ipa: /ˈzaːtˌloː.zɪŋ/
   pos: noun
@@ -619,10 +95,6 @@
   ipa: /zɑxt/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: fegyver
-        quality: 2
     en:
       definitions:
       - text: soft
@@ -653,10 +125,6 @@
   ipa: /zɑx/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: látta
-        quality: 2
     en:
       definitions:
       - text: singular past indicative of zien
@@ -696,10 +164,6 @@
   ipa: /ˈzaː.kə.lək/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: forrás
-        quality: 2
     en:
       definitions:
       - text: to the point, succinct
@@ -713,10 +177,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: számít
-        quality: 2
     en:
       definitions:
       - text: plural of zaak
@@ -736,86 +196,6 @@
         quality: 3
   source: kattenoog
   expression_of: zaken
-- word: zal blijven
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mik
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
-- word: zal ik doen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: tábornok
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
-- word: Zal ik het brengen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: történeti
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
-- word: zal komen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: grafika
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
-- word: zal kosten
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kerül
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
-- word: zal proberen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: korosztály
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
-- word: zal zijn
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kialakuló
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
-- word: zal zijn, zullen zijn
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: lesz
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zal
 - word: zalfje
   ipa: ''
   pos: noun
@@ -833,10 +213,6 @@
   ipa: /ˈzɑŋər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kétféle
-        quality: 2
     en:
       definitions:
       - text: a singer, songster
@@ -846,73 +222,15 @@
   ipa: /ˈzaːtərˌdɑx/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: fogod
-        quality: 2
     en:
       definitions:
       - text: Saturday
         quality: 5
   source: wiktionary-frequency
-- word: ze zeggen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mondják
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zeggen
-- word: ze zeiden
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: hibás
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zeiden
-- word: ze zoeken naar
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: előttem
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zoeken
-- word: ze zouden kunnen hebben
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: ellátva
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zouden
-- word: ze zullen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: fognak
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zullen
 - word: zee
   ipa: /zeː/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: bejelentkezve
-        quality: 2
     en:
       definitions:
       - text: sea
@@ -950,10 +268,6 @@
   ipa: /ˈzeː.ɣə/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: boldogság
-        quality: 2
     en:
       definitions:
       - text: victory, triumph
@@ -965,10 +279,6 @@
   ipa: /ˈzɛɣə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: azaz
-        quality: 2
     en:
       definitions:
       - text: to say, tell
@@ -980,10 +290,6 @@
   ipa: /zɛxt/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: mondja
-        quality: 2
     en:
       definitions:
       - text: 'inflection of zeggen:'
@@ -999,10 +305,6 @@
   ipa: /zɛi̯/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: elmondta
-        quality: 2
     en:
       definitions:
       - text: singular past indicative of zeggen
@@ -1012,10 +314,6 @@
   ipa: /ˈzeː.kər/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: biztos
-        quality: 2
     en:
       definitions:
       - text: certain, sure
@@ -1033,10 +331,6 @@
   ipa: /ˈzɛl.də(n)/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: ritkán
-        quality: 2
     en:
       definitions:
       - text: rarely, seldom
@@ -1046,10 +340,6 @@
   ipa: /zɛlf/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: maga
-        quality: 2
     en:
       definitions:
       - text: 'oneself, referring to the subject of a sentence: myself, yourself, itself, ourselves, themselves etc.'
@@ -1091,10 +381,6 @@
   ipa: /zɛlfs/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: fordítás
-        quality: 2
     en:
       definitions:
       - text: even (extreme example)
@@ -1126,10 +412,6 @@
   ipa: /ˈzɛs.də/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: sűrű
-        quality: 2
     en:
       definitions:
       - text: sixth
@@ -1139,10 +421,6 @@
   ipa: /zɛt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: merre
-        quality: 2
     en:
       definitions:
       - text: shove, push
@@ -1178,10 +456,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: sorában
-        quality: 2
     en:
       definitions:
       - text: plural of zetel
@@ -1191,10 +465,6 @@
   ipa: /ˈzeː.və(n)/
   pos: num
   translations:
-    hu:
-      definitions:
-      - text: hét
-        quality: 2
     en:
       definitions:
       - text: seven
@@ -1208,10 +478,6 @@
   ipa: /ˈzeːvəndə/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: szeptemberében
-        quality: 2
     en:
       definitions:
       - text: seventh
@@ -1221,10 +487,6 @@
   ipa: /zɪx/
   pos: pron
   translations:
-    hu:
-      definitions:
-      - text: magukat
-        quality: 2
     en:
       definitions:
       - text: Third person singular and plural reflexive pronoun; himself, herself, itself, themselves, oneself
@@ -1238,10 +500,6 @@
   ipa: /zɪxt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: elégedett
-        quality: 2
     en:
       definitions:
       - text: sight, view, vision
@@ -1253,10 +511,6 @@
   ipa: /ˈzɪxtbaːr/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: látható
-        quality: 2
     en:
       definitions:
       - text: visible
@@ -1275,10 +529,6 @@
   ipa: /zɪxˈzɛlf/
   pos: pron
   translations:
-    hu:
-      definitions:
-      - text: magához
-        quality: 2
     en:
       definitions:
       - text: oneself; himself/herself/themselves
@@ -1300,10 +550,6 @@
   ipa: /ˈzi/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: jóvá
-        quality: 2
     en:
       definitions:
       - text: 'inflection of zien:'
@@ -1317,16 +563,6 @@
       - text: 'inflection of zien:'
         quality: 5
   source: wiktionary-frequency
-- word: zie je
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: Matáv
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zie
 - word: ziedaar
   ipa: ''
   pos: intj
@@ -1344,10 +580,6 @@
   ipa: /zik/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: ill
-        quality: 2
     en:
       definitions:
       - text: sick, ill
@@ -1376,10 +608,6 @@
   ipa: /ˈzi.kə(n).ɦœy̯s/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: hétköznapi
-        quality: 2
     en:
       definitions:
       - text: a hospital, medical care facility
@@ -1391,10 +619,6 @@
   ipa: /ˈziktə/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: kor
-        quality: 2
     en:
       definitions:
       - text: the state of sickness
@@ -1406,10 +630,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: álltak
-        quality: 2
     en:
       definitions:
       - text: plural of ziekte
@@ -1419,10 +639,6 @@
   ipa: /zil/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: lélek
-        quality: 2
     en:
       definitions:
       - text: soul (animate principle in non-materialist anthropologies)
@@ -1434,10 +650,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: népet
-        quality: 2
     en:
       definitions:
       - text: plural of ziel
@@ -1462,10 +674,6 @@
   ipa: /zin/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: látni
-        quality: 2
     en:
       definitions:
       - text: to see
@@ -1484,10 +692,6 @@
   ipa: /ˌziˈɣøː.nər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: hőst
-        quality: 2
     en:
       definitions:
       - text: Gypsy, member of the Roma
@@ -1499,75 +703,11 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: figyel
-        quality: 2
     en:
       definitions:
       - text: plural of zigeuner
         quality: 5
   source: wiktionary-frequency
-- word: zij zagen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: megtalálja
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zagen
-- word: zij zien
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: színész
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zien
-- word: zij zijn
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: féle
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zijn
-- word: zij zitten
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: funkcióval
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zitten
-- word: zij zouden zijn
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: lennének
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zouden
-- word: zij zullen zijn
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: lesznek
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zullen
 - word: zijdepapier
   ipa: ''
   pos: ''
@@ -1581,10 +721,6 @@
   ipa: /zɛi̯n/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: vagyok
-        quality: 2
     en:
       definitions:
       - text: to be, to exist
@@ -1600,24 +736,10 @@
       - text: 'Note: The perfect tense of most other verbs is formed using hebben.'
         quality: 5
   source: wiktionary-frequency
-- word: zijn zichtbaar
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: gondolják
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zichtbaar
 - word: zilver
   ipa: /ˈzɪl.vər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: írva
-        quality: 2
     en:
       definitions:
       - text: silver
@@ -1629,10 +751,6 @@
   ipa: /zɪn/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: értelemben
-        quality: 2
     en:
       definitions:
       - text: meaning, significance
@@ -1650,10 +768,6 @@
   ipa: /ˈzɪ.ŋə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: semmire
-        quality: 2
     en:
       definitions:
       - text: to sing
@@ -1675,10 +789,6 @@
   ipa: /ˈzɪn.loːs/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: melyből
-        quality: 2
     en:
       definitions:
       - text: pointless, senseless
@@ -1698,10 +808,6 @@
   ipa: ''
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: próbálják
-        quality: 2
     en:
       definitions:
       - text: 'inflection of vastzitten:'
@@ -1718,10 +824,6 @@
   ipa: /ˈzɪ.tənt/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: korom
-        quality: 2
     en:
       definitions:
       - text: seated, sitting
@@ -1737,10 +839,6 @@
   ipa: /zoː/
   pos: adv
   translations:
-    hu:
-      definitions:
-      - text: olyan
-        quality: 2
     en:
       definitions:
       - text: so, thus, like that/this
@@ -1758,10 +856,6 @@
   ipa: /zoːˈdraː/
   pos: conj
   translations:
-    hu:
-      definitions:
-      - text: amint
-        quality: 2
     en:
       definitions:
       - text: as soon as
@@ -1771,10 +865,6 @@
   ipa: /ˈzu.kə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: keres
-        quality: 2
     en:
       definitions:
       - text: to search
@@ -1782,24 +872,10 @@
       - text: to look for, to seek
         quality: 5
   source: wiktionary-frequency
-- word: zoeken naar
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: szélesebb
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zoeken
 - word: zoekmachine
   ipa: /ˈzukmaːˌʃinə/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: neves
-        quality: 2
     en:
       definitions:
       - text: search engine (application that searches for, and retrieves, data based on some criteria)
@@ -1819,10 +895,6 @@
   ipa: /zukt/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: tartalmáért
-        quality: 2
     en:
       definitions:
       - text: 'inflection of zoeken:'
@@ -1847,10 +919,6 @@
   ipa: /ˌzoː.ɣəˈnaːmt/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: első
-        quality: 2
     en:
       definitions:
       - text: so-called (having such a name, being called such)
@@ -1862,10 +930,6 @@
   ipa: /ˈzoːmər/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: nyári
-        quality: 2
     en:
       definitions:
       - text: summer
@@ -1883,10 +947,6 @@
   ipa: /ˈzɔn.daːr/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: közre
-        quality: 2
     en:
       definitions:
       - text: sinner
@@ -1896,10 +956,6 @@
   ipa: /ˈzɔndɑx/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: vasárnap
-        quality: 2
     en:
       definitions:
       - text: Sunday
@@ -1909,10 +965,6 @@
   ipa: /ˈzɔn.də/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: célú
-        quality: 2
     en:
       definitions:
       - text: sin (offence against moral and/or divine law)
@@ -1930,10 +982,6 @@
   ipa: /ˈzɔn.dər/
   pos: prep
   translations:
-    hu:
-      definitions:
-      - text: nélkül
-        quality: 2
     en:
       definitions:
       - text: without
@@ -1960,10 +1008,6 @@
   ipa: ''
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: hónapra
-        quality: 2
     en:
       definitions:
       - text: plural of zone
@@ -1975,10 +1019,6 @@
   ipa: /ˈzɔ.nəx/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: napos
-        quality: 2
     en:
       definitions:
       - text: sunny
@@ -2010,10 +1050,6 @@
   ipa: /zoːn/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: fia
-        quality: 2
     en:
       definitions:
       - text: son
@@ -2032,10 +1068,6 @@
   ipa: /zɔrx/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: gond
-        quality: 2
     en:
       definitions:
       - text: care
@@ -2058,74 +1090,10 @@
       - text: emlős
         quality: 3
   source: storia
-- word: zorgt voor
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: fejlesztési
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zorgt
-- word: Zou ik vragen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: jöhetett
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zou
-- word: zou kosten
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: nőket
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zou
-- word: zou moeten
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: kellene
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zou
-- word: zou worden
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: munkanélküliek
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zou
-- word: zou zijn
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: volna
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zou
 - word: zout
   ipa: /zɑu̯t/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: szembe
-        quality: 2
     en:
       definitions:
       - text: salt
@@ -2143,10 +1111,6 @@
   ipa: /zoːˈveːl/
   pos: det
   translations:
-    hu:
-      definitions:
-      - text: annyit
-        quality: 2
     en:
       definitions:
       - text: so many, so much
@@ -2154,24 +1118,10 @@
       - text: that many, that much
         quality: 5
   source: wiktionary-frequency
-- word: zoveel als
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: emberekkel
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zoveel
 - word: zuiden
   ipa: /ˈzœy̯.də(n)/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: változat
-        quality: 2
     en:
       definitions:
       - text: south
@@ -2280,24 +1230,10 @@
       - text: clarity
         quality: 5
   source: kattenoog 2
-- word: zulke dingen
-  ipa: ''
-  pos: ''
-  translations:
-    hu:
-      definitions:
-      - text: mobiltelefon
-        quality: 2
-  source: wiktionary-frequency
-  expression_of: zulke
 - word: zullen
   ipa: /ˈzʏ.lə(n)/
   pos: verb
   translations:
-    hu:
-      definitions:
-      - text: fognak
-        quality: 2
     en:
       definitions:
       - text: used to form the future tense of a verb, together with an infinitive; will, going to
@@ -2344,10 +1280,6 @@
   ipa: /zʋɑk/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: gyenge
-        quality: 2
     en:
       definitions:
       - text: weak
@@ -2363,10 +1295,6 @@
   ipa: ''
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: hatások
-        quality: 2
     en:
       definitions:
       - text: comparative degree of zwak
@@ -2410,10 +1338,6 @@
   ipa: /ˈzʋɑ.ŋər/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: zárja
-        quality: 2
     en:
       definitions:
       - text: pregnant
@@ -2425,10 +1349,6 @@
   ipa: /ˈzʋɑ.ŋərˌsxɑp/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: származnak
-        quality: 2
     en:
       definitions:
       - text: pregnancy
@@ -2438,10 +1358,6 @@
   ipa: /zʋɑrt/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: fekete
-        quality: 2
     en:
       definitions:
       - text: black
@@ -2473,10 +1389,6 @@
   ipa: /zʋeːts/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: műve
-        quality: 2
     en:
       definitions:
       - text: Swedish
@@ -2548,10 +1460,6 @@
   ipa: /ˈzʋɛm.bɑt/
   pos: noun
   translations:
-    hu:
-      definitions:
-      - text: tél
-        quality: 2
     en:
       definitions:
       - text: swimming pool
@@ -2617,10 +1525,6 @@
   ipa: /ˈzʋɪt.sərs/
   pos: adj
   translations:
-    hu:
-      definitions:
-      - text: zajló
-        quality: 2
     en:
       definitions:
       - text: Swiss
