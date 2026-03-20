@@ -1,8 +1,8 @@
 """
-Import new words into the structured YAML dictionary.
+Import new words into the structured JSON dictionary.
 
 - Parses plain-text word files (word - translation format)
-- Merges new entries into existing dictionary/<lang>/*.yaml files
+- Merges new entries into existing dictionary/<lang>/*.json files
 - Skips words that already exist in the dictionary
 - Preserves all manual edits
 
@@ -12,6 +12,7 @@ Usage:
     python src/migrate.py --lang en words/file  # import into English dictionary
 """
 
+import json
 import os
 import re
 import sys
@@ -178,30 +179,24 @@ def letter_for_entry(entry):
     return first_letter(entry['word'])
 
 
-def save_yaml(entries, filepath):
-    """Write entries to a YAML file."""
+def save_dict(entries, filepath):
+    """Write entries to a JSON dictionary file."""
     with open(filepath, 'w', encoding='utf-8') as f:
-        yaml.dump(
-            entries, f,
-            allow_unicode=True,
-            default_flow_style=False,
-            sort_keys=False,
-            width=120,
-        )
+        json.dump(entries, f, ensure_ascii=False, indent=None)
 
 
 def load_existing_dictionary(dict_dir):
-    """Load all existing YAML dictionary files into a dict keyed by letter."""
+    """Load all existing JSON dictionary files into a dict keyed by letter."""
     by_letter = {}
     if not os.path.exists(dict_dir):
         return by_letter
     for filename in os.listdir(dict_dir):
-        if not filename.endswith('.yaml') or filename == 'meta.yaml':
+        if not filename.endswith('.json'):
             continue
-        letter = filename.replace('.yaml', '')
+        letter = filename.replace('.json', '')
         filepath = os.path.join(dict_dir, filename)
         with open(filepath, 'r', encoding='utf-8') as f:
-            entries = yaml.safe_load(f)
+            entries = json.load(f)
         if entries:
             by_letter[letter] = entries
     return by_letter
@@ -294,8 +289,8 @@ def migrate(files=None, lang='nl', target_lang='hu'):
     for letter in sorted(updated_letters):
         entries = by_letter[letter]
         entries.sort(key=lambda e: e['word'].lower())
-        save_yaml(entries, os.path.join(dict_dir, f'{letter}.yaml'))
-        print(f'  Updated {letter}.yaml: {len(entries)} entries')
+        save_dict(entries, os.path.join(dict_dir, f'{letter}.json'))
+        print(f'  Updated {letter}.json: {len(entries)} entries')
 
     # Write meta.yaml if it doesn't exist
     meta_path = os.path.join(dict_dir, 'meta.yaml')

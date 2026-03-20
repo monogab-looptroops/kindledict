@@ -6,7 +6,6 @@ Each new entry gets IPA, POS, and English definitions (quality 5).
 
 import os
 import json
-import yaml
 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DICT_DIR = os.path.join(PROJECT_ROOT, 'dictionary', 'nl')
@@ -17,11 +16,11 @@ def load_existing_words():
     """Load all existing words from the dictionary."""
     words = set()
     for filename in os.listdir(DICT_DIR):
-        if not filename.endswith('.yaml') or filename == 'meta.yaml':
+        if not filename.endswith('.json'):
             continue
         filepath = os.path.join(DICT_DIR, filename)
         with open(filepath, 'r', encoding='utf-8') as f:
-            entries = yaml.safe_load(f) or []
+            entries = json.load(f) or []
         for e in entries:
             words.add(e['word'].lower())
     return words
@@ -121,22 +120,21 @@ def main():
     total_new = sum(len(v) for v in by_letter.values())
     print(f'Skipped {skipped} already existing, adding {total_new} new entries')
 
-    # Merge into existing YAML files
+    # Merge into existing JSON files
     for letter, new_entries in sorted(by_letter.items()):
-        filename = f'{letter}.yaml'
+        filename = f'{letter}.json'
         filepath = os.path.join(DICT_DIR, filename)
 
         if os.path.exists(filepath):
             with open(filepath, 'r', encoding='utf-8') as f:
-                entries = yaml.safe_load(f) or []
+                entries = json.load(f) or []
         else:
             entries = []
 
         entries.extend(new_entries)
 
         with open(filepath, 'w', encoding='utf-8') as f:
-            yaml.dump(entries, f, allow_unicode=True, default_flow_style=False,
-                      sort_keys=False, width=120)
+            json.dump(entries, f, ensure_ascii=False)
 
         print(f'  {filename}: added {len(new_entries)} new entries ({len(entries)} total)')
 

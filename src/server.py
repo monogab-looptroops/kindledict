@@ -2,14 +2,15 @@
 Web server for the multilingual dictionary.
 
 Provides a UI for searching, browsing, and adding words across all language dictionaries.
+Loads YAML files lazily on first access for fast startup.
 
 Usage:
     cd src && ../venv/bin/python server.py
 """
 
 import os
+import json
 import tempfile
-import yaml
 from flask import Flask, jsonify, render_template, request, send_file
 
 from migrate import (
@@ -18,7 +19,7 @@ from migrate import (
     find_key_word,
     first_letter,
     letter_for_entry,
-    save_yaml,
+    save_dict,
 )
 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -26,39 +27,71 @@ DICT_DIR = os.path.join(PROJECT_ROOT, 'dictionary')
 
 app = Flask(__name__)
 
-# In-memory: { 'nl': { 'a': [entries...], ... }, 'en': { ... } }
-dictionaries = {}
+# Lazy cache: { 'nl': { 'a': [entries...], ... }, 'en': { ... } }
+_cache = {}
+# Track which (lang, letter) pairs are loaded
+_loaded = set()
 
 
-def load_dictionaries():
-    """Load all language dictionaries into memory."""
-    global dictionaries
-    dictionaries = {}
-    for lang in os.listdir(DICT_DIR):
-        lang_dir = os.path.join(DICT_DIR, lang)
-        if not os.path.isdir(lang_dir):
-            continue
-        dictionaries[lang] = {}
-        for filename in os.listdir(lang_dir):
-            if not filename.endswith('.yaml') or filename == 'meta.yaml':
-                continue
-            letter = filename.replace('.yaml', '')
-            filepath = os.path.join(lang_dir, filename)
-            with open(filepath, 'r', encoding='utf-8') as f:
-                entries = yaml.safe_load(f)
-            if entries:
-                dictionaries[lang][letter] = entries
+def discover_languages():
+    """Find all language directories."""
+    langs = []
+    for name in os.listdir(DICT_DIR):
+        if os.path.isdir(os.path.join(DICT_DIR, name)):
+            langs.append(name)
+    return langs
+
+
+def discover_letters(lang):
+    """Find all letter JSON files for a language."""
+    lang_dir = os.path.join(DICT_DIR, lang)
+    letters = []
+    for filename in os.listdir(lang_dir):
+        if filename.endswith('.json'):
+            letters.append(filename.replace('.json', ''))
+    return letters
+
+
+def get_entries(lang, letter):
+    """Get entries for a language+letter, loading from disk if needed."""
+    key = (lang, letter)
+    if key not in _loaded:
+        if lang not in _cache:
+            _cache[lang] = {}
+        json_path = os.path.join(DICT_DIR, lang, f'{letter}.json')
+        if os.path.exists(json_path):
+            with open(json_path, 'r', encoding='utf-8') as f:
+                entries = json.load(f)
+            _cache[lang][letter] = entries if entries else []
+        else:
+            _cache[lang][letter] = []
+        _loaded.add(key)
+    return _cache.get(lang, {}).get(letter, [])
+
+
+def get_all_entries(lang):
+    """Get all entries for a language, loading any unloaded letters."""
+    for letter in discover_letters(lang):
+        get_entries(lang, letter)
+    return _cache.get(lang, {})
+
+
+def invalidate(lang, letter):
+    """Remove a cached letter so it reloads from disk next time."""
+    _loaded.discard((lang, letter))
+    if lang in _cache:
+        _cache[lang].pop(letter, None)
 
 
 def get_stats():
     """Count total words, expressions, and language coverage per dictionary."""
     result = {}
-    for lang, by_letter in dictionaries.items():
+    for lang in discover_languages():
         total = 0
         expressions = 0
         trans_langs = {}
-        for entries in by_letter.values():
-            for entry in entries:
+        for letter in discover_letters(lang):
+            for entry in get_entries(lang, letter):
                 total += 1
                 if 'expression_of' in entry:
                     expressions += 1
@@ -75,17 +108,20 @@ def get_stats():
 
 def get_word_index(lang):
     """Build a set of existing words for a language dictionary."""
-    by_letter = dictionaries.get(lang, {})
-    return {entry['word'].lower() for entries in by_letter.values() for entry in entries}
+    words = set()
+    for letter in discover_letters(lang):
+        for entry in get_entries(lang, letter):
+            words.add(entry['word'].lower())
+    return words
 
 
 def save_letter(lang, letter):
     """Write a single letter file back to disk."""
-    entries = dictionaries.get(lang, {}).get(letter, [])
+    entries = _cache.get(lang, {}).get(letter, [])
     entries.sort(key=lambda e: e['word'].lower())
     lang_dir = os.path.join(DICT_DIR, lang)
     os.makedirs(lang_dir, exist_ok=True)
-    save_yaml(entries, os.path.join(lang_dir, f'{letter}.yaml'))
+    save_dict(entries, os.path.join(lang_dir, f'{letter}.json'))
 
 
 # --- Routes ---
@@ -110,11 +146,20 @@ def search():
     results = []
     seen = set()
 
-    langs_to_search = [lang] if lang and lang in dictionaries else list(dictionaries.keys())
+    langs_to_search = [lang] if lang and lang in discover_languages() else discover_languages()
+
+    # Determine which letters to search based on query
+    # For short queries, search only matching letter files first
+    query_letter = first_letter(query) if query else None
 
     for search_lang in langs_to_search:
-        for entries in dictionaries[search_lang].values():
-            for entry in entries:
+        letters = discover_letters(search_lang)
+        # Search the matching letter first for faster results
+        if query_letter and query_letter in letters:
+            letters = [query_letter] + [l for l in letters if l != query_letter]
+
+        for letter in letters:
+            for entry in get_entries(search_lang, letter):
                 entry_id = (search_lang, id(entry))
                 if entry_id in seen:
                     continue
@@ -141,7 +186,16 @@ def search():
         if len(results) >= 50:
             break
 
-    results.sort(key=lambda e: e['word'].lower())
+    # Sort: exact match first, then starts-with, then contains
+    def sort_key(e):
+        w = e['word'].lower()
+        if w == query:
+            return (0, w)
+        elif w.startswith(query):
+            return (1, w)
+        else:
+            return (2, w)
+    results.sort(key=sort_key)
     return jsonify(results)
 
 
@@ -169,32 +223,69 @@ def import_words():
         return jsonify({'added': 0, 'skipped': 0, 'message': 'No valid words found in input.'})
 
     existing_words = get_word_index(lang)
-    if lang not in dictionaries:
-        dictionaries[lang] = {}
+    if lang not in _cache:
+        _cache[lang] = {}
 
     added = 0
+    merged = 0
     skipped = 0
     updated_letters = set()
 
+    # Build word->entry index for merging
+    word_to_entry = {}
+    for letter in discover_letters(lang):
+        for entry in get_entries(lang, letter):
+            word_to_entry[entry['word'].lower()] = entry
+
     for entry in new_entries:
-        if entry['word'].lower() in existing_words:
-            skipped += 1
-            continue
-        letter = letter_for_entry(entry)
-        if letter not in dictionaries[lang]:
-            dictionaries[lang][letter] = []
-        dictionaries[lang][letter].append(entry)
-        existing_words.add(entry['word'].lower())
-        updated_letters.add(letter)
-        added += 1
+        word_key = entry['word'].lower()
+        if word_key in existing_words:
+            # Try to merge translations
+            existing_entry = word_to_entry.get(word_key)
+            if existing_entry:
+                changed = False
+                for lang_code, trans_data in entry.get('translations', {}).items():
+                    if lang_code not in existing_entry.get('translations', {}):
+                        if 'translations' not in existing_entry:
+                            existing_entry['translations'] = {}
+                        existing_entry['translations'][lang_code] = trans_data
+                        changed = True
+                if changed:
+                    merged += 1
+                    letter = letter_for_entry(entry)
+                    updated_letters.add(letter)
+                else:
+                    skipped += 1
+            else:
+                skipped += 1
+        else:
+            letter = letter_for_entry(entry)
+            if letter not in _cache[lang]:
+                _cache[lang][letter] = []
+                _loaded.add((lang, letter))
+            _cache[lang][letter].append(entry)
+            word_to_entry[word_key] = entry
+            existing_words.add(word_key)
+            updated_letters.add(letter)
+            added += 1
 
     for letter in updated_letters:
         save_letter(lang, letter)
 
+    parts = []
+    if added:
+        parts.append(f'Added {added} new words')
+    if merged:
+        parts.append(f'merged {merged} translations')
+    if skipped:
+        parts.append(f'skipped {skipped}')
+    message = f'{", ".join(parts)} in {lang} dictionary.' if parts else 'No changes.'
+
     return jsonify({
         'added': added,
+        'merged': merged,
         'skipped': skipped,
-        'message': f'Added {added} new words to {lang} dictionary, skipped {skipped} duplicates.',
+        'message': message,
     })
 
 
@@ -203,7 +294,6 @@ def download():
     lang = request.args.get('lang', 'nl')
     mobi_path = os.path.join(PROJECT_ROOT, f'dict-{lang}.mobi')
     if not os.path.exists(mobi_path):
-        # Fallback to old name
         mobi_path = os.path.join(PROJECT_ROOT, 'dict.mobi')
     if os.path.exists(mobi_path):
         return send_file(mobi_path, as_attachment=True, download_name=f'{lang}-dictionary.mobi')
@@ -212,14 +302,13 @@ def download():
 
 @app.route('/api/languages')
 def languages():
-    return jsonify(list(dictionaries.keys()))
+    return jsonify(discover_languages())
 
 
 # --- Start ---
 
 if __name__ == '__main__':
-    load_dictionaries()
-    stats_data = get_stats()
-    for lang, s in stats_data.items():
-        print(f'  {lang}: {s["total"]} entries ({s["words"]} words, {s["expressions"]} expressions)')
+    langs = discover_languages()
+    print(f'Found {len(langs)} language(s): {", ".join(langs)}')
+    print(f'Lazy loading enabled — YAML files loaded on first access')
     app.run(debug=True, port=5333)

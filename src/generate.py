@@ -1,16 +1,16 @@
 """
-Generate Kindle dictionary HTML from the multilingual YAML dictionary files.
+Generate Kindle dictionary HTML from the multilingual JSON dictionary files.
 
-Reads dictionary/<lang>/*.yaml and produces content_gen.html using the Jinja2 template.
+Reads dictionary/<lang>/*.json and produces content_gen.html using the Jinja2 template.
 
 Usage:
     cd src && ../venv/bin/python generate.py          # generate Dutch dictionary
     cd src && ../venv/bin/python generate.py --lang en # generate English dictionary
 """
 
+import json
 import os
 import sys
-import yaml
 import jinja2
 
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -22,15 +22,15 @@ LANG_ORDER = ['hu', 'en', 'es', 'de', 'fr', 'nl']
 
 
 def load_dictionary(lang):
-    """Load all YAML dictionary files for a language and return a flat sorted list."""
+    """Load all JSON dictionary files for a language and return a flat sorted list."""
     dict_dir = os.path.join(PROJECT_ROOT, 'dictionary', lang)
     all_entries = []
     for filename in sorted(os.listdir(dict_dir)):
-        if not filename.endswith('.yaml') or filename == 'meta.yaml':
+        if not filename.endswith('.json'):
             continue
         filepath = os.path.join(dict_dir, filename)
         with open(filepath, 'r', encoding='utf-8') as f:
-            entries = yaml.safe_load(f)
+            entries = json.load(f)
         if entries:
             all_entries.extend(entries)
     all_entries.sort(key=lambda e: e['word'].lower())

@@ -80,6 +80,11 @@
     .example { margin: 3px 0 3px 20px; font-size: 0.9rem; color: #666; font-style: italic; }
     .result-source { font-size: 0.75rem; color: #aaa; margin-top: 4px; margin-left: 12px; }
 
+    /* Spinner */
+    .spinner { display: inline-block; width: 20px; height: 20px; border: 2px solid #ddd; border-top-color: #555; border-radius: 50%; animation: spin 0.6s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .results.loading { display: flex; align-items: center; justify-content: center; gap: 10px; color: #999; }
+
     /* Add words */
     .add-section h2 { font-size: 1.1rem; margin-bottom: 12px; font-weight: 600; }
     .add-row { display: flex; gap: 8px; align-items: center; margin-bottom: 8px; font-size: 0.9rem; flex-wrap: wrap; }
@@ -221,6 +226,8 @@ bekommeren - aggódni
       resultsDiv.innerHTML = 'Type a word to search';
       return;
     }
+    resultsDiv.className = 'results loading';
+    resultsDiv.innerHTML = '<span class="spinner"></span> Searching...';
     let url = `/api/search?q=${encodeURIComponent(query)}`;
     if (activeFilter) url += `&lang=${activeFilter}`;
     const res = await fetch(url);

@@ -128,7 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Build artifacts (generated from dictionary/*.yaml)
+# Old YAML dictionary files (replaced by JSON)
+dictionary/**/*.yaml
+!dictionary/**/meta.yaml
+
+# Build artifacts
 content_gen.html
 content_gen_*.html
 content.html
