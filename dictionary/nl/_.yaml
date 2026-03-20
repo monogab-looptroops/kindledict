@@ -1,0 +1,77 @@
+- word: '010'
+  ipa: /nʏlˈtin/
+  pos: name
+  translations:
+    en:
+      definitions:
+      - text: synonym of Rotterdam
+        quality: 5
+  source: wiktionary
+- word: '020'
+  ipa: /nʏlˈtʋɪn.təx/
+  pos: name
+  translations:
+    en:
+      definitions:
+      - text: synonym of Amsterdam
+        quality: 5
+  source: wiktionary
+- word: '112'
+  ipa: /eːn.eːnˈtʋeː/
+  pos: name
+  translations:
+    en:
+      definitions:
+      - text: 112, the pan-European emergency phone number
+        quality: 5
+  source: wiktionary
+- word: ‚ ’
+  ipa: ''
+  pos: punct
+  translations:
+    en:
+      definitions:
+      - text: encloses an embedded (inner) quotation
+        quality: 5
+  source: wiktionary
+- word: „ ”
+  ipa: ''
+  pos: punct
+  translations:
+    en:
+      definitions:
+      - text: Encloses a quotation.
+        quality: 5
+  source: wiktionary
+- word: ◌̀
+  ipa: ''
+  pos: character
+  translations:
+    en:
+      definitions:
+      - text: A diacritical mark of the Latin script, called accent grave (“grave accent”) in Dutch, and found on À/à and
+          È/è.
+        quality: 5
+  source: wiktionary
+- word: ◌́
+  ipa: ''
+  pos: character
+  translations:
+    en:
+      definitions:
+      - text: A diacritical mark of the Latin script, called accent aigu (“acute accent”) in Dutch, and found on Á/á, É/é,
+          Í/í, Ó/ó, Ú/ú, Ý/ý and ÍJ́/íj́.
+        quality: 5
+  source: wiktionary
+- word: ◌̈
+  ipa: ''
+  pos: character
+  translations:
+    en:
+      definitions:
+      - text: A diacritical mark of the Latin script, called trema (“diaeresis”) in Dutch, and found on Ä/ä, Ë/ë, Ï/ï, Ö/ö
+          and Ü/ü.
+        quality: 5
+      - text: A diacritical mark of the Latin script, called umlaut (“umlaut”) in Dutch, and found on Ä/ä, Ö/ö and Ü/ü.
+        quality: 5
+  source: wiktionary

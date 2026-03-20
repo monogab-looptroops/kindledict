@@ -1,0 +1,18 @@
+- word: één
+  ipa: /eːn/
+  pos: num
+  translations:
+    en:
+      definitions:
+      - text: alternative form of een (“one”)
+        quality: 5
+  source: wiktionary
+- word: één-op-één
+  ipa: ''
+  pos: adv
+  translations:
+    en:
+      definitions:
+      - text: alternative form of een-op-een
+        quality: 5
+  source: wiktionary

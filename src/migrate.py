@@ -208,11 +208,11 @@ def load_existing_dictionary(dict_dir):
 
 
 def build_word_index(by_letter):
-    """Build a set of existing words (lowercased) for duplicate detection."""
-    existing = set()
+    """Build a dict of existing words (lowercased) -> entry for merge support."""
+    existing = {}
     for entries in by_letter.values():
         for entry in entries:
-            existing.add(entry['word'].lower())
+            existing[entry['word'].lower()] = entry
     return existing
 
 
@@ -240,38 +240,57 @@ def migrate(files=None, lang='nl', target_lang='hu'):
 
     # Parse new words
     new_entries = []
+    merged = 0
     skipped = 0
     for filepath in file_list:
         source_name = os.path.basename(filepath)
         entries = parse_file(filepath, source_name, target_lang=target_lang)
         file_new = 0
-        file_skipped = 0
+        file_merged = 0
         for entry in entries:
-            if entry['word'].lower() in existing_words:
-                file_skipped += 1
-                skipped += 1
+            word_key = entry['word'].lower()
+            if word_key in existing_words:
+                # Word exists — merge new translations into existing entry
+                existing_entry = existing_words[word_key]
+                new_translations = entry.get('translations', {})
+                changed = False
+                for lang_code, trans_data in new_translations.items():
+                    if lang_code not in existing_entry.get('translations', {}):
+                        if 'translations' not in existing_entry:
+                            existing_entry['translations'] = {}
+                        existing_entry['translations'][lang_code] = trans_data
+                        changed = True
+                if changed:
+                    file_merged += 1
+                    merged += 1
+                else:
+                    skipped += 1
             else:
                 new_entries.append(entry)
-                existing_words.add(entry['word'].lower())
+                existing_words[entry['word'].lower()] = entry
                 file_new += 1
         status = f'{file_new} new'
-        if file_skipped:
-            status += f', {file_skipped} skipped (duplicates)'
+        if file_merged:
+            status += f', {file_merged} merged'
+        if skipped:
+            status += f', {skipped} skipped (already has translation)'
         print(f'  {source_name}: {status}')
 
-    if not new_entries:
-        print(f'\nNo new words to add. ({skipped} duplicates skipped)')
+    if not new_entries and not merged:
+        print(f'\nNo changes. ({skipped} already had translations)')
         return
 
-    # Merge new entries into existing dictionary
+    # Add new entries into dictionary
     for entry in new_entries:
         letter = letter_for_entry(entry)
         if letter not in by_letter:
             by_letter[letter] = []
         by_letter[letter].append(entry)
 
-    # Sort and write updated files
+    # Sort and write updated files (both new and merged entries need saving)
     updated_letters = {letter_for_entry(e) for e in new_entries}
+    if merged:
+        updated_letters = set(by_letter.keys())
     for letter in sorted(updated_letters):
         entries = by_letter[letter]
         entries.sort(key=lambda e: e['word'].lower())
@@ -291,7 +310,7 @@ def migrate(files=None, lang='nl', target_lang='hu'):
             yaml.dump(meta, f, allow_unicode=True, default_flow_style=False, sort_keys=False)
 
     total = sum(len(entries) for entries in by_letter.values())
-    print(f'\nDone. Added {len(new_entries)} new words, skipped {skipped} duplicates.')
+    print(f'\nDone. Added {len(new_entries)} new, merged {merged} existing, skipped {skipped}.')
     print(f'{lang} dictionary total: {total} words')
 
 
