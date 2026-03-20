@@ -193,9 +193,14 @@ bekommeren - aggódni
     for (const [lang, s] of Object.entries(data)) {
       const label = LANG_LABELS[lang] || lang;
       const active = activeFilter === lang ? 'active' : '';
+      const tl = s.translation_languages || {};
+      const tlParts = Object.entries(tl)
+        .sort((a, b) => b[1] - a[1])
+        .map(([l, c]) => `${(LANG_LABELS[l] || l).split(' ').pop()}: ${c.toLocaleString()}`)
+        .join(', ');
       html += `<div class="stat-lang ${active}" onclick="setFilter('${lang}')">
         ${label}: <span class="count">${s.total.toLocaleString()}</span>
-        <span style="color:#999; font-size:0.8rem">(${s.expressions} expr)</span>
+        <span style="color:#999; font-size:0.8rem">${tlParts ? `(${tlParts})` : ''}</span>
       </div>`;
     }
     bar.innerHTML = html;
