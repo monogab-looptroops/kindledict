@@ -20,9 +20,9 @@ KINDLE_DICT_DIR = '/Volumes/Kindle/documents/dictionaries'
 
 
 @task
-def generate(c, lang='nl'):
-    """Generate HTML files and OPF from dictionary JSON."""
-    c.run(f'venv/bin/python src/generate.py --lang {lang}')
+def generate(c, lang='nl', format='kindle'):
+    """Generate dictionary files. Format: kindle, kobo, stardict, all."""
+    c.run(f'venv/bin/python src/generate.py --lang {lang} --format {format}')
 
 
 @task
@@ -32,14 +32,19 @@ def mobi(c):
     if not os.path.exists(opf):
         print('No dict.opf found — run `invoke generate` first.')
         return
-    c.run(f'"{KINDLEGEN}" {opf} -o dict.mobi')
+    c.run(f'"{KINDLEGEN}" {opf} -o dict.mobi', warn=True)
 
 
 @task
-def build(c, lang='nl'):
-    """Generate HTML + build .mobi (full pipeline)."""
-    generate(c, lang=lang)
-    mobi(c)
+def build(c, lang='nl', format='kindle'):
+    """Generate + build dictionary. Format: kindle, kobo, stardict, all."""
+    if format in ('kindle', 'all'):
+        generate(c, lang=lang, format='kindle')
+        mobi(c)
+    if format in ('kobo', 'all'):
+        generate(c, lang=lang, format='kobo')
+    if format in ('stardict', 'all'):
+        generate(c, lang=lang, format='stardict')
 
 
 @task
@@ -65,7 +70,7 @@ def copy(c):
 @task
 def deploy(c, lang='nl'):
     """Build and copy to Kindle in one step."""
-    build(c, lang=lang)
+    build(c, lang=lang, format='kindle')
     copy(c)
 
 
