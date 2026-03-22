@@ -28,15 +28,25 @@ def strip_accents(s):
 
 
 def is_variant_of(new_word, existing_words):
-    """Check if new_word is a near-duplicate of an existing translation.
+    """Check if new_word is an inflected form of an existing translation.
 
-    Only skips exact matches (case-insensitive). Hungarian possessive and
-    other forms (apám, atyám, suliban) are genuinely useful translations,
-    not just inflections to filter out.
+    Hungarian is agglutinative — suffixes like -t (accusative), -nak/-nek
+    (dative), -ban/-ben (inessive), -k (plural) etc. are appended to the
+    stem. If one word is a prefix of another (min 4 chars), treat the
+    longer one as an inflected variant. This catches császár→császárt,
+    császárnak etc. Rare irregular cases like apa→apám are an acceptable
+    trade-off vs thousands of inflected duplicates.
     """
     new_lower = new_word.lower().strip()
     for existing in existing_words:
-        if new_lower == existing.lower().strip():
+        ex_lower = existing.lower().strip()
+        # Exact match
+        if new_lower == ex_lower:
+            return True
+        # Prefix check: shorter must be at least 4 chars
+        if len(ex_lower) >= 4 and new_lower.startswith(ex_lower):
+            return True
+        if len(new_lower) >= 4 and ex_lower.startswith(new_lower):
             return True
     return False
 

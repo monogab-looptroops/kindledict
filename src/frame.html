@@ -10,17 +10,9 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <style>
-      h5 {
-          font-size: 1em;
-          margin: 0;
-      }
-      dt {
+      .headword {
           font-weight: bold;
-      }
-      dd {
-          margin: 0;
-          padding: 0 0 0.5em 0;
-          display: block;
+          font-size: 1em;
       }
       .ipa {
           color: #666;
@@ -31,6 +23,9 @@
           font-style: italic;
           font-size: 0.85em;
       }
+      .lang-line {
+          margin: 0.2em 0 0 0.3em;
+      }
       .lang {
           font-weight: bold;
           color: #555;
@@ -38,13 +33,11 @@
       }
       .quality {
           color: #999;
-          font-size: 0.7em;
-      }
-      .def {
-          margin-left: 0.5em;
+          font-size: 0.6em;
+          vertical-align: super;
       }
       .example {
-          margin-left: 1em;
+          margin: 0.1em 0 0 1em;
           font-style: italic;
           color: #666;
           font-size: 0.9em;
@@ -54,24 +47,13 @@
   <body>
     <mbp:framset>
       {% for n in words %}
-        <li></li>
         <idx:entry name="default" scriptable="yes" spell="yes">
-            <h5><dt><idx:orth>{{n.word}}</idx:orth></dt></h5>
-            {% if n.ipa %}<span class="ipa">{{n.ipa}}</span> {% endif %}
-            {% if n.pos %}<span class="pos">{{n.pos}}</span>{% endif %}
+            <span class="headword"><idx:orth>{{n.word}}</idx:orth></span>{% if n.ipa %} <span class="ipa">{{n.ipa}}</span>{% endif %}{% if n.pos %} <span class="pos">{{n.pos}}</span>{% endif %}
             {% for lang in n.langs %}
-            <dd>
-              <span class="lang">{{lang.label}}</span>
-              {% for d in lang.definitions %}
-                <span class="def">{{d.text}}</span>
-                <span class="quality">{{"●" * d.quality}}{{"○" * (5 - d.quality)}}</span>
-                {% if d.english_hint %}<span class="def" style="color:#999">({{d.english_hint}})</span>{% endif %}
-                {% if not loop.last %}; {% endif %}
-              {% endfor %}
-              {% for ex in lang.examples %}
-                <div class="example">"{{ex.nl}}" — {{ex.tr}}</div>
-              {% endfor %}
-            </dd>
+            <div class="lang-line"><span class="lang">{{lang.label}}:</span>{% for d in lang.definitions %} {{d.text}}<sup class="quality">{{d.quality}}</sup>{% if d.english_hint %} <span style="color:#999">({{d.english_hint}})</span>{% endif %}{% if not loop.last %},{% endif %}{% endfor %}</div>
+            {% for ex in lang.examples %}
+            <div class="example">"{{ex.nl}}" — {{ex.tr}}</div>
+            {% endfor %}
             {% endfor %}
         </idx:entry>
       <hr/>

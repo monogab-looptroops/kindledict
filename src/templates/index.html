@@ -71,11 +71,7 @@
     .lang-def-text { color: #333; }
     .lang-def-hint { color: #999; font-size: 0.8rem; }
 
-    .quality-dots { display: inline-flex; gap: 2px; margin-left: 4px; }
-    .quality-dot { width: 6px; height: 6px; border-radius: 50%; background: #ddd; display: inline-block; }
-    .quality-dot.filled { background: #4a4; }
-    .quality-dot.filled.low { background: #c93; }
-    .quality-dot.filled.vlow { background: #c55; }
+    .quality-sup { font-size: 0.65em; color: #999; vertical-align: super; margin-left: 1px; }
 
     .example { margin: 3px 0 3px 20px; font-size: 0.9rem; color: #666; font-style: italic; }
     .result-source { font-size: 0.75rem; color: #aaa; margin-top: 4px; margin-left: 12px; }
@@ -284,13 +280,7 @@ bekommeren - aggódni
   }
 
   function renderQuality(q) {
-    let html = '<span class="quality-dots" title="quality: ' + q + '/5">';
-    for (let i = 1; i <= 5; i++) {
-      let cls = 'quality-dot';
-      if (i <= q) { cls += ' filled'; if (q <= 1) cls += ' vlow'; else if (q <= 2) cls += ' low'; }
-      html += `<span class="${cls}"></span>`;
-    }
-    return html + '</span>';
+    return `<sup class="quality-sup" title="quality: ${q}/5">${q}</sup>`;
   }
 
   function esc(str) {
