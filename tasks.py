@@ -87,6 +87,33 @@ def import_hu_opensub(c):
     c.run('venv/bin/python src/import_opensub.py')
 
 
+@task(name='select-words')
+def select_words(c, limit=0, min_freq=0):
+    """List Dutch words needing Hungarian, sorted by frequency."""
+    cmd = 'venv/bin/python src/select_words.py --stats'
+    if limit:
+        cmd += f' --limit {limit}'
+    if min_freq:
+        cmd += f' --min-freq {min_freq}'
+    c.run(cmd)
+
+
+@task(name='deepl-status')
+def deepl_status(c):
+    """Show DeepL API usage."""
+    c.run('venv/bin/python src/translate_deepl.py --status')
+
+
+@task(name='import-hu-deepl')
+def import_hu_deepl(c, limit=1000, min_freq=0):
+    """Select words, translate via DeepL, apply to dictionary."""
+    cmd = f'venv/bin/python src/select_words.py --limit {limit}'
+    if min_freq:
+        cmd += f' --min-freq {min_freq}'
+    cmd += ' | venv/bin/python src/translate_deepl.py | venv/bin/python src/apply_translations.py'
+    c.run(cmd)
+
+
 @task(name='import-hu')
 def import_hu(c):
     """Import Hungarian from all sources (Wiktionary + OpenSubtitles)."""
