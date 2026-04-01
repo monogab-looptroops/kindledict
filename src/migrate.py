@@ -249,12 +249,31 @@ def migrate(files=None, lang='nl', target_lang='hu'):
                 existing_entry = existing_words[word_key]
                 new_translations = entry.get('translations', {})
                 changed = False
+                if 'translations' not in existing_entry:
+                    existing_entry['translations'] = {}
                 for lang_code, trans_data in new_translations.items():
-                    if lang_code not in existing_entry.get('translations', {}):
-                        if 'translations' not in existing_entry:
-                            existing_entry['translations'] = {}
+                    if lang_code not in existing_entry['translations']:
+                        # Language not present yet — add whole block
                         existing_entry['translations'][lang_code] = trans_data
                         changed = True
+                    else:
+                        # Language exists — merge definitions
+                        existing_defs = existing_entry['translations'][lang_code].get('definitions', [])
+                        existing_texts = [d['text'].lower() for d in existing_defs]
+                        for new_def in trans_data.get('definitions', []):
+                            if new_def['text'].lower() in existing_texts:
+                                # Same translation — bump quality +1, max 5
+                                for d in existing_defs:
+                                    if d['text'].lower() == new_def['text'].lower():
+                                        current = d.get('quality', 1)
+                                        if current < 5:
+                                            d['quality'] = current + 1
+                                            changed = True
+                                        break
+                            else:
+                                # Different translation — add as new definition
+                                existing_defs.append(new_def)
+                                changed = True
                 if changed:
                     file_merged += 1
                     merged += 1

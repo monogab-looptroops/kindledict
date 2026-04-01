@@ -1,0 +1,7 @@
+services:
+  web:
+    build: .
+    ports:
+      - "5333:5333"
+    env_file:
+      - .env.docker

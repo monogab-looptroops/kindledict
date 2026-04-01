@@ -63,16 +63,34 @@ def main():
                 continue
 
             entry_trans = entry.get('translations', {})
-            if target_lang in entry_trans:
-                skipped += 1
-                continue
+            new_text = translations[word]
 
-            entry_trans[target_lang] = {
-                'definitions': [{'text': translations[word], 'quality': quality}]
-            }
-            entry['translations'] = entry_trans
-            changed = True
-            applied += 1
+            if target_lang in entry_trans:
+                # Language exists — check definitions
+                existing_defs = entry_trans[target_lang].get('definitions', [])
+                existing_texts = [d['text'].lower() for d in existing_defs]
+                if new_text.lower() in existing_texts:
+                    # Same translation — bump quality +1, max 5
+                    for d in existing_defs:
+                        if d['text'].lower() == new_text.lower():
+                            current = d.get('quality', 1)
+                            if current < 5:
+                                d['quality'] = current + 1
+                                changed = True
+                                applied += 1
+                            break
+                else:
+                    # Different translation — add as new definition
+                    existing_defs.append({'text': new_text, 'quality': quality})
+                    changed = True
+                    applied += 1
+            else:
+                entry_trans[target_lang] = {
+                    'definitions': [{'text': new_text, 'quality': quality}]
+                }
+                entry['translations'] = entry_trans
+                changed = True
+                applied += 1
 
         if changed:
             with open(filepath, 'w', encoding='utf-8') as f:

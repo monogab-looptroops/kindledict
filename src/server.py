@@ -8,6 +8,8 @@ Usage:
     cd src && ../venv/bin/python server.py
 """
 
+import atexit
+import logging
 import os
 import json
 import tempfile
@@ -22,10 +24,21 @@ from migrate import (
     save_dict,
 )
 
+logging.basicConfig(level=logging.INFO)
+
 PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DICT_DIR = os.path.join(PROJECT_ROOT, 'dictionary')
 
 app = Flask(__name__)
+
+# S3 sync (enabled when S3_BUCKET env var is set)
+_s3_sync = None
+if os.environ.get('S3_BUCKET'):
+    from s3_sync import S3Sync
+    _s3_sync = S3Sync(DICT_DIR)
+    _s3_sync.download_all()
+    _s3_sync.start_hourly_check()
+    atexit.register(_s3_sync.stop)
 
 # Lazy cache: { 'nl': { 'a': [entries...], ... }, 'en': { ... } }
 _cache = {}
@@ -116,12 +129,14 @@ def get_word_index(lang):
 
 
 def save_letter(lang, letter):
-    """Write a single letter file back to disk."""
+    """Write a single letter file back to disk and schedule S3 upload."""
     entries = _cache.get(lang, {}).get(letter, [])
     entries.sort(key=lambda e: e['word'].lower())
     lang_dir = os.path.join(DICT_DIR, lang)
     os.makedirs(lang_dir, exist_ok=True)
     save_dict(entries, os.path.join(lang_dir, f'{letter}.json'))
+    if _s3_sync:
+        _s3_sync.mark_dirty(lang, letter)
 
 
 # --- Routes ---
@@ -244,12 +259,31 @@ def import_words():
             existing_entry = word_to_entry.get(word_key)
             if existing_entry:
                 changed = False
+                if 'translations' not in existing_entry:
+                    existing_entry['translations'] = {}
                 for lang_code, trans_data in entry.get('translations', {}).items():
-                    if lang_code not in existing_entry.get('translations', {}):
-                        if 'translations' not in existing_entry:
-                            existing_entry['translations'] = {}
+                    if lang_code not in existing_entry['translations']:
+                        # Language not present yet — add whole block
                         existing_entry['translations'][lang_code] = trans_data
                         changed = True
+                    else:
+                        # Language exists — merge definitions
+                        existing_defs = existing_entry['translations'][lang_code].get('definitions', [])
+                        existing_texts = [d['text'].lower() for d in existing_defs]
+                        for new_def in trans_data.get('definitions', []):
+                            if new_def['text'].lower() in existing_texts:
+                                # Same translation — bump quality +1, max 5
+                                for d in existing_defs:
+                                    if d['text'].lower() == new_def['text'].lower():
+                                        current = d.get('quality', 1)
+                                        if current < 5:
+                                            d['quality'] = current + 1
+                                            changed = True
+                                        break
+                            else:
+                                # Different translation — add as new definition
+                                existing_defs.append(new_def)
+                                changed = True
                 if changed:
                     merged += 1
                     letter = letter_for_entry(entry)
